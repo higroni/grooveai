@@ -1,0 +1,54 @@
+{
+  "module": "legal-parser",
+  "status": "success",
+  "job_id": 6,
+  "output": {
+    "document": {
+      "source_uri": "test://quick_test",
+      "filename": "quick_test.txt",
+      "document_type": "law",
+      "title": null,
+      "language_code": "sr",
+      "metadata": {}
+    },
+    "legal_units": [
+      {
+        "legal_unit_id": "dd977cb4-938e-5cf3-a096-689a57f9ad0f",
+        "parent_legal_unit_id": null,
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": "Predmet",
+        "content_text": "Prava, obaveze i odgovornosti iz radnog odnosa, odnosno po osnovu rada, uredjuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim medjunarodnim konvencijama.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {}
+      },
+      {
+        "legal_unit_id": "a1ccdaa8-f3a8-5a22-8ea6-8bc16974138f",
+        "parent_legal_unit_id": null,
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Odredbe ovog zakona primenjuju se na zaposlene koji rade na teritoriji Republike Srbije.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {}
+      }
+    ],
+    "statistics": {
+      "total_units": 2,
+      "total_articles": 2,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "metadata": {
+    "processing_time_ms": 0.0
+  }
+}

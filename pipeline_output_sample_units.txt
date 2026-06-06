@@ -1,0 +1,195 @@
+================================================================================
+PARSED LEGAL UNITS - SAMPLE (First 20 units)
+================================================================================
+
+Document: radni_odnosi_0001_000001.pdf
+Total Articles: 311
+Total Units: 311
+
+================================================================================
+
+Unit 1: ARTICLE
+Number: 1
+Heading: Predmet
+Path: article:1
+Akoma eId: article_1
+UUID: d0486e26-3e00-55bc-855f-aad71ab90733
+Content: Prava, obaveze i odgovornosti iz radnog odnosa, odnosno po osnovu rada, uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama. Prava, obaveze i odgovornosti i...
+
+--------------------------------------------------------------------------------
+
+Unit 2: ARTICLE
+Number: 2
+Path: article:2
+Akoma eId: article_2
+UUID: f1ba18e8-a915-5998-9e89-2ba31002bff7
+Content: Odredbe ovog zakona primenjuju se na zaposlene koji rade na teritoriji Republike Srbije, kod domaćeg ili stranog pravnog, odnosno fizičkog lica (u daljem tekstu: poslodavac), kao i na zaposlene koji s...
+
+--------------------------------------------------------------------------------
+
+Unit 3: ARTICLE
+Number: 3
+Path: article:3
+Akoma eId: article_3
+UUID: 96b1053c-0844-594a-99ee-d6d928e79f17
+Content: Kolektivnim ugovorom kod poslodavca, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa i međusobni odnosi učesnika kolektivnog ugovora. Pravilnikom o radu, odnosno ugovoro...
+
+--------------------------------------------------------------------------------
+
+Unit 4: ARTICLE
+Number: 4
+Path: article:4
+Akoma eId: article_4
+UUID: 98ee3b17-5241-553f-8a1c-65a4c108fbeb
+Content: Opšti i poseban kolektivni ugovor moraju biti u saglasnosti sa zakonom. Kolektivni ugovor kod poslodavca, pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom, a kod poslodavca iz čl....
+
+--------------------------------------------------------------------------------
+
+Unit 5: ARTICLE
+Number: 5
+Heading: Značenje pojedinih pojmova
+Path: article:5
+Akoma eId: article_5
+UUID: f19a2e75-e1ca-5b5b-8b09-01f7e44ca592
+Content: Zaposleni, u smislu ovog zakona, jeste fizičko lice koje je u radnom odnosu kod poslodavca. Poslodavac, u smislu ovog zakona, jeste domaće, odnosno strano pravno ili fizičko lice koje zapošljava, odno...
+
+--------------------------------------------------------------------------------
+
+Unit 6: ARTICLE
+Number: 6
+Path: article:6
+Akoma eId: article_6
+UUID: 5f27e7b5-f6b5-5a0f-832c-e0d6bad3d140
+Content: Sindikatom, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija zaposlenih u koju se oni dobrovoljno udružuju radi zastupanja, predstavljanja, unapređenja i zaštite svojih...
+
+--------------------------------------------------------------------------------
+
+Unit 7: ARTICLE
+Number: 7
+Path: article:7
+Akoma eId: article_7
+UUID: 2cadf0ce-8fd2-5b6b-abac-4e98e63985ac
+Content: Udruženjem poslodavaca, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija u koju poslodavci dobrovoljno stupaju radi predstavljanja, unapređenja i zaštite svojih poslovn...
+
+--------------------------------------------------------------------------------
+
+Unit 8: ARTICLE
+Number: 8
+Heading: Međusobni odnos zakona, kolektivnog ugovora, pravilnika o radu i ugovora o radu
+Path: article:8
+Akoma eId: article_8
+UUID: 51e2d70d-a94b-58d8-b0e0-3275a39ad6ed
+Content: Kolektivni ugovor i pravilnik o radu (u daljem tekstu: opšti akt) i ugovor o radu ne mogu da sadrže odredbe kojima se zaposlenom daju manja prava ili utvrđuju nepovoljniji uslovi rada od prava i uslov...
+
+--------------------------------------------------------------------------------
+
+Unit 9: ARTICLE
+Number: 9
+Path: article:9
+Akoma eId: article_9
+UUID: ab3b2016-2d93-58ca-8cbe-a537dcd0ad88
+Content: Ako opšti akt i pojedine njegove odredbe utvrđuju nepovoljnije uslove rada od uslova utvrđenih zakonom, primenjuju se odredbe zakona. Pojedine odredbe ugovora o radu kojima su utvrđeni nepovoljniji us...
+
+--------------------------------------------------------------------------------
+
+Unit 10: ARTICLE
+Number: 10
+Path: article:10
+Akoma eId: article_10
+UUID: c82ec28a-747f-57d9-aeaf-c6f1da6cd0a8
+Content: Posebnim kolektivnim ugovorom ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim kolektivnim ugovorom koji obavezuje poslodavce koji su članovi ud...
+
+--------------------------------------------------------------------------------
+
+Unit 11: ARTICLE
+Number: 11
+Path: article:11
+Akoma eId: article_11
+UUID: af2859dd-1fec-55fd-8071-319129b60dcd
+Content: Ništavost odredaba ugovora o radu utvrđuje se pred nadležnim sudom. Pravo da se zahteva utvrđivanje ništavosti ne zastareva....
+
+--------------------------------------------------------------------------------
+
+Unit 12: ARTICLE
+Number: 12
+Heading: Osnovna prava i obaveze
+Path: article:12
+Akoma eId: article_12
+UUID: e81b7b5f-ca20-5f3d-8f15-3aa5604cc7af
+Content: Zaposleni ima pravo na odgovarajuću zaradu, bezbednost i zdravlje na radu, zdravstvenu zaštitu, zaštitu ličnog integriteta, dostojanstvo ličnosti i druga prava u slučaju bolesti, smanjenja ili gubitka...
+
+--------------------------------------------------------------------------------
+
+Unit 13: ARTICLE
+Number: 13
+Path: article:13
+Akoma eId: article_13
+UUID: 4d08dc02-bad9-588a-9bf3-c82c83a05588
+Content: Zaposleni neposredno, odnosno preko svojih predstavnika, imaju pravo na udruživanje, učešće u pregovorima za zaključivanje kolektivnih ugovora, mirno rešavanje kolektivnih i individualnih radnih sporo...
+
+--------------------------------------------------------------------------------
+
+Unit 14: ARTICLE
+Number: 14
+Path: article:14
+Akoma eId: article_14
+UUID: e4d3875e-4706-5391-81b3-57e09d4454e8
+Content: Ugovorom o radu ili odlukom poslodavca može se utvrditi učešće zaposlenog u dobiti ostvarenoj u poslovnoj godini, u skladu sa zakonom i opštim aktom. 2) Obaveze zaposlenih...
+
+--------------------------------------------------------------------------------
+
+Unit 15: ARTICLE
+Number: 15
+Path: article:15
+Akoma eId: article_15
+UUID: a66a86aa-5b77-5498-a213-1ad425d84c87
+Content: Zaposleni je dužan: 1) da savesno i odgovorno obavlja poslove na kojima radi; 2) da poštuje organizaciju rada i poslovanja kod poslodavca, kao i uslove i pravila poslodavca u vezi sa ispunjavanjem ugo...
+
+--------------------------------------------------------------------------------
+
+Unit 16: ARTICLE
+Number: 16
+Path: article:16
+Akoma eId: article_16
+UUID: f7daea30-f3f9-5c05-aa18-dbdf41421d9b
+Content: Poslodavac je dužan da: 1) zaposlenom za obavljeni rad isplati zaradu, u skladu sa zakonom, opštim aktom i ugovorom o radu; 2) zaposlenom obezbedi uslove rada i organizuje rad radi bezbednosti i zašti...
+
+--------------------------------------------------------------------------------
+
+Unit 17: ARTICLE
+Number: 17
+Path: article:17
+Akoma eId: article_17
+UUID: 78810da6-279c-548f-96eb-3a2b22e290fd
+Content: Poslodavac i zaposleni dužni su da se pridržavaju prava i obaveza utvrđenih zakonom, opštim aktom i ugovorom o radu....
+
+--------------------------------------------------------------------------------
+
+Unit 18: ARTICLE
+Number: 18
+Heading: Zabrana diskriminacije
+Path: article:18
+Akoma eId: article_18
+UUID: cad8de9f-0047-597e-9a01-29efe8ba3588
+Content: Zabranjena je neposredna i posredna diskriminacija lica koja traže zaposlenje, kao i zaposlenih, s obzirom na pol, rođenje, jezik, rasu, boju kože, starost, trudnoću, zdravstveno stanje, odnosno inval...
+
+--------------------------------------------------------------------------------
+
+Unit 19: ARTICLE
+Number: 19
+Path: article:19
+Akoma eId: article_19
+UUID: e4c3b643-0ca9-5b50-bdc2-ccdd2837d3b8
+Content: Neposredna diskriminacija, u smislu ovog zakona, jeste svako postupanje uzrokovano nekim od osnova iz člana 18. ovog zakona kojim se lice koje traži zaposlenje, kao i zaposleni, stavlja u nepovoljniji...
+
+--------------------------------------------------------------------------------
+
+Unit 20: ARTICLE
+Number: 21
+Path: article:21
+Akoma eId: article_21
+UUID: 3b12080a-a460-5697-ba59-edf7ccb9df3c
+Content: Zabranjeno je uznemiravanje i seksualno uznemiravanje. Uznemiravanje, u smislu ovog zakona, jeste svako neželjeno ponašanje uzrokovano nekim od osnova iz člana 18. ovog zakona koje ima za cilj ili pre...
+
+--------------------------------------------------------------------------------
+
