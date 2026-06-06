@@ -4,6 +4,13 @@ __pycache__/
 *$py.class
 *.so
 .Python
+
+# Testing
+.pytest_cache/
+htmlcov/
+.coverage
+*.cover
+.hypothesis/
 build/
 develop-eggs/
 dist/
