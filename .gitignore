@@ -11,6 +11,11 @@ htmlcov/
 .coverage
 *.cover
 .hypothesis/
+
+# Test output files
+file_reader_response.json
+file_reader_extracted_text.txt
+test_file_reader_*.py
 build/
 develop-eggs/
 dist/

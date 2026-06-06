@@ -49,7 +49,7 @@ class ConfigLoader:
         with open(config_file, 'r', encoding='utf-8') as f:
             self._config = yaml.safe_load(f)
         
-        print(f"✓ Configuration loaded from: {config_file}")
+        print(f"[OK] Configuration loaded from: {config_file}")
     
     def reload(self):
         """Reload configuration from file."""
