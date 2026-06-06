@@ -1,0 +1,541 @@
+# GROOVE.AI - Master Configuration File
+# All modules read from this single source of truth
+
+# =============================================================================
+# GLOBAL SETTINGS
+# =============================================================================
+global:
+  project_name: "GROOVE.AI"
+  version: "2.0.0"
+  environment: "development"  # development, staging, production
+  debug: true
+  log_level: "INFO"  # DEBUG, INFO, WARNING, ERROR
+
+# =============================================================================
+# DEVELOPMENT SAMPLE FILES
+# =============================================================================
+development:
+  # Sample file for testing during development
+  sample_file: "D:/POSAO/OllamaProjects/GROOVE.AI/DOCUMENTS/DEV/radni_odnosi_0001_000001.pdf"
+  
+  # Auto-reload
+  auto_reload: true
+  
+  # Debug mode
+  debug: true
+  
+  # Test data
+  test_data_dir: "DOCUMENTS/DEV"
+  
+  # Mock services
+  mock_llm: false
+  mock_ner: false
+  
+# =============================================================================
+# DATABASE CONFIGURATION
+# =============================================================================
+database:
+  # Master database URL (can be overridden per module)
+  master_url: "sqlite:///data/databases/grooveai_master.db"
+  
+  # Per-module databases
+  modules:
+    orchestrator: "sqlite:///data/databases/orchestrator.db"
+    file_reader: "sqlite:///data/databases/file_reader.db"
+    text_normalizer: "sqlite:///data/databases/text_normalizer.db"
+    latinizer: "sqlite:///data/databases/latinizer.db"
+    legal_parser: "sqlite:///data/databases/legal_parser.db"
+    legal_unit_extractor: "sqlite:///data/databases/legal_unit_extractor.db"
+    assertion_extractor: "sqlite:///data/databases/assertion_extractor.db"
+    entity_recognizer: "sqlite:///data/databases/entity_recognizer.db"
+    condition_extractor: "sqlite:///data/databases/condition_extractor.db"
+    assertion_classifier: "sqlite:///data/databases/assertion_classifier.db"
+    embedding_generator: "sqlite:///data/databases/embedding_generator.db"
+    vector_store: "sqlite:///data/databases/vector_store.db"
+    keyword_indexer: "sqlite:///data/databases/keyword_indexer.db"
+    hybrid_search: "sqlite:///data/databases/hybrid_search.db"
+    ontology_matcher: "sqlite:///data/databases/ontology_matcher.db"
+    reference_resolver: "sqlite:///data/databases/reference_resolver.db"
+    definition_extractor: "sqlite:///data/databases/definition_extractor.db"
+    candidate_finder: "sqlite:///data/databases/candidate_finder.db"
+    conflict_detector: "sqlite:///data/databases/conflict_detector.db"
+    severity_calculator: "sqlite:///data/databases/severity_calculator.db"
+    recommendation_generator: "sqlite:///data/databases/recommendation_generator.db"
+  
+  # Database settings
+  echo: false  # SQLAlchemy echo
+  pool_size: 5
+  max_overflow: 10
+  pool_timeout: 30
+
+# =============================================================================
+# NETWORK CONFIGURATION (Ports & URLs)
+# =============================================================================
+network:
+  # Orchestrator
+  orchestrator:
+    host: "0.0.0.0"
+    port: 8100
+    url: "http://localhost:8100"
+  
+  # Document Processing Modules (8101-8105)
+  modules:
+    file_reader:
+      host: "0.0.0.0"
+      port: 8101
+      url: "http://localhost:8101"
+    
+    text_normalizer:
+      host: "0.0.0.0"
+      port: 8102
+      url: "http://localhost:8102"
+    
+    latinizer:
+      host: "0.0.0.0"
+      port: 8103
+      url: "http://localhost:8103"
+    
+    legal_parser:
+      host: "0.0.0.0"
+      port: 8104
+      url: "http://localhost:8104"
+    
+    legal_unit_extractor:
+      host: "0.0.0.0"
+      port: 8105
+      url: "http://localhost:8105"
+    
+    # Assertion Processing Modules (8106-8109)
+    assertion_extractor:
+      host: "0.0.0.0"
+      port: 8106
+      url: "http://localhost:8106"
+    
+    entity_recognizer:
+      host: "0.0.0.0"
+      port: 8107
+      url: "http://localhost:8107"
+    
+    condition_extractor:
+      host: "0.0.0.0"
+      port: 8108
+      url: "http://localhost:8108"
+    
+    assertion_classifier:
+      host: "0.0.0.0"
+      port: 8109
+      url: "http://localhost:8109"
+    
+    # Embedding & Search Modules (8110-8113)
+    embedding_generator:
+      host: "0.0.0.0"
+      port: 8110
+      url: "http://localhost:8110"
+    
+    vector_store:
+      host: "0.0.0.0"
+      port: 8111
+      url: "http://localhost:8111"
+    
+    keyword_indexer:
+      host: "0.0.0.0"
+      port: 8112
+      url: "http://localhost:8112"
+    
+    hybrid_search:
+      host: "0.0.0.0"
+      port: 8113
+      url: "http://localhost:8113"
+    
+    # Ontology & Knowledge Modules (8114-8116)
+    ontology_matcher:
+      host: "0.0.0.0"
+      port: 8114
+      url: "http://localhost:8114"
+    
+    reference_resolver:
+      host: "0.0.0.0"
+      port: 8115
+      url: "http://localhost:8115"
+    
+    definition_extractor:
+      host: "0.0.0.0"
+      port: 8116
+      url: "http://localhost:8116"
+    
+    # Conflict Detection Modules (8117-8120)
+    candidate_finder:
+      host: "0.0.0.0"
+      port: 8117
+      url: "http://localhost:8117"
+    
+    conflict_detector:
+      host: "0.0.0.0"
+      port: 8118
+      url: "http://localhost:8118"
+    
+    severity_calculator:
+      host: "0.0.0.0"
+      port: 8119
+      url: "http://localhost:8119"
+    
+    recommendation_generator:
+      host: "0.0.0.0"
+      port: 8120
+      url: "http://localhost:8120"
+
+# =============================================================================
+# LOGGING CONFIGURATION
+# =============================================================================
+logging:
+  # Global log directory
+  log_dir: "data/logs"
+  
+  # Log format
+  format: "%(asctime)s | %(levelname)-8s | %(name)s | %(message)s"
+  date_format: "%Y-%m-%d %H:%M:%S"
+  
+  # Per-module log files
+  modules:
+    orchestrator: "data/logs/orchestrator.log"
+    file_reader: "data/logs/file_reader.log"
+    text_normalizer: "data/logs/text_normalizer.log"
+    latinizer: "data/logs/latinizer.log"
+    legal_parser: "data/logs/legal_parser.log"
+    legal_unit_extractor: "data/logs/legal_unit_extractor.log"
+    assertion_extractor: "data/logs/assertion_extractor.log"
+    entity_recognizer: "data/logs/entity_recognizer.log"
+    condition_extractor: "data/logs/condition_extractor.log"
+    assertion_classifier: "data/logs/assertion_classifier.log"
+    embedding_generator: "data/logs/embedding_generator.log"
+    vector_store: "data/logs/vector_store.log"
+    keyword_indexer: "data/logs/keyword_indexer.log"
+    hybrid_search: "data/logs/hybrid_search.log"
+    ontology_matcher: "data/logs/ontology_matcher.log"
+    reference_resolver: "data/logs/reference_resolver.log"
+    definition_extractor: "data/logs/definition_extractor.log"
+    candidate_finder: "data/logs/candidate_finder.log"
+    conflict_detector: "data/logs/conflict_detector.log"
+    severity_calculator: "data/logs/severity_calculator.log"
+    recommendation_generator: "data/logs/recommendation_generator.log"
+  
+  # Log rotation
+  rotation:
+    max_bytes: 10485760  # 10MB
+    backup_count: 5
+
+# =============================================================================
+# AI MODELS CONFIGURATION
+# =============================================================================
+ai_models:
+  # Embedding Model
+  embedding:
+    model_name: "BAAI/bge-m3"
+    dimensions: 1024
+    device: "cuda"  # cuda or cpu
+    batch_size: 32
+    max_length: 512
+    normalize: true
+  
+  # Reranker Model
+  reranker:
+    model_name: "BAAI/bge-reranker-v2-m3"
+    device: "cuda"
+    batch_size: 32
+  
+  # NER Model (Stanza)
+  ner:
+    language: "sr"  # Serbian
+    device: "cpu"
+    processors: "tokenize,pos,lemma,ner"
+  
+  # LLM (Ollama)
+  llm:
+    base_url: "http://localhost:11434"
+    model: "llama3.2:latest"
+    temperature: 0.7
+    max_tokens: 2048
+    timeout: 120
+
+# =============================================================================
+# VECTOR STORE CONFIGURATION (Qdrant)
+# =============================================================================
+vector_store:
+  # Qdrant settings
+  path: "data/qdrant_storage"
+  
+  # Collections
+  collections:
+    corpus_assertions: "corpus_assertions"
+    draft_assertions: "draft_assertions"
+  
+  # Vector settings
+  vector_size: 1024
+  distance: "Cosine"  # Cosine, Euclidean, Dot
+  
+  # Performance
+  on_disk_payload: true
+  hnsw_config:
+    m: 16
+    ef_construct: 100
+
+# =============================================================================
+# SEARCH CONFIGURATION
+# =============================================================================
+search:
+  # Hybrid search weights
+  weights:
+    vector: 0.45
+    keyword: 0.35
+    graph: 0.20
+  
+  # Search parameters
+  min_similarity: 0.25
+  max_candidates: 50
+  rerank_top_k: 100
+  
+  # Keyword search (BM25)
+  bm25:
+    k1: 1.5
+    b: 0.75
+
+# =============================================================================
+# CONFLICT DETECTION CONFIGURATION
+# =============================================================================
+conflict_detection:
+  # Conflict rules
+  total_conflict_types: 127
+  categories:
+    - "normative_conflicts"
+    - "temporal_conflicts"
+    - "hierarchical_conflicts"
+    - "procedural_conflicts"
+    - "scope_conflicts"
+    - "penalty_conflicts"
+    - "definitional_conflicts"
+    - "implementation_conflicts"
+  
+  # Severity levels
+  severity_levels:
+    - "critical"
+    - "high"
+    - "medium"
+    - "low"
+  
+  # Detection thresholds
+  thresholds:
+    min_similarity: 0.25
+    min_confidence: 0.7
+
+# =============================================================================
+# PERFORMANCE CONFIGURATION
+# =============================================================================
+performance:
+  # Batch processing
+  batch_sizes:
+    documents: 100
+    embeddings: 32
+    assertions: 50
+  
+  # Parallel processing
+  max_workers: 4
+  
+  # Caching
+  cache:
+    enabled: true
+    ttl: 3600  # seconds
+    max_size: 1000  # items
+  
+  # Timeouts
+  timeouts:
+    http_request: 30  # seconds
+    llm_request: 120  # seconds
+    embedding_generation: 60  # seconds
+
+# =============================================================================
+# FILE PROCESSING CONFIGURATION
+# =============================================================================
+file_processing:
+  # Supported formats
+  supported_formats:
+    - "pdf"
+    - "docx"
+    - "txt"
+  
+  # File size limits (bytes)
+  max_file_size: 52428800  # 50MB
+  
+  # Text extraction
+  encoding: "utf-8"
+  
+  # PDF settings
+  pdf:
+    extract_images: false
+    extract_tables: true
+  
+  # DOCX settings
+  docx:
+    extract_headers: true
+    extract_footers: false
+
+# =============================================================================
+# LANGUAGE CONFIGURATION
+# =============================================================================
+language:
+  # Default language
+  default: "sr"  # Serbian
+  
+  # Supported languages
+  supported:
+    - "sr"  # Serbian
+    - "en"  # English
+  
+  # Script conversion
+  scripts:
+    source: "cyrillic"
+    target: "latin"
+
+# =============================================================================
+# MONITORING & METRICS
+# =============================================================================
+monitoring:
+  # Prometheus metrics
+  prometheus:
+    enabled: true
+    port: 9090
+  
+  # Health checks
+  health_check:
+    enabled: true
+    interval: 60  # seconds
+  
+  # Metrics to track
+  metrics:
+    - "requests_total"
+    - "processing_time_seconds"
+    - "active_jobs"
+    - "errors_total"
+    - "cache_hits"
+    - "cache_misses"
+
+# =============================================================================
+# PRODUCTION SETTINGS
+# =============================================================================
+production:
+  # Security
+  cors_origins:
+    - "http://localhost:3000"
+    - "https://grooveai.example.com"
+  
+  # Rate limiting
+  rate_limit:
+    enabled: true
+    requests_per_minute: 60
+  
+  # SSL/TLS
+  ssl:
+    enabled: false
+    cert_file: ""
+    key_file: ""
+
+# =============================================================================
+# FRONTEND CONFIGURATION
+# =============================================================================
+frontend:
+  # Frontend server
+  host: "0.0.0.0"
+  port: 3000
+  url: "http://localhost:3000"
+  
+  # API proxy
+  api_proxy:
+    target: "http://localhost:8100"
+    change_origin: true
+
+# =============================================================================
+# DATA DIRECTORIES
+# =============================================================================
+directories:
+  # Base directories
+  data: "data"
+  databases: "data/databases"
+  logs: "data/logs"
+  qdrant: "data/qdrant_storage"
+  
+  # Document directories
+  documents: "DOCUMENTS"
+  corpus: "DOCUMENTS/corpus"
+  drafts: "DOCUMENTS/drafts"
+  test: "DOCUMENTS/DEV"
+  
+  # Temporary directories
+  temp: "data/temp"
+  cache: "data/cache"
+
+# =============================================================================
+# WORKFLOW CONFIGURATION
+# =============================================================================
+workflows:
+  # Import Corpus Workflow
+  import_corpus:
+    enabled: true
+    steps:
+      - "file_reader"
+      - "text_normalizer"
+      - "latinizer"
+      - "legal_parser"
+      - "legal_unit_extractor"
+      - "assertion_extractor"
+      - "entity_recognizer"
+      - "condition_extractor"
+      - "assertion_classifier"
+      - "embedding_generator"
+      - "vector_store"
+      - "keyword_indexer"
+      - "ontology_matcher"
+      - "reference_resolver"
+      - "definition_extractor"
+  
+  # Analyze Draft Workflow
+  analyze_draft:
+    enabled: true
+    steps:
+      - "text_normalizer"
+      - "latinizer"
+      - "legal_parser"
+      - "legal_unit_extractor"
+      - "assertion_extractor"
+      - "entity_recognizer"
+      - "condition_extractor"
+      - "assertion_classifier"
+      - "candidate_finder"
+      - "conflict_detector"
+      - "severity_calculator"
+      - "recommendation_generator"
+  
+  # Search Corpus Workflow
+  search_corpus:
+    enabled: true
+    steps:
+      - "hybrid_search"
+
+# =============================================================================
+# FEATURE FLAGS
+# =============================================================================
+features:
+  # Enable/disable features
+  enable_embeddings: true
+  enable_ner: true
+  enable_llm: true
+  enable_ontology: true
+  enable_references: true
+  enable_definitions: true
+  enable_recommendations: true
+  
+  # Experimental features
+  experimental:
+    enable_graph_search: false
+    enable_multi_language: false
+    enable_auto_tuning: false
+
+# Made with Bob
