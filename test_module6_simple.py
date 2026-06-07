@@ -6,7 +6,7 @@ Tests basic assertion extraction functionality.
 import requests
 import json
 
-BASE_URL = "http://localhost:8107"
+BASE_URL = "http://localhost:8106"
 
 def test_health():
     """Test health endpoint"""

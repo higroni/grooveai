@@ -97,18 +97,18 @@ network:
        
     legal_parser:
       host: "0.0.0.0"
-      port: 8104
-      url: "http://localhost:8104"
+      port: 8105
+      url: "http://localhost:8105"
     
     legal_unit_extractor:
       host: "0.0.0.0"
-      port: 8106
+      port: 8105
       url: "http://localhost:8105"
     
-    # Assertion Processing Modules (8107-8110)
+    # Assertion Processing Modules (8106-8110)
     assertion_extractor:
       host: "0.0.0.0"
-      port: 8107
+      port: 8106
       url: "http://localhost:8106"
     
     entity_recognizer:
