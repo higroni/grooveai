@@ -8,7 +8,7 @@ echo [STEP 1] Stopping all Python processes on module ports...
 echo.
 
 REM Kill processes on specific ports
-for %%p in (8101 8102 8103 8105 8106) do (
+for %%p in (8101 8102 8103 8105 8106 8107) do (
     echo Checking port %%p...
     for /f "tokens=5" %%a in ('netstat -aon ^| findstr :%%p ^| findstr LISTENING') do (
         echo   Killing process %%a on port %%p
@@ -47,6 +47,11 @@ timeout /t 2 /nobreak >nul
 REM Start Module 6: Assertion Extractor (port 8106)
 echo Starting Module 6: Assertion Extractor (port 8106)...
 start "Module 6: Assertion Extractor" cmd /k "python -m modules.assertion_extractor.main"
+timeout /t 2 /nobreak >nul
+
+REM Start Module 7: Entity Recognizer (port 8107)
+echo Starting Module 7: Entity Recognizer (port 8107)...
+start "Module 7: Entity Recognizer" cmd /k "python -m modules.entity_recognizer.main"
 timeout /t 2 /nobreak >nul
 
 echo.
