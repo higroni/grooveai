@@ -51,13 +51,9 @@ def main():
     logger = logging.getLogger(__name__)
     logger.info("Starting Knowledge Enrichment Module...")
     
-    # Get database path
-    db_config = config.get('database', {})
-    db_path = db_config.get('knowledge_enrichment', 'data/databases/knowledge_enrichment.db')
-    
-    # Initialize service
-    service = KnowledgeEnrichmentService(db_path)
-    logger.info(f"Initialized service with database: {db_path}")
+    # Initialize service (uses unified database)
+    service = KnowledgeEnrichmentService()
+    logger.info("Initialized service with unified database")
     
     # Create FastAPI app
     app = create_app(service)

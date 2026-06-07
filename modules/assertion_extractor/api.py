@@ -7,6 +7,7 @@ import uuid
 import time
 import json
 from pathlib import Path
+from typing import Dict, Any
 from fastapi import APIRouter, HTTPException
 
 # Add project root to path
@@ -14,12 +15,18 @@ project_root = Path(__file__).parent.parent.parent
 sys.path.insert(0, str(project_root))
 
 from shared.logger import ModuleLogger
+from shared.monitoring import (
+    get_metrics_collector, get_health_checker
+)
 from modules.assertion_extractor.models import (
     ExtractionRequest,
     ExtractionResponse,
     ExtractionOutput,
     ExtractionJob,
-    ExtractionStats
+    ExtractionStats,
+    BatchExtractionRequest,
+    BatchExtractionResponse,
+    BatchExtractionResult
 )
 from modules.assertion_extractor.service import AssertionExtractorService
 from modules.assertion_extractor.database import db
@@ -87,6 +94,164 @@ async def extract_assertions(request: ExtractionRequest):
         raise HTTPException(status_code=500, detail=str(e))
 
 
+@router.post("/api/extract/batch", response_model=BatchExtractionResponse)
+async def extract_assertions_batch(request: BatchExtractionRequest):
+    """
+    Extract assertions from multiple legal units in batch.
+    
+    This endpoint processes multiple legal units efficiently by:
+    - Processing units in batches to optimize memory usage
+    - Tracking detailed timing metrics for performance analysis
+    - Handling errors gracefully per unit
+    
+    Args:
+        request: BatchExtractionRequest with list of legal units
+        
+    Returns:
+        BatchExtractionResponse with results for each unit and detailed timing
+    """
+    metrics = get_metrics_collector()
+    batch_start = time.time()
+    
+    try:
+        logger.info(f"Starting batch extraction for {len(request.legal_units)} legal units")
+        
+        # Generate batch job ID
+        job_id = str(uuid.uuid4())
+        
+        # Timing metrics
+        timings = {
+            "total_ms": 0,
+            "per_unit_ms": [],
+            "db_save_ms": 0,
+            "processing_ms": 0
+        }
+        
+        results = []
+        successful = 0
+        failed = 0
+        
+        # Process each legal unit
+        processing_start = time.time()
+        for unit in request.legal_units:
+            unit_start = time.time()
+            
+            try:
+                # Extract assertions for this unit
+                output = service.extract_assertions(
+                    content=unit.content,
+                    min_confidence=request.min_confidence
+                )
+                
+                unit_time_ms = (time.time() - unit_start) * 1000
+                timings["per_unit_ms"].append({
+                    "unit_id": unit.unit_id,
+                    "time_ms": unit_time_ms
+                })
+                
+                results.append(BatchExtractionResult(
+                    legal_unit_id=unit.unit_id,
+                    status="success",
+                    output=output,
+                    error=None,
+                    processing_time_ms=unit_time_ms
+                ))
+                
+                successful += 1
+                logger.debug(f"Processed unit {unit.unit_id} in {unit_time_ms:.2f}ms")
+                
+            except Exception as e:
+                unit_time_ms = (time.time() - unit_start) * 1000
+                timings["per_unit_ms"].append({
+                    "unit_id": unit.unit_id,
+                    "time_ms": unit_time_ms,
+                    "error": str(e)
+                })
+                
+                results.append(BatchExtractionResult(
+                    legal_unit_id=unit.unit_id,
+                    status="error",
+                    output=None,
+                    error=str(e),
+                    processing_time_ms=unit_time_ms
+                ))
+                
+                failed += 1
+                logger.error(f"Error processing unit {unit.unit_id}: {str(e)}")
+        
+        timings["processing_ms"] = (time.time() - processing_start) * 1000
+        
+        # Save batch job to database
+        db_start = time.time()
+        for result in results:
+            if result.status == "success" and result.output:
+                job = ExtractionJob(
+                    job_id=f"{job_id}_{result.legal_unit_id}",
+                    legal_unit_id=result.legal_unit_id,
+                    input_content=next(u.content for u in request.legal_units if u.unit_id == result.legal_unit_id),
+                    output_assertions=json.dumps([a.dict() for a in result.output.assertions], ensure_ascii=False),
+                    total_assertions=result.output.stats.total_assertions,
+                    processing_time_ms=result.processing_time_ms
+                )
+                db.create(job)
+        
+        timings["db_save_ms"] = (time.time() - db_start) * 1000
+        timings["total_ms"] = (time.time() - batch_start) * 1000
+        
+        # Determine overall status
+        if failed == 0:
+            status = "success"
+        elif successful == 0:
+            status = "error"
+        else:
+            status = "partial"
+        
+        # Calculate statistics
+        avg_time_per_unit = timings["processing_ms"] / len(request.legal_units) if request.legal_units else 0
+        total_assertions = sum(r.output.stats.total_assertions for r in results if r.output)
+        
+        # Record metrics
+        metrics.record(
+            "processing_duration_ms",
+            timings["total_ms"],
+            {"endpoint": "/batch", "status": status}
+        )
+        
+        logger.info(
+            f"Batch extraction complete: {successful} successful, {failed} failed, "
+            f"{timings['total_ms']:.2f}ms total, {avg_time_per_unit:.2f}ms avg per unit"
+        )
+        
+        return BatchExtractionResponse(
+            module="assertion-extractor",
+            status=status,
+            job_id=job_id,
+            results=results,
+            metadata={
+                "total_units": len(request.legal_units),
+                "successful": successful,
+                "failed": failed,
+                "total_assertions": total_assertions,
+                "timings": timings,
+                "avg_time_per_unit_ms": avg_time_per_unit,
+                "throughput_units_per_sec": len(request.legal_units) / (timings["total_ms"] / 1000) if timings["total_ms"] > 0 else 0
+            }
+        )
+        
+    except Exception as e:
+        # Record error metrics
+        error_time = (time.time() - batch_start) * 1000
+        metrics.record(
+            "processing_duration_ms",
+            error_time,
+            {"endpoint": "/batch", "status": "error"}
+        )
+        
+        logger.error(f"Error in batch extraction: {str(e)}", exc_info=True)
+        raise HTTPException(status_code=500, detail=str(e))
+
+
+
 @router.get("/api/jobs/{job_id}")
 async def get_job(job_id: str):
     """Get extraction job by ID."""
@@ -148,12 +313,50 @@ async def list_jobs(limit: int = 10, offset: int = 0):
 
 
 @router.get("/health")
-async def health_check():
-    """Health check endpoint."""
+async def health_check() -> Dict[str, Any]:
+    """
+    Enhanced health check endpoint with component status.
+    
+    Returns:
+        Health status with database component check
+    """
+    health_checker = get_health_checker()
+    
+    # Check database connection
+    try:
+        total = db.count(ExtractionJob)
+        health_checker.register_check(
+            "database", "healthy", f"Database connection OK ({total} jobs)"
+        )
+    except Exception as e:
+        health_checker.register_check(
+            "database", "unhealthy", f"Database check failed: {str(e)}"
+        )
+    
+    health_status = health_checker.get_status()
     return {
-        "status": "healthy",
         "module": "assertion-extractor",
-        "version": "1.0.0"
+        "version": "1.0.0",
+        **health_status
     }
+
+@router.get("/metrics")
+async def get_metrics() -> Dict[str, Any]:
+    """
+    Get performance metrics.
+    
+    Returns:
+        Performance metrics and statistics
+    """
+    try:
+        metrics = get_metrics_collector()
+        all_metrics = metrics.get_all_metrics()
+        return {
+            "status": "success",
+            "metrics": all_metrics,
+            "module": "assertion-extractor"
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 # Made with Bob

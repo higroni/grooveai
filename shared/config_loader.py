@@ -123,6 +123,10 @@ class ConfigLoader:
         return self.get("development.test_data_dir", "DOCUMENTS/DEV")
     
     # Database
+    def get_unified_database_url(self) -> str:
+        """Get unified database URL (all modules use this single database)."""
+        return self.get("database.unified_url", "sqlite:///data/databases/grooveai_unified.db")
+    
     def get_database_url(self, module_name: str) -> str:
         """
         Get database URL for specific module.
@@ -133,7 +137,7 @@ class ConfigLoader:
         Returns:
             Database URL
         """
-        return self.get(f"database.modules.{module_name}", 
+        return self.get(f"database.modules.{module_name}",
                        f"sqlite:///data/databases/{module_name}.db")
     
     def get_master_database_url(self) -> str:

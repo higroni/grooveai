@@ -20,19 +20,38 @@ _classla_pipeline = None
 
 
 def _get_classla_pipeline():
-    """Get or initialize classla NER pipeline for Serbian."""
+    """Get or initialize classla NER pipeline for Serbian with automatic GPU detection."""
     global _classla_pipeline
     if _classla_pipeline is None:
         try:
             import classla
-            logger.info("Initializing classla NER pipeline for Serbian...")
+            
+            # Detect GPU availability
+            use_gpu = False
+            try:
+                import torch
+                if torch.cuda.is_available():
+                    use_gpu = True
+                    gpu_name = torch.cuda.get_device_name(0)
+                    logger.info(f"GPU detected: {gpu_name} - Enabling GPU acceleration for CLASSLA")
+                else:
+                    logger.info("No GPU detected - Using CPU for CLASSLA")
+            except ImportError:
+                logger.info("PyTorch not available - Using CPU for CLASSLA")
+            
+            logger.info(f"Initializing classla NER pipeline for Serbian (GPU: {use_gpu})...")
             _classla_pipeline = classla.Pipeline(
                 lang='sr',
                 processors='tokenize,ner',
-                use_gpu=False,  # Set to True if GPU available
+                use_gpu=use_gpu,
                 verbose=False
             )
-            logger.info("classla NER pipeline initialized successfully")
+            
+            if use_gpu:
+                logger.info("classla NER pipeline initialized successfully with GPU acceleration")
+            else:
+                logger.info("classla NER pipeline initialized successfully on CPU")
+                
         except Exception as e:
             logger.error(f"Failed to initialize classla NER: {e}")
             _classla_pipeline = False  # Mark as failed to avoid retrying

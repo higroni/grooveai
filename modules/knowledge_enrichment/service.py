@@ -9,8 +9,11 @@ import logging
 from typing import List, Dict, Any, Optional, Tuple
 from datetime import datetime
 import time
+import hashlib
+import json
 
 from .database import KnowledgeEnrichmentDatabase
+from shared.cache_manager import get_cache_manager
 from .models import (
     OntologyTerm, LegalReference, TermDefinition,
     EnrichedAssertion, EnrichmentRequest, EnrichmentResponse,
@@ -24,20 +27,37 @@ _classla_pipeline = None
 
 
 def _get_classla_pipeline():
-    """Get or initialize CLASSLA NER pipeline for Serbian."""
+    """Get or initialize CLASSLA NER pipeline for Serbian with GPU support."""
     global _classla_pipeline
     if _classla_pipeline is None:
         try:
             import classla
             logger = logging.getLogger(__name__)
-            logger.info("Initializing CLASSLA NER pipeline for Serbian...")
+            
+            # Detect GPU availability
+            use_gpu = False
+            try:
+                import torch
+                if torch.cuda.is_available():
+                    use_gpu = True
+                    gpu_name = torch.cuda.get_device_name(0)
+                    gpu_memory = torch.cuda.get_device_properties(0).total_memory / (1024**3)
+                    logger.info(f"GPU detected: {gpu_name} ({gpu_memory:.2f} GB) - Enabling GPU acceleration for CLASSLA")
+                else:
+                    logger.info("No GPU detected - Using CPU for CLASSLA NER")
+            except ImportError:
+                logger.info("PyTorch not available - Using CPU for CLASSLA NER")
+            except Exception as e:
+                logger.warning(f"Error detecting GPU: {e} - Falling back to CPU")
+            
+            logger.info(f"Initializing CLASSLA NER pipeline for Serbian (GPU: {use_gpu})...")
             _classla_pipeline = classla.Pipeline(
                 lang='sr',
                 processors='tokenize,ner',
-                use_gpu=False,  # Set to True if GPU available
+                use_gpu=use_gpu,
                 verbose=False
             )
-            logger.info("CLASSLA NER pipeline initialized successfully")
+            logger.info(f"CLASSLA NER pipeline initialized successfully (GPU: {use_gpu})")
         except Exception as e:
             logger = logging.getLogger(__name__)
             logger.warning(f"Failed to initialize CLASSLA NER: {e}. Will use entities from M7 only.")
@@ -66,12 +86,23 @@ class OntologyMatcher:
     def __init__(self, db: KnowledgeEnrichmentDatabase):
         self.db = db
         self.logger = logging.getLogger(__name__)
+        self.cache = get_cache_manager(max_size=1000, default_ttl=3600)  # 1 hour TTL
     
     def _extract_additional_entities_with_classla(self, text: str) -> List[Dict[str, Any]]:
         """
-        Extract additional entities using CLASSLA NER
+        Extract additional entities using CLASSLA NER with caching
         This complements entities from M7 (CLASSLA)
         """
+        # Generate cache key from text
+        text_hash = hashlib.md5(text.encode('utf-8')).hexdigest()
+        cache_key = f"classla_entities:{text_hash}"
+        
+        # Try to get from cache
+        cached_entities = self.cache.get(cache_key)
+        if cached_entities is not None:
+            self.logger.debug(f"Cache hit for CLASSLA entities (text hash: {text_hash[:8]})")
+            return cached_entities
+        
         additional_entities = []
         
         pipeline = _get_classla_pipeline()
@@ -98,6 +129,9 @@ class OntologyMatcher:
                             })
             
             self.logger.info(f"CLASSLA found {len(additional_entities)} additional entities")
+            
+            # Cache the results
+            self.cache.set(cache_key, additional_entities, ttl=3600)  # Cache for 1 hour
             
         except Exception as e:
             self.logger.error(f"Error in CLASSLA NER: {e}")
@@ -367,8 +401,8 @@ class KnowledgeEnrichmentService:
     and definition extraction
     """
     
-    def __init__(self, db_path: str):
-        self.db = KnowledgeEnrichmentDatabase(db_path)
+    def __init__(self):
+        self.db = KnowledgeEnrichmentDatabase()
         self.ontology_matcher = OntologyMatcher(self.db)
         self.reference_resolver = ReferenceResolver(self.db)
         self.definition_extractor = DefinitionExtractor(self.db)
@@ -415,7 +449,7 @@ class KnowledgeEnrichmentService:
             
             enriched = EnrichedAssertion(
                 assertion_id=request.assertion_id,
-                assertion_text=request.assertion_text,
+                text=request.assertion_text,
                 matched_terms=matched_terms,
                 legal_references=references,
                 term_definitions=definitions,

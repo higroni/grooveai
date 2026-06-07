@@ -1,27 +1,35 @@
 """
 Database manager for Embedding Generator module.
-
-This module provides database operations for embedding generation jobs.
-Uses the shared BaseDatabaseManager for common functionality.
+Uses unified database for better performance.
 """
 
-from shared.database_base import BaseDatabaseManager
+from shared.unified_database import unified_db, ModuleDatabaseManager
 from shared.config_loader import config
 from modules.embedding_generator.models import Base, EmbeddingJob
 from typing import Optional, List
 
 
-class EmbeddingDatabaseManager(BaseDatabaseManager[EmbeddingJob]):
+class EmbeddingDatabaseManager(ModuleDatabaseManager[EmbeddingJob]):
     """
     Database manager for embedding generation jobs.
-    
-    Extends BaseDatabaseManager with embedding-specific operations.
+    Uses the unified database instance.
     """
     
     def __init__(self):
-        """Initialize database manager with module-specific configuration."""
-        db_url = config.get_database_url("embedding_generator")
-        super().__init__(db_url, Base)
+        """Initialize database manager with unified database."""
+        # Initialize unified database with config
+        unified_db_url = config.get_unified_database_url()
+        unified_db.__init__(database_url=unified_db_url)
+        
+        # Initialize module database manager
+        super().__init__(
+            unified_db=unified_db,
+            base_class=Base,
+            model_class=EmbeddingJob
+        )
+        
+        # Create tables
+        unified_db.create_all_tables()
     
     def get_by_job_id(self, job_id: str) -> Optional[EmbeddingJob]:
         """

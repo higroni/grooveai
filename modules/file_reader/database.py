@@ -1,64 +1,36 @@
 """
 Database management for File Reader module
+Uses unified database for better performance
 """
-import os
-from sqlalchemy import create_engine
-from sqlalchemy.orm import sessionmaker, Session
-from contextlib import contextmanager
-from typing import Generator
-
-from modules.file_reader.models import Base
+from shared.unified_database import unified_db, ModuleDatabaseManager
 from shared.config_loader import config
+from modules.file_reader.models import Base, FileReaderJob
 
 
-class Database:
+class FileReaderDatabaseManager(ModuleDatabaseManager[FileReaderJob]):
     """
-    Database manager for File Reader module
+    Database manager for File Reader module.
+    Uses the unified database instance.
     """
     
     def __init__(self):
-        """Initialize database connection"""
-        self.database_url = config.get_database_url("file_reader")
+        """Initialize database manager with unified database."""
+        # Initialize unified database with config
+        unified_db_url = config.get_unified_database_url()
+        unified_db.__init__(database_url=unified_db_url)
         
-        # Ensure directory exists for SQLite
-        if self.database_url.startswith("sqlite:///"):
-            db_path = self.database_url.replace("sqlite:///", "")
-            os.makedirs(os.path.dirname(db_path), exist_ok=True)
-        
-        self.engine = create_engine(
-            self.database_url,
-            echo=config.get("database.echo", False)
+        # Initialize module database manager
+        super().__init__(
+            unified_db=unified_db,
+            base_class=Base,
+            model_class=FileReaderJob
         )
-        self.SessionLocal = sessionmaker(bind=self.engine)
         
         # Create tables
-        self.create_tables()
-    
-    def create_tables(self):
-        """Create all tables"""
-        Base.metadata.create_all(bind=self.engine)
-    
-    @contextmanager
-    def get_session(self) -> Generator[Session, None, None]:
-        """
-        Get database session with automatic cleanup
-        
-        Usage:
-            with db.get_session() as session:
-                # use session
-        """
-        session = self.SessionLocal()
-        try:
-            yield session
-            session.commit()
-        except Exception:
-            session.rollback()
-            raise
-        finally:
-            session.close()
+        unified_db.create_all_tables()
 
 
 # Global database instance
-db = Database()
+db = FileReaderDatabaseManager()
 
 # Made with Bob

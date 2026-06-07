@@ -1,12 +1,17 @@
 """
 Database operations for Assertion Classifier module.
+Uses unified database for better performance.
 """
 
 import json
 from datetime import datetime
 from typing import Optional
-from sqlalchemy import create_engine, select
+from contextlib import contextmanager
+from sqlalchemy import select
 from sqlalchemy.orm import Session
+
+from shared.unified_database import unified_db
+from shared.config_loader import config
 from modules.assertion_classifier.models import (
     Base,
     ClassificationJobDB,
@@ -16,17 +21,25 @@ from modules.assertion_classifier.models import (
 
 
 class ClassificationDatabase:
-    """Database manager for assertion classification."""
+    """Database manager for assertion classification using unified database."""
     
-    def __init__(self, db_url: str = "sqlite:///data/databases/assertion_classifier.db"):
-        """
-        Initialize database connection.
+    def __init__(self):
+        """Initialize database connection with unified database."""
+        # Initialize unified database with config
+        unified_db_url = config.get_unified_database_url()
+        unified_db.__init__(database_url=unified_db_url)
         
-        Args:
-            db_url: Database URL (default: SQLite)
-        """
-        self.engine = create_engine(db_url, echo=False)
-        Base.metadata.create_all(self.engine)
+        # Register base class
+        unified_db.register_base(Base)
+        
+        # Create tables
+        unified_db.create_all_tables()
+    
+    @contextmanager
+    def get_session(self):
+        """Get database session from unified database."""
+        with unified_db.get_session() as session:
+            yield session
     
     def save_classification(
         self,
@@ -47,7 +60,7 @@ class ClassificationDatabase:
         Returns:
             Saved ClassificationJobDB instance
         """
-        with Session(self.engine) as session:
+        with self.get_session() as session:
             classification = output.classification
             
             # Create job record
@@ -64,7 +77,7 @@ class ClassificationDatabase:
             )
             
             session.add(job)
-            session.commit()
+            session.flush()
             session.refresh(job)
             
             # Update statistics
@@ -122,7 +135,7 @@ class ClassificationDatabase:
         old_count = stats.total_classifications - 1
         stats.avg_confidence = (old_avg * old_count + confidence) / stats.total_classifications
         
-        session.commit()
+        session.flush()
     
     def get_classification(self, job_id: str) -> Optional[ClassificationJobDB]:
         """
@@ -134,7 +147,7 @@ class ClassificationDatabase:
         Returns:
             ClassificationJobDB instance or None
         """
-        with Session(self.engine) as session:
+        with self.get_session() as session:
             stmt = select(ClassificationJobDB).where(ClassificationJobDB.job_id == job_id)
             return session.execute(stmt).scalar_one_or_none()
     
@@ -148,7 +161,7 @@ class ClassificationDatabase:
         Returns:
             List of ClassificationJobDB instances
         """
-        with Session(self.engine) as session:
+        with self.get_session() as session:
             stmt = select(ClassificationJobDB).where(
                 ClassificationJobDB.assertion_id == assertion_id
             ).order_by(ClassificationJobDB.created_at.desc())
@@ -169,7 +182,7 @@ class ClassificationDatabase:
         Returns:
             List of ClassificationJobDB instances
         """
-        with Session(self.engine) as session:
+        with self.get_session() as session:
             stmt = select(ClassificationJobDB).where(
                 ClassificationJobDB.assertion_type == assertion_type
             ).order_by(ClassificationJobDB.created_at.desc()).limit(limit)
@@ -185,7 +198,7 @@ class ClassificationDatabase:
         Returns:
             List of ClassificationStatsDB instances
         """
-        with Session(self.engine) as session:
+        with self.get_session() as session:
             cutoff = datetime.utcnow().replace(hour=0, minute=0, second=0, microsecond=0)
             stmt = select(ClassificationStatsDB).where(
                 ClassificationStatsDB.date >= cutoff
@@ -199,7 +212,7 @@ class ClassificationDatabase:
         Returns:
             Total count
         """
-        with Session(self.engine) as session:
+        with self.get_session() as session:
             stmt = select(ClassificationJobDB)
             return len(list(session.execute(stmt).scalars().all()))
     
@@ -210,7 +223,7 @@ class ClassificationDatabase:
         Returns:
             Dictionary with type counts
         """
-        with Session(self.engine) as session:
+        with self.get_session() as session:
             stmt = select(ClassificationJobDB)
             jobs = session.execute(stmt).scalars().all()
             
@@ -227,5 +240,9 @@ class ClassificationDatabase:
                     distribution[job.assertion_type] += 1
             
             return distribution
+
+
+# Global database instance
+db = ClassificationDatabase()
 
 # Made with Bob

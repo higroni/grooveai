@@ -56,6 +56,37 @@ class ConditionExtractionResponse(BaseModel):
     created_at: datetime = Field(default_factory=datetime.utcnow, description="Creation timestamp")
 
 
+class BatchConditionExtractionRequest(BaseModel):
+    """Request model for batch condition extraction."""
+    assertions: List[Assertion] = Field(..., description="List of assertions to process")
+    language: str = Field(default="sr", description="Language code (sr, en)")
+    min_confidence: float = Field(default=0.5, ge=0.0, le=1.0, description="Minimum confidence threshold")
+    extract_conditions: bool = Field(default=True, description="Extract conditional clauses")
+    extract_exceptions: bool = Field(default=True, description="Extract exception clauses")
+    extract_temporal: bool = Field(default=True, description="Extract temporal conditions")
+    extract_modal: bool = Field(default=True, description="Extract modal conditions")
+    batch_size: int = Field(default=100, ge=1, le=200, description="Batch size for processing")
+
+
+class BatchConditionExtractionResult(BaseModel):
+    """Result for a single assertion in batch processing."""
+    assertion_id: str = Field(..., description="Assertion ID")
+    status: str = Field(..., description="Status (success, error)")
+    output: Optional[ConditionExtractionOutput] = Field(None, description="Extraction output if successful")
+    error: Optional[str] = Field(None, description="Error message if failed")
+    processing_time_ms: float = Field(..., description="Processing time in milliseconds")
+
+
+class BatchConditionExtractionResponse(BaseModel):
+    """Response model for batch condition extraction."""
+    module: str = Field(default="condition-extractor", description="Module name")
+    status: str = Field(..., description="Overall status (success, partial, error)")
+    job_id: str = Field(..., description="Batch job ID")
+    results: List[BatchConditionExtractionResult] = Field(..., description="Results for each assertion")
+    metadata: Dict[str, Any] = Field(default_factory=dict, description="Processing metadata with detailed timing")
+
+
+
 class ConditionExtractionJob(BaseModel):
     """Database model for condition extraction job."""
     job_id: str

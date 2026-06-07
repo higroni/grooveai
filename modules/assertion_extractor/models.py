@@ -60,6 +60,32 @@ class ExtractionResponse(BaseModel):
     output: ExtractionOutput = Field(..., description="Extraction output")
     metadata: dict = Field(default_factory=dict, description="Processing metadata")
 
+class BatchExtractionRequest(BaseModel):
+    """Request for batch assertion extraction."""
+    legal_units: list[LegalUnitInput] = Field(..., description="List of legal units to process")
+    language: str = Field(default="sr", description="Language code (sr, en, etc.)")
+    min_confidence: float = Field(default=0.5, ge=0.0, le=1.0, description="Minimum confidence threshold")
+    batch_size: int = Field(default=50, ge=1, le=100, description="Batch size for processing")
+
+
+class BatchExtractionResult(BaseModel):
+    """Result for a single legal unit in batch processing."""
+    legal_unit_id: str = Field(..., description="Legal unit ID")
+    status: str = Field(..., description="Status (success, error)")
+    output: Optional[ExtractionOutput] = Field(None, description="Extraction output if successful")
+    error: Optional[str] = Field(None, description="Error message if failed")
+    processing_time_ms: float = Field(..., description="Processing time in milliseconds")
+
+
+class BatchExtractionResponse(BaseModel):
+    """Response from batch assertion extraction."""
+    module: str = Field(default="assertion-extractor", description="Module name")
+    status: str = Field(..., description="Overall status (success, partial, error)")
+    job_id: str = Field(..., description="Batch job ID")
+    results: list[BatchExtractionResult] = Field(..., description="Results for each legal unit")
+    metadata: dict = Field(default_factory=dict, description="Processing metadata with detailed timing")
+
+
 
 class ExtractionJobPydantic(BaseModel):
     """Pydantic model for extraction job API."""

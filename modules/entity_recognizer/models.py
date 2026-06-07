@@ -66,6 +66,38 @@ class RecognitionResponse(BaseModel):
     timestamp: datetime = Field(default_factory=datetime.utcnow, description="Processing timestamp")
 
 
+class BatchRecognitionRequest(BaseModel):
+    """Request for batch entity recognition."""
+    assertions: List[AssertionInput] = Field(..., description="List of assertions to process")
+    language: str = Field(default="sr", description="Language code (sr, en, de)")
+    min_confidence: float = Field(default=0.5, ge=0.0, le=1.0, description="Minimum confidence threshold")
+    entity_types: Optional[List[str]] = Field(
+        default=None,
+        description="Specific entity types to extract (if None, extract all)"
+    )
+    use_ner: bool = Field(default=False, description="Use classla NER (True) or regex only (False)")
+    batch_size: int = Field(default=100, ge=1, le=200, description="Batch size for processing")
+
+
+class BatchRecognitionResult(BaseModel):
+    """Result for a single assertion in batch processing."""
+    assertion_id: str = Field(..., description="Assertion ID")
+    status: str = Field(..., description="Status (success, error)")
+    output: Optional[RecognitionOutput] = Field(None, description="Recognition output if successful")
+    error: Optional[str] = Field(None, description="Error message if failed")
+    processing_time_ms: float = Field(..., description="Processing time in milliseconds")
+
+
+class BatchRecognitionResponse(BaseModel):
+    """Response from batch entity recognition."""
+    module: str = Field(default="entity-recognizer", description="Module name")
+    status: str = Field(..., description="Overall status (success, partial, error)")
+    job_id: str = Field(..., description="Batch job ID")
+    results: List[BatchRecognitionResult] = Field(..., description="Results for each assertion")
+    metadata: dict = Field(default_factory=dict, description="Processing metadata with detailed timing")
+
+
+
 # SQLAlchemy models for database persistence
 class RecognitionJob(Base):
     """Database model for recognition jobs."""

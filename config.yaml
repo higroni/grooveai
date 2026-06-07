@@ -19,7 +19,7 @@ development:
   sample_file: "D:/POSAO/OllamaProjects/GROOVE.AI/DOCUMENTS/DEV/onedoc/radni_odnosi_0001_000001.pdf"
   
   # Auto-reload
-  auto_reload: true
+  auto_reload: false
   
   # Debug mode
   debug: true
@@ -35,6 +35,9 @@ development:
 # DATABASE CONFIGURATION
 # =============================================================================
 database:
+  # Unified database URL - all modules use this single database
+  unified_url: "sqlite:///data/databases/grooveai_unified.db"
+  
   # Master database URL (can be overridden per module)
   master_url: "sqlite:///data/databases/grooveai_master.db"
   

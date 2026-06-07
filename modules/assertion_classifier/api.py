@@ -4,15 +4,22 @@ FastAPI endpoints for Assertion Classifier module.
 
 import time
 import uuid
+from typing import Dict, Any
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from modules.assertion_classifier.models import (
     ClassificationRequest,
     ClassificationResponse,
-    Assertion
+    Assertion,
+    BatchClassificationRequest,
+    BatchClassificationResponse,
+    BatchClassificationResult
 )
 from modules.assertion_classifier.service import AssertionClassifierService
 from modules.assertion_classifier.database import ClassificationDatabase
+from shared.monitoring import (
+    get_metrics_collector, get_health_checker
+)
 
 
 app = FastAPI(
@@ -46,7 +53,7 @@ async def root():
         "types": ["obligation", "prohibition", "permission", "deadline", "definition"],
         "endpoints": {
             "/classify": "POST - Classify an assertion",
-            "/classify/batch": "POST - Classify multiple assertions",
+            "/classify/batch": "POST - Classify multiple assertions with detailed timing metrics",
             "/stats": "GET - Get classification statistics",
             "/patterns": "GET - Get available patterns",
             "/health": "GET - Health check"
@@ -55,14 +62,51 @@ async def root():
 
 
 @app.get("/health")
-async def health_check():
-    """Health check endpoint."""
+async def health_check() -> Dict[str, Any]:
+    """
+    Enhanced health check endpoint with component status.
+    
+    Returns:
+        Health status with database component check
+    """
+    health_checker = get_health_checker()
+    
+    # Check database connection
+    try:
+        total = db.get_total_classifications()
+        health_checker.register_check(
+            "database", "healthy", f"Database connection OK ({total} classifications)"
+        )
+    except Exception as e:
+        health_checker.register_check(
+            "database", "unhealthy", f"Database check failed: {str(e)}"
+        )
+    
+    health_status = health_checker.get_status()
     return {
-        "status": "healthy",
         "module": "assertion-classifier",
-        "database": "connected",
-        "total_classifications": db.get_total_classifications()
+        "version": "1.0.0",
+        **health_status
     }
+
+@app.get("/metrics")
+async def get_metrics() -> Dict[str, Any]:
+    """
+    Get performance metrics.
+    
+    Returns:
+        Performance metrics and statistics
+    """
+    try:
+        metrics = get_metrics_collector()
+        all_metrics = metrics.get_all_metrics()
+        return {
+            "status": "success",
+            "metrics": all_metrics,
+            "module": "assertion-classifier"
+        }
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=str(e))
 
 
 @app.post("/classify", response_model=ClassificationResponse)
@@ -117,62 +161,147 @@ async def classify_assertion(request: ClassificationRequest):
         raise HTTPException(status_code=500, detail=str(e))
 
 
-@app.post("/classify/batch")
-async def classify_batch(assertions: list[Assertion], language: str = "sr", min_confidence: float = 0.5):
+@app.post("/classify/batch", response_model=BatchClassificationResponse)
+async def classify_batch(request: BatchClassificationRequest):
     """
-    Classify multiple assertions.
+    Classify multiple assertions in batch with detailed timing metrics.
+    
+    This endpoint processes multiple assertions efficiently, providing:
+    - Per-assertion timing metrics
+    - Graceful error handling (partial success supported)
+    - Detailed performance statistics
+    - Pattern matching statistics
     
     Args:
-        assertions: List of assertions to classify
-        language: Language code (default: "sr")
-        min_confidence: Minimum confidence threshold
+        request: Batch classification request with assertions and parameters
         
     Returns:
-        List of classification responses
+        Batch classification response with results and timing metrics
     """
+    metrics = get_metrics_collector()
+    batch_start = time.time()
+    
     try:
-        start_time = time.time()
+        results = []
+        successful = 0
+        failed = 0
+        per_assertion_times = []
+        db_save_times = []
         
-        # Classify all assertions
-        outputs = classifier_service.classify_batch(
-            assertions=assertions,
-            language=language,
-            min_confidence=min_confidence
+        # Process each assertion
+        for assertion in request.assertions:
+            assertion_start = time.time()
+            
+            try:
+                # Classify assertion
+                output = classifier_service.classify_assertion(
+                    assertion=assertion,
+                    language=request.language,
+                    min_confidence=request.min_confidence
+                )
+                
+                processing_time_ms = int((time.time() - assertion_start) * 1000)
+                per_assertion_times.append(processing_time_ms)
+                
+                # Save to database
+                db_start = time.time()
+                job_id = str(uuid.uuid4())
+                db.save_classification(
+                    job_id=job_id,
+                    output=output,
+                    language=request.language,
+                    processing_time_ms=processing_time_ms
+                )
+                db_save_times.append(int((time.time() - db_start) * 1000))
+                
+                # Create result
+                result = BatchClassificationResult(
+                    assertion_id=assertion.assertion_id,
+                    status="success",
+                    classification=output.classification,
+                    error=None,
+                    processing_time_ms=processing_time_ms
+                )
+                results.append(result)
+                successful += 1
+                
+            except Exception as e:
+                # Handle individual assertion failure
+                processing_time_ms = int((time.time() - assertion_start) * 1000)
+                per_assertion_times.append(processing_time_ms)
+                
+                result = BatchClassificationResult(
+                    assertion_id=assertion.assertion_id,
+                    status="error",
+                    classification=None,
+                    error=str(e),
+                    processing_time_ms=processing_time_ms
+                )
+                results.append(result)
+                failed += 1
+        
+        # Calculate timing metrics
+        total_time_ms = int((time.time() - batch_start) * 1000)
+        processing_time_ms = sum(per_assertion_times)
+        db_save_time_ms = sum(db_save_times)
+        
+        # Determine overall status
+        if failed == 0:
+            status = "success"
+        elif successful == 0:
+            status = "error"
+        else:
+            status = "partial"
+        
+        # Calculate type distribution from successful results
+        type_counts = {}
+        for result in results:
+            if result.status == "success" and result.classification:
+                assertion_type = result.classification.assertion_type
+                type_counts[assertion_type] = type_counts.get(assertion_type, 0) + 1
+        
+        # Record metrics
+        metrics.record(
+            "processing_duration_ms",
+            total_time_ms,
+            {"endpoint": "/batch", "status": status}
         )
         
-        # Save to database and create responses
-        responses = []
-        for output in outputs:
-            job_id = str(uuid.uuid4())
-            processing_time_ms = int((time.time() - start_time) * 1000 / len(assertions))
-            
-            db.save_classification(
-                job_id=job_id,
-                output=output,
-                language=language,
-                processing_time_ms=processing_time_ms
-            )
-            
-            response = ClassificationResponse(
-                module="assertion-classifier",
-                status="success",
-                job_id=job_id,
-                output=output,
-                metadata={
-                    "processing_time_ms": processing_time_ms,
-                    "language": language,
-                    "min_confidence": min_confidence
+        # Create response with detailed metadata
+        response = BatchClassificationResponse(
+            module="assertion-classifier",
+            status=status,
+            total_assertions=len(request.assertions),
+            successful=successful,
+            failed=failed,
+            results=results,
+            metadata={
+                "timing": {
+                    "total_ms": total_time_ms,
+                    "processing_ms": processing_time_ms,
+                    "db_save_ms": db_save_time_ms,
+                    "per_assertion_ms": per_assertion_times,
+                    "avg_time_per_assertion_ms": round(sum(per_assertion_times) / len(per_assertion_times), 2) if per_assertion_times else 0,
+                    "throughput_assertions_per_sec": round(len(request.assertions) / (total_time_ms / 1000), 2) if total_time_ms > 0 else 0
+                },
+                "classification_stats": {
+                    "type_distribution": type_counts,
+                    "language": request.language,
+                    "min_confidence": request.min_confidence
                 }
-            )
-            responses.append(response)
+            }
+        )
         
-        return {
-            "total": len(responses),
-            "classifications": responses,
-            "total_time_ms": int((time.time() - start_time) * 1000)
-        }
+        return response
         
     except Exception as e:
+        # Record error metrics
+        error_time = int((time.time() - batch_start) * 1000)
+        metrics.record(
+            "processing_duration_ms",
+            error_time,
+            {"endpoint": "/batch", "status": "error"}
+        )
         raise HTTPException(status_code=500, detail=str(e))
 
 

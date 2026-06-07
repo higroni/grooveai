@@ -1,0 +1,255 @@
+{
+  "module": "knowledge-enrichment",
+  "status": "success",
+  "total_assertions": 9,
+  "successful": 9,
+  "failed": 0,
+  "results": [
+    {
+      "assertion_id": "d4ad82f8-01ca-4927-84a8-77e76c2db6de",
+      "status": "success",
+      "enriched_assertion": {
+        "assertion_id": "d4ad82f8-01ca-4927-84a8-77e76c2db6de",
+        "text": "Ovim pravilnikom utvrđuje se sadržaj obrasca zahteva za ostvarivanje prava kod Fonda solidarnosti (u daljem tekstu: Obrazac zahteva), kao i ostala dokumentacija koju zaposleni dostavlja uz Obrazac zahteva.",
+        "matched_terms": [],
+        "legal_references": [],
+        "term_definitions": [],
+        "enrichment_timestamp": "2026-06-07T22:43:53.053792",
+        "processing_time_ms": 2572.498083114624
+      },
+      "error": null,
+      "processing_time_ms": 2575.495958328247
+    },
+    {
+      "assertion_id": "46e73182-b63f-42c2-bc92-f12874838cee",
+      "status": "success",
+      "enriched_assertion": {
+        "assertion_id": "46e73182-b63f-42c2-bc92-f12874838cee",
+        "text": "Obrazac zahteva sadrži: 1) Lične podatke podnosioca zahteva: (1) ime i prezime; (2) dan, mesec i godina rođenja; (3) mesto prebivališta odnosno boravišta; (4) adresa stana (ulica i broj) i telefon; (5) registarski broj lične isprave, mesto i datum izdavanja; (6) jedinstveni matični broj građana (JMBG); (7) broj žiro odnosno tekućeg računa.",
+        "matched_terms": [],
+        "legal_references": [],
+        "term_definitions": [],
+        "enrichment_timestamp": "2026-06-07T22:43:53.079998",
+        "processing_time_ms": 23.207902908325195
+      },
+      "error": null,
+      "processing_time_ms": 24.281024932861328
+    },
+    {
+      "assertion_id": "b49ace3a-f6eb-488f-904d-b01499cbbd4b",
+      "status": "success",
+      "enriched_assertion": {
+        "assertion_id": "b49ace3a-f6eb-488f-904d-b01499cbbd4b",
+        "text": "2) Podatke o poslodavcu nad kojim je otvoren stečajni postupak (u daljem tekstu: poslodavac): (1) naziv, sedište i adresu poslodavca; (2) Brisana je (vidi član 1.",
+        "matched_terms": [
+          {
+            "entity_text": "član 1",
+            "entity_type": "UNKNOWN",
+            "canonical_form": "2) podatke o poslodavcu nad kojim je otvoren stečajni postupak (u daljem tekstu: poslodavac): (1) naziv, sedište i adresu poslodavca; (2) brisana je (vidi član 1.",
+            "label": "2) podatke o poslodavcu nad kojim je otvoren stečajni postupak (u daljem tekstu: poslodavac): (1) naziv, sedište i adresu poslodavca; (2) brisana je (vidi član 1.",
+            "domain": "person",
+            "confidence": 0.7,
+            "source": "ontology"
+          },
+          {
+            "entity_text": "2) podatke o poslodavcu nad kojim je otvoren stečajni postupak (u daljem tekstu: poslodavac): (1) naziv, sedište i adresu poslodavca; (2) brisana je (vidi član 1.",
+            "entity_type": "PERSON",
+            "canonical_form": "2) podatke o poslodavcu nad kojim je otvoren stečajni postupak (u daljem tekstu: poslodavac): (1) naziv, sedište i adresu poslodavca; (2) brisana je (vidi član 1.",
+            "label": "2) podatke o poslodavcu nad kojim je otvoren stečajni postupak (u daljem tekstu: poslodavac): (1) naziv, sedište i adresu poslodavca; (2) brisana je (vidi član 1.",
+            "domain": "person",
+            "confidence": 0.7,
+            "source": "ontology"
+          }
+        ],
+        "legal_references": [],
+        "term_definitions": [
+          {
+            "id": null,
+            "assertion_id": "b49ace3a-f6eb-488f-904d-b01499cbbd4b",
+            "term": "Podatke o poslodavcu nad kojim",
+            "definition": "otvoren stečajni postupak (u daljem tekstu: poslodavac): (1) naziv, sedište i adresu poslodavca; (2) Brisana je (vidi član 1",
+            "definition_pattern": "je",
+            "confidence": 0.8,
+            "created_at": null
+          }
+        ],
+        "enrichment_timestamp": "2026-06-07T22:43:53.096174",
+        "processing_time_ms": 15.102624893188477
+      },
+      "error": null,
+      "processing_time_ms": 15.102624893188477
+    },
+    {
+      "assertion_id": "8c8b9711-bd61-4d74-8042-78e8c5179af0",
+      "status": "success",
+      "enriched_assertion": {
+        "assertion_id": "8c8b9711-bd61-4d74-8042-78e8c5179af0",
+        "text": "Pravilnika - 78/2019-39) 3) Podaci o pravima koja se potražuju: (1) pravo na neisplaćenu zaradu za poslednjih devet meseci pre otvaranja stečajnog postupka; (2) pravo na neisplaćenu naknadu zarade za vreme odsutnosti sa rada zbog privremene sprečenosti za rad po propisima o zdravstvenom osiguranju koju je bio dužan da isplati poslodavac u skladu sa Zakonom o radu (bolovanje do 30 dana, u poslednjih devet meseci pre otvaranja stečajnog postupka); (3) pravo na neisplaćenu naknadu štete za neiskorišćeni godišnji odmor, za kalendarsku godinu u kojoj je otvoren stečajni postupak, ako je to pravo imao pre otvaranja stečajnog postupka; (4) pravo na neisplaćenu otpremninu zbog odlaska u penziju u kalendarskoj godini u kojoj je otvoren stečajni postupak, ako je pravo na penziju ostvario pre otvaranja stečajnog postupka; (5) pravo na neisplaćenu naknadu štete zbog povrede na radu ili profesionalnog oboljenja, na osnovu odluke suda donete u kalendarskoj godini u kojoj je otvoren stečajni postupak, ako je ta odluka postala pravnosnažna pre otvaranja stečajnog postupka.",
+        "matched_terms": [],
+        "legal_references": [],
+        "term_definitions": [],
+        "enrichment_timestamp": "2026-06-07T22:43:53.153102",
+        "processing_time_ms": 56.92791938781738
+      },
+      "error": null,
+      "processing_time_ms": 57.92665481567383
+    },
+    {
+      "assertion_id": "c3295700-6833-4614-be69-f8959fc78166",
+      "status": "success",
+      "enriched_assertion": {
+        "assertion_id": "c3295700-6833-4614-be69-f8959fc78166",
+        "text": "Uz Obrazac zahteva zaposleni prilaže sledeću dokumentaciju: 1) ugovor o radu, odnosno drugi akt o zasnivanju radnog odnosa; 2) akt kojim je prestao radni odnos za lice kome je prestao radni odnos pre otvaranja stečajnog postupka; 3) odluka kojom se utvrđuje potraživanje i njegov isplatni red, u skladu sa propisom o stečaju; 4) Brisana je (vidi član 2.",
+        "matched_terms": [
+          {
+            "entity_text": "član 2",
+            "entity_type": "UNKNOWN",
+            "canonical_form": "uz obrazac zahteva zaposleni prilaže sledeću dokumentaciju: 1) ugovor o radu, odnosno drugi akt o zasnivanju radnog odnosa; 2) akt kojim je prestao radni odnos za lice kome je prestao radni odnos pre otvaranja stečajnog postupka; 3) odluka kojom se utvrđuje potraživanje i njegov isplatni red, u skladu sa propisom o stečaju; 4) brisana je (vidi član 2.",
+            "label": "uz obrazac zahteva zaposleni prilaže sledeću dokumentaciju: 1) ugovor o radu, odnosno drugi akt o zasnivanju radnog odnosa; 2) akt kojim je prestao radni odnos za lice kome je prestao radni odnos pre otvaranja stečajnog postupka; 3) odluka kojom se utvrđuje potraživanje i njegov isplatni red, u skladu sa propisom o stečaju; 4) brisana je (vidi član 2.",
+            "domain": "person",
+            "confidence": 0.7,
+            "source": "ontology"
+          },
+          {
+            "entity_text": "uz obrazac zahteva zaposleni prilaže sledeću dokumentaciju: 1) ugovor o radu, odnosno drugi akt o zasnivanju radnog odnosa; 2) akt kojim je prestao radni odnos za lice kome je prestao radni odnos pre otvaranja stečajnog postupka; 3) odluka kojom se utvrđuje potraživanje i njegov isplatni red, u skladu sa propisom o stečaju; 4) brisana je (vidi član 2.",
+            "entity_type": "PERSON",
+            "canonical_form": "uz obrazac zahteva zaposleni prilaže sledeću dokumentaciju: 1) ugovor o radu, odnosno drugi akt o zasnivanju radnog odnosa; 2) akt kojim je prestao radni odnos za lice kome je prestao radni odnos pre otvaranja stečajnog postupka; 3) odluka kojom se utvrđuje potraživanje i njegov isplatni red, u skladu sa propisom o stečaju; 4) brisana je (vidi član 2.",
+            "label": "uz obrazac zahteva zaposleni prilaže sledeću dokumentaciju: 1) ugovor o radu, odnosno drugi akt o zasnivanju radnog odnosa; 2) akt kojim je prestao radni odnos za lice kome je prestao radni odnos pre otvaranja stečajnog postupka; 3) odluka kojom se utvrđuje potraživanje i njegov isplatni red, u skladu sa propisom o stečaju; 4) brisana je (vidi član 2.",
+            "domain": "person",
+            "confidence": 0.7,
+            "source": "ontology"
+          }
+        ],
+        "legal_references": [],
+        "term_definitions": [
+          {
+            "id": null,
+            "assertion_id": "c3295700-6833-4614-be69-f8959fc78166",
+            "term": "akt kojim je prestao radni odnos za lice kome",
+            "definition": "prestao radni odnos pre otvaranja stečajnog postupka; 3) odluka kojom se utvrđuje potraživanje i njegov isplatni red, u skladu sa propisom o stečaju; 4) Brisana je (vidi član 2",
+            "definition_pattern": "je",
+            "confidence": 0.8,
+            "created_at": null
+          }
+        ],
+        "enrichment_timestamp": "2026-06-07T22:43:53.176262",
+        "processing_time_ms": 22.161483764648438
+      },
+      "error": null,
+      "processing_time_ms": 22.161483764648438
+    },
+    {
+      "assertion_id": "1c9e0019-3b3a-44d2-99e7-127a641d1220",
+      "status": "success",
+      "enriched_assertion": {
+        "assertion_id": "1c9e0019-3b3a-44d2-99e7-127a641d1220",
+        "text": "Pravilnika - 78/2019-39) 4) rešenje Republičkog fonda za penzijsko i invalidsko osiguranje zaposlenih o ostvarenju prava zaposlenog na penziju; 5) overen prepis pravnosnažne odluke suda kojom je utvrđeno pravo na naknadu štete zbog povrede na radu ili profesionalnog oboljenja; 6) fotokopiju lične karte; 7) fotokopiju kartice tekućeg računa; 8) izjavu u vezi sa članom 103.",
+        "matched_terms": [],
+        "legal_references": [],
+        "term_definitions": [
+          {
+            "id": null,
+            "assertion_id": "1c9e0019-3b3a-44d2-99e7-127a641d1220",
+            "term": "overen prepis pravnosnažne odluke suda kojom",
+            "definition": "utvrđeno pravo na naknadu štete zbog povrede na radu ili profesionalnog oboljenja; 6) fotokopiju lične karte; 7) fotokopiju kartice tekućeg računa; 8) izjavu u vezi sa članom 103",
+            "definition_pattern": "je",
+            "confidence": 0.8,
+            "created_at": null
+          }
+        ],
+        "enrichment_timestamp": "2026-06-07T22:43:53.199474",
+        "processing_time_ms": 23.211956024169922
+      },
+      "error": null,
+      "processing_time_ms": 23.211956024169922
+    },
+    {
+      "assertion_id": "330058c9-3958-4ec5-9dd2-e3bb73a52e41",
+      "status": "success",
+      "enriched_assertion": {
+        "assertion_id": "330058c9-3958-4ec5-9dd2-e3bb73a52e41",
+        "text": "Obrazac zahteva izrađen je od hartije bele boje formata A/4.",
+        "matched_terms": [],
+        "legal_references": [],
+        "term_definitions": [
+          {
+            "id": null,
+            "assertion_id": "330058c9-3958-4ec5-9dd2-e3bb73a52e41",
+            "term": "Obrazac zahteva izrađen",
+            "definition": "od hartije bele boje formata A/4",
+            "definition_pattern": "je",
+            "confidence": 0.8,
+            "created_at": null
+          }
+        ],
+        "enrichment_timestamp": "2026-06-07T22:43:53.205557",
+        "processing_time_ms": 6.082773208618164
+      },
+      "error": null,
+      "processing_time_ms": 7.082223892211914
+    },
+    {
+      "assertion_id": "51bc5426-00a3-4608-be07-05e76cb94c12",
+      "status": "success",
+      "enriched_assertion": {
+        "assertion_id": "51bc5426-00a3-4608-be07-05e76cb94c12",
+        "text": "Obrazac zahteva odštampan je uz ovaj pravilnik i čini njegov sastavni deo.",
+        "matched_terms": [],
+        "legal_references": [],
+        "term_definitions": [
+          {
+            "id": null,
+            "assertion_id": "51bc5426-00a3-4608-be07-05e76cb94c12",
+            "term": "Obrazac zahteva odštampan",
+            "definition": "uz ovaj pravilnik i čini njegov sastavni deo",
+            "definition_pattern": "je",
+            "confidence": 0.8,
+            "created_at": null
+          }
+        ],
+        "enrichment_timestamp": "2026-06-07T22:43:53.212130",
+        "processing_time_ms": 5.573511123657227
+      },
+      "error": null,
+      "processing_time_ms": 5.573511123657227
+    },
+    {
+      "assertion_id": "ca7fd335-ce3c-48a2-abab-6fb6e19a5f3d",
+      "status": "success",
+      "enriched_assertion": {
+        "assertion_id": "ca7fd335-ce3c-48a2-abab-6fb6e19a5f3d",
+        "text": "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+        "matched_terms": [],
+        "legal_references": [],
+        "term_definitions": [],
+        "enrichment_timestamp": "2026-06-07T22:43:53.219130",
+        "processing_time_ms": 6.999969482421875
+      },
+      "error": null,
+      "processing_time_ms": 6.999969482421875
+    }
+  ],
+  "metadata": {
+    "timing": {
+      "total_ms": 2737.84,
+      "per_assertion_ms": [
+        2575.5,
+        24.28,
+        15.1,
+        57.93,
+        22.16,
+        23.21,
+        7.08,
+        5.57,
+        7.0
+      ],
+      "avg_time_per_assertion_ms": 304.2,
+      "throughput_assertions_per_sec": 3.29
+    },
+    "enrichment_stats": {
+      "total_assertions": 9,
+      "successful": 9,
+      "failed": 0
+    }
+  }
+}

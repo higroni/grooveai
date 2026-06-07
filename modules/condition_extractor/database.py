@@ -1,77 +1,98 @@
 """
 Database layer for Condition Extractor module.
+Uses unified database for better performance.
 """
 import json
 from datetime import datetime
 from typing import List, Optional
-from sqlalchemy import create_engine, Column, String, Integer, Float, DateTime, Text, ForeignKey
-from sqlalchemy.ext.declarative import declarative_base
-from sqlalchemy.orm import sessionmaker, Session, relationship
+from contextlib import contextmanager
+from sqlalchemy import Column, String, Integer, Float, DateTime, Text, ForeignKey
+from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship, Session
 
+from shared.unified_database import unified_db
+from shared.config_loader import config
 from .models import (
     ConditionExtractionJob,
     ExtractedCondition,
     ConditionExtractionOutput
 )
 
-Base = declarative_base()
+
+class Base(DeclarativeBase):
+    """Base class for Condition Extractor models."""
+    pass
 
 
 class ConditionExtractionJobDB(Base):
     """Database model for condition extraction jobs."""
     __tablename__ = "condition_extraction_jobs"
     
-    job_id = Column(String, primary_key=True)
-    assertion_id = Column(String, nullable=False, index=True)
-    assertion_text = Column(Text, nullable=False)
-    output_conditions = Column(Text, nullable=False)  # JSON string
-    total_conditions = Column(Integer, nullable=False)
-    total_exceptions = Column(Integer, nullable=False)
-    total_temporal = Column(Integer, nullable=False)
-    total_modal = Column(Integer, nullable=False)
-    average_confidence = Column(Float, nullable=False)
-    processing_time_ms = Column(Float, nullable=False)
-    created_at = Column(DateTime, nullable=False, default=datetime.utcnow)
+    job_id: Mapped[str] = mapped_column(String, primary_key=True)
+    assertion_id: Mapped[str] = mapped_column(String, nullable=False, index=True)
+    assertion_text: Mapped[str] = mapped_column(Text, nullable=False)
+    output_conditions: Mapped[str] = mapped_column(Text, nullable=False)  # JSON string
+    total_conditions: Mapped[int] = mapped_column(Integer, nullable=False)
+    total_exceptions: Mapped[int] = mapped_column(Integer, nullable=False)
+    total_temporal: Mapped[int] = mapped_column(Integer, nullable=False)
+    total_modal: Mapped[int] = mapped_column(Integer, nullable=False)
+    average_confidence: Mapped[float] = mapped_column(Float, nullable=False)
+    processing_time_ms: Mapped[float] = mapped_column(Float, nullable=False)
+    created_at: Mapped[datetime] = mapped_column(DateTime, nullable=False, default=datetime.utcnow)
     
     # Relationship to conditions
-    conditions = relationship("ExtractedConditionDB", back_populates="job", cascade="all, delete-orphan")
+    conditions: Mapped[List["ExtractedConditionDB"]] = relationship(
+        "ExtractedConditionDB", 
+        back_populates="job", 
+        cascade="all, delete-orphan"
+    )
 
 
 class ExtractedConditionDB(Base):
     """Database model for extracted conditions."""
     __tablename__ = "extracted_conditions"
     
-    condition_id = Column(String, primary_key=True)
-    job_id = Column(String, ForeignKey("condition_extraction_jobs.job_id"), nullable=False, index=True)
-    condition_type = Column(String, nullable=False, index=True)
-    text = Column(Text, nullable=False)
-    start_char = Column(Integer, nullable=False)
-    end_char = Column(Integer, nullable=False)
-    confidence = Column(Float, nullable=False)
-    trigger_word = Column(String, nullable=False)
-    context = Column(Text, nullable=True)
+    condition_id: Mapped[str] = mapped_column(String, primary_key=True)
+    job_id: Mapped[str] = mapped_column(
+        String, 
+        ForeignKey("condition_extraction_jobs.job_id"), 
+        nullable=False, 
+        index=True
+    )
+    condition_type: Mapped[str] = mapped_column(String, nullable=False, index=True)
+    text: Mapped[str] = mapped_column(Text, nullable=False)
+    start_char: Mapped[int] = mapped_column(Integer, nullable=False)
+    end_char: Mapped[int] = mapped_column(Integer, nullable=False)
+    confidence: Mapped[float] = mapped_column(Float, nullable=False)
+    trigger_word: Mapped[str] = mapped_column(String, nullable=False)
+    context: Mapped[Optional[str]] = mapped_column(Text, nullable=True)
     
     # Relationship to job
-    job = relationship("ConditionExtractionJobDB", back_populates="conditions")
+    job: Mapped["ConditionExtractionJobDB"] = relationship(
+        "ConditionExtractionJobDB", 
+        back_populates="conditions"
+    )
 
 
 class ConditionExtractorDatabase:
-    """Database manager for condition extraction."""
+    """Database manager for condition extraction using unified database."""
     
-    def __init__(self, database_url: str):
-        """
-        Initialize database connection.
+    def __init__(self):
+        """Initialize database connection with unified database."""
+        # Initialize unified database with config
+        unified_db_url = config.get_unified_database_url()
+        unified_db.__init__(database_url=unified_db_url)
         
-        Args:
-            database_url: SQLAlchemy database URL
-        """
-        self.engine = create_engine(database_url)
-        Base.metadata.create_all(self.engine)
-        self.SessionLocal = sessionmaker(bind=self.engine)
+        # Register base class
+        unified_db.register_base(Base)
+        
+        # Create tables
+        unified_db.create_all_tables()
     
-    def get_session(self) -> Session:
-        """Get a new database session."""
-        return self.SessionLocal()
+    @contextmanager
+    def get_session(self):
+        """Get database session from unified database."""
+        with unified_db.get_session() as session:
+            yield session
     
     def save_extraction_job(
         self,
@@ -92,8 +113,7 @@ class ConditionExtractorDatabase:
         Returns:
             Saved job model
         """
-        session = self.get_session()
-        try:
+        with self.get_session() as session:
             # Create job record
             job_db = ConditionExtractionJobDB(
                 job_id=job_id,
@@ -125,7 +145,7 @@ class ConditionExtractorDatabase:
                 )
                 session.add(condition_db)
             
-            session.commit()
+            session.flush()
             
             # Convert to Pydantic model
             job = ConditionExtractionJob(
@@ -143,12 +163,6 @@ class ConditionExtractorDatabase:
             )
             
             return job
-            
-        except Exception as e:
-            session.rollback()
-            raise e
-        finally:
-            session.close()
     
     def get_job(self, job_id: str) -> Optional[ConditionExtractionJob]:
         """
@@ -160,8 +174,7 @@ class ConditionExtractorDatabase:
         Returns:
             Job model or None if not found
         """
-        session = self.get_session()
-        try:
+        with self.get_session() as session:
             job_db = session.query(ConditionExtractionJobDB).filter_by(job_id=job_id).first()
             if not job_db:
                 return None
@@ -181,9 +194,6 @@ class ConditionExtractorDatabase:
             )
             
             return job
-            
-        finally:
-            session.close()
     
     def get_conditions_by_assertion(self, assertion_id: str) -> List[ExtractedCondition]:
         """
@@ -195,8 +205,7 @@ class ConditionExtractorDatabase:
         Returns:
             List of extracted conditions
         """
-        session = self.get_session()
-        try:
+        with self.get_session() as session:
             # Get all jobs for this assertion
             jobs = session.query(ConditionExtractionJobDB).filter_by(assertion_id=assertion_id).all()
             
@@ -217,9 +226,6 @@ class ConditionExtractorDatabase:
                     all_conditions.append(condition)
             
             return all_conditions
-            
-        finally:
-            session.close()
     
     def get_all_jobs(self, limit: int = 100) -> List[ConditionExtractionJob]:
         """
@@ -231,8 +237,7 @@ class ConditionExtractorDatabase:
         Returns:
             List of jobs
         """
-        session = self.get_session()
-        try:
+        with self.get_session() as session:
             jobs_db = session.query(ConditionExtractionJobDB).order_by(
                 ConditionExtractionJobDB.created_at.desc()
             ).limit(limit).all()
@@ -255,8 +260,9 @@ class ConditionExtractorDatabase:
                 jobs.append(job)
             
             return jobs
-            
-        finally:
-            session.close()
+
+
+# Global database instance
+db = ConditionExtractorDatabase()
 
 # Made with Bob
