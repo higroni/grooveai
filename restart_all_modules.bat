@@ -26,27 +26,27 @@ echo.
 
 REM Start Module 1: File Reader (port 8101)
 echo Starting Module 1: File Reader (port 8101)...
-start "Module 1: File Reader" cmd /k "python modules/file_reader/main.py"
+start "Module 1: File Reader" cmd /k "python -m modules.file_reader.main"
 timeout /t 2 /nobreak >nul
 
 REM Start Module 2: Text Normalizer (port 8102)
 echo Starting Module 2: Text Normalizer (port 8102)...
-start "Module 2: Text Normalizer" cmd /k "python modules/text_normalizer/main.py"
+start "Module 2: Text Normalizer" cmd /k "python -m modules.text_normalizer.main"
 timeout /t 2 /nobreak >nul
 
 REM Start Module 3: Latinizer (port 8103)
 echo Starting Module 3: Latinizer (port 8103)...
-start "Module 3: Latinizer" cmd /k "python modules/latinizer/main.py"
+start "Module 3: Latinizer" cmd /k "python -m modules.latinizer.main"
 timeout /t 2 /nobreak >nul
 
 REM Start Module 4: Legal Parser (port 8105)
 echo Starting Module 4: Legal Parser (port 8105)...
-start "Module 4: Legal Parser" cmd /k "python modules/legal_parser/main.py"
+start "Module 4: Legal Parser" cmd /k "python -m modules.legal_parser.main"
 timeout /t 2 /nobreak >nul
 
 REM Start Module 6: Assertion Extractor (port 8106)
 echo Starting Module 6: Assertion Extractor (port 8106)...
-start "Module 6: Assertion Extractor" cmd /k "python modules/assertion_extractor/main.py"
+start "Module 6: Assertion Extractor" cmd /k "python -m modules.assertion_extractor.main"
 timeout /t 2 /nobreak >nul
 
 echo.

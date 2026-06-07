@@ -1,0 +1,362 @@
+{
+  "pipeline": "Modules 1 -> 2 -> 3 -> 4 -> 6",
+  "source_file": "D:/POSAO/OllamaProjects/GROOVE.AI/DOCUMENTS/DEV/onedoc/radni_odnosi_0001_000001.pdf",
+  "jobs": {
+    "file_reader": "80e40d54-4553-425b-93b0-31b400d28169",
+    "text_normalizer": "d9ef03ac-c76a-4e6e-9f7f-5e93fb1f49cb",
+    "latinizer": 19,
+    "legal_parser": 2,
+    "assertion_extractor": [
+      "f6af2f08-403a-4445-8266-000b577e05c3",
+      "f2e6d5a8-464a-44bb-befc-acbbf018b78f",
+      "fa0af356-8b28-4ab8-ba2a-159d89a64706",
+      "b8e57b14-1c63-4a0b-bd39-e7fc039c7ae0",
+      "a4abe666-a1ce-427a-88a7-0f072cb7b055",
+      "818a2cd4-38a8-4d7f-80ff-bb29333b7364",
+      "6b2a7c8a-7588-48d5-96f8-7f35d9420c8b",
+      "107a5e80-fa01-4f1b-b0c7-4a0c7d6979c7",
+      "d9c5bf21-22cd-4738-a332-f1ded26ac73f",
+      "36a733f5-5f6c-4e9a-921e-8f6c414f837c"
+    ]
+  },
+  "statistics": {
+    "raw_text_length": 168312,
+    "normalized_text_length": 168284,
+    "latinized_text_length": 170388,
+    "cyrillic_converted": 133341,
+    "total_legal_units": 311,
+    "total_articles": 311,
+    "articles_processed": 10,
+    "total_assertions": 27
+  },
+  "extraction_jobs": [
+    {
+      "job_id": "f6af2f08-403a-4445-8266-000b577e05c3",
+      "article_number": "1",
+      "article_id": "d0486e26-3e00-55bc-855f-aad71ab90733",
+      "assertions_count": 2,
+      "stats": {
+        "total_assertions": 2,
+        "total_sentences": 2,
+        "avg_confidence": 0.5
+      }
+    },
+    {
+      "job_id": "f2e6d5a8-464a-44bb-befc-acbbf018b78f",
+      "article_number": "2",
+      "article_id": "f1ba18e8-a915-5998-9e89-2ba31002bff7",
+      "assertions_count": 4,
+      "stats": {
+        "total_assertions": 4,
+        "total_sentences": 5,
+        "avg_confidence": 0.5
+      }
+    },
+    {
+      "job_id": "fa0af356-8b28-4ab8-ba2a-159d89a64706",
+      "article_number": "3",
+      "article_id": "96b1053c-0844-594a-99ee-d6d928e79f17",
+      "assertions_count": 8,
+      "stats": {
+        "total_assertions": 8,
+        "total_sentences": 12,
+        "avg_confidence": 0.6
+      }
+    },
+    {
+      "job_id": "b8e57b14-1c63-4a0b-bd39-e7fc039c7ae0",
+      "article_number": "4",
+      "article_id": "98ee3b17-5241-553f-8a1c-65a4c108fbeb",
+      "assertions_count": 3,
+      "stats": {
+        "total_assertions": 3,
+        "total_sentences": 5,
+        "avg_confidence": 0.5
+      }
+    },
+    {
+      "job_id": "a4abe666-a1ce-427a-88a7-0f072cb7b055",
+      "article_number": "5",
+      "article_id": "f19a2e75-e1ca-5b5b-8b09-01f7e44ca592",
+      "assertions_count": 2,
+      "stats": {
+        "total_assertions": 2,
+        "total_sentences": 2,
+        "avg_confidence": 0.5
+      }
+    },
+    {
+      "job_id": "818a2cd4-38a8-4d7f-80ff-bb29333b7364",
+      "article_number": "6",
+      "article_id": "5f27e7b5-f6b5-5a0f-832c-e0d6bad3d140",
+      "assertions_count": 1,
+      "stats": {
+        "total_assertions": 1,
+        "total_sentences": 1,
+        "avg_confidence": 0.8
+      }
+    },
+    {
+      "job_id": "6b2a7c8a-7588-48d5-96f8-7f35d9420c8b",
+      "article_number": "7",
+      "article_id": "2cadf0ce-8fd2-5b6b-abac-4e98e63985ac",
+      "assertions_count": 1,
+      "stats": {
+        "total_assertions": 1,
+        "total_sentences": 1,
+        "avg_confidence": 0.8
+      }
+    },
+    {
+      "job_id": "107a5e80-fa01-4f1b-b0c7-4a0c7d6979c7",
+      "article_number": "8",
+      "article_id": "51e2d70d-a94b-58d8-b0e0-3275a39ad6ed",
+      "assertions_count": 2,
+      "stats": {
+        "total_assertions": 2,
+        "total_sentences": 2,
+        "avg_confidence": 0.5
+      }
+    },
+    {
+      "job_id": "d9c5bf21-22cd-4738-a332-f1ded26ac73f",
+      "article_number": "9",
+      "article_id": "ab3b2016-2d93-58ca-8cbe-a537dcd0ad88",
+      "assertions_count": 2,
+      "stats": {
+        "total_assertions": 2,
+        "total_sentences": 2,
+        "avg_confidence": 0.5
+      }
+    },
+    {
+      "job_id": "36a733f5-5f6c-4e9a-921e-8f6c414f837c",
+      "article_number": "10",
+      "article_id": "c82ec28a-747f-57d9-aeaf-c6f1da6cd0a8",
+      "assertions_count": 2,
+      "stats": {
+        "total_assertions": 2,
+        "total_sentences": 2,
+        "avg_confidence": 0.5
+      }
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "5dc13958-73fe-4fad-be4a-c387b6b361f6",
+      "text": "Prava, obaveze i odgovornosti iz radnog odnosa, odnosno po osnovu rada, uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 169
+    },
+    {
+      "assertion_id": "4656deca-57d5-422c-a9bf-8fbae3ffe046",
+      "text": "Prava, obaveze i odgovornosti iz radnog odnosa uređuju se i kolektivnim ugovorom i ugovorom o radu, a pravilnikom o radu, odnosno ugovorom o radu – samo kada je to ovim zakonom određeno.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 169,
+      "end_char": 355
+    },
+    {
+      "assertion_id": "c6d1954e-3886-47e4-acc3-3ea580a018f6",
+      "text": "Odredbe ovog zakona primenjuju se na zaposlene koji rade na teritoriji Republike Srbije, kod domaćeg ili stranog pravnog, odnosno fizičkog lica (u daljem tekstu: poslodavac), kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 289
+    },
+    {
+      "assertion_id": "851372e8-24ad-4b60-898b-3347134c076e",
+      "text": "Odredbe ovog zakona primenjuju se i na zaposlene u državnim organima, organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 289,
+      "end_char": 469
+    },
+    {
+      "assertion_id": "6db45dbf-bf30-40dc-94b6-c849e2363f26",
+      "text": "Odredbe ovog zakona primenjuju se i na zaposlene kod poslodavaca u oblasti saobraćaja, ako posebnim propisom nije drukčije određeno.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 469,
+      "end_char": 602
+    },
+    {
+      "assertion_id": "e18b6e73-f688-48a6-b6de-e6c8e84c4747",
+      "text": "Odredbe ovog zakona primenjuju se na zaposlene strane državljane i lica bez državljanstva koji rade kod poslodavca na teritoriji Republike Srbije, ako zakonom nije drukčije određeno.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 602,
+      "end_char": 785
+    },
+    {
+      "assertion_id": "47fba83d-ec3e-4868-85b9-77124d64c5f4",
+      "text": "Kolektivnim ugovorom kod poslodavca, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa i međusobni odnosi učesnika kolektivnog ugovora.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 165
+    },
+    {
+      "assertion_id": "df57f4bf-9af0-4633-a35f-59e74b66af06",
+      "text": "Pravilnikom o radu, odnosno ugovorom o radu, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa: 1) ako kod poslodavca nije osnovan sindikat ili nijedan sindikat ne ispunjava uslove reprezentativnosti ili nije zaključen sporazum o udruživanju u skladu sa ovim zakonom; 2) ako nijedan učesnik kolektivnog ugovora ne pokrene inicijativu za početak pregovora radi zaključivanja kolektivnog ugovora; 3) ako učesnici kolektivnog ugovora ne postignu saglasnost za zaključivanje kolektivnog ugovora u roku od 60 dana od dana započinjanja pregovora; 4) ako sindikat, u roku od 15 dana od dana dostavljanja poziva za početak pregovora za zaključivanje kolektivnog ugovora, ne prihvati inicijativu poslodavca.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 165,
+      "end_char": 893
+    },
+    {
+      "assertion_id": "333f6438-6ea2-4477-a754-e5fd143ce90b",
+      "text": "tačka 3) ovog člana učesnici kolektivnog ugovora dužni su da nastave pregovore u dobroj veri.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 915,
+      "end_char": 1009
+    },
+    {
+      "assertion_id": "1a1ece71-da6b-4826-82a3-42e01a9baa20",
+      "text": "tačka 3) ovog člana, poslodavac je dužan da pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 5,
+      "start_char": 1031,
+      "end_char": 1184
+    },
+    {
+      "assertion_id": "4f3b8e07-6504-432d-8c85-9de956e2f35e",
+      "text": "Poslodavac koji ne prihvati inicijativu reprezentativnog sindikata za pristupanje pregovorima za zaključenje kolektivnog ugovora, ne može pravilnikom o radu da uredi prava i obaveze iz radnog odnosa.",
+      "confidence": 1.0,
+      "sentence_index": 6,
+      "start_char": 1184,
+      "end_char": 1384
+    },
+    {
+      "assertion_id": "77996854-17f6-499e-bd2c-d2981d881a9b",
+      "text": "Pravilnik o radu donosi nadležni organ kod poslodavca, utvrđen zakonom, odnosno osnivačkim ili drugim opštim aktom poslodavca, a kod poslodavca koji nema svojstvo pravnog lica donosi ovlašćeno lice u skladu sa zakonom.",
+      "confidence": 0.5,
+      "sentence_index": 7,
+      "start_char": 1384,
+      "end_char": 1603
+    },
+    {
+      "assertion_id": "6c594e63-402d-4cfe-adb7-a09af88985fc",
+      "text": "Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika, autonomna pokrajina ili jedinica lokalne samouprave (u daljem tekstu: javno preduzeće) i društva kapitala čiji je osnivač javno preduzeće, donosi se uz prethodnu saglasnost osnivača.",
+      "confidence": 0.5,
+      "sentence_index": 8,
+      "start_char": 1603,
+      "end_char": 1866
+    },
+    {
+      "assertion_id": "1028990b-313e-44cc-a239-675164ca523d",
+      "text": "Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava 1.",
+      "confidence": 0.5,
+      "sentence_index": 9,
+      "start_char": 1866,
+      "end_char": 1956
+    },
+    {
+      "assertion_id": "f83c2301-c4e5-4e15-ac00-d50e49021112",
+      "text": "Opšti i poseban kolektivni ugovor moraju biti u saglasnosti sa zakonom.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 72
+    },
+    {
+      "assertion_id": "333fcb64-c4c6-4ab7-833d-77f08cf38f17",
+      "text": "Kolektivni ugovor kod poslodavca, pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom, a kod poslodavca iz čl.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 72,
+      "end_char": 201
+    },
+    {
+      "assertion_id": "f24e98a2-7f92-48f6-a177-068097a023c4",
+      "text": "ovog zakona – i sa opštim i posebnim kolektivnim ugovorom.",
+      "confidence": 0.5,
+      "sentence_index": 4,
+      "start_char": 213,
+      "end_char": 271
+    },
+    {
+      "assertion_id": "741f0e3e-43d0-4551-8fdc-9d597c1f5fec",
+      "text": "Zaposleni, u smislu ovog zakona, jeste fizičko lice koje je u radnom odnosu kod poslodavca.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 92
+    },
+    {
+      "assertion_id": "b66c64f0-10c3-405f-9865-0da7e3bab098",
+      "text": "Poslodavac, u smislu ovog zakona, jeste domaće, odnosno strano pravno ili fizičko lice koje zapošljava, odnosno radno angažuje, jedno ili više lica.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 92,
+      "end_char": 240
+    },
+    {
+      "assertion_id": "594c5507-9a96-431b-9eb0-ae99a15b08b6",
+      "text": "Sindikatom, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija zaposlenih u koju se oni dobrovoljno udružuju radi zastupanja, predstavljanja, unapređenja i zaštite svojih profesionalnih, radnih, ekonomskih, socijalnih, kulturnih i drugih pojedinačnih i kolektivnih interesa.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 304
+    },
+    {
+      "assertion_id": "f4f0aa06-a32b-4563-b47d-e133283b9ba7",
+      "text": "Udruženjem poslodavaca, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija u koju poslodavci dobrovoljno stupaju radi predstavljanja, unapređenja i zaštite svojih poslovnih interesa, u skladu sa zakonom.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 233
+    },
+    {
+      "assertion_id": "e44a56a5-8d6f-4701-8827-c10242f646fe",
+      "text": "Kolektivni ugovor i pravilnik o radu (u daljem tekstu: opšti akt) i ugovor o radu ne mogu da sadrže odredbe kojima se zaposlenom daju manja prava ili utvrđuju nepovoljniji uslovi rada od prava i uslova koji su utvrđeni zakonom.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 228
+    },
+    {
+      "assertion_id": "e3ca411a-debb-4853-8417-c1ba465007c0",
+      "text": "Opštim aktom i ugovorom o radu mogu da se utvrde veća prava i povoljniji uslovi rada od prava i uslova utvrđenih zakonom, kao i druga prava koja nisu utvrđena zakonom, osim ako zakonom nije drukčije određeno.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 228,
+      "end_char": 436
+    },
+    {
+      "assertion_id": "975c5532-6977-48c6-8dc0-3d294b7347ce",
+      "text": "Ako opšti akt i pojedine njegove odredbe utvrđuju nepovoljnije uslove rada od uslova utvrđenih zakonom, primenjuju se odredbe zakona.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 134
+    },
+    {
+      "assertion_id": "0eb16015-683b-400b-a71e-9d72b2bc2814",
+      "text": "Pojedine odredbe ugovora o radu kojima su utvrđeni nepovoljniji uslovi rada od uslova utvrđenih zakonom i opštim aktom, odnosno koje se zasnivaju na netačnom obaveštenju od strane poslodavca o pojedinim pravima, obavezama i odgovornostima zaposlenog – ništave su.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 134,
+      "end_char": 397
+    },
+    {
+      "assertion_id": "60a203c2-65ea-4db3-944f-d65195d41b45",
+      "text": "Posebnim kolektivnim ugovorom ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim kolektivnim ugovorom koji obavezuje poslodavce koji su članovi udruženja poslodavaca koje zaključuje taj poseban kolektivni ugovor.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 267
+    },
+    {
+      "assertion_id": "28a8a714-702d-4f1c-b77c-fd702775b723",
+      "text": "Kolektivnim ugovorom kod poslodavca ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim, odnosno posebnim kolektivnim ugovorom koji obavezuje tog poslodavca.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 267,
+      "end_char": 477
+    }
+  ]
+}

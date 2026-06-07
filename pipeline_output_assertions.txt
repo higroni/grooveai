@@ -1,0 +1,1150 @@
+================================================================================
+EXTRACTED ASSERTIONS FROM LEGAL DOCUMENT
+================================================================================
+
+Source: D:/POSAO/OllamaProjects/GROOVE.AI/DOCUMENTS/DEV/onedoc/radni_odnosi_0001_000001.pdf
+Total Articles Processed: 10
+Total Assertions Extracted: 27
+
+================================================================================
+
+ARTICLE 1
+Assertions: 2
+Average Confidence: 0.50
+--------------------------------------------------------------------------------
+
+1. Prava, obaveze i odgovornosti iz radnog odnosa, odnosno po osnovu rada, uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama.
+   Confidence: 0.50
+   ID: 5dc13958-73fe-4fad-be4a-c387b6b361f6
+
+2. Prava, obaveze i odgovornosti iz radnog odnosa uređuju se i kolektivnim ugovorom i ugovorom o radu, a pravilnikom o radu, odnosno ugovorom o radu – samo kada je to ovim zakonom određeno.
+   Confidence: 0.50
+   ID: 4656deca-57d5-422c-a9bf-8fbae3ffe046
+
+3. Odredbe ovog zakona primenjuju se na zaposlene koji rade na teritoriji Republike Srbije, kod domaćeg ili stranog pravnog, odnosno fizičkog lica (u daljem tekstu: poslodavac), kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: c6d1954e-3886-47e4-acc3-3ea580a018f6
+
+4. Odredbe ovog zakona primenjuju se i na zaposlene u državnim organima, organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 851372e8-24ad-4b60-898b-3347134c076e
+
+5. Odredbe ovog zakona primenjuju se i na zaposlene kod poslodavaca u oblasti saobraćaja, ako posebnim propisom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 6db45dbf-bf30-40dc-94b6-c849e2363f26
+
+6. Odredbe ovog zakona primenjuju se na zaposlene strane državljane i lica bez državljanstva koji rade kod poslodavca na teritoriji Republike Srbije, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e18b6e73-f688-48a6-b6de-e6c8e84c4747
+
+7. Kolektivnim ugovorom kod poslodavca, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa i međusobni odnosi učesnika kolektivnog ugovora.
+   Confidence: 0.50
+   ID: 47fba83d-ec3e-4868-85b9-77124d64c5f4
+
+8. Pravilnikom o radu, odnosno ugovorom o radu, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa: 1) ako kod poslodavca nije osnovan sindikat ili nijedan sindikat ne ispunjava uslove reprezentativnosti ili nije zaključen sporazum o udruživanju u skladu sa ovim zakonom; 2) ako nijedan učesnik kolektivnog ugovora ne pokrene inicijativu za početak pregovora radi zaključivanja kolektivnog ugovora; 3) ako učesnici kolektivnog ugovora ne postignu saglasnost za zaključivanje kolektivnog ugovora u roku od 60 dana od dana započinjanja pregovora; 4) ako sindikat, u roku od 15 dana od dana dostavljanja poziva za početak pregovora za zaključivanje kolektivnog ugovora, ne prihvati inicijativu poslodavca.
+   Confidence: 0.50
+   ID: df57f4bf-9af0-4633-a35f-59e74b66af06
+
+9. tačka 3) ovog člana učesnici kolektivnog ugovora dužni su da nastave pregovore u dobroj veri.
+   Confidence: 0.50
+   ID: 333f6438-6ea2-4477-a754-e5fd143ce90b
+
+10. tačka 3) ovog člana, poslodavac je dužan da pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu.
+   Confidence: 0.80
+   ID: 1a1ece71-da6b-4826-82a3-42e01a9baa20
+
+11. Poslodavac koji ne prihvati inicijativu reprezentativnog sindikata za pristupanje pregovorima za zaključenje kolektivnog ugovora, ne može pravilnikom o radu da uredi prava i obaveze iz radnog odnosa.
+   Confidence: 1.00
+   ID: 4f3b8e07-6504-432d-8c85-9de956e2f35e
+
+12. Pravilnik o radu donosi nadležni organ kod poslodavca, utvrđen zakonom, odnosno osnivačkim ili drugim opštim aktom poslodavca, a kod poslodavca koji nema svojstvo pravnog lica donosi ovlašćeno lice u skladu sa zakonom.
+   Confidence: 0.50
+   ID: 77996854-17f6-499e-bd2c-d2981d881a9b
+
+13. Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika, autonomna pokrajina ili jedinica lokalne samouprave (u daljem tekstu: javno preduzeće) i društva kapitala čiji je osnivač javno preduzeće, donosi se uz prethodnu saglasnost osnivača.
+   Confidence: 0.50
+   ID: 6c594e63-402d-4cfe-adb7-a09af88985fc
+
+14. Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava 1.
+   Confidence: 0.50
+   ID: 1028990b-313e-44cc-a239-675164ca523d
+
+15. Opšti i poseban kolektivni ugovor moraju biti u saglasnosti sa zakonom.
+   Confidence: 0.50
+   ID: f83c2301-c4e5-4e15-ac00-d50e49021112
+
+16. Kolektivni ugovor kod poslodavca, pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom, a kod poslodavca iz čl.
+   Confidence: 0.50
+   ID: 333fcb64-c4c6-4ab7-833d-77f08cf38f17
+
+17. ovog zakona – i sa opštim i posebnim kolektivnim ugovorom.
+   Confidence: 0.50
+   ID: f24e98a2-7f92-48f6-a177-068097a023c4
+
+18. Zaposleni, u smislu ovog zakona, jeste fizičko lice koje je u radnom odnosu kod poslodavca.
+   Confidence: 0.50
+   ID: 741f0e3e-43d0-4551-8fdc-9d597c1f5fec
+
+19. Poslodavac, u smislu ovog zakona, jeste domaće, odnosno strano pravno ili fizičko lice koje zapošljava, odnosno radno angažuje, jedno ili više lica.
+   Confidence: 0.50
+   ID: b66c64f0-10c3-405f-9865-0da7e3bab098
+
+20. Sindikatom, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija zaposlenih u koju se oni dobrovoljno udružuju radi zastupanja, predstavljanja, unapređenja i zaštite svojih profesionalnih, radnih, ekonomskih, socijalnih, kulturnih i drugih pojedinačnih i kolektivnih interesa.
+   Confidence: 0.80
+   ID: 594c5507-9a96-431b-9eb0-ae99a15b08b6
+
+21. Udruženjem poslodavaca, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija u koju poslodavci dobrovoljno stupaju radi predstavljanja, unapređenja i zaštite svojih poslovnih interesa, u skladu sa zakonom.
+   Confidence: 0.80
+   ID: f4f0aa06-a32b-4563-b47d-e133283b9ba7
+
+22. Kolektivni ugovor i pravilnik o radu (u daljem tekstu: opšti akt) i ugovor o radu ne mogu da sadrže odredbe kojima se zaposlenom daju manja prava ili utvrđuju nepovoljniji uslovi rada od prava i uslova koji su utvrđeni zakonom.
+   Confidence: 0.50
+   ID: e44a56a5-8d6f-4701-8827-c10242f646fe
+
+23. Opštim aktom i ugovorom o radu mogu da se utvrde veća prava i povoljniji uslovi rada od prava i uslova utvrđenih zakonom, kao i druga prava koja nisu utvrđena zakonom, osim ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e3ca411a-debb-4853-8417-c1ba465007c0
+
+24. Ako opšti akt i pojedine njegove odredbe utvrđuju nepovoljnije uslove rada od uslova utvrđenih zakonom, primenjuju se odredbe zakona.
+   Confidence: 0.50
+   ID: 975c5532-6977-48c6-8dc0-3d294b7347ce
+
+25. Pojedine odredbe ugovora o radu kojima su utvrđeni nepovoljniji uslovi rada od uslova utvrđenih zakonom i opštim aktom, odnosno koje se zasnivaju na netačnom obaveštenju od strane poslodavca o pojedinim pravima, obavezama i odgovornostima zaposlenog – ništave su.
+   Confidence: 0.50
+   ID: 0eb16015-683b-400b-a71e-9d72b2bc2814
+
+26. Posebnim kolektivnim ugovorom ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim kolektivnim ugovorom koji obavezuje poslodavce koji su članovi udruženja poslodavaca koje zaključuje taj poseban kolektivni ugovor.
+   Confidence: 0.50
+   ID: 60a203c2-65ea-4db3-944f-d65195d41b45
+
+27. Kolektivnim ugovorom kod poslodavca ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim, odnosno posebnim kolektivnim ugovorom koji obavezuje tog poslodavca.
+   Confidence: 0.50
+   ID: 28a8a714-702d-4f1c-b77c-fd702775b723
+
+
+ARTICLE 2
+Assertions: 4
+Average Confidence: 0.50
+--------------------------------------------------------------------------------
+
+1. Prava, obaveze i odgovornosti iz radnog odnosa, odnosno po osnovu rada, uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama.
+   Confidence: 0.50
+   ID: 5dc13958-73fe-4fad-be4a-c387b6b361f6
+
+2. Prava, obaveze i odgovornosti iz radnog odnosa uređuju se i kolektivnim ugovorom i ugovorom o radu, a pravilnikom o radu, odnosno ugovorom o radu – samo kada je to ovim zakonom određeno.
+   Confidence: 0.50
+   ID: 4656deca-57d5-422c-a9bf-8fbae3ffe046
+
+3. Odredbe ovog zakona primenjuju se na zaposlene koji rade na teritoriji Republike Srbije, kod domaćeg ili stranog pravnog, odnosno fizičkog lica (u daljem tekstu: poslodavac), kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: c6d1954e-3886-47e4-acc3-3ea580a018f6
+
+4. Odredbe ovog zakona primenjuju se i na zaposlene u državnim organima, organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 851372e8-24ad-4b60-898b-3347134c076e
+
+5. Odredbe ovog zakona primenjuju se i na zaposlene kod poslodavaca u oblasti saobraćaja, ako posebnim propisom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 6db45dbf-bf30-40dc-94b6-c849e2363f26
+
+6. Odredbe ovog zakona primenjuju se na zaposlene strane državljane i lica bez državljanstva koji rade kod poslodavca na teritoriji Republike Srbije, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e18b6e73-f688-48a6-b6de-e6c8e84c4747
+
+7. Kolektivnim ugovorom kod poslodavca, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa i međusobni odnosi učesnika kolektivnog ugovora.
+   Confidence: 0.50
+   ID: 47fba83d-ec3e-4868-85b9-77124d64c5f4
+
+8. Pravilnikom o radu, odnosno ugovorom o radu, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa: 1) ako kod poslodavca nije osnovan sindikat ili nijedan sindikat ne ispunjava uslove reprezentativnosti ili nije zaključen sporazum o udruživanju u skladu sa ovim zakonom; 2) ako nijedan učesnik kolektivnog ugovora ne pokrene inicijativu za početak pregovora radi zaključivanja kolektivnog ugovora; 3) ako učesnici kolektivnog ugovora ne postignu saglasnost za zaključivanje kolektivnog ugovora u roku od 60 dana od dana započinjanja pregovora; 4) ako sindikat, u roku od 15 dana od dana dostavljanja poziva za početak pregovora za zaključivanje kolektivnog ugovora, ne prihvati inicijativu poslodavca.
+   Confidence: 0.50
+   ID: df57f4bf-9af0-4633-a35f-59e74b66af06
+
+9. tačka 3) ovog člana učesnici kolektivnog ugovora dužni su da nastave pregovore u dobroj veri.
+   Confidence: 0.50
+   ID: 333f6438-6ea2-4477-a754-e5fd143ce90b
+
+10. tačka 3) ovog člana, poslodavac je dužan da pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu.
+   Confidence: 0.80
+   ID: 1a1ece71-da6b-4826-82a3-42e01a9baa20
+
+11. Poslodavac koji ne prihvati inicijativu reprezentativnog sindikata za pristupanje pregovorima za zaključenje kolektivnog ugovora, ne može pravilnikom o radu da uredi prava i obaveze iz radnog odnosa.
+   Confidence: 1.00
+   ID: 4f3b8e07-6504-432d-8c85-9de956e2f35e
+
+12. Pravilnik o radu donosi nadležni organ kod poslodavca, utvrđen zakonom, odnosno osnivačkim ili drugim opštim aktom poslodavca, a kod poslodavca koji nema svojstvo pravnog lica donosi ovlašćeno lice u skladu sa zakonom.
+   Confidence: 0.50
+   ID: 77996854-17f6-499e-bd2c-d2981d881a9b
+
+13. Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika, autonomna pokrajina ili jedinica lokalne samouprave (u daljem tekstu: javno preduzeće) i društva kapitala čiji je osnivač javno preduzeće, donosi se uz prethodnu saglasnost osnivača.
+   Confidence: 0.50
+   ID: 6c594e63-402d-4cfe-adb7-a09af88985fc
+
+14. Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava 1.
+   Confidence: 0.50
+   ID: 1028990b-313e-44cc-a239-675164ca523d
+
+15. Opšti i poseban kolektivni ugovor moraju biti u saglasnosti sa zakonom.
+   Confidence: 0.50
+   ID: f83c2301-c4e5-4e15-ac00-d50e49021112
+
+16. Kolektivni ugovor kod poslodavca, pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom, a kod poslodavca iz čl.
+   Confidence: 0.50
+   ID: 333fcb64-c4c6-4ab7-833d-77f08cf38f17
+
+17. ovog zakona – i sa opštim i posebnim kolektivnim ugovorom.
+   Confidence: 0.50
+   ID: f24e98a2-7f92-48f6-a177-068097a023c4
+
+18. Zaposleni, u smislu ovog zakona, jeste fizičko lice koje je u radnom odnosu kod poslodavca.
+   Confidence: 0.50
+   ID: 741f0e3e-43d0-4551-8fdc-9d597c1f5fec
+
+19. Poslodavac, u smislu ovog zakona, jeste domaće, odnosno strano pravno ili fizičko lice koje zapošljava, odnosno radno angažuje, jedno ili više lica.
+   Confidence: 0.50
+   ID: b66c64f0-10c3-405f-9865-0da7e3bab098
+
+20. Sindikatom, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija zaposlenih u koju se oni dobrovoljno udružuju radi zastupanja, predstavljanja, unapređenja i zaštite svojih profesionalnih, radnih, ekonomskih, socijalnih, kulturnih i drugih pojedinačnih i kolektivnih interesa.
+   Confidence: 0.80
+   ID: 594c5507-9a96-431b-9eb0-ae99a15b08b6
+
+21. Udruženjem poslodavaca, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija u koju poslodavci dobrovoljno stupaju radi predstavljanja, unapređenja i zaštite svojih poslovnih interesa, u skladu sa zakonom.
+   Confidence: 0.80
+   ID: f4f0aa06-a32b-4563-b47d-e133283b9ba7
+
+22. Kolektivni ugovor i pravilnik o radu (u daljem tekstu: opšti akt) i ugovor o radu ne mogu da sadrže odredbe kojima se zaposlenom daju manja prava ili utvrđuju nepovoljniji uslovi rada od prava i uslova koji su utvrđeni zakonom.
+   Confidence: 0.50
+   ID: e44a56a5-8d6f-4701-8827-c10242f646fe
+
+23. Opštim aktom i ugovorom o radu mogu da se utvrde veća prava i povoljniji uslovi rada od prava i uslova utvrđenih zakonom, kao i druga prava koja nisu utvrđena zakonom, osim ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e3ca411a-debb-4853-8417-c1ba465007c0
+
+24. Ako opšti akt i pojedine njegove odredbe utvrđuju nepovoljnije uslove rada od uslova utvrđenih zakonom, primenjuju se odredbe zakona.
+   Confidence: 0.50
+   ID: 975c5532-6977-48c6-8dc0-3d294b7347ce
+
+25. Pojedine odredbe ugovora o radu kojima su utvrđeni nepovoljniji uslovi rada od uslova utvrđenih zakonom i opštim aktom, odnosno koje se zasnivaju na netačnom obaveštenju od strane poslodavca o pojedinim pravima, obavezama i odgovornostima zaposlenog – ništave su.
+   Confidence: 0.50
+   ID: 0eb16015-683b-400b-a71e-9d72b2bc2814
+
+26. Posebnim kolektivnim ugovorom ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim kolektivnim ugovorom koji obavezuje poslodavce koji su članovi udruženja poslodavaca koje zaključuje taj poseban kolektivni ugovor.
+   Confidence: 0.50
+   ID: 60a203c2-65ea-4db3-944f-d65195d41b45
+
+27. Kolektivnim ugovorom kod poslodavca ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim, odnosno posebnim kolektivnim ugovorom koji obavezuje tog poslodavca.
+   Confidence: 0.50
+   ID: 28a8a714-702d-4f1c-b77c-fd702775b723
+
+
+ARTICLE 3
+Assertions: 8
+Average Confidence: 0.60
+--------------------------------------------------------------------------------
+
+1. Prava, obaveze i odgovornosti iz radnog odnosa, odnosno po osnovu rada, uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama.
+   Confidence: 0.50
+   ID: 5dc13958-73fe-4fad-be4a-c387b6b361f6
+
+2. Prava, obaveze i odgovornosti iz radnog odnosa uređuju se i kolektivnim ugovorom i ugovorom o radu, a pravilnikom o radu, odnosno ugovorom o radu – samo kada je to ovim zakonom određeno.
+   Confidence: 0.50
+   ID: 4656deca-57d5-422c-a9bf-8fbae3ffe046
+
+3. Odredbe ovog zakona primenjuju se na zaposlene koji rade na teritoriji Republike Srbije, kod domaćeg ili stranog pravnog, odnosno fizičkog lica (u daljem tekstu: poslodavac), kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: c6d1954e-3886-47e4-acc3-3ea580a018f6
+
+4. Odredbe ovog zakona primenjuju se i na zaposlene u državnim organima, organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 851372e8-24ad-4b60-898b-3347134c076e
+
+5. Odredbe ovog zakona primenjuju se i na zaposlene kod poslodavaca u oblasti saobraćaja, ako posebnim propisom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 6db45dbf-bf30-40dc-94b6-c849e2363f26
+
+6. Odredbe ovog zakona primenjuju se na zaposlene strane državljane i lica bez državljanstva koji rade kod poslodavca na teritoriji Republike Srbije, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e18b6e73-f688-48a6-b6de-e6c8e84c4747
+
+7. Kolektivnim ugovorom kod poslodavca, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa i međusobni odnosi učesnika kolektivnog ugovora.
+   Confidence: 0.50
+   ID: 47fba83d-ec3e-4868-85b9-77124d64c5f4
+
+8. Pravilnikom o radu, odnosno ugovorom o radu, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa: 1) ako kod poslodavca nije osnovan sindikat ili nijedan sindikat ne ispunjava uslove reprezentativnosti ili nije zaključen sporazum o udruživanju u skladu sa ovim zakonom; 2) ako nijedan učesnik kolektivnog ugovora ne pokrene inicijativu za početak pregovora radi zaključivanja kolektivnog ugovora; 3) ako učesnici kolektivnog ugovora ne postignu saglasnost za zaključivanje kolektivnog ugovora u roku od 60 dana od dana započinjanja pregovora; 4) ako sindikat, u roku od 15 dana od dana dostavljanja poziva za početak pregovora za zaključivanje kolektivnog ugovora, ne prihvati inicijativu poslodavca.
+   Confidence: 0.50
+   ID: df57f4bf-9af0-4633-a35f-59e74b66af06
+
+9. tačka 3) ovog člana učesnici kolektivnog ugovora dužni su da nastave pregovore u dobroj veri.
+   Confidence: 0.50
+   ID: 333f6438-6ea2-4477-a754-e5fd143ce90b
+
+10. tačka 3) ovog člana, poslodavac je dužan da pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu.
+   Confidence: 0.80
+   ID: 1a1ece71-da6b-4826-82a3-42e01a9baa20
+
+11. Poslodavac koji ne prihvati inicijativu reprezentativnog sindikata za pristupanje pregovorima za zaključenje kolektivnog ugovora, ne može pravilnikom o radu da uredi prava i obaveze iz radnog odnosa.
+   Confidence: 1.00
+   ID: 4f3b8e07-6504-432d-8c85-9de956e2f35e
+
+12. Pravilnik o radu donosi nadležni organ kod poslodavca, utvrđen zakonom, odnosno osnivačkim ili drugim opštim aktom poslodavca, a kod poslodavca koji nema svojstvo pravnog lica donosi ovlašćeno lice u skladu sa zakonom.
+   Confidence: 0.50
+   ID: 77996854-17f6-499e-bd2c-d2981d881a9b
+
+13. Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika, autonomna pokrajina ili jedinica lokalne samouprave (u daljem tekstu: javno preduzeće) i društva kapitala čiji je osnivač javno preduzeće, donosi se uz prethodnu saglasnost osnivača.
+   Confidence: 0.50
+   ID: 6c594e63-402d-4cfe-adb7-a09af88985fc
+
+14. Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava 1.
+   Confidence: 0.50
+   ID: 1028990b-313e-44cc-a239-675164ca523d
+
+15. Opšti i poseban kolektivni ugovor moraju biti u saglasnosti sa zakonom.
+   Confidence: 0.50
+   ID: f83c2301-c4e5-4e15-ac00-d50e49021112
+
+16. Kolektivni ugovor kod poslodavca, pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom, a kod poslodavca iz čl.
+   Confidence: 0.50
+   ID: 333fcb64-c4c6-4ab7-833d-77f08cf38f17
+
+17. ovog zakona – i sa opštim i posebnim kolektivnim ugovorom.
+   Confidence: 0.50
+   ID: f24e98a2-7f92-48f6-a177-068097a023c4
+
+18. Zaposleni, u smislu ovog zakona, jeste fizičko lice koje je u radnom odnosu kod poslodavca.
+   Confidence: 0.50
+   ID: 741f0e3e-43d0-4551-8fdc-9d597c1f5fec
+
+19. Poslodavac, u smislu ovog zakona, jeste domaće, odnosno strano pravno ili fizičko lice koje zapošljava, odnosno radno angažuje, jedno ili više lica.
+   Confidence: 0.50
+   ID: b66c64f0-10c3-405f-9865-0da7e3bab098
+
+20. Sindikatom, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija zaposlenih u koju se oni dobrovoljno udružuju radi zastupanja, predstavljanja, unapređenja i zaštite svojih profesionalnih, radnih, ekonomskih, socijalnih, kulturnih i drugih pojedinačnih i kolektivnih interesa.
+   Confidence: 0.80
+   ID: 594c5507-9a96-431b-9eb0-ae99a15b08b6
+
+21. Udruženjem poslodavaca, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija u koju poslodavci dobrovoljno stupaju radi predstavljanja, unapređenja i zaštite svojih poslovnih interesa, u skladu sa zakonom.
+   Confidence: 0.80
+   ID: f4f0aa06-a32b-4563-b47d-e133283b9ba7
+
+22. Kolektivni ugovor i pravilnik o radu (u daljem tekstu: opšti akt) i ugovor o radu ne mogu da sadrže odredbe kojima se zaposlenom daju manja prava ili utvrđuju nepovoljniji uslovi rada od prava i uslova koji su utvrđeni zakonom.
+   Confidence: 0.50
+   ID: e44a56a5-8d6f-4701-8827-c10242f646fe
+
+23. Opštim aktom i ugovorom o radu mogu da se utvrde veća prava i povoljniji uslovi rada od prava i uslova utvrđenih zakonom, kao i druga prava koja nisu utvrđena zakonom, osim ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e3ca411a-debb-4853-8417-c1ba465007c0
+
+24. Ako opšti akt i pojedine njegove odredbe utvrđuju nepovoljnije uslove rada od uslova utvrđenih zakonom, primenjuju se odredbe zakona.
+   Confidence: 0.50
+   ID: 975c5532-6977-48c6-8dc0-3d294b7347ce
+
+25. Pojedine odredbe ugovora o radu kojima su utvrđeni nepovoljniji uslovi rada od uslova utvrđenih zakonom i opštim aktom, odnosno koje se zasnivaju na netačnom obaveštenju od strane poslodavca o pojedinim pravima, obavezama i odgovornostima zaposlenog – ništave su.
+   Confidence: 0.50
+   ID: 0eb16015-683b-400b-a71e-9d72b2bc2814
+
+26. Posebnim kolektivnim ugovorom ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim kolektivnim ugovorom koji obavezuje poslodavce koji su članovi udruženja poslodavaca koje zaključuje taj poseban kolektivni ugovor.
+   Confidence: 0.50
+   ID: 60a203c2-65ea-4db3-944f-d65195d41b45
+
+27. Kolektivnim ugovorom kod poslodavca ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim, odnosno posebnim kolektivnim ugovorom koji obavezuje tog poslodavca.
+   Confidence: 0.50
+   ID: 28a8a714-702d-4f1c-b77c-fd702775b723
+
+
+ARTICLE 4
+Assertions: 3
+Average Confidence: 0.50
+--------------------------------------------------------------------------------
+
+1. Prava, obaveze i odgovornosti iz radnog odnosa, odnosno po osnovu rada, uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama.
+   Confidence: 0.50
+   ID: 5dc13958-73fe-4fad-be4a-c387b6b361f6
+
+2. Prava, obaveze i odgovornosti iz radnog odnosa uređuju se i kolektivnim ugovorom i ugovorom o radu, a pravilnikom o radu, odnosno ugovorom o radu – samo kada je to ovim zakonom određeno.
+   Confidence: 0.50
+   ID: 4656deca-57d5-422c-a9bf-8fbae3ffe046
+
+3. Odredbe ovog zakona primenjuju se na zaposlene koji rade na teritoriji Republike Srbije, kod domaćeg ili stranog pravnog, odnosno fizičkog lica (u daljem tekstu: poslodavac), kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: c6d1954e-3886-47e4-acc3-3ea580a018f6
+
+4. Odredbe ovog zakona primenjuju se i na zaposlene u državnim organima, organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 851372e8-24ad-4b60-898b-3347134c076e
+
+5. Odredbe ovog zakona primenjuju se i na zaposlene kod poslodavaca u oblasti saobraćaja, ako posebnim propisom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 6db45dbf-bf30-40dc-94b6-c849e2363f26
+
+6. Odredbe ovog zakona primenjuju se na zaposlene strane državljane i lica bez državljanstva koji rade kod poslodavca na teritoriji Republike Srbije, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e18b6e73-f688-48a6-b6de-e6c8e84c4747
+
+7. Kolektivnim ugovorom kod poslodavca, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa i međusobni odnosi učesnika kolektivnog ugovora.
+   Confidence: 0.50
+   ID: 47fba83d-ec3e-4868-85b9-77124d64c5f4
+
+8. Pravilnikom o radu, odnosno ugovorom o radu, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa: 1) ako kod poslodavca nije osnovan sindikat ili nijedan sindikat ne ispunjava uslove reprezentativnosti ili nije zaključen sporazum o udruživanju u skladu sa ovim zakonom; 2) ako nijedan učesnik kolektivnog ugovora ne pokrene inicijativu za početak pregovora radi zaključivanja kolektivnog ugovora; 3) ako učesnici kolektivnog ugovora ne postignu saglasnost za zaključivanje kolektivnog ugovora u roku od 60 dana od dana započinjanja pregovora; 4) ako sindikat, u roku od 15 dana od dana dostavljanja poziva za početak pregovora za zaključivanje kolektivnog ugovora, ne prihvati inicijativu poslodavca.
+   Confidence: 0.50
+   ID: df57f4bf-9af0-4633-a35f-59e74b66af06
+
+9. tačka 3) ovog člana učesnici kolektivnog ugovora dužni su da nastave pregovore u dobroj veri.
+   Confidence: 0.50
+   ID: 333f6438-6ea2-4477-a754-e5fd143ce90b
+
+10. tačka 3) ovog člana, poslodavac je dužan da pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu.
+   Confidence: 0.80
+   ID: 1a1ece71-da6b-4826-82a3-42e01a9baa20
+
+11. Poslodavac koji ne prihvati inicijativu reprezentativnog sindikata za pristupanje pregovorima za zaključenje kolektivnog ugovora, ne može pravilnikom o radu da uredi prava i obaveze iz radnog odnosa.
+   Confidence: 1.00
+   ID: 4f3b8e07-6504-432d-8c85-9de956e2f35e
+
+12. Pravilnik o radu donosi nadležni organ kod poslodavca, utvrđen zakonom, odnosno osnivačkim ili drugim opštim aktom poslodavca, a kod poslodavca koji nema svojstvo pravnog lica donosi ovlašćeno lice u skladu sa zakonom.
+   Confidence: 0.50
+   ID: 77996854-17f6-499e-bd2c-d2981d881a9b
+
+13. Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika, autonomna pokrajina ili jedinica lokalne samouprave (u daljem tekstu: javno preduzeće) i društva kapitala čiji je osnivač javno preduzeće, donosi se uz prethodnu saglasnost osnivača.
+   Confidence: 0.50
+   ID: 6c594e63-402d-4cfe-adb7-a09af88985fc
+
+14. Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava 1.
+   Confidence: 0.50
+   ID: 1028990b-313e-44cc-a239-675164ca523d
+
+15. Opšti i poseban kolektivni ugovor moraju biti u saglasnosti sa zakonom.
+   Confidence: 0.50
+   ID: f83c2301-c4e5-4e15-ac00-d50e49021112
+
+16. Kolektivni ugovor kod poslodavca, pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom, a kod poslodavca iz čl.
+   Confidence: 0.50
+   ID: 333fcb64-c4c6-4ab7-833d-77f08cf38f17
+
+17. ovog zakona – i sa opštim i posebnim kolektivnim ugovorom.
+   Confidence: 0.50
+   ID: f24e98a2-7f92-48f6-a177-068097a023c4
+
+18. Zaposleni, u smislu ovog zakona, jeste fizičko lice koje je u radnom odnosu kod poslodavca.
+   Confidence: 0.50
+   ID: 741f0e3e-43d0-4551-8fdc-9d597c1f5fec
+
+19. Poslodavac, u smislu ovog zakona, jeste domaće, odnosno strano pravno ili fizičko lice koje zapošljava, odnosno radno angažuje, jedno ili više lica.
+   Confidence: 0.50
+   ID: b66c64f0-10c3-405f-9865-0da7e3bab098
+
+20. Sindikatom, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija zaposlenih u koju se oni dobrovoljno udružuju radi zastupanja, predstavljanja, unapređenja i zaštite svojih profesionalnih, radnih, ekonomskih, socijalnih, kulturnih i drugih pojedinačnih i kolektivnih interesa.
+   Confidence: 0.80
+   ID: 594c5507-9a96-431b-9eb0-ae99a15b08b6
+
+21. Udruženjem poslodavaca, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija u koju poslodavci dobrovoljno stupaju radi predstavljanja, unapređenja i zaštite svojih poslovnih interesa, u skladu sa zakonom.
+   Confidence: 0.80
+   ID: f4f0aa06-a32b-4563-b47d-e133283b9ba7
+
+22. Kolektivni ugovor i pravilnik o radu (u daljem tekstu: opšti akt) i ugovor o radu ne mogu da sadrže odredbe kojima se zaposlenom daju manja prava ili utvrđuju nepovoljniji uslovi rada od prava i uslova koji su utvrđeni zakonom.
+   Confidence: 0.50
+   ID: e44a56a5-8d6f-4701-8827-c10242f646fe
+
+23. Opštim aktom i ugovorom o radu mogu da se utvrde veća prava i povoljniji uslovi rada od prava i uslova utvrđenih zakonom, kao i druga prava koja nisu utvrđena zakonom, osim ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e3ca411a-debb-4853-8417-c1ba465007c0
+
+24. Ako opšti akt i pojedine njegove odredbe utvrđuju nepovoljnije uslove rada od uslova utvrđenih zakonom, primenjuju se odredbe zakona.
+   Confidence: 0.50
+   ID: 975c5532-6977-48c6-8dc0-3d294b7347ce
+
+25. Pojedine odredbe ugovora o radu kojima su utvrđeni nepovoljniji uslovi rada od uslova utvrđenih zakonom i opštim aktom, odnosno koje se zasnivaju na netačnom obaveštenju od strane poslodavca o pojedinim pravima, obavezama i odgovornostima zaposlenog – ništave su.
+   Confidence: 0.50
+   ID: 0eb16015-683b-400b-a71e-9d72b2bc2814
+
+26. Posebnim kolektivnim ugovorom ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim kolektivnim ugovorom koji obavezuje poslodavce koji su članovi udruženja poslodavaca koje zaključuje taj poseban kolektivni ugovor.
+   Confidence: 0.50
+   ID: 60a203c2-65ea-4db3-944f-d65195d41b45
+
+27. Kolektivnim ugovorom kod poslodavca ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim, odnosno posebnim kolektivnim ugovorom koji obavezuje tog poslodavca.
+   Confidence: 0.50
+   ID: 28a8a714-702d-4f1c-b77c-fd702775b723
+
+
+ARTICLE 5
+Assertions: 2
+Average Confidence: 0.50
+--------------------------------------------------------------------------------
+
+1. Prava, obaveze i odgovornosti iz radnog odnosa, odnosno po osnovu rada, uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama.
+   Confidence: 0.50
+   ID: 5dc13958-73fe-4fad-be4a-c387b6b361f6
+
+2. Prava, obaveze i odgovornosti iz radnog odnosa uređuju se i kolektivnim ugovorom i ugovorom o radu, a pravilnikom o radu, odnosno ugovorom o radu – samo kada je to ovim zakonom određeno.
+   Confidence: 0.50
+   ID: 4656deca-57d5-422c-a9bf-8fbae3ffe046
+
+3. Odredbe ovog zakona primenjuju se na zaposlene koji rade na teritoriji Republike Srbije, kod domaćeg ili stranog pravnog, odnosno fizičkog lica (u daljem tekstu: poslodavac), kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: c6d1954e-3886-47e4-acc3-3ea580a018f6
+
+4. Odredbe ovog zakona primenjuju se i na zaposlene u državnim organima, organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 851372e8-24ad-4b60-898b-3347134c076e
+
+5. Odredbe ovog zakona primenjuju se i na zaposlene kod poslodavaca u oblasti saobraćaja, ako posebnim propisom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 6db45dbf-bf30-40dc-94b6-c849e2363f26
+
+6. Odredbe ovog zakona primenjuju se na zaposlene strane državljane i lica bez državljanstva koji rade kod poslodavca na teritoriji Republike Srbije, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e18b6e73-f688-48a6-b6de-e6c8e84c4747
+
+7. Kolektivnim ugovorom kod poslodavca, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa i međusobni odnosi učesnika kolektivnog ugovora.
+   Confidence: 0.50
+   ID: 47fba83d-ec3e-4868-85b9-77124d64c5f4
+
+8. Pravilnikom o radu, odnosno ugovorom o radu, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa: 1) ako kod poslodavca nije osnovan sindikat ili nijedan sindikat ne ispunjava uslove reprezentativnosti ili nije zaključen sporazum o udruživanju u skladu sa ovim zakonom; 2) ako nijedan učesnik kolektivnog ugovora ne pokrene inicijativu za početak pregovora radi zaključivanja kolektivnog ugovora; 3) ako učesnici kolektivnog ugovora ne postignu saglasnost za zaključivanje kolektivnog ugovora u roku od 60 dana od dana započinjanja pregovora; 4) ako sindikat, u roku od 15 dana od dana dostavljanja poziva za početak pregovora za zaključivanje kolektivnog ugovora, ne prihvati inicijativu poslodavca.
+   Confidence: 0.50
+   ID: df57f4bf-9af0-4633-a35f-59e74b66af06
+
+9. tačka 3) ovog člana učesnici kolektivnog ugovora dužni su da nastave pregovore u dobroj veri.
+   Confidence: 0.50
+   ID: 333f6438-6ea2-4477-a754-e5fd143ce90b
+
+10. tačka 3) ovog člana, poslodavac je dužan da pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu.
+   Confidence: 0.80
+   ID: 1a1ece71-da6b-4826-82a3-42e01a9baa20
+
+11. Poslodavac koji ne prihvati inicijativu reprezentativnog sindikata za pristupanje pregovorima za zaključenje kolektivnog ugovora, ne može pravilnikom o radu da uredi prava i obaveze iz radnog odnosa.
+   Confidence: 1.00
+   ID: 4f3b8e07-6504-432d-8c85-9de956e2f35e
+
+12. Pravilnik o radu donosi nadležni organ kod poslodavca, utvrđen zakonom, odnosno osnivačkim ili drugim opštim aktom poslodavca, a kod poslodavca koji nema svojstvo pravnog lica donosi ovlašćeno lice u skladu sa zakonom.
+   Confidence: 0.50
+   ID: 77996854-17f6-499e-bd2c-d2981d881a9b
+
+13. Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika, autonomna pokrajina ili jedinica lokalne samouprave (u daljem tekstu: javno preduzeće) i društva kapitala čiji je osnivač javno preduzeće, donosi se uz prethodnu saglasnost osnivača.
+   Confidence: 0.50
+   ID: 6c594e63-402d-4cfe-adb7-a09af88985fc
+
+14. Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava 1.
+   Confidence: 0.50
+   ID: 1028990b-313e-44cc-a239-675164ca523d
+
+15. Opšti i poseban kolektivni ugovor moraju biti u saglasnosti sa zakonom.
+   Confidence: 0.50
+   ID: f83c2301-c4e5-4e15-ac00-d50e49021112
+
+16. Kolektivni ugovor kod poslodavca, pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom, a kod poslodavca iz čl.
+   Confidence: 0.50
+   ID: 333fcb64-c4c6-4ab7-833d-77f08cf38f17
+
+17. ovog zakona – i sa opštim i posebnim kolektivnim ugovorom.
+   Confidence: 0.50
+   ID: f24e98a2-7f92-48f6-a177-068097a023c4
+
+18. Zaposleni, u smislu ovog zakona, jeste fizičko lice koje je u radnom odnosu kod poslodavca.
+   Confidence: 0.50
+   ID: 741f0e3e-43d0-4551-8fdc-9d597c1f5fec
+
+19. Poslodavac, u smislu ovog zakona, jeste domaće, odnosno strano pravno ili fizičko lice koje zapošljava, odnosno radno angažuje, jedno ili više lica.
+   Confidence: 0.50
+   ID: b66c64f0-10c3-405f-9865-0da7e3bab098
+
+20. Sindikatom, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija zaposlenih u koju se oni dobrovoljno udružuju radi zastupanja, predstavljanja, unapređenja i zaštite svojih profesionalnih, radnih, ekonomskih, socijalnih, kulturnih i drugih pojedinačnih i kolektivnih interesa.
+   Confidence: 0.80
+   ID: 594c5507-9a96-431b-9eb0-ae99a15b08b6
+
+21. Udruženjem poslodavaca, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija u koju poslodavci dobrovoljno stupaju radi predstavljanja, unapređenja i zaštite svojih poslovnih interesa, u skladu sa zakonom.
+   Confidence: 0.80
+   ID: f4f0aa06-a32b-4563-b47d-e133283b9ba7
+
+22. Kolektivni ugovor i pravilnik o radu (u daljem tekstu: opšti akt) i ugovor o radu ne mogu da sadrže odredbe kojima se zaposlenom daju manja prava ili utvrđuju nepovoljniji uslovi rada od prava i uslova koji su utvrđeni zakonom.
+   Confidence: 0.50
+   ID: e44a56a5-8d6f-4701-8827-c10242f646fe
+
+23. Opštim aktom i ugovorom o radu mogu da se utvrde veća prava i povoljniji uslovi rada od prava i uslova utvrđenih zakonom, kao i druga prava koja nisu utvrđena zakonom, osim ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e3ca411a-debb-4853-8417-c1ba465007c0
+
+24. Ako opšti akt i pojedine njegove odredbe utvrđuju nepovoljnije uslove rada od uslova utvrđenih zakonom, primenjuju se odredbe zakona.
+   Confidence: 0.50
+   ID: 975c5532-6977-48c6-8dc0-3d294b7347ce
+
+25. Pojedine odredbe ugovora o radu kojima su utvrđeni nepovoljniji uslovi rada od uslova utvrđenih zakonom i opštim aktom, odnosno koje se zasnivaju na netačnom obaveštenju od strane poslodavca o pojedinim pravima, obavezama i odgovornostima zaposlenog – ništave su.
+   Confidence: 0.50
+   ID: 0eb16015-683b-400b-a71e-9d72b2bc2814
+
+26. Posebnim kolektivnim ugovorom ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim kolektivnim ugovorom koji obavezuje poslodavce koji su članovi udruženja poslodavaca koje zaključuje taj poseban kolektivni ugovor.
+   Confidence: 0.50
+   ID: 60a203c2-65ea-4db3-944f-d65195d41b45
+
+27. Kolektivnim ugovorom kod poslodavca ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim, odnosno posebnim kolektivnim ugovorom koji obavezuje tog poslodavca.
+   Confidence: 0.50
+   ID: 28a8a714-702d-4f1c-b77c-fd702775b723
+
+
+ARTICLE 6
+Assertions: 1
+Average Confidence: 0.80
+--------------------------------------------------------------------------------
+
+1. Prava, obaveze i odgovornosti iz radnog odnosa, odnosno po osnovu rada, uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama.
+   Confidence: 0.50
+   ID: 5dc13958-73fe-4fad-be4a-c387b6b361f6
+
+2. Prava, obaveze i odgovornosti iz radnog odnosa uređuju se i kolektivnim ugovorom i ugovorom o radu, a pravilnikom o radu, odnosno ugovorom o radu – samo kada je to ovim zakonom određeno.
+   Confidence: 0.50
+   ID: 4656deca-57d5-422c-a9bf-8fbae3ffe046
+
+3. Odredbe ovog zakona primenjuju se na zaposlene koji rade na teritoriji Republike Srbije, kod domaćeg ili stranog pravnog, odnosno fizičkog lica (u daljem tekstu: poslodavac), kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: c6d1954e-3886-47e4-acc3-3ea580a018f6
+
+4. Odredbe ovog zakona primenjuju se i na zaposlene u državnim organima, organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 851372e8-24ad-4b60-898b-3347134c076e
+
+5. Odredbe ovog zakona primenjuju se i na zaposlene kod poslodavaca u oblasti saobraćaja, ako posebnim propisom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 6db45dbf-bf30-40dc-94b6-c849e2363f26
+
+6. Odredbe ovog zakona primenjuju se na zaposlene strane državljane i lica bez državljanstva koji rade kod poslodavca na teritoriji Republike Srbije, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e18b6e73-f688-48a6-b6de-e6c8e84c4747
+
+7. Kolektivnim ugovorom kod poslodavca, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa i međusobni odnosi učesnika kolektivnog ugovora.
+   Confidence: 0.50
+   ID: 47fba83d-ec3e-4868-85b9-77124d64c5f4
+
+8. Pravilnikom o radu, odnosno ugovorom o radu, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa: 1) ako kod poslodavca nije osnovan sindikat ili nijedan sindikat ne ispunjava uslove reprezentativnosti ili nije zaključen sporazum o udruživanju u skladu sa ovim zakonom; 2) ako nijedan učesnik kolektivnog ugovora ne pokrene inicijativu za početak pregovora radi zaključivanja kolektivnog ugovora; 3) ako učesnici kolektivnog ugovora ne postignu saglasnost za zaključivanje kolektivnog ugovora u roku od 60 dana od dana započinjanja pregovora; 4) ako sindikat, u roku od 15 dana od dana dostavljanja poziva za početak pregovora za zaključivanje kolektivnog ugovora, ne prihvati inicijativu poslodavca.
+   Confidence: 0.50
+   ID: df57f4bf-9af0-4633-a35f-59e74b66af06
+
+9. tačka 3) ovog člana učesnici kolektivnog ugovora dužni su da nastave pregovore u dobroj veri.
+   Confidence: 0.50
+   ID: 333f6438-6ea2-4477-a754-e5fd143ce90b
+
+10. tačka 3) ovog člana, poslodavac je dužan da pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu.
+   Confidence: 0.80
+   ID: 1a1ece71-da6b-4826-82a3-42e01a9baa20
+
+11. Poslodavac koji ne prihvati inicijativu reprezentativnog sindikata za pristupanje pregovorima za zaključenje kolektivnog ugovora, ne može pravilnikom o radu da uredi prava i obaveze iz radnog odnosa.
+   Confidence: 1.00
+   ID: 4f3b8e07-6504-432d-8c85-9de956e2f35e
+
+12. Pravilnik o radu donosi nadležni organ kod poslodavca, utvrđen zakonom, odnosno osnivačkim ili drugim opštim aktom poslodavca, a kod poslodavca koji nema svojstvo pravnog lica donosi ovlašćeno lice u skladu sa zakonom.
+   Confidence: 0.50
+   ID: 77996854-17f6-499e-bd2c-d2981d881a9b
+
+13. Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika, autonomna pokrajina ili jedinica lokalne samouprave (u daljem tekstu: javno preduzeće) i društva kapitala čiji je osnivač javno preduzeće, donosi se uz prethodnu saglasnost osnivača.
+   Confidence: 0.50
+   ID: 6c594e63-402d-4cfe-adb7-a09af88985fc
+
+14. Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava 1.
+   Confidence: 0.50
+   ID: 1028990b-313e-44cc-a239-675164ca523d
+
+15. Opšti i poseban kolektivni ugovor moraju biti u saglasnosti sa zakonom.
+   Confidence: 0.50
+   ID: f83c2301-c4e5-4e15-ac00-d50e49021112
+
+16. Kolektivni ugovor kod poslodavca, pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom, a kod poslodavca iz čl.
+   Confidence: 0.50
+   ID: 333fcb64-c4c6-4ab7-833d-77f08cf38f17
+
+17. ovog zakona – i sa opštim i posebnim kolektivnim ugovorom.
+   Confidence: 0.50
+   ID: f24e98a2-7f92-48f6-a177-068097a023c4
+
+18. Zaposleni, u smislu ovog zakona, jeste fizičko lice koje je u radnom odnosu kod poslodavca.
+   Confidence: 0.50
+   ID: 741f0e3e-43d0-4551-8fdc-9d597c1f5fec
+
+19. Poslodavac, u smislu ovog zakona, jeste domaće, odnosno strano pravno ili fizičko lice koje zapošljava, odnosno radno angažuje, jedno ili više lica.
+   Confidence: 0.50
+   ID: b66c64f0-10c3-405f-9865-0da7e3bab098
+
+20. Sindikatom, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija zaposlenih u koju se oni dobrovoljno udružuju radi zastupanja, predstavljanja, unapređenja i zaštite svojih profesionalnih, radnih, ekonomskih, socijalnih, kulturnih i drugih pojedinačnih i kolektivnih interesa.
+   Confidence: 0.80
+   ID: 594c5507-9a96-431b-9eb0-ae99a15b08b6
+
+21. Udruženjem poslodavaca, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija u koju poslodavci dobrovoljno stupaju radi predstavljanja, unapređenja i zaštite svojih poslovnih interesa, u skladu sa zakonom.
+   Confidence: 0.80
+   ID: f4f0aa06-a32b-4563-b47d-e133283b9ba7
+
+22. Kolektivni ugovor i pravilnik o radu (u daljem tekstu: opšti akt) i ugovor o radu ne mogu da sadrže odredbe kojima se zaposlenom daju manja prava ili utvrđuju nepovoljniji uslovi rada od prava i uslova koji su utvrđeni zakonom.
+   Confidence: 0.50
+   ID: e44a56a5-8d6f-4701-8827-c10242f646fe
+
+23. Opštim aktom i ugovorom o radu mogu da se utvrde veća prava i povoljniji uslovi rada od prava i uslova utvrđenih zakonom, kao i druga prava koja nisu utvrđena zakonom, osim ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e3ca411a-debb-4853-8417-c1ba465007c0
+
+24. Ako opšti akt i pojedine njegove odredbe utvrđuju nepovoljnije uslove rada od uslova utvrđenih zakonom, primenjuju se odredbe zakona.
+   Confidence: 0.50
+   ID: 975c5532-6977-48c6-8dc0-3d294b7347ce
+
+25. Pojedine odredbe ugovora o radu kojima su utvrđeni nepovoljniji uslovi rada od uslova utvrđenih zakonom i opštim aktom, odnosno koje se zasnivaju na netačnom obaveštenju od strane poslodavca o pojedinim pravima, obavezama i odgovornostima zaposlenog – ništave su.
+   Confidence: 0.50
+   ID: 0eb16015-683b-400b-a71e-9d72b2bc2814
+
+26. Posebnim kolektivnim ugovorom ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim kolektivnim ugovorom koji obavezuje poslodavce koji su članovi udruženja poslodavaca koje zaključuje taj poseban kolektivni ugovor.
+   Confidence: 0.50
+   ID: 60a203c2-65ea-4db3-944f-d65195d41b45
+
+27. Kolektivnim ugovorom kod poslodavca ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim, odnosno posebnim kolektivnim ugovorom koji obavezuje tog poslodavca.
+   Confidence: 0.50
+   ID: 28a8a714-702d-4f1c-b77c-fd702775b723
+
+
+ARTICLE 7
+Assertions: 1
+Average Confidence: 0.80
+--------------------------------------------------------------------------------
+
+1. Prava, obaveze i odgovornosti iz radnog odnosa, odnosno po osnovu rada, uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama.
+   Confidence: 0.50
+   ID: 5dc13958-73fe-4fad-be4a-c387b6b361f6
+
+2. Prava, obaveze i odgovornosti iz radnog odnosa uređuju se i kolektivnim ugovorom i ugovorom o radu, a pravilnikom o radu, odnosno ugovorom o radu – samo kada je to ovim zakonom određeno.
+   Confidence: 0.50
+   ID: 4656deca-57d5-422c-a9bf-8fbae3ffe046
+
+3. Odredbe ovog zakona primenjuju se na zaposlene koji rade na teritoriji Republike Srbije, kod domaćeg ili stranog pravnog, odnosno fizičkog lica (u daljem tekstu: poslodavac), kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: c6d1954e-3886-47e4-acc3-3ea580a018f6
+
+4. Odredbe ovog zakona primenjuju se i na zaposlene u državnim organima, organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 851372e8-24ad-4b60-898b-3347134c076e
+
+5. Odredbe ovog zakona primenjuju se i na zaposlene kod poslodavaca u oblasti saobraćaja, ako posebnim propisom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 6db45dbf-bf30-40dc-94b6-c849e2363f26
+
+6. Odredbe ovog zakona primenjuju se na zaposlene strane državljane i lica bez državljanstva koji rade kod poslodavca na teritoriji Republike Srbije, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e18b6e73-f688-48a6-b6de-e6c8e84c4747
+
+7. Kolektivnim ugovorom kod poslodavca, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa i međusobni odnosi učesnika kolektivnog ugovora.
+   Confidence: 0.50
+   ID: 47fba83d-ec3e-4868-85b9-77124d64c5f4
+
+8. Pravilnikom o radu, odnosno ugovorom o radu, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa: 1) ako kod poslodavca nije osnovan sindikat ili nijedan sindikat ne ispunjava uslove reprezentativnosti ili nije zaključen sporazum o udruživanju u skladu sa ovim zakonom; 2) ako nijedan učesnik kolektivnog ugovora ne pokrene inicijativu za početak pregovora radi zaključivanja kolektivnog ugovora; 3) ako učesnici kolektivnog ugovora ne postignu saglasnost za zaključivanje kolektivnog ugovora u roku od 60 dana od dana započinjanja pregovora; 4) ako sindikat, u roku od 15 dana od dana dostavljanja poziva za početak pregovora za zaključivanje kolektivnog ugovora, ne prihvati inicijativu poslodavca.
+   Confidence: 0.50
+   ID: df57f4bf-9af0-4633-a35f-59e74b66af06
+
+9. tačka 3) ovog člana učesnici kolektivnog ugovora dužni su da nastave pregovore u dobroj veri.
+   Confidence: 0.50
+   ID: 333f6438-6ea2-4477-a754-e5fd143ce90b
+
+10. tačka 3) ovog člana, poslodavac je dužan da pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu.
+   Confidence: 0.80
+   ID: 1a1ece71-da6b-4826-82a3-42e01a9baa20
+
+11. Poslodavac koji ne prihvati inicijativu reprezentativnog sindikata za pristupanje pregovorima za zaključenje kolektivnog ugovora, ne može pravilnikom o radu da uredi prava i obaveze iz radnog odnosa.
+   Confidence: 1.00
+   ID: 4f3b8e07-6504-432d-8c85-9de956e2f35e
+
+12. Pravilnik o radu donosi nadležni organ kod poslodavca, utvrđen zakonom, odnosno osnivačkim ili drugim opštim aktom poslodavca, a kod poslodavca koji nema svojstvo pravnog lica donosi ovlašćeno lice u skladu sa zakonom.
+   Confidence: 0.50
+   ID: 77996854-17f6-499e-bd2c-d2981d881a9b
+
+13. Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika, autonomna pokrajina ili jedinica lokalne samouprave (u daljem tekstu: javno preduzeće) i društva kapitala čiji je osnivač javno preduzeće, donosi se uz prethodnu saglasnost osnivača.
+   Confidence: 0.50
+   ID: 6c594e63-402d-4cfe-adb7-a09af88985fc
+
+14. Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava 1.
+   Confidence: 0.50
+   ID: 1028990b-313e-44cc-a239-675164ca523d
+
+15. Opšti i poseban kolektivni ugovor moraju biti u saglasnosti sa zakonom.
+   Confidence: 0.50
+   ID: f83c2301-c4e5-4e15-ac00-d50e49021112
+
+16. Kolektivni ugovor kod poslodavca, pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom, a kod poslodavca iz čl.
+   Confidence: 0.50
+   ID: 333fcb64-c4c6-4ab7-833d-77f08cf38f17
+
+17. ovog zakona – i sa opštim i posebnim kolektivnim ugovorom.
+   Confidence: 0.50
+   ID: f24e98a2-7f92-48f6-a177-068097a023c4
+
+18. Zaposleni, u smislu ovog zakona, jeste fizičko lice koje je u radnom odnosu kod poslodavca.
+   Confidence: 0.50
+   ID: 741f0e3e-43d0-4551-8fdc-9d597c1f5fec
+
+19. Poslodavac, u smislu ovog zakona, jeste domaće, odnosno strano pravno ili fizičko lice koje zapošljava, odnosno radno angažuje, jedno ili više lica.
+   Confidence: 0.50
+   ID: b66c64f0-10c3-405f-9865-0da7e3bab098
+
+20. Sindikatom, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija zaposlenih u koju se oni dobrovoljno udružuju radi zastupanja, predstavljanja, unapređenja i zaštite svojih profesionalnih, radnih, ekonomskih, socijalnih, kulturnih i drugih pojedinačnih i kolektivnih interesa.
+   Confidence: 0.80
+   ID: 594c5507-9a96-431b-9eb0-ae99a15b08b6
+
+21. Udruženjem poslodavaca, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija u koju poslodavci dobrovoljno stupaju radi predstavljanja, unapređenja i zaštite svojih poslovnih interesa, u skladu sa zakonom.
+   Confidence: 0.80
+   ID: f4f0aa06-a32b-4563-b47d-e133283b9ba7
+
+22. Kolektivni ugovor i pravilnik o radu (u daljem tekstu: opšti akt) i ugovor o radu ne mogu da sadrže odredbe kojima se zaposlenom daju manja prava ili utvrđuju nepovoljniji uslovi rada od prava i uslova koji su utvrđeni zakonom.
+   Confidence: 0.50
+   ID: e44a56a5-8d6f-4701-8827-c10242f646fe
+
+23. Opštim aktom i ugovorom o radu mogu da se utvrde veća prava i povoljniji uslovi rada od prava i uslova utvrđenih zakonom, kao i druga prava koja nisu utvrđena zakonom, osim ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e3ca411a-debb-4853-8417-c1ba465007c0
+
+24. Ako opšti akt i pojedine njegove odredbe utvrđuju nepovoljnije uslove rada od uslova utvrđenih zakonom, primenjuju se odredbe zakona.
+   Confidence: 0.50
+   ID: 975c5532-6977-48c6-8dc0-3d294b7347ce
+
+25. Pojedine odredbe ugovora o radu kojima su utvrđeni nepovoljniji uslovi rada od uslova utvrđenih zakonom i opštim aktom, odnosno koje se zasnivaju na netačnom obaveštenju od strane poslodavca o pojedinim pravima, obavezama i odgovornostima zaposlenog – ništave su.
+   Confidence: 0.50
+   ID: 0eb16015-683b-400b-a71e-9d72b2bc2814
+
+26. Posebnim kolektivnim ugovorom ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim kolektivnim ugovorom koji obavezuje poslodavce koji su članovi udruženja poslodavaca koje zaključuje taj poseban kolektivni ugovor.
+   Confidence: 0.50
+   ID: 60a203c2-65ea-4db3-944f-d65195d41b45
+
+27. Kolektivnim ugovorom kod poslodavca ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim, odnosno posebnim kolektivnim ugovorom koji obavezuje tog poslodavca.
+   Confidence: 0.50
+   ID: 28a8a714-702d-4f1c-b77c-fd702775b723
+
+
+ARTICLE 8
+Assertions: 2
+Average Confidence: 0.50
+--------------------------------------------------------------------------------
+
+1. Prava, obaveze i odgovornosti iz radnog odnosa, odnosno po osnovu rada, uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama.
+   Confidence: 0.50
+   ID: 5dc13958-73fe-4fad-be4a-c387b6b361f6
+
+2. Prava, obaveze i odgovornosti iz radnog odnosa uređuju se i kolektivnim ugovorom i ugovorom o radu, a pravilnikom o radu, odnosno ugovorom o radu – samo kada je to ovim zakonom određeno.
+   Confidence: 0.50
+   ID: 4656deca-57d5-422c-a9bf-8fbae3ffe046
+
+3. Odredbe ovog zakona primenjuju se na zaposlene koji rade na teritoriji Republike Srbije, kod domaćeg ili stranog pravnog, odnosno fizičkog lica (u daljem tekstu: poslodavac), kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: c6d1954e-3886-47e4-acc3-3ea580a018f6
+
+4. Odredbe ovog zakona primenjuju se i na zaposlene u državnim organima, organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 851372e8-24ad-4b60-898b-3347134c076e
+
+5. Odredbe ovog zakona primenjuju se i na zaposlene kod poslodavaca u oblasti saobraćaja, ako posebnim propisom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 6db45dbf-bf30-40dc-94b6-c849e2363f26
+
+6. Odredbe ovog zakona primenjuju se na zaposlene strane državljane i lica bez državljanstva koji rade kod poslodavca na teritoriji Republike Srbije, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e18b6e73-f688-48a6-b6de-e6c8e84c4747
+
+7. Kolektivnim ugovorom kod poslodavca, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa i međusobni odnosi učesnika kolektivnog ugovora.
+   Confidence: 0.50
+   ID: 47fba83d-ec3e-4868-85b9-77124d64c5f4
+
+8. Pravilnikom o radu, odnosno ugovorom o radu, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa: 1) ako kod poslodavca nije osnovan sindikat ili nijedan sindikat ne ispunjava uslove reprezentativnosti ili nije zaključen sporazum o udruživanju u skladu sa ovim zakonom; 2) ako nijedan učesnik kolektivnog ugovora ne pokrene inicijativu za početak pregovora radi zaključivanja kolektivnog ugovora; 3) ako učesnici kolektivnog ugovora ne postignu saglasnost za zaključivanje kolektivnog ugovora u roku od 60 dana od dana započinjanja pregovora; 4) ako sindikat, u roku od 15 dana od dana dostavljanja poziva za početak pregovora za zaključivanje kolektivnog ugovora, ne prihvati inicijativu poslodavca.
+   Confidence: 0.50
+   ID: df57f4bf-9af0-4633-a35f-59e74b66af06
+
+9. tačka 3) ovog člana učesnici kolektivnog ugovora dužni su da nastave pregovore u dobroj veri.
+   Confidence: 0.50
+   ID: 333f6438-6ea2-4477-a754-e5fd143ce90b
+
+10. tačka 3) ovog člana, poslodavac je dužan da pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu.
+   Confidence: 0.80
+   ID: 1a1ece71-da6b-4826-82a3-42e01a9baa20
+
+11. Poslodavac koji ne prihvati inicijativu reprezentativnog sindikata za pristupanje pregovorima za zaključenje kolektivnog ugovora, ne može pravilnikom o radu da uredi prava i obaveze iz radnog odnosa.
+   Confidence: 1.00
+   ID: 4f3b8e07-6504-432d-8c85-9de956e2f35e
+
+12. Pravilnik o radu donosi nadležni organ kod poslodavca, utvrđen zakonom, odnosno osnivačkim ili drugim opštim aktom poslodavca, a kod poslodavca koji nema svojstvo pravnog lica donosi ovlašćeno lice u skladu sa zakonom.
+   Confidence: 0.50
+   ID: 77996854-17f6-499e-bd2c-d2981d881a9b
+
+13. Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika, autonomna pokrajina ili jedinica lokalne samouprave (u daljem tekstu: javno preduzeće) i društva kapitala čiji je osnivač javno preduzeće, donosi se uz prethodnu saglasnost osnivača.
+   Confidence: 0.50
+   ID: 6c594e63-402d-4cfe-adb7-a09af88985fc
+
+14. Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava 1.
+   Confidence: 0.50
+   ID: 1028990b-313e-44cc-a239-675164ca523d
+
+15. Opšti i poseban kolektivni ugovor moraju biti u saglasnosti sa zakonom.
+   Confidence: 0.50
+   ID: f83c2301-c4e5-4e15-ac00-d50e49021112
+
+16. Kolektivni ugovor kod poslodavca, pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom, a kod poslodavca iz čl.
+   Confidence: 0.50
+   ID: 333fcb64-c4c6-4ab7-833d-77f08cf38f17
+
+17. ovog zakona – i sa opštim i posebnim kolektivnim ugovorom.
+   Confidence: 0.50
+   ID: f24e98a2-7f92-48f6-a177-068097a023c4
+
+18. Zaposleni, u smislu ovog zakona, jeste fizičko lice koje je u radnom odnosu kod poslodavca.
+   Confidence: 0.50
+   ID: 741f0e3e-43d0-4551-8fdc-9d597c1f5fec
+
+19. Poslodavac, u smislu ovog zakona, jeste domaće, odnosno strano pravno ili fizičko lice koje zapošljava, odnosno radno angažuje, jedno ili više lica.
+   Confidence: 0.50
+   ID: b66c64f0-10c3-405f-9865-0da7e3bab098
+
+20. Sindikatom, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija zaposlenih u koju se oni dobrovoljno udružuju radi zastupanja, predstavljanja, unapređenja i zaštite svojih profesionalnih, radnih, ekonomskih, socijalnih, kulturnih i drugih pojedinačnih i kolektivnih interesa.
+   Confidence: 0.80
+   ID: 594c5507-9a96-431b-9eb0-ae99a15b08b6
+
+21. Udruženjem poslodavaca, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija u koju poslodavci dobrovoljno stupaju radi predstavljanja, unapređenja i zaštite svojih poslovnih interesa, u skladu sa zakonom.
+   Confidence: 0.80
+   ID: f4f0aa06-a32b-4563-b47d-e133283b9ba7
+
+22. Kolektivni ugovor i pravilnik o radu (u daljem tekstu: opšti akt) i ugovor o radu ne mogu da sadrže odredbe kojima se zaposlenom daju manja prava ili utvrđuju nepovoljniji uslovi rada od prava i uslova koji su utvrđeni zakonom.
+   Confidence: 0.50
+   ID: e44a56a5-8d6f-4701-8827-c10242f646fe
+
+23. Opštim aktom i ugovorom o radu mogu da se utvrde veća prava i povoljniji uslovi rada od prava i uslova utvrđenih zakonom, kao i druga prava koja nisu utvrđena zakonom, osim ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e3ca411a-debb-4853-8417-c1ba465007c0
+
+24. Ako opšti akt i pojedine njegove odredbe utvrđuju nepovoljnije uslove rada od uslova utvrđenih zakonom, primenjuju se odredbe zakona.
+   Confidence: 0.50
+   ID: 975c5532-6977-48c6-8dc0-3d294b7347ce
+
+25. Pojedine odredbe ugovora o radu kojima su utvrđeni nepovoljniji uslovi rada od uslova utvrđenih zakonom i opštim aktom, odnosno koje se zasnivaju na netačnom obaveštenju od strane poslodavca o pojedinim pravima, obavezama i odgovornostima zaposlenog – ništave su.
+   Confidence: 0.50
+   ID: 0eb16015-683b-400b-a71e-9d72b2bc2814
+
+26. Posebnim kolektivnim ugovorom ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim kolektivnim ugovorom koji obavezuje poslodavce koji su članovi udruženja poslodavaca koje zaključuje taj poseban kolektivni ugovor.
+   Confidence: 0.50
+   ID: 60a203c2-65ea-4db3-944f-d65195d41b45
+
+27. Kolektivnim ugovorom kod poslodavca ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim, odnosno posebnim kolektivnim ugovorom koji obavezuje tog poslodavca.
+   Confidence: 0.50
+   ID: 28a8a714-702d-4f1c-b77c-fd702775b723
+
+
+ARTICLE 9
+Assertions: 2
+Average Confidence: 0.50
+--------------------------------------------------------------------------------
+
+1. Prava, obaveze i odgovornosti iz radnog odnosa, odnosno po osnovu rada, uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama.
+   Confidence: 0.50
+   ID: 5dc13958-73fe-4fad-be4a-c387b6b361f6
+
+2. Prava, obaveze i odgovornosti iz radnog odnosa uređuju se i kolektivnim ugovorom i ugovorom o radu, a pravilnikom o radu, odnosno ugovorom o radu – samo kada je to ovim zakonom određeno.
+   Confidence: 0.50
+   ID: 4656deca-57d5-422c-a9bf-8fbae3ffe046
+
+3. Odredbe ovog zakona primenjuju se na zaposlene koji rade na teritoriji Republike Srbije, kod domaćeg ili stranog pravnog, odnosno fizičkog lica (u daljem tekstu: poslodavac), kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: c6d1954e-3886-47e4-acc3-3ea580a018f6
+
+4. Odredbe ovog zakona primenjuju se i na zaposlene u državnim organima, organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 851372e8-24ad-4b60-898b-3347134c076e
+
+5. Odredbe ovog zakona primenjuju se i na zaposlene kod poslodavaca u oblasti saobraćaja, ako posebnim propisom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 6db45dbf-bf30-40dc-94b6-c849e2363f26
+
+6. Odredbe ovog zakona primenjuju se na zaposlene strane državljane i lica bez državljanstva koji rade kod poslodavca na teritoriji Republike Srbije, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e18b6e73-f688-48a6-b6de-e6c8e84c4747
+
+7. Kolektivnim ugovorom kod poslodavca, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa i međusobni odnosi učesnika kolektivnog ugovora.
+   Confidence: 0.50
+   ID: 47fba83d-ec3e-4868-85b9-77124d64c5f4
+
+8. Pravilnikom o radu, odnosno ugovorom o radu, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa: 1) ako kod poslodavca nije osnovan sindikat ili nijedan sindikat ne ispunjava uslove reprezentativnosti ili nije zaključen sporazum o udruživanju u skladu sa ovim zakonom; 2) ako nijedan učesnik kolektivnog ugovora ne pokrene inicijativu za početak pregovora radi zaključivanja kolektivnog ugovora; 3) ako učesnici kolektivnog ugovora ne postignu saglasnost za zaključivanje kolektivnog ugovora u roku od 60 dana od dana započinjanja pregovora; 4) ako sindikat, u roku od 15 dana od dana dostavljanja poziva za početak pregovora za zaključivanje kolektivnog ugovora, ne prihvati inicijativu poslodavca.
+   Confidence: 0.50
+   ID: df57f4bf-9af0-4633-a35f-59e74b66af06
+
+9. tačka 3) ovog člana učesnici kolektivnog ugovora dužni su da nastave pregovore u dobroj veri.
+   Confidence: 0.50
+   ID: 333f6438-6ea2-4477-a754-e5fd143ce90b
+
+10. tačka 3) ovog člana, poslodavac je dužan da pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu.
+   Confidence: 0.80
+   ID: 1a1ece71-da6b-4826-82a3-42e01a9baa20
+
+11. Poslodavac koji ne prihvati inicijativu reprezentativnog sindikata za pristupanje pregovorima za zaključenje kolektivnog ugovora, ne može pravilnikom o radu da uredi prava i obaveze iz radnog odnosa.
+   Confidence: 1.00
+   ID: 4f3b8e07-6504-432d-8c85-9de956e2f35e
+
+12. Pravilnik o radu donosi nadležni organ kod poslodavca, utvrđen zakonom, odnosno osnivačkim ili drugim opštim aktom poslodavca, a kod poslodavca koji nema svojstvo pravnog lica donosi ovlašćeno lice u skladu sa zakonom.
+   Confidence: 0.50
+   ID: 77996854-17f6-499e-bd2c-d2981d881a9b
+
+13. Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika, autonomna pokrajina ili jedinica lokalne samouprave (u daljem tekstu: javno preduzeće) i društva kapitala čiji je osnivač javno preduzeće, donosi se uz prethodnu saglasnost osnivača.
+   Confidence: 0.50
+   ID: 6c594e63-402d-4cfe-adb7-a09af88985fc
+
+14. Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava 1.
+   Confidence: 0.50
+   ID: 1028990b-313e-44cc-a239-675164ca523d
+
+15. Opšti i poseban kolektivni ugovor moraju biti u saglasnosti sa zakonom.
+   Confidence: 0.50
+   ID: f83c2301-c4e5-4e15-ac00-d50e49021112
+
+16. Kolektivni ugovor kod poslodavca, pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom, a kod poslodavca iz čl.
+   Confidence: 0.50
+   ID: 333fcb64-c4c6-4ab7-833d-77f08cf38f17
+
+17. ovog zakona – i sa opštim i posebnim kolektivnim ugovorom.
+   Confidence: 0.50
+   ID: f24e98a2-7f92-48f6-a177-068097a023c4
+
+18. Zaposleni, u smislu ovog zakona, jeste fizičko lice koje je u radnom odnosu kod poslodavca.
+   Confidence: 0.50
+   ID: 741f0e3e-43d0-4551-8fdc-9d597c1f5fec
+
+19. Poslodavac, u smislu ovog zakona, jeste domaće, odnosno strano pravno ili fizičko lice koje zapošljava, odnosno radno angažuje, jedno ili više lica.
+   Confidence: 0.50
+   ID: b66c64f0-10c3-405f-9865-0da7e3bab098
+
+20. Sindikatom, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija zaposlenih u koju se oni dobrovoljno udružuju radi zastupanja, predstavljanja, unapređenja i zaštite svojih profesionalnih, radnih, ekonomskih, socijalnih, kulturnih i drugih pojedinačnih i kolektivnih interesa.
+   Confidence: 0.80
+   ID: 594c5507-9a96-431b-9eb0-ae99a15b08b6
+
+21. Udruženjem poslodavaca, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija u koju poslodavci dobrovoljno stupaju radi predstavljanja, unapređenja i zaštite svojih poslovnih interesa, u skladu sa zakonom.
+   Confidence: 0.80
+   ID: f4f0aa06-a32b-4563-b47d-e133283b9ba7
+
+22. Kolektivni ugovor i pravilnik o radu (u daljem tekstu: opšti akt) i ugovor o radu ne mogu da sadrže odredbe kojima se zaposlenom daju manja prava ili utvrđuju nepovoljniji uslovi rada od prava i uslova koji su utvrđeni zakonom.
+   Confidence: 0.50
+   ID: e44a56a5-8d6f-4701-8827-c10242f646fe
+
+23. Opštim aktom i ugovorom o radu mogu da se utvrde veća prava i povoljniji uslovi rada od prava i uslova utvrđenih zakonom, kao i druga prava koja nisu utvrđena zakonom, osim ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e3ca411a-debb-4853-8417-c1ba465007c0
+
+24. Ako opšti akt i pojedine njegove odredbe utvrđuju nepovoljnije uslove rada od uslova utvrđenih zakonom, primenjuju se odredbe zakona.
+   Confidence: 0.50
+   ID: 975c5532-6977-48c6-8dc0-3d294b7347ce
+
+25. Pojedine odredbe ugovora o radu kojima su utvrđeni nepovoljniji uslovi rada od uslova utvrđenih zakonom i opštim aktom, odnosno koje se zasnivaju na netačnom obaveštenju od strane poslodavca o pojedinim pravima, obavezama i odgovornostima zaposlenog – ništave su.
+   Confidence: 0.50
+   ID: 0eb16015-683b-400b-a71e-9d72b2bc2814
+
+26. Posebnim kolektivnim ugovorom ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim kolektivnim ugovorom koji obavezuje poslodavce koji su članovi udruženja poslodavaca koje zaključuje taj poseban kolektivni ugovor.
+   Confidence: 0.50
+   ID: 60a203c2-65ea-4db3-944f-d65195d41b45
+
+27. Kolektivnim ugovorom kod poslodavca ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim, odnosno posebnim kolektivnim ugovorom koji obavezuje tog poslodavca.
+   Confidence: 0.50
+   ID: 28a8a714-702d-4f1c-b77c-fd702775b723
+
+
+ARTICLE 10
+Assertions: 2
+Average Confidence: 0.50
+--------------------------------------------------------------------------------
+
+1. Prava, obaveze i odgovornosti iz radnog odnosa, odnosno po osnovu rada, uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama.
+   Confidence: 0.50
+   ID: 5dc13958-73fe-4fad-be4a-c387b6b361f6
+
+2. Prava, obaveze i odgovornosti iz radnog odnosa uređuju se i kolektivnim ugovorom i ugovorom o radu, a pravilnikom o radu, odnosno ugovorom o radu – samo kada je to ovim zakonom određeno.
+   Confidence: 0.50
+   ID: 4656deca-57d5-422c-a9bf-8fbae3ffe046
+
+3. Odredbe ovog zakona primenjuju se na zaposlene koji rade na teritoriji Republike Srbije, kod domaćeg ili stranog pravnog, odnosno fizičkog lica (u daljem tekstu: poslodavac), kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: c6d1954e-3886-47e4-acc3-3ea580a018f6
+
+4. Odredbe ovog zakona primenjuju se i na zaposlene u državnim organima, organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 851372e8-24ad-4b60-898b-3347134c076e
+
+5. Odredbe ovog zakona primenjuju se i na zaposlene kod poslodavaca u oblasti saobraćaja, ako posebnim propisom nije drukčije određeno.
+   Confidence: 0.50
+   ID: 6db45dbf-bf30-40dc-94b6-c849e2363f26
+
+6. Odredbe ovog zakona primenjuju se na zaposlene strane državljane i lica bez državljanstva koji rade kod poslodavca na teritoriji Republike Srbije, ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e18b6e73-f688-48a6-b6de-e6c8e84c4747
+
+7. Kolektivnim ugovorom kod poslodavca, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa i međusobni odnosi učesnika kolektivnog ugovora.
+   Confidence: 0.50
+   ID: 47fba83d-ec3e-4868-85b9-77124d64c5f4
+
+8. Pravilnikom o radu, odnosno ugovorom o radu, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa: 1) ako kod poslodavca nije osnovan sindikat ili nijedan sindikat ne ispunjava uslove reprezentativnosti ili nije zaključen sporazum o udruživanju u skladu sa ovim zakonom; 2) ako nijedan učesnik kolektivnog ugovora ne pokrene inicijativu za početak pregovora radi zaključivanja kolektivnog ugovora; 3) ako učesnici kolektivnog ugovora ne postignu saglasnost za zaključivanje kolektivnog ugovora u roku od 60 dana od dana započinjanja pregovora; 4) ako sindikat, u roku od 15 dana od dana dostavljanja poziva za početak pregovora za zaključivanje kolektivnog ugovora, ne prihvati inicijativu poslodavca.
+   Confidence: 0.50
+   ID: df57f4bf-9af0-4633-a35f-59e74b66af06
+
+9. tačka 3) ovog člana učesnici kolektivnog ugovora dužni su da nastave pregovore u dobroj veri.
+   Confidence: 0.50
+   ID: 333f6438-6ea2-4477-a754-e5fd143ce90b
+
+10. tačka 3) ovog člana, poslodavac je dužan da pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu.
+   Confidence: 0.80
+   ID: 1a1ece71-da6b-4826-82a3-42e01a9baa20
+
+11. Poslodavac koji ne prihvati inicijativu reprezentativnog sindikata za pristupanje pregovorima za zaključenje kolektivnog ugovora, ne može pravilnikom o radu da uredi prava i obaveze iz radnog odnosa.
+   Confidence: 1.00
+   ID: 4f3b8e07-6504-432d-8c85-9de956e2f35e
+
+12. Pravilnik o radu donosi nadležni organ kod poslodavca, utvrđen zakonom, odnosno osnivačkim ili drugim opštim aktom poslodavca, a kod poslodavca koji nema svojstvo pravnog lica donosi ovlašćeno lice u skladu sa zakonom.
+   Confidence: 0.50
+   ID: 77996854-17f6-499e-bd2c-d2981d881a9b
+
+13. Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika, autonomna pokrajina ili jedinica lokalne samouprave (u daljem tekstu: javno preduzeće) i društva kapitala čiji je osnivač javno preduzeće, donosi se uz prethodnu saglasnost osnivača.
+   Confidence: 0.50
+   ID: 6c594e63-402d-4cfe-adb7-a09af88985fc
+
+14. Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava 1.
+   Confidence: 0.50
+   ID: 1028990b-313e-44cc-a239-675164ca523d
+
+15. Opšti i poseban kolektivni ugovor moraju biti u saglasnosti sa zakonom.
+   Confidence: 0.50
+   ID: f83c2301-c4e5-4e15-ac00-d50e49021112
+
+16. Kolektivni ugovor kod poslodavca, pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom, a kod poslodavca iz čl.
+   Confidence: 0.50
+   ID: 333fcb64-c4c6-4ab7-833d-77f08cf38f17
+
+17. ovog zakona – i sa opštim i posebnim kolektivnim ugovorom.
+   Confidence: 0.50
+   ID: f24e98a2-7f92-48f6-a177-068097a023c4
+
+18. Zaposleni, u smislu ovog zakona, jeste fizičko lice koje je u radnom odnosu kod poslodavca.
+   Confidence: 0.50
+   ID: 741f0e3e-43d0-4551-8fdc-9d597c1f5fec
+
+19. Poslodavac, u smislu ovog zakona, jeste domaće, odnosno strano pravno ili fizičko lice koje zapošljava, odnosno radno angažuje, jedno ili više lica.
+   Confidence: 0.50
+   ID: b66c64f0-10c3-405f-9865-0da7e3bab098
+
+20. Sindikatom, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija zaposlenih u koju se oni dobrovoljno udružuju radi zastupanja, predstavljanja, unapređenja i zaštite svojih profesionalnih, radnih, ekonomskih, socijalnih, kulturnih i drugih pojedinačnih i kolektivnih interesa.
+   Confidence: 0.80
+   ID: 594c5507-9a96-431b-9eb0-ae99a15b08b6
+
+21. Udruženjem poslodavaca, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija u koju poslodavci dobrovoljno stupaju radi predstavljanja, unapređenja i zaštite svojih poslovnih interesa, u skladu sa zakonom.
+   Confidence: 0.80
+   ID: f4f0aa06-a32b-4563-b47d-e133283b9ba7
+
+22. Kolektivni ugovor i pravilnik o radu (u daljem tekstu: opšti akt) i ugovor o radu ne mogu da sadrže odredbe kojima se zaposlenom daju manja prava ili utvrđuju nepovoljniji uslovi rada od prava i uslova koji su utvrđeni zakonom.
+   Confidence: 0.50
+   ID: e44a56a5-8d6f-4701-8827-c10242f646fe
+
+23. Opštim aktom i ugovorom o radu mogu da se utvrde veća prava i povoljniji uslovi rada od prava i uslova utvrđenih zakonom, kao i druga prava koja nisu utvrđena zakonom, osim ako zakonom nije drukčije određeno.
+   Confidence: 0.50
+   ID: e3ca411a-debb-4853-8417-c1ba465007c0
+
+24. Ako opšti akt i pojedine njegove odredbe utvrđuju nepovoljnije uslove rada od uslova utvrđenih zakonom, primenjuju se odredbe zakona.
+   Confidence: 0.50
+   ID: 975c5532-6977-48c6-8dc0-3d294b7347ce
+
+25. Pojedine odredbe ugovora o radu kojima su utvrđeni nepovoljniji uslovi rada od uslova utvrđenih zakonom i opštim aktom, odnosno koje se zasnivaju na netačnom obaveštenju od strane poslodavca o pojedinim pravima, obavezama i odgovornostima zaposlenog – ništave su.
+   Confidence: 0.50
+   ID: 0eb16015-683b-400b-a71e-9d72b2bc2814
+
+26. Posebnim kolektivnim ugovorom ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim kolektivnim ugovorom koji obavezuje poslodavce koji su članovi udruženja poslodavaca koje zaključuje taj poseban kolektivni ugovor.
+   Confidence: 0.50
+   ID: 60a203c2-65ea-4db3-944f-d65195d41b45
+
+27. Kolektivnim ugovorom kod poslodavca ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim, odnosno posebnim kolektivnim ugovorom koji obavezuje tog poslodavca.
+   Confidence: 0.50
+   ID: 28a8a714-702d-4f1c-b77c-fd702775b723
+
+
