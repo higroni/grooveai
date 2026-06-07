@@ -1,8 +1,8 @@
-# ZAIKON V2 - Modular Microservice Architecture
+# GROOVE.AI - Modular Microservice Architecture
 
-**Verzija**: 2.0 (Modular)  
-**Datum**: 2026-06-06  
-**Pristup**: Nezavisni Moduli + Centralni Orchestrator
+**Verzija**: 3.0 (Revised)
+**Datum**: 2026-06-07
+**Pristup**: Nezavisni Moduli + Optimizovana Arhitektura
 
 ---
 
@@ -43,37 +43,43 @@ Svaki modul je **potpuno nezavisan** sa:
 
 ---
 
-## 📦 Spisak Svih Modula (20 Modula)
+## 📦 Spisak Svih Modula (Optimizovana Arhitektura)
 
-### GRUPA 1: Document Processing (5 modula)
-1. **File Reader** - Čitanje PDF/DOCX/TXT → Raw text
-2. **Text Normalizer** - Normalizacija teksta → Clean text
-3. **Latinizer** - Ćirilica → Latinica
-4. **Legal Parser** - Parsing strukture → Structured JSON
-5. **Legal Unit Extractor** - Ekstrakcija legal units → List of units
+### FAZA 1: Document Ingestion (4 modula) - Port 8101-8104
+1. **File Reader** (M1, Port 8101) - Čitanje PDF/DOCX/TXT → Raw text
+2. **Text Normalizer** (M2, Port 8102) - Normalizacija teksta → Clean text
+3. **Latinizer** (M3, Port 8103) - Ćirilica → Latinica
+4. **Legal Parser** (M4, Port 8104) - Parsing strukture → Structured JSON (Akoma Ntoso)
 
-### GRUPA 2: Assertion Processing (4 modula)
-6. **Assertion Extractor** - Ekstrakcija asercija → List of assertions
-7. **Entity Recognizer (NER)** - Named entities → Entities dict
-8. **Condition Extractor** - Uslovi/izuzeci → Conditions/exceptions
-9. **Assertion Classifier** - Klasifikacija → Assertion type
+### FAZA 2: Content Analysis (4 modula) - Port 8106-8109
+6. **Assertion Extractor** (M6, Port 8106) - Ekstrakcija asercija → List of assertions
+7. **Entity Recognizer** (M7, Port 8107) - Named entities → Entities dict
+8. **Condition Extractor** (M8, Port 8108) - Uslovi/izuzeci → Conditions/exceptions
+9. **Assertion Classifier** (M9, Port 8109) - Klasifikacija → Assertion type
 
-### GRUPA 3: Embedding & Search (4 modula)
-10. **Embedding Generator** - Text → Vector (1024 dim)
-11. **Vector Store** - CRUD nad Qdrant → Stored/Retrieved
-12. **Keyword Indexer** - BM25 indexing → Indexed/Searched
-13. **Hybrid Search** - Multi-modal search → Ranked results
+### FAZA 3: Knowledge Enrichment (1 modul) - Port 8110
+10. **Knowledge Enrichment** (M10, Port 8110) - Obogaćivanje znanjem → Enriched assertions
+    - **Ontology Matcher** - Hibridna ontologija (DB + auto-learning) → Matched terms
+    - **Reference Resolver** - Rezolucija pravnih referenci → Resolved refs
+    - **Definition Extractor** - Ekstrakcija definicija → Term definitions
 
-### GRUPA 4: Ontology & Knowledge (3 modula)
-14. **Ontology Matcher** - Term matching → Matched terms
-15. **Reference Resolver** - Reference resolution → Resolved refs
-16. **Definition Extractor** - Definition extraction → Definitions
+### FAZA 4: Vector Storage (1 modul) - Port 8111
+11. **Vector Store** (M11, Port 8111) - Generisanje i skladištenje vektora
+    - Embeddings generation (sentence-transformers)
+    - Qdrant storage (production)
+    - SQLite audit trail
 
-### GRUPA 5: Conflict Detection (4 modula)
-17. **Candidate Finder** - Find candidates → Scored candidates
-18. **Conflict Detector** - Detect conflicts → Conflict findings
-19. **Severity Calculator** - Calculate severity → Severity score
-20. **Recommendation Generator** - Generate recommendations → Recommendations
+### FAZA 5: Search & Retrieval (1 modul) - Port 8112
+12. **Search Service** (M12, Port 8112) - Hibridna pretraga
+    - Vector search (Qdrant)
+    - Keyword search (BM25)
+    - Hybrid ranking
+
+### FAZA 6: Conflict Detection (4 modula) - Port 8117-8120 (Planirano)
+17. **Candidate Finder** (M17) - Find candidates → Scored candidates
+18. **Conflict Detector** (M18) - Detect conflicts → Conflict findings
+19. **Severity Calculator** (M19) - Calculate severity → Severity score
+20. **Recommendation Generator** (M20) - Generate recommendations → Recommendations
 
 ---
 
@@ -1490,6 +1496,143 @@ Ova modularna arhitektura omogućava:
 - ✅ **Centralni orchestrator** za koordinaciju
 - ✅ **Sopstvene baze** za svaki modul
 - ✅ **Logging i metrics** per modul
+- ✅ **Skalabilnost** - Svaki modul može biti skaliran nezavisno
+- ✅ **Maintainability** - Lakše održavanje i razvoj
+
+---
+
+## 🔄 Arhitekturne Izmene (V3.0 - Jun 2026)
+
+### Razlozi za Reorganizaciju
+
+**Problem sa prethodnom arhitekturom:**
+- M10 (Embedding Generator) je skladištio vektore u SQLite umesto direktno u Qdrant
+- Tri odvojena modula (M14, M15, M16) za knowledge enrichment bila su neefikasna
+- Nedostajao je centralizovan search service
+
+**Nova optimizovana arhitektura:**
+
+#### 1. Konsolidacija Knowledge Enrichment (M10)
+**Staro:**
+- M14: Ontology Matcher
+- M15: Reference Resolver  
+- M16: Definition Extractor
+
+**Novo:**
+- **M10: Knowledge Enrichment** (Port 8110) - Jedinstveni modul sa tri funkcije:
+  - Ontology Matcher (hibridna ontologija iz ZAIKON projekta)
+  - Reference Resolver (rezolucija pravnih referenci)
+  - Definition Extractor (ekstrakcija definicija)
+
+**Prednosti:**
+- Jedna baza podataka za sve knowledge enrichment operacije
+- Efikasnija komunikacija između komponenti
+- Lakše održavanje i razvoj
+- Smanjenje network overhead-a
+
+#### 2. Promena Uloge Vector Store (M10 → M11)
+**Staro:**
+- M10: Embedding Generator (generisao i skladištio u SQLite)
+
+**Novo:**
+- **M11: Vector Store** (Port 8111) - Fokus na Qdrant storage:
+  - Generisanje embeddings (sentence-transformers)
+  - **Qdrant storage** (production vector database)
+  - SQLite samo za audit trail
+
+**Prednosti:**
+- Direktno skladištenje u Qdrant (brža pretraga)
+- SQLite samo za audit i metadata
+- Optimizovana arhitektura za vector search
+
+#### 3. Novi Search Service (M12)
+**Novo:**
+- **M12: Search Service** (Port 8112) - Hibridna pretraga:
+  - Vector similarity search (Qdrant)
+  - Keyword search (BM25)
+  - Hybrid ranking (kombinacija)
+  - Filtriranje po metapodacima
+
+**Prednosti:**
+- Centralizovan search endpoint
+- Hibridna pretraga (vector + keyword)
+- Optimizovano za production use
+
+### Hibridna Storage Strategija
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│                    HYBRID STORAGE                            │
+├─────────────────────────────────────────────────────────────┤
+│                                                              │
+│  SQLite (Audit Trail)          Qdrant (Production)          │
+│  ├─ Processing history         ├─ Vector embeddings         │
+│  ├─ Metadata                   ├─ Fast similarity search    │
+│  ├─ Error logs                 ├─ Scalable storage          │
+│  └─ Timestamps                 └─ Production queries        │
+│                                                              │
+└─────────────────────────────────────────────────────────────┘
+```
+
+### ZAIKON Lessons Learned - Implementirano
+
+1. **Hibridna Ontologija** (M10)
+   - Database-backed ontology (SQLite)
+   - Auto-learning iz NER ekstrakcija
+   - Confidence scoring i frequency tracking
+   - Tri tabele: `ontology_terms`, `ontology_relationships`, `ontology_domains`
+
+2. **Modularna Arhitektura**
+   - Nezavisni servisi sa sopstvenim API-jem
+   - Lakše testiranje i deployment
+   - Mogućnost nezavisnog skaliranja
+
+3. **Audit Trail**
+   - SQLite za istoriju procesiranja
+   - Qdrant za production vector search
+   - Best of both worlds
+
+### Novi Data Flow
+
+```
+M1 → M2 → M3 → M4 → M6 → M7 → M8 → M9 → M10 → M11 → M12
+                                    ↓      ↓      ↓
+                              Knowledge  Vector  Search
+                              Enrichment  Store  Service
+                              (Port 8110) (8111) (8112)
+```
+
+### Port Allocation (Ažurirano)
+
+| Modul | Port | Status |
+|-------|------|--------|
+| M1: File Reader | 8101 | ✅ Implementiran |
+| M2: Text Normalizer | 8102 | ✅ Implementiran |
+| M3: Latinizer | 8103 | ✅ Implementiran |
+| M4: Legal Parser | 8104 | ✅ Implementiran |
+| M6: Assertion Extractor | 8106 | ✅ Implementiran |
+| M7: Entity Recognizer | 8107 | ✅ Implementiran |
+| M8: Condition Extractor | 8108 | ✅ Implementiran |
+| M9: Assertion Classifier | 8109 | ✅ Implementiran |
+| **M10: Knowledge Enrichment** | **8110** | 🔄 **U razvoju** |
+| **M11: Vector Store** | **8111** | 🔄 **Renameovan** |
+| **M12: Search Service** | **8112** | ⏳ **Planirano** |
+| M17-M20: Conflict Detection | 8117-8120 | ⏳ Planirano |
+
+### Sledeći Koraci
+
+1. ✅ Rename `embedding_generator` → `vector_store` (M10 → M11)
+2. ✅ Update `config.yaml` sa novom strukturom
+3. ✅ Update `MODULAR_ARCHITECTURE.md`
+4. 🔄 Implementacija M10: Knowledge Enrichment
+   - Ontology Matcher (ZAIKON hybrid approach)
+   - Reference Resolver
+   - Definition Extractor
+5. ⏳ Update M11: Vector Store za Qdrant integration
+6. ⏳ Implementacija M12: Search Service
+7. ⏳ End-to-end testiranje pipeline-a
+
+---
 - ✅ **Samostalno pozivanje** ili od strane orkestratora
 - ✅ **Docker deployment** sa docker-compose
 - ✅ **Lako skaliranje** i održavanje

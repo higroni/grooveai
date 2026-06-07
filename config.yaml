@@ -50,13 +50,9 @@ database:
     entity_recognizer: "sqlite:///data/databases/entity_recognizer.db"
     condition_extractor: "sqlite:///data/databases/condition_extractor.db"
     assertion_classifier: "sqlite:///data/databases/assertion_classifier.db"
-    embedding_generator: "sqlite:///data/databases/embedding_generator.db"
+    knowledge_enrichment: "sqlite:///data/databases/knowledge_enrichment.db"
     vector_store: "sqlite:///data/databases/vector_store.db"
-    keyword_indexer: "sqlite:///data/databases/keyword_indexer.db"
-    hybrid_search: "sqlite:///data/databases/hybrid_search.db"
-    ontology_matcher: "sqlite:///data/databases/ontology_matcher.db"
-    reference_resolver: "sqlite:///data/databases/reference_resolver.db"
-    definition_extractor: "sqlite:///data/databases/definition_extractor.db"
+    search_service: "sqlite:///data/databases/search_service.db"
     candidate_finder: "sqlite:///data/databases/candidate_finder.db"
     conflict_detector: "sqlite:///data/databases/conflict_detector.db"
     severity_calculator: "sqlite:///data/databases/severity_calculator.db"
@@ -126,27 +122,22 @@ network:
       port: 8109
       url: "http://localhost:8109"
     
-    # Vector Store & Search Modules (8111-8113)
-
-    embedding_generator:
+    # Knowledge Enrichment & Vector Store Modules (8110-8112)
+    
+    knowledge_enrichment:
       host: "0.0.0.0"
       port: 8110
-      url: "http://localhost:8110" 
-
+      url: "http://localhost:8110"
+    
     vector_store:
       host: "0.0.0.0"
       port: 8111
       url: "http://localhost:8111"
     
-    keyword_indexer:
+    search_service:
       host: "0.0.0.0"
       port: 8112
       url: "http://localhost:8112"
-    
-    hybrid_search:
-      host: "0.0.0.0"
-      port: 8113
-      url: "http://localhost:8113"
     
     # Ontology & Knowledge Modules (8114-8116)
     ontology_matcher:
@@ -208,13 +199,9 @@ logging:
     entity_recognizer: "data/logs/entity_recognizer.log"
     condition_extractor: "data/logs/condition_extractor.log"
     assertion_classifier: "data/logs/assertion_classifier.log"
-    embedding_generator: "data/logs/embedding_generator.log"
+    knowledge_enrichment: "data/logs/knowledge_enrichment.log"
     vector_store: "data/logs/vector_store.log"
-    keyword_indexer: "data/logs/keyword_indexer.log"
-    hybrid_search: "data/logs/hybrid_search.log"
-    ontology_matcher: "data/logs/ontology_matcher.log"
-    reference_resolver: "data/logs/reference_resolver.log"
-    definition_extractor: "data/logs/definition_extractor.log"
+    search_service: "data/logs/search_service.log"
     candidate_finder: "data/logs/candidate_finder.log"
     conflict_detector: "data/logs/conflict_detector.log"
     severity_calculator: "data/logs/severity_calculator.log"
@@ -490,12 +477,8 @@ workflows:
       - "entity_recognizer"
       - "condition_extractor"
       - "assertion_classifier"
-      - "embedding_generator"
+      - "knowledge_enrichment"
       - "vector_store"
-      - "keyword_indexer"
-      - "ontology_matcher"
-      - "reference_resolver"
-      - "definition_extractor"
   
   # Analyze Draft Workflow
   analyze_draft:
@@ -518,7 +501,7 @@ workflows:
   search_corpus:
     enabled: true
     steps:
-      - "hybrid_search"
+      - "search_service"
 
 # =============================================================================
 # FEATURE FLAGS

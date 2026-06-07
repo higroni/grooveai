@@ -1,5 +1,5 @@
 """
-Embedding Generator Service.
+Vector Store Service.
 
 This module generates text embeddings using the BAAI/bge-m3 model.
 Supports batch processing and caching for efficiency.
@@ -14,7 +14,7 @@ from shared.config_loader import config
 from shared.logger import get_module_logger
 
 # Initialize logger
-logger = get_module_logger("embedding_generator", config.get_log_level())
+logger = get_module_logger("vector_store", config.get_log_level())
 
 
 class EmbeddingGeneratorService:
@@ -26,7 +26,7 @@ class EmbeddingGeneratorService:
     """
     
     def __init__(self):
-        """Initialize the embedding generator service."""
+        """Initialize the Vector Store service."""
         self.model_name = config.get_embedding_model()
         self.embedding_dim = config.get_embedding_dimensions()
         self.device = self._get_device()
@@ -215,7 +215,7 @@ service = EmbeddingGeneratorService()
 
 # Example usage
 if __name__ == "__main__":
-    print("Testing Embedding Generator Service...")
+    print("Testing Vector Store Service...")
     
     # Test single embedding
     test_text = "Zakon o radu regulise prava i obaveze zaposlenih."
@@ -245,3 +245,4 @@ if __name__ == "__main__":
         print(f"  {key}: {value}")
 
 # Made with Bob
+

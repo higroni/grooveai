@@ -1,4 +1,4 @@
-# Module 10: Embedding Generator
+# Module 10: Vector Store
 
 **Port**: 8110
 **Model**: BAAI/bge-m3
@@ -6,7 +6,7 @@
 
 ## Overview
 
-The Embedding Generator module converts text into dense vector representations (embeddings) using the BAAI/bge-m3 multilingual model. Supports **hybrid embedding strategy** with assertion-level and document-level embeddings, enriched with metadata for semantic search and vector DB storage.
+The Vector Store module converts text into dense vector representations (embeddings) using the BAAI/bge-m3 multilingual model. Supports **hybrid embedding strategy** with assertion-level and document-level embeddings, enriched with metadata for semantic search and vector DB storage.
 
 ## Features
 
@@ -27,7 +27,7 @@ The Embedding Generator module converts text into dense vector representations (
 
 ```bash
 # Install dependencies
-pip install -r modules/embedding_generator/requirements.txt
+pip install -r modules/vector_store/requirements.txt
 
 # The model will be downloaded automatically on first run (~2GB)
 ```
@@ -36,7 +36,7 @@ pip install -r modules/embedding_generator/requirements.txt
 
 ```bash
 # Start the module
-python -m modules.embedding_generator.main
+python -m modules.vector_store.main
 
 # Module will start on http://localhost:8110
 ```
@@ -285,13 +285,13 @@ ai_models:
 
 network:
   modules:
-    embedding_generator:
+    vector_store:
       host: "0.0.0.0"
       port: 8103
 
 database:
   modules:
-    embedding_generator: "sqlite:///data/databases/embedding_generator.db"
+    vector_store: "sqlite:///data/databases/vector_store.db"
 ```
 
 ## Model Information
@@ -381,10 +381,10 @@ print(f"Generated {len(embeddings)}-dimensional embedding from PDF")
 
 ```bash
 # Run tests
-pytest modules/embedding_generator/tests -v
+pytest modules/vector_store/tests -v
 
 # Run with coverage
-pytest modules/embedding_generator/tests --cov=modules.embedding_generator --cov-report=html
+pytest modules/vector_store/tests --cov=modules.vector_store --cov-report=html
 ```
 
 ## Troubleshooting

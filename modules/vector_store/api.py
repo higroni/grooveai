@@ -1,5 +1,5 @@
 """
-REST API for Embedding Generator module.
+REST API for Vector Store module.
 
 Provides endpoints for generating text embeddings using BAAI/bge-m3 model.
 """
@@ -11,18 +11,18 @@ import uuid
 import json
 from datetime import datetime
 
-from modules.embedding_generator.service import service
-from modules.embedding_generator.database import db
-from modules.embedding_generator.models import EmbeddingJob
+from modules.vector_store.service import service
+from modules.vector_store.database import db
+from modules.vector_store.models import EmbeddingJob
 from shared.config_loader import config
 from shared.logger import get_module_logger
 
 # Initialize logger
-logger = get_module_logger("embedding_generator", config.get_log_level())
+logger = get_module_logger("vector_store", config.get_log_level())
 
 # Create FastAPI app
 app = FastAPI(
-    title="GROOVE.AI - Embedding Generator",
+    title="GROOVE.AI - Vector Store",
     description="Generate text embeddings using BAAI/bge-m3 model",
     version="1.0.0"
 )
@@ -168,7 +168,7 @@ class ModelInfoResponse(BaseModel):
 async def root():
     """Get module information."""
     return {
-        "module": "embedding_generator",
+        "module": "vector_store",
         "version": "1.0.0",
         "status": "running",
         "model": service.model_name,
@@ -528,8 +528,9 @@ async def delete_job(job_id: str):
 
 if __name__ == "__main__":
     import uvicorn
-    port = config.get_module_port("embedding_generator")
-    logger.info(f"Starting Embedding Generator API on port {port}")
+    port = config.get_module_port("vector_store")
+    logger.info(f"Starting Vector Store API on port {port}")
     uvicorn.run(app, host="0.0.0.0", port=port)
 
 # Made with Bob
+

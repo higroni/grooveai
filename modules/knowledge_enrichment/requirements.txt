@@ -1,0 +1,19 @@
+# Knowledge Enrichment Module Dependencies
+
+# Web Framework
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+
+# Configuration
+pyyaml==6.0.1
+
+# Database
+# (using built-in sqlite3)
+
+# NLP - Stanza for additional NER (optional, complements M7's CLASSLA)
+# Using same version as ZAIKON project (proven to work with Serbian)
+classla==1.2.0
+
+# Utilities
+python-dateutil==2.8.2

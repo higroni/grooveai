@@ -1,5 +1,5 @@
 """
-Database models for Embedding Generator module.
+Database models for Vector Store module.
 
 This module defines the SQLAlchemy models for storing embedding generation jobs.
 Supports both assertion-level and document-level embeddings with rich metadata.
@@ -88,3 +88,4 @@ class EmbeddingJob(Base):
         )
 
 # Made with Bob
+
