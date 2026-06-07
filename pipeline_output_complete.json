@@ -1,0 +1,1088 @@
+{
+  "pipeline": "Modules 1 -> 2 -> 3 -> 4 -> 6 -> 7 -> 8 -> 9",
+  "source_file": "D:/POSAO/OllamaProjects/GROOVE.AI/DOCUMENTS/DEV/onedoc/radni_odnosi_0001_000001.pdf",
+  "jobs": {
+    "file_reader": "69e71321-ed4b-424f-8847-e71822455835",
+    "text_normalizer": "622c4fbf-90d5-4f25-baf0-5aa55efc2cb1",
+    "latinizer": 27,
+    "legal_parser": 10,
+    "assertion_extractor": [
+      "0c5fb8d3-bbe1-425b-9114-8016c6b65acb",
+      "23a9a7bb-0f7e-4451-8b29-2ca0042ac93a",
+      "7a265716-aa8f-4fe8-af34-caf0f7bac6c9",
+      "c2a979fa-3776-4e5e-bd7e-e7f527ad7cef",
+      "0a6d887c-ec68-46b4-85f1-1a3acecff120"
+    ],
+    "entity_recognizer": [
+      "3841ba36-ef06-4e40-9e12-871ed62664e6",
+      "8efb2e72-9180-4b8b-99c2-69a924457665",
+      "a4b30276-edb1-4b1b-b8f6-810cc0a15cbe",
+      "6e3b7de7-e441-40bb-8bf4-35466c68db5b",
+      "425dc1f2-a643-4dc2-8a3a-5aa8a72102c8",
+      "e75d1ebc-bbca-43d0-8208-72062f7100ad",
+      "5a6af9f1-1a71-4aec-b11b-9bd012e3d16e",
+      "658e4fb5-8916-4c05-b001-19ecfb8c1caa",
+      "2e48516b-9a65-4411-88a3-c915e7466e2e",
+      "06f6de0b-a2b5-4050-92a2-ded0d7276797",
+      "364325b1-821a-4064-a3ce-8e2800dd3f37",
+      "3f22aabe-4a37-4e7b-8e86-9cd2bc41b94a",
+      "b07b50c5-9bca-46e2-a79d-9bf3f023b96f",
+      "3650cbac-59d2-4af9-9e18-fa0d8fef0acd",
+      "af55005b-1a43-421c-a1f4-15e7948a842d",
+      "5bbe6b80-b9a5-4166-8370-dbe97d78aaa5",
+      "449dd2e7-f5a8-4745-a749-39d9af0e23fd",
+      "4aa63710-e76d-4a66-b9ee-2bd3d8505cff",
+      "d1a3b231-bdc7-40e5-8189-81ee2a3269f6"
+    ],
+    "condition_extractor": [
+      "a2d9c5e9-b659-4d35-b2b7-977dc29210a0",
+      "36f74809-c3ab-4892-adba-962e6e3ce013",
+      "6da2ff9e-b71a-4992-a52b-0db52b4d39fa",
+      "58cc3d67-c6d7-48d9-af2a-6bc3be9eac6e",
+      "372ddda4-f04d-4cd8-9b1d-8df3a5de669d"
+    ],
+    "assertion_classifier": [
+      "fc3acec9-55ae-4dc1-b382-1b576edfb2b3",
+      "e3fbbfdf-7b31-4082-a8db-df0040b4b3c6",
+      "c50801c7-b606-476d-a468-04d1afaeb04b",
+      "2ed5901f-55d5-4335-a3e8-447cac15c70c",
+      "a6dadd9d-4f0d-41a5-bbad-4f5d1c4c07c8",
+      "fcc20bb3-2b7a-40a1-b6bc-7d6b827c8017",
+      "c2a9ed96-f8d5-4ecc-a2e0-dbc26db9fb93",
+      "e82e559d-e77b-4c0d-8364-b1d51549e61c",
+      "a10572de-c3bf-4510-bfd3-b13aec7e2455",
+      "ea018855-370b-4b6b-8c45-a47ff7aaadb7",
+      "38882893-0624-4661-8abf-f6bac78dd10d",
+      "4eb19c0d-c8e7-4cb1-b0f8-6a99a552df9d",
+      "c1d488d5-679c-47d5-a776-32bca80c420e",
+      "75f14821-dcfc-4407-982b-0cb08c168858",
+      "2116301b-3107-40af-a222-fb901aad1455",
+      "5d34c563-2552-4479-bbba-3fbeacd6df32",
+      "b061c39e-37df-41ee-8873-22730983ed18",
+      "a30b72d3-0fad-4171-8cc0-1936a256b3c0",
+      "6806b62a-a5b7-4cc4-8875-8c07298e827d"
+    ]
+  },
+  "statistics": {
+    "raw_text_length": 168312,
+    "normalized_text_length": 168284,
+    "latinized_text_length": 170388,
+    "cyrillic_converted": 133341,
+    "total_legal_units": 311,
+    "total_articles": 311,
+    "articles_processed": 5,
+    "total_assertions": 19,
+    "total_entities": 7,
+    "entities_by_type": {
+      "PERSON": 0,
+      "ORGANIZATION": 0,
+      "LOCATION": 0,
+      "DATE": 2,
+      "MONEY": 0,
+      "PERCENTAGE": 0,
+      "LEGAL_REF": 5,
+      "DURATION": 0
+    },
+    "total_conditions": 8,
+    "conditions_by_type": {
+      "condition": 5,
+      "exception": 3,
+      "temporal": 0,
+      "modal": 0
+    },
+    "total_classifications": 19,
+    "classifications_by_type": {
+      "obligation": 14,
+      "prohibition": 1,
+      "permission": 0,
+      "deadline": 2,
+      "definition": 2
+    }
+  },
+  "extraction_jobs": [
+    {
+      "job_id": "0c5fb8d3-bbe1-425b-9114-8016c6b65acb",
+      "article_number": "1",
+      "article_id": "d0486e26-3e00-55bc-855f-aad71ab90733",
+      "assertions_count": 2,
+      "stats": {
+        "total_assertions": 2,
+        "total_sentences": 2,
+        "avg_confidence": 0.5
+      }
+    },
+    {
+      "job_id": "23a9a7bb-0f7e-4451-8b29-2ca0042ac93a",
+      "article_number": "2",
+      "article_id": "f1ba18e8-a915-5998-9e89-2ba31002bff7",
+      "assertions_count": 4,
+      "stats": {
+        "total_assertions": 4,
+        "total_sentences": 5,
+        "avg_confidence": 0.5
+      }
+    },
+    {
+      "job_id": "7a265716-aa8f-4fe8-af34-caf0f7bac6c9",
+      "article_number": "3",
+      "article_id": "96b1053c-0844-594a-99ee-d6d928e79f17",
+      "assertions_count": 8,
+      "stats": {
+        "total_assertions": 8,
+        "total_sentences": 12,
+        "avg_confidence": 0.6
+      }
+    },
+    {
+      "job_id": "c2a979fa-3776-4e5e-bd7e-e7f527ad7cef",
+      "article_number": "4",
+      "article_id": "98ee3b17-5241-553f-8a1c-65a4c108fbeb",
+      "assertions_count": 3,
+      "stats": {
+        "total_assertions": 3,
+        "total_sentences": 5,
+        "avg_confidence": 0.5
+      }
+    },
+    {
+      "job_id": "0a6d887c-ec68-46b4-85f1-1a3acecff120",
+      "article_number": "5",
+      "article_id": "f19a2e75-e1ca-5b5b-8b09-01f7e44ca592",
+      "assertions_count": 2,
+      "stats": {
+        "total_assertions": 2,
+        "total_sentences": 2,
+        "avg_confidence": 0.5
+      }
+    }
+  ],
+  "recognition_jobs": [
+    {
+      "job_id": "3841ba36-ef06-4e40-9e12-871ed62664e6",
+      "assertion_id": "e0c2c01a-731b-4b42-9a15-0fa4ce922c10",
+      "entities_count": 0,
+      "stats": {
+        "total_entities": 0,
+        "entities_by_type": {},
+        "avg_confidence": 0.0
+      }
+    },
+    {
+      "job_id": "8efb2e72-9180-4b8b-99c2-69a924457665",
+      "assertion_id": "e8c2e20a-49b4-4d49-acfd-d1b152dcf884",
+      "entities_count": 0,
+      "stats": {
+        "total_entities": 0,
+        "entities_by_type": {},
+        "avg_confidence": 0.0
+      }
+    },
+    {
+      "job_id": "a4b30276-edb1-4b1b-b8f6-810cc0a15cbe",
+      "assertion_id": "dbfac13a-8509-43d5-be4a-f164d1062ac1",
+      "entities_count": 0,
+      "stats": {
+        "total_entities": 0,
+        "entities_by_type": {},
+        "avg_confidence": 0.0
+      }
+    },
+    {
+      "job_id": "6e3b7de7-e441-40bb-8bf4-35466c68db5b",
+      "assertion_id": "4ba77fc6-9669-4850-abd5-3e35e0ee8d42",
+      "entities_count": 0,
+      "stats": {
+        "total_entities": 0,
+        "entities_by_type": {},
+        "avg_confidence": 0.0
+      }
+    },
+    {
+      "job_id": "425dc1f2-a643-4dc2-8a3a-5aa8a72102c8",
+      "assertion_id": "f830d170-a51d-4337-9ed3-e4e0d58a0642",
+      "entities_count": 0,
+      "stats": {
+        "total_entities": 0,
+        "entities_by_type": {},
+        "avg_confidence": 0.0
+      }
+    },
+    {
+      "job_id": "e75d1ebc-bbca-43d0-8208-72062f7100ad",
+      "assertion_id": "2aa130a4-7cd4-4b59-9d8e-950b3deed686",
+      "entities_count": 0,
+      "stats": {
+        "total_entities": 0,
+        "entities_by_type": {},
+        "avg_confidence": 0.0
+      }
+    },
+    {
+      "job_id": "5a6af9f1-1a71-4aec-b11b-9bd012e3d16e",
+      "assertion_id": "c1e86c46-5884-4330-85a6-4de4796d3f2c",
+      "entities_count": 0,
+      "stats": {
+        "total_entities": 0,
+        "entities_by_type": {},
+        "avg_confidence": 0.0
+      }
+    },
+    {
+      "job_id": "658e4fb5-8916-4c05-b001-19ecfb8c1caa",
+      "assertion_id": "d8e6d3ab-5046-445f-8263-2497f7eba20d",
+      "entities_count": 2,
+      "stats": {
+        "total_entities": 2,
+        "entities_by_type": {
+          "DATE": 2
+        },
+        "avg_confidence": 0.7
+      }
+    },
+    {
+      "job_id": "2e48516b-9a65-4411-88a3-c915e7466e2e",
+      "assertion_id": "a638a215-d18e-4e1a-b052-e7cc33191336",
+      "entities_count": 0,
+      "stats": {
+        "total_entities": 0,
+        "entities_by_type": {},
+        "avg_confidence": 0.0
+      }
+    },
+    {
+      "job_id": "06f6de0b-a2b5-4050-92a2-ded0d7276797",
+      "assertion_id": "adab56cf-4bde-43e2-b2d6-72bcc4f7b574",
+      "entities_count": 1,
+      "stats": {
+        "total_entities": 1,
+        "entities_by_type": {
+          "LEGAL_REF": 1
+        },
+        "avg_confidence": 0.8
+      }
+    },
+    {
+      "job_id": "364325b1-821a-4064-a3ce-8e2800dd3f37",
+      "assertion_id": "684ebc8f-50e1-4447-ba67-a0824c910d28",
+      "entities_count": 0,
+      "stats": {
+        "total_entities": 0,
+        "entities_by_type": {},
+        "avg_confidence": 0.0
+      }
+    },
+    {
+      "job_id": "3f22aabe-4a37-4e7b-8e86-9cd2bc41b94a",
+      "assertion_id": "b2a765cd-dd8e-4467-8ee9-5513e42d17ab",
+      "entities_count": 1,
+      "stats": {
+        "total_entities": 1,
+        "entities_by_type": {
+          "LEGAL_REF": 1
+        },
+        "avg_confidence": 0.8
+      }
+    },
+    {
+      "job_id": "b07b50c5-9bca-46e2-a79d-9bf3f023b96f",
+      "assertion_id": "e5e5427a-d3dd-4b6f-a335-aa487eb7990a",
+      "entities_count": 1,
+      "stats": {
+        "total_entities": 1,
+        "entities_by_type": {
+          "LEGAL_REF": 1
+        },
+        "avg_confidence": 0.8
+      }
+    },
+    {
+      "job_id": "3650cbac-59d2-4af9-9e18-fa0d8fef0acd",
+      "assertion_id": "0035e695-b56e-420d-b482-65d0df500803",
+      "entities_count": 1,
+      "stats": {
+        "total_entities": 1,
+        "entities_by_type": {
+          "LEGAL_REF": 1
+        },
+        "avg_confidence": 0.8
+      }
+    },
+    {
+      "job_id": "af55005b-1a43-421c-a1f4-15e7948a842d",
+      "assertion_id": "e3976371-46a0-45a0-ae14-7ac19a964c62",
+      "entities_count": 0,
+      "stats": {
+        "total_entities": 0,
+        "entities_by_type": {},
+        "avg_confidence": 0.0
+      }
+    },
+    {
+      "job_id": "5bbe6b80-b9a5-4166-8370-dbe97d78aaa5",
+      "assertion_id": "1e022f4a-0671-4e69-83be-24362aa5c5d2",
+      "entities_count": 1,
+      "stats": {
+        "total_entities": 1,
+        "entities_by_type": {
+          "LEGAL_REF": 1
+        },
+        "avg_confidence": 0.8
+      }
+    },
+    {
+      "job_id": "449dd2e7-f5a8-4745-a749-39d9af0e23fd",
+      "assertion_id": "5270fc0d-f520-4741-82a6-31cb1af78073",
+      "entities_count": 0,
+      "stats": {
+        "total_entities": 0,
+        "entities_by_type": {},
+        "avg_confidence": 0.0
+      }
+    },
+    {
+      "job_id": "4aa63710-e76d-4a66-b9ee-2bd3d8505cff",
+      "assertion_id": "0d42b2d3-0054-4e7e-bb5e-a2405d5fc14c",
+      "entities_count": 0,
+      "stats": {
+        "total_entities": 0,
+        "entities_by_type": {},
+        "avg_confidence": 0.0
+      }
+    },
+    {
+      "job_id": "d1a3b231-bdc7-40e5-8189-81ee2a3269f6",
+      "assertion_id": "1fb12e10-87e6-4894-9d5d-bdc51e9ef482",
+      "entities_count": 0,
+      "stats": {
+        "total_entities": 0,
+        "entities_by_type": {},
+        "avg_confidence": 0.0
+      }
+    }
+  ],
+  "condition_jobs": [
+    {
+      "job_id": "a2d9c5e9-b659-4d35-b2b7-977dc29210a0",
+      "assertion_id": "e0c2c01a-731b-4b42-9a15-0fa4ce922c10",
+      "total_conditions": 1,
+      "total_exceptions": 0,
+      "total_temporal": 0,
+      "total_modal": 0
+    },
+    {
+      "job_id": "36f74809-c3ab-4892-adba-962e6e3ce013",
+      "assertion_id": "e8c2e20a-49b4-4d49-acfd-d1b152dcf884",
+      "total_conditions": 1,
+      "total_exceptions": 0,
+      "total_temporal": 0,
+      "total_modal": 0
+    },
+    {
+      "job_id": "6da2ff9e-b71a-4992-a52b-0db52b4d39fa",
+      "assertion_id": "dbfac13a-8509-43d5-be4a-f164d1062ac1",
+      "total_conditions": 1,
+      "total_exceptions": 1,
+      "total_temporal": 0,
+      "total_modal": 0
+    },
+    {
+      "job_id": "58cc3d67-c6d7-48d9-af2a-6bc3be9eac6e",
+      "assertion_id": "4ba77fc6-9669-4850-abd5-3e35e0ee8d42",
+      "total_conditions": 1,
+      "total_exceptions": 1,
+      "total_temporal": 0,
+      "total_modal": 0
+    },
+    {
+      "job_id": "372ddda4-f04d-4cd8-9b1d-8df3a5de669d",
+      "assertion_id": "f830d170-a51d-4337-9ed3-e4e0d58a0642",
+      "total_conditions": 1,
+      "total_exceptions": 1,
+      "total_temporal": 0,
+      "total_modal": 0
+    }
+  ],
+  "classification_jobs": [
+    {
+      "job_id": "fc3acec9-55ae-4dc1-b382-1b576edfb2b3",
+      "assertion_id": "e0c2c01a-731b-4b42-9a15-0fa4ce922c10",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ]
+    },
+    {
+      "job_id": "e3fbbfdf-7b31-4082-a8db-df0040b4b3c6",
+      "assertion_id": "e8c2e20a-49b4-4d49-acfd-d1b152dcf884",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ]
+    },
+    {
+      "job_id": "c50801c7-b606-476d-a468-04d1afaeb04b",
+      "assertion_id": "dbfac13a-8509-43d5-be4a-f164d1062ac1",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ]
+    },
+    {
+      "job_id": "2ed5901f-55d5-4335-a3e8-447cac15c70c",
+      "assertion_id": "4ba77fc6-9669-4850-abd5-3e35e0ee8d42",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ]
+    },
+    {
+      "job_id": "a6dadd9d-4f0d-41a5-bbad-4f5d1c4c07c8",
+      "assertion_id": "f830d170-a51d-4337-9ed3-e4e0d58a0642",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ]
+    },
+    {
+      "job_id": "fcc20bb3-2b7a-40a1-b6bc-7d6b827c8017",
+      "assertion_id": "2aa130a4-7cd4-4b59-9d8e-950b3deed686",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ]
+    },
+    {
+      "job_id": "c2a9ed96-f8d5-4ecc-a2e0-dbc26db9fb93",
+      "assertion_id": "c1e86c46-5884-4330-85a6-4de4796d3f2c",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ]
+    },
+    {
+      "job_id": "e82e559d-e77b-4c0d-8364-b1d51549e61c",
+      "assertion_id": "d8e6d3ab-5046-445f-8263-2497f7eba20d",
+      "assertion_type": "deadline",
+      "confidence": 0.9,
+      "matched_patterns": [
+        "u roku od",
+        "u roku"
+      ]
+    },
+    {
+      "job_id": "a10572de-c3bf-4510-bfd3-b13aec7e2455",
+      "assertion_id": "a638a215-d18e-4e1a-b052-e7cc33191336",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ]
+    },
+    {
+      "job_id": "ea018855-370b-4b6b-8c45-a47ff7aaadb7",
+      "assertion_id": "adab56cf-4bde-43e2-b2d6-72bcc4f7b574",
+      "assertion_type": "deadline",
+      "confidence": 0.9,
+      "matched_patterns": [
+        "u roku od",
+        "u roku"
+      ]
+    },
+    {
+      "job_id": "38882893-0624-4661-8abf-f6bac78dd10d",
+      "assertion_id": "684ebc8f-50e1-4447-ba67-a0824c910d28",
+      "assertion_type": "prohibition",
+      "confidence": 0.9,
+      "matched_patterns": [
+        "ne može"
+      ]
+    },
+    {
+      "job_id": "4eb19c0d-c8e7-4cb1-b0f8-6a99a552df9d",
+      "assertion_id": "b2a765cd-dd8e-4467-8ee9-5513e42d17ab",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ]
+    },
+    {
+      "job_id": "c1d488d5-679c-47d5-a776-32bca80c420e",
+      "assertion_id": "e5e5427a-d3dd-4b6f-a335-aa487eb7990a",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ]
+    },
+    {
+      "job_id": "75f14821-dcfc-4407-982b-0cb08c168858",
+      "assertion_id": "0035e695-b56e-420d-b482-65d0df500803",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ]
+    },
+    {
+      "job_id": "2116301b-3107-40af-a222-fb901aad1455",
+      "assertion_id": "e3976371-46a0-45a0-ae14-7ac19a964c62",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ]
+    },
+    {
+      "job_id": "5d34c563-2552-4479-bbba-3fbeacd6df32",
+      "assertion_id": "1e022f4a-0671-4e69-83be-24362aa5c5d2",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ]
+    },
+    {
+      "job_id": "b061c39e-37df-41ee-8873-22730983ed18",
+      "assertion_id": "5270fc0d-f520-4741-82a6-31cb1af78073",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ]
+    },
+    {
+      "job_id": "a30b72d3-0fad-4171-8cc0-1936a256b3c0",
+      "assertion_id": "0d42b2d3-0054-4e7e-bb5e-a2405d5fc14c",
+      "assertion_type": "definition",
+      "confidence": 0.85,
+      "matched_patterns": [
+        "jeste",
+        "u smislu ovog"
+      ]
+    },
+    {
+      "job_id": "6806b62a-a5b7-4cc4-8875-8c07298e827d",
+      "assertion_id": "1fb12e10-87e6-4894-9d5d-bdc51e9ef482",
+      "assertion_type": "definition",
+      "confidence": 0.85,
+      "matched_patterns": [
+        "jeste",
+        "u smislu ovog"
+      ]
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "e0c2c01a-731b-4b42-9a15-0fa4ce922c10",
+      "text": "Prava, obaveze i odgovornosti iz radnog odnosa, odnosno po osnovu rada, uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 169
+    },
+    {
+      "assertion_id": "e8c2e20a-49b4-4d49-acfd-d1b152dcf884",
+      "text": "Prava, obaveze i odgovornosti iz radnog odnosa uređuju se i kolektivnim ugovorom i ugovorom o radu, a pravilnikom o radu, odnosno ugovorom o radu – samo kada je to ovim zakonom određeno.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 169,
+      "end_char": 355
+    },
+    {
+      "assertion_id": "dbfac13a-8509-43d5-be4a-f164d1062ac1",
+      "text": "Odredbe ovog zakona primenjuju se na zaposlene koji rade na teritoriji Republike Srbije, kod domaćeg ili stranog pravnog, odnosno fizičkog lica (u daljem tekstu: poslodavac), kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 289
+    },
+    {
+      "assertion_id": "4ba77fc6-9669-4850-abd5-3e35e0ee8d42",
+      "text": "Odredbe ovog zakona primenjuju se i na zaposlene u državnim organima, organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 289,
+      "end_char": 469
+    },
+    {
+      "assertion_id": "f830d170-a51d-4337-9ed3-e4e0d58a0642",
+      "text": "Odredbe ovog zakona primenjuju se i na zaposlene kod poslodavaca u oblasti saobraćaja, ako posebnim propisom nije drukčije određeno.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 469,
+      "end_char": 602
+    },
+    {
+      "assertion_id": "2aa130a4-7cd4-4b59-9d8e-950b3deed686",
+      "text": "Odredbe ovog zakona primenjuju se na zaposlene strane državljane i lica bez državljanstva koji rade kod poslodavca na teritoriji Republike Srbije, ako zakonom nije drukčije određeno.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 602,
+      "end_char": 785
+    },
+    {
+      "assertion_id": "c1e86c46-5884-4330-85a6-4de4796d3f2c",
+      "text": "Kolektivnim ugovorom kod poslodavca, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa i međusobni odnosi učesnika kolektivnog ugovora.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 165
+    },
+    {
+      "assertion_id": "d8e6d3ab-5046-445f-8263-2497f7eba20d",
+      "text": "Pravilnikom o radu, odnosno ugovorom o radu, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa: 1) ako kod poslodavca nije osnovan sindikat ili nijedan sindikat ne ispunjava uslove reprezentativnosti ili nije zaključen sporazum o udruživanju u skladu sa ovim zakonom; 2) ako nijedan učesnik kolektivnog ugovora ne pokrene inicijativu za početak pregovora radi zaključivanja kolektivnog ugovora; 3) ako učesnici kolektivnog ugovora ne postignu saglasnost za zaključivanje kolektivnog ugovora u roku od 60 dana od dana započinjanja pregovora; 4) ako sindikat, u roku od 15 dana od dana dostavljanja poziva za početak pregovora za zaključivanje kolektivnog ugovora, ne prihvati inicijativu poslodavca.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 165,
+      "end_char": 893
+    },
+    {
+      "assertion_id": "a638a215-d18e-4e1a-b052-e7cc33191336",
+      "text": "tačka 3) ovog člana učesnici kolektivnog ugovora dužni su da nastave pregovore u dobroj veri.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 915,
+      "end_char": 1009
+    },
+    {
+      "assertion_id": "adab56cf-4bde-43e2-b2d6-72bcc4f7b574",
+      "text": "tačka 3) ovog člana, poslodavac je dužan da pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 5,
+      "start_char": 1031,
+      "end_char": 1184
+    },
+    {
+      "assertion_id": "684ebc8f-50e1-4447-ba67-a0824c910d28",
+      "text": "Poslodavac koji ne prihvati inicijativu reprezentativnog sindikata za pristupanje pregovorima za zaključenje kolektivnog ugovora, ne može pravilnikom o radu da uredi prava i obaveze iz radnog odnosa.",
+      "confidence": 1.0,
+      "sentence_index": 6,
+      "start_char": 1184,
+      "end_char": 1384
+    },
+    {
+      "assertion_id": "b2a765cd-dd8e-4467-8ee9-5513e42d17ab",
+      "text": "Pravilnik o radu donosi nadležni organ kod poslodavca, utvrđen zakonom, odnosno osnivačkim ili drugim opštim aktom poslodavca, a kod poslodavca koji nema svojstvo pravnog lica donosi ovlašćeno lice u skladu sa zakonom.",
+      "confidence": 0.5,
+      "sentence_index": 7,
+      "start_char": 1384,
+      "end_char": 1603
+    },
+    {
+      "assertion_id": "e5e5427a-d3dd-4b6f-a335-aa487eb7990a",
+      "text": "Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika, autonomna pokrajina ili jedinica lokalne samouprave (u daljem tekstu: javno preduzeće) i društva kapitala čiji je osnivač javno preduzeće, donosi se uz prethodnu saglasnost osnivača.",
+      "confidence": 0.5,
+      "sentence_index": 8,
+      "start_char": 1603,
+      "end_char": 1866
+    },
+    {
+      "assertion_id": "0035e695-b56e-420d-b482-65d0df500803",
+      "text": "Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava 1.",
+      "confidence": 0.5,
+      "sentence_index": 9,
+      "start_char": 1866,
+      "end_char": 1956
+    },
+    {
+      "assertion_id": "e3976371-46a0-45a0-ae14-7ac19a964c62",
+      "text": "Opšti i poseban kolektivni ugovor moraju biti u saglasnosti sa zakonom.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 72
+    },
+    {
+      "assertion_id": "1e022f4a-0671-4e69-83be-24362aa5c5d2",
+      "text": "Kolektivni ugovor kod poslodavca, pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom, a kod poslodavca iz čl.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 72,
+      "end_char": 201
+    },
+    {
+      "assertion_id": "5270fc0d-f520-4741-82a6-31cb1af78073",
+      "text": "ovog zakona – i sa opštim i posebnim kolektivnim ugovorom.",
+      "confidence": 0.5,
+      "sentence_index": 4,
+      "start_char": 213,
+      "end_char": 271
+    },
+    {
+      "assertion_id": "0d42b2d3-0054-4e7e-bb5e-a2405d5fc14c",
+      "text": "Zaposleni, u smislu ovog zakona, jeste fizičko lice koje je u radnom odnosu kod poslodavca.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 92
+    },
+    {
+      "assertion_id": "1fb12e10-87e6-4894-9d5d-bdc51e9ef482",
+      "text": "Poslodavac, u smislu ovog zakona, jeste domaće, odnosno strano pravno ili fizičko lice koje zapošljava, odnosno radno angažuje, jedno ili više lica.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 92,
+      "end_char": 240
+    }
+  ],
+  "entities": [
+    {
+      "entity_id": "e113b5e1-b15a-4585-a1a2-e5624d527edc",
+      "entity_type": "DATE",
+      "text": "roku od 60",
+      "start_char": 522,
+      "end_char": 532,
+      "confidence": 0.7,
+      "metadata": {
+        "source": "regex",
+        "pattern": "\\b(?:u\\s+roku\\s+od|nakon|pre|do)\\s+\\d+\\s+(?:dan|da",
+        "length": 17
+      }
+    },
+    {
+      "entity_id": "9c1cd3ed-1c7f-4c23-b02f-a1c6908225ae",
+      "entity_type": "DATE",
+      "text": "roku od 15",
+      "start_char": 589,
+      "end_char": 599,
+      "confidence": 0.7,
+      "metadata": {
+        "source": "regex",
+        "pattern": "\\b(?:u\\s+roku\\s+od|nakon|pre|do)\\s+\\d+\\s+(?:dan|da",
+        "length": 17
+      }
+    },
+    {
+      "entity_id": "3f57f036-fba5-4029-99c0-725f14e5cb86",
+      "entity_type": "LEGAL_REF",
+      "text": "pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu",
+      "start_char": 44,
+      "end_char": 151,
+      "confidence": 0.8,
+      "metadata": {
+        "source": "regex",
+        "pattern": "\\b(?:Zakon|Pravilnik|Uredba|Odluka|Naredba)\\s+o\\s+",
+        "length": 107
+      }
+    },
+    {
+      "entity_id": "0efb9649-888d-4e14-8c61-2b6949b7b696",
+      "entity_type": "LEGAL_REF",
+      "text": "Pravilnik o radu donosi nadležni organ kod poslodavca",
+      "start_char": 0,
+      "end_char": 53,
+      "confidence": 0.8,
+      "metadata": {
+        "source": "regex",
+        "pattern": "\\b(?:Zakon|Pravilnik|Uredba|Odluka|Naredba)\\s+o\\s+",
+        "length": 53
+      }
+    },
+    {
+      "entity_id": "3e9630ff-531b-4477-ad05-87f89ee64338",
+      "entity_type": "LEGAL_REF",
+      "text": "Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika",
+      "start_char": 0,
+      "end_char": 78,
+      "confidence": 0.8,
+      "metadata": {
+        "source": "regex",
+        "pattern": "\\b(?:Zakon|Pravilnik|Uredba|Odluka|Naredba)\\s+o\\s+",
+        "length": 78
+      }
+    },
+    {
+      "entity_id": "ec6a3f88-5d18-4d69-8b21-a040995c4436",
+      "entity_type": "LEGAL_REF",
+      "text": "Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava",
+      "start_char": 0,
+      "end_char": 86,
+      "confidence": 0.8,
+      "metadata": {
+        "source": "regex",
+        "pattern": "\\b(?:Zakon|Pravilnik|Uredba|Odluka|Naredba)\\s+o\\s+",
+        "length": 87
+      }
+    },
+    {
+      "entity_id": "dbd38d3a-3997-4868-955d-f27d57c6ce60",
+      "entity_type": "LEGAL_REF",
+      "text": "pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom",
+      "start_char": 34,
+      "end_char": 103,
+      "confidence": 0.8,
+      "metadata": {
+        "source": "regex",
+        "pattern": "\\b(?:Zakon|Pravilnik|Uredba|Odluka|Naredba)\\s+o\\s+",
+        "length": 69
+      }
+    }
+  ],
+  "conditions": [
+    {
+      "condition_id": "aa45cc11-2603-4095-b2cc-e13af31cba4b",
+      "condition_type": "condition",
+      "text": "uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama",
+      "start_char": 116,
+      "end_char": 127,
+      "confidence": 0.9,
+      "trigger_word": "u skladu sa",
+      "context": "rada, uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama."
+    },
+    {
+      "condition_id": "87f7ffc7-1a1e-4b25-b321-b4cadd87d13e",
+      "condition_type": "condition",
+      "text": "odnosno ugovorom o radu – samo kada je to ovim zakonom određeno",
+      "start_char": 153,
+      "end_char": 157,
+      "confidence": 0.85,
+      "trigger_word": "kada",
+      "context": "ravilnikom o radu, odnosno ugovorom o radu – samo kada je to ovim zakonom određeno."
+    },
+    {
+      "condition_id": "93027280-677c-4c73-8fdb-fa045dd86457",
+      "condition_type": "condition",
+      "text": "kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno",
+      "start_char": 253,
+      "end_char": 256,
+      "confidence": 0.9,
+      "trigger_word": "ako",
+      "context": "pućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno."
+    },
+    {
+      "condition_id": "6621b6e2-3b84-4c84-a743-7b14a86e090c",
+      "condition_type": "exception",
+      "text": "kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno",
+      "start_char": 265,
+      "end_char": 287,
+      "confidence": 0.95,
+      "trigger_word": "nije drukčije određeno",
+      "context": "d u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno."
+    },
+    {
+      "condition_id": "673122d9-eab7-460b-89ca-ce73db1857b4",
+      "condition_type": "condition",
+      "text": "organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno",
+      "start_char": 144,
+      "end_char": 147,
+      "confidence": 0.9,
+      "trigger_word": "ako",
+      "context": "utonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno."
+    },
+    {
+      "condition_id": "3647cb8b-82fc-4a4e-9af3-b3485b859e99",
+      "condition_type": "exception",
+      "text": "ako zakonom nije drukčije određeno",
+      "start_char": 156,
+      "end_char": 178,
+      "confidence": 0.95,
+      "trigger_word": "nije drukčije određeno",
+      "context": "lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno."
+    },
+    {
+      "condition_id": "b4a8bd7a-bb11-461d-9f8b-b35072f2cc27",
+      "condition_type": "condition",
+      "text": "ako posebnim propisom nije drukčije određeno",
+      "start_char": 87,
+      "end_char": 90,
+      "confidence": 0.9,
+      "trigger_word": "ako",
+      "context": "a zaposlene kod poslodavaca u oblasti saobraćaja, ako posebnim propisom nije drukčije određeno."
+    },
+    {
+      "condition_id": "a44123cf-9c55-4d9c-83d7-306aac029a2b",
+      "condition_type": "exception",
+      "text": "ako posebnim propisom nije drukčije određeno",
+      "start_char": 109,
+      "end_char": 131,
+      "confidence": 0.95,
+      "trigger_word": "nije drukčije određeno",
+      "context": "avaca u oblasti saobraćaja, ako posebnim propisom nije drukčije određeno."
+    }
+  ],
+  "classifications": [
+    {
+      "assertion_id": "e0c2c01a-731b-4b42-9a15-0fa4ce922c10",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ],
+      "reasoning": "No clear pattern matched, defaulting to obligation"
+    },
+    {
+      "assertion_id": "e8c2e20a-49b4-4d49-acfd-d1b152dcf884",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ],
+      "reasoning": "No clear pattern matched, defaulting to obligation"
+    },
+    {
+      "assertion_id": "dbfac13a-8509-43d5-be4a-f164d1062ac1",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ],
+      "reasoning": "No clear pattern matched, defaulting to obligation"
+    },
+    {
+      "assertion_id": "4ba77fc6-9669-4850-abd5-3e35e0ee8d42",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ],
+      "reasoning": "No clear pattern matched, defaulting to obligation"
+    },
+    {
+      "assertion_id": "f830d170-a51d-4337-9ed3-e4e0d58a0642",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ],
+      "reasoning": "No clear pattern matched, defaulting to obligation"
+    },
+    {
+      "assertion_id": "2aa130a4-7cd4-4b59-9d8e-950b3deed686",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ],
+      "reasoning": "No clear pattern matched, defaulting to obligation"
+    },
+    {
+      "assertion_id": "c1e86c46-5884-4330-85a6-4de4796d3f2c",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ],
+      "reasoning": "No clear pattern matched, defaulting to obligation"
+    },
+    {
+      "assertion_id": "d8e6d3ab-5046-445f-8263-2497f7eba20d",
+      "assertion_type": "deadline",
+      "confidence": 0.9,
+      "matched_patterns": [
+        "u roku od",
+        "u roku"
+      ],
+      "reasoning": "Matched 2 pattern(s) for deadline"
+    },
+    {
+      "assertion_id": "a638a215-d18e-4e1a-b052-e7cc33191336",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ],
+      "reasoning": "No clear pattern matched, defaulting to obligation"
+    },
+    {
+      "assertion_id": "adab56cf-4bde-43e2-b2d6-72bcc4f7b574",
+      "assertion_type": "deadline",
+      "confidence": 0.9,
+      "matched_patterns": [
+        "u roku od",
+        "u roku"
+      ],
+      "reasoning": "Matched 2 pattern(s) for deadline"
+    },
+    {
+      "assertion_id": "684ebc8f-50e1-4447-ba67-a0824c910d28",
+      "assertion_type": "prohibition",
+      "confidence": 0.9,
+      "matched_patterns": [
+        "ne može"
+      ],
+      "reasoning": "Matched 1 pattern(s) for prohibition"
+    },
+    {
+      "assertion_id": "b2a765cd-dd8e-4467-8ee9-5513e42d17ab",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ],
+      "reasoning": "No clear pattern matched, defaulting to obligation"
+    },
+    {
+      "assertion_id": "e5e5427a-d3dd-4b6f-a335-aa487eb7990a",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ],
+      "reasoning": "No clear pattern matched, defaulting to obligation"
+    },
+    {
+      "assertion_id": "0035e695-b56e-420d-b482-65d0df500803",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ],
+      "reasoning": "No clear pattern matched, defaulting to obligation"
+    },
+    {
+      "assertion_id": "e3976371-46a0-45a0-ae14-7ac19a964c62",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ],
+      "reasoning": "No clear pattern matched, defaulting to obligation"
+    },
+    {
+      "assertion_id": "1e022f4a-0671-4e69-83be-24362aa5c5d2",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ],
+      "reasoning": "No clear pattern matched, defaulting to obligation"
+    },
+    {
+      "assertion_id": "5270fc0d-f520-4741-82a6-31cb1af78073",
+      "assertion_type": "obligation",
+      "confidence": 0.5,
+      "matched_patterns": [
+        "default"
+      ],
+      "reasoning": "No clear pattern matched, defaulting to obligation"
+    },
+    {
+      "assertion_id": "0d42b2d3-0054-4e7e-bb5e-a2405d5fc14c",
+      "assertion_type": "definition",
+      "confidence": 0.85,
+      "matched_patterns": [
+        "jeste",
+        "u smislu ovog"
+      ],
+      "reasoning": "Matched 2 pattern(s) for definition"
+    },
+    {
+      "assertion_id": "1fb12e10-87e6-4894-9d5d-bdc51e9ef482",
+      "assertion_type": "definition",
+      "confidence": 0.85,
+      "matched_patterns": [
+        "jeste",
+        "u smislu ovog"
+      ],
+      "reasoning": "Matched 2 pattern(s) for definition"
+    }
+  ]
+}
