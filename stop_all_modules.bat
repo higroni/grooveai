@@ -8,7 +8,7 @@ echo Stopping all Python processes on module ports...
 echo.
 
 REM Kill processes on specific ports
-for %%p in (8101 8102 8103 8105 8106 8107) do (
+for %%p in (8101 8102 8103 8105 8106 8107 8108) do (
     echo Checking port %%p...
     for /f "tokens=5" %%a in ('netstat -aon ^| findstr :%%p ^| findstr LISTENING') do (
         echo   Killing process %%a on port %%p

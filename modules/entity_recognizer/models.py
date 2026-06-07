@@ -5,8 +5,8 @@ Data models for Entity Recognizer module.
 from datetime import datetime
 from typing import Optional, List
 from pydantic import BaseModel, Field
-from sqlalchemy import Integer, Text, Float, DateTime
-from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column
+from sqlalchemy import Integer, Text, Float, DateTime, ForeignKey
+from sqlalchemy.orm import DeclarativeBase, Mapped, mapped_column, relationship
 
 
 class Base(DeclarativeBase):
@@ -54,6 +54,7 @@ class RecognitionRequest(BaseModel):
         default=None,
         description="Specific entity types to extract (if None, extract all)"
     )
+    use_ner: bool = Field(default=False, description="Use classla NER (True) or regex only (False)")
 
 
 class RecognitionResponse(BaseModel):
@@ -65,19 +66,41 @@ class RecognitionResponse(BaseModel):
     timestamp: datetime = Field(default_factory=datetime.utcnow, description="Processing timestamp")
 
 
-# SQLAlchemy model for database persistence
+# SQLAlchemy models for database persistence
 class RecognitionJob(Base):
     """Database model for recognition jobs."""
     __tablename__ = "recognition_jobs"
     
     id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)
-    job_id: Mapped[str] = mapped_column(Text, nullable=False, unique=True)
-    assertion_id: Mapped[str] = mapped_column(Text, nullable=False)
+    job_id: Mapped[str] = mapped_column(Text, nullable=False, unique=True, index=True)
+    assertion_id: Mapped[str] = mapped_column(Text, nullable=False, index=True)
     assertion_text: Mapped[str] = mapped_column(Text, nullable=False)
-    output_entities: Mapped[str] = mapped_column(Text, nullable=False)  # JSON string
+    output_entities: Mapped[str] = mapped_column(Text, nullable=False)  # JSON string (for backward compatibility)
     total_entities: Mapped[int] = mapped_column(Integer, nullable=False)
     avg_confidence: Mapped[float] = mapped_column(Float, nullable=False)
     language: Mapped[str] = mapped_column(Text, nullable=False)
     created_at: Mapped[datetime] = mapped_column(DateTime, nullable=False, default=datetime.utcnow)
+    
+    # Relationship to entities
+    entities: Mapped[list["EntityDB"]] = relationship("EntityDB", back_populates="job", cascade="all, delete-orphan")
+
+
+class EntityDB(Base):
+    """Database model for individual entities."""
+    __tablename__ = "entities"
+    
+    id: Mapped[int] = mapped_column(Integer, primary_key=True, autoincrement=True)
+    entity_id: Mapped[str] = mapped_column(Text, nullable=False, unique=True, index=True)
+    job_id: Mapped[str] = mapped_column(Text, ForeignKey("recognition_jobs.job_id"), nullable=False, index=True)
+    entity_type: Mapped[str] = mapped_column(Text, nullable=False, index=True)
+    text: Mapped[str] = mapped_column(Text, nullable=False)
+    start_char: Mapped[int] = mapped_column(Integer, nullable=False)
+    end_char: Mapped[int] = mapped_column(Integer, nullable=False)
+    confidence: Mapped[float] = mapped_column(Float, nullable=False)
+    metadata_json: Mapped[str] = mapped_column(Text, nullable=True)  # JSON string for metadata
+    created_at: Mapped[datetime] = mapped_column(DateTime, nullable=False, default=datetime.utcnow)
+    
+    # Relationship to job
+    job: Mapped["RecognitionJob"] = relationship("RecognitionJob", back_populates="entities")
 
 # Made with Bob

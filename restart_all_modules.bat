@@ -8,7 +8,7 @@ echo [STEP 1] Stopping all Python processes on module ports...
 echo.
 
 REM Kill processes on specific ports
-for %%p in (8101 8102 8103 8105 8106 8107) do (
+for %%p in (8101 8102 8103 8105 8106 8107 8108) do (
     echo Checking port %%p...
     for /f "tokens=5" %%a in ('netstat -aon ^| findstr :%%p ^| findstr LISTENING') do (
         echo   Killing process %%a on port %%p
@@ -54,6 +54,11 @@ echo Starting Module 7: Entity Recognizer (port 8107)...
 start "Module 7: Entity Recognizer" cmd /k "python -m modules.entity_recognizer.main"
 timeout /t 2 /nobreak >nul
 
+REM Start Module 8: Condition Extractor (port 8108)
+echo Starting Module 8: Condition Extractor (port 8108)...
+start "Module 8: Condition Extractor" cmd /k "python -m modules.condition_extractor.main"
+timeout /t 2 /nobreak >nul
+
 echo.
 echo [OK] All modules started!
 echo.
@@ -65,7 +70,7 @@ echo [STEP 3] Checking module health...
 echo.
 
 REM Check each module
-python -c "import requests; import sys; modules = [('File Reader', 8101), ('Text Normalizer', 8102), ('Latinizer', 8103), ('Legal Parser', 8105), ('Assertion Extractor', 8106)]; [print(f'[OK] {name} (port {port})') if requests.get(f'http://localhost:{port}/health', timeout=2).status_code == 200 else print(f'[ERROR] {name} (port {port})') for name, port in modules]" 2>nul
+python -c "import requests; import sys; modules = [('File Reader', 8101), ('Text Normalizer', 8102), ('Latinizer', 8103), ('Legal Parser', 8105), ('Assertion Extractor', 8106), ('Entity Recognizer', 8107), ('Condition Extractor', 8108)]; [print(f'[OK] {name} (port {port})') if requests.get(f'http://localhost:{port}/health', timeout=2).status_code == 200 else print(f'[ERROR] {name} (port {port})') for name, port in modules]" 2>nul
 
 if errorlevel 1 (
     echo.
@@ -78,14 +83,16 @@ echo All modules should be running now!
 echo ============================================================
 echo.
 echo Module URLs:
-echo   - Module 1 (File Reader):        http://localhost:8101
-echo   - Module 2 (Text Normalizer):    http://localhost:8102
-echo   - Module 3 (Latinizer):          http://localhost:8103
-echo   - Module 4 (Legal Parser):       http://localhost:8105
+echo   - Module 1 (File Reader):         http://localhost:8101
+echo   - Module 2 (Text Normalizer):     http://localhost:8102
+echo   - Module 3 (Latinizer):           http://localhost:8103
+echo   - Module 4 (Legal Parser):        http://localhost:8105
 echo   - Module 6 (Assertion Extractor): http://localhost:8106
+echo   - Module 7 (Entity Recognizer):   http://localhost:8107
+echo   - Module 8 (Condition Extractor): http://localhost:8108
 echo.
 echo To run integration test:
-echo   python test_pipeline_modules_1_2_3_4_6.py
+echo   python test_pipeline_modules_1_2_3_4_6_7_8.py
 echo.
 pause
 

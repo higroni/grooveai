@@ -9,7 +9,8 @@ from fastapi import APIRouter, HTTPException
 from modules.entity_recognizer.models import (
     RecognitionRequest,
     RecognitionResponse,
-    RecognitionJob
+    RecognitionJob,
+    EntityDB
 )
 from modules.entity_recognizer import service
 from modules.entity_recognizer.database import db
@@ -36,7 +37,8 @@ async def recognize_entities(request: RecognitionRequest) -> RecognitionResponse
         output = service.recognize_entities(
             text=request.assertion.text,
             min_confidence=request.min_confidence,
-            entity_types=request.entity_types
+            entity_types=request.entity_types,
+            use_ner=request.use_ner
         )
         
         # Store job in database
@@ -52,6 +54,23 @@ async def recognize_entities(request: RecognitionRequest) -> RecognitionResponse
         )
         
         saved_job = db.create(job)
+        
+        # Store individual entities in entities table
+        with db.get_session() as session:
+            for entity in output.entities:
+                entity_db = EntityDB(
+                    entity_id=entity.entity_id,
+                    job_id=job_id,
+                    entity_type=entity.entity_type,
+                    text=entity.text,
+                    start_char=entity.start_char,
+                    end_char=entity.end_char,
+                    confidence=entity.confidence,
+                    metadata_json=json.dumps(entity.metadata) if entity.metadata else None,
+                    created_at=datetime.utcnow()
+                )
+                session.add(entity_db)
+            session.commit()
         
         # Return response
         return RecognitionResponse(

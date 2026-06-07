@@ -17,6 +17,12 @@ def test_entity_recognizer():
     print("MODULE 7: ENTITY RECOGNIZER - SIMPLE TEST")
     print("="*80)
     
+    # Set UTF-8 encoding for Windows console
+    import sys
+    import io
+    if sys.platform == 'win32':
+        sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
+    
     # Test 1: Health check
     print("\n[TEST 1] Health Check")
     print("-" * 80)

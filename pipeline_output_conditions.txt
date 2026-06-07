@@ -1,0 +1,896 @@
+================================================================================
+EXTRACTED ENTITIES AND CONDITIONS FROM LEGAL DOCUMENT
+================================================================================
+
+Source: D:/POSAO/OllamaProjects/GROOVE.AI/DOCUMENTS/DEV/onedoc/radni_odnosi_0001_000001.pdf
+Total Articles Processed: 5
+Total Assertions Extracted: 19
+Total Entities Extracted: 7
+Total Conditions Extracted: 8
+
+================================================================================
+
+ENTITIES
+================================================================================
+
+ASSERTION: Prava, obaveze i odgovornosti iz radnog odnosa, odnosno po osnovu rada, uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama.
+Confidence: 0.50
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: Prava, obaveze i odgovornosti iz radnog odnosa uređuju se i kolektivnim ugovorom i ugovorom o radu, a pravilnikom o radu, odnosno ugovorom o radu – samo kada je to ovim zakonom određeno.
+Confidence: 0.50
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: Odredbe ovog zakona primenjuju se na zaposlene koji rade na teritoriji Republike Srbije, kod domaćeg ili stranog pravnog, odnosno fizičkog lica (u daljem tekstu: poslodavac), kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno.
+Confidence: 0.50
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: Odredbe ovog zakona primenjuju se i na zaposlene u državnim organima, organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno.
+Confidence: 0.50
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: Odredbe ovog zakona primenjuju se i na zaposlene kod poslodavaca u oblasti saobraćaja, ako posebnim propisom nije drukčije određeno.
+Confidence: 0.50
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: Odredbe ovog zakona primenjuju se na zaposlene strane državljane i lica bez državljanstva koji rade kod poslodavca na teritoriji Republike Srbije, ako zakonom nije drukčije određeno.
+Confidence: 0.50
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: Kolektivnim ugovorom kod poslodavca, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa i međusobni odnosi učesnika kolektivnog ugovora.
+Confidence: 0.50
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: Pravilnikom o radu, odnosno ugovorom o radu, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa: 1) ako kod poslodavca nije osnovan sindikat ili nijedan sindikat ne ispunjava uslove reprezentativnosti ili nije zaključen sporazum o udruživanju u skladu sa ovim zakonom; 2) ako nijedan učesnik kolektivnog ugovora ne pokrene inicijativu za početak pregovora radi zaključivanja kolektivnog ugovora; 3) ako učesnici kolektivnog ugovora ne postignu saglasnost za zaključivanje kolektivnog ugovora u roku od 60 dana od dana započinjanja pregovora; 4) ako sindikat, u roku od 15 dana od dana dostavljanja poziva za početak pregovora za zaključivanje kolektivnog ugovora, ne prihvati inicijativu poslodavca.
+Confidence: 0.50
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: tačka 3) ovog člana učesnici kolektivnog ugovora dužni su da nastave pregovore u dobroj veri.
+Confidence: 0.50
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: tačka 3) ovog člana, poslodavac je dužan da pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu.
+Confidence: 0.80
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: Poslodavac koji ne prihvati inicijativu reprezentativnog sindikata za pristupanje pregovorima za zaključenje kolektivnog ugovora, ne može pravilnikom o radu da uredi prava i obaveze iz radnog odnosa.
+Confidence: 1.00
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: Pravilnik o radu donosi nadležni organ kod poslodavca, utvrđen zakonom, odnosno osnivačkim ili drugim opštim aktom poslodavca, a kod poslodavca koji nema svojstvo pravnog lica donosi ovlašćeno lice u skladu sa zakonom.
+Confidence: 0.50
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika, autonomna pokrajina ili jedinica lokalne samouprave (u daljem tekstu: javno preduzeće) i društva kapitala čiji je osnivač javno preduzeće, donosi se uz prethodnu saglasnost osnivača.
+Confidence: 0.50
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava 1.
+Confidence: 0.50
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: Opšti i poseban kolektivni ugovor moraju biti u saglasnosti sa zakonom.
+Confidence: 0.50
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: Kolektivni ugovor kod poslodavca, pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom, a kod poslodavca iz čl.
+Confidence: 0.50
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: ovog zakona – i sa opštim i posebnim kolektivnim ugovorom.
+Confidence: 0.50
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: Zaposleni, u smislu ovog zakona, jeste fizičko lice koje je u radnom odnosu kod poslodavca.
+Confidence: 0.50
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+ASSERTION: Poslodavac, u smislu ovog zakona, jeste domaće, odnosno strano pravno ili fizičko lice koje zapošljava, odnosno radno angažuje, jedno ili više lica.
+Confidence: 0.50
+Entities: 7
+--------------------------------------------------------------------------------
+
+  1. DATE: 'roku od 60'
+     Confidence: 0.70
+     Position: 522-532
+
+  2. DATE: 'roku od 15'
+     Confidence: 0.70
+     Position: 589-599
+
+  3. LEGAL_REF: 'pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu'
+     Confidence: 0.80
+     Position: 44-151
+
+  4. LEGAL_REF: 'Pravilnik o radu donosi nadležni organ kod poslodavca'
+     Confidence: 0.80
+     Position: 0-53
+
+  5. LEGAL_REF: 'Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika'
+     Confidence: 0.80
+     Position: 0-78
+
+  6. LEGAL_REF: 'Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava'
+     Confidence: 0.80
+     Position: 0-86
+
+  7. LEGAL_REF: 'pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom'
+     Confidence: 0.80
+     Position: 34-103
+
+
+
+================================================================================
+CONDITIONS
+================================================================================
+
+ASSERTION: Prava, obaveze i odgovornosti iz radnog odnosa, odnosno po osnovu rada, uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama.
+Confidence: 0.50
+Conditions: 8
+--------------------------------------------------------------------------------
+
+  1. CONDITION: 'u skladu sa'
+     Text: uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama
+     Confidence: 0.90
+     Position: 116-127
+
+  2. CONDITION: 'kada'
+     Text: odnosno ugovorom o radu – samo kada je to ovim zakonom određeno
+     Confidence: 0.85
+     Position: 153-157
+
+  3. CONDITION: 'ako'
+     Text: kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno
+     Confidence: 0.90
+     Position: 253-256
+
+  4. EXCEPTION: 'nije drukčije određeno'
+     Text: kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno
+     Confidence: 0.95
+     Position: 265-287
+
+  5. CONDITION: 'ako'
+     Text: organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno
+     Confidence: 0.90
+     Position: 144-147
+
+  6. EXCEPTION: 'nije drukčije određeno'
+     Text: ako zakonom nije drukčije određeno
+     Confidence: 0.95
+     Position: 156-178
+
+  7. CONDITION: 'ako'
+     Text: ako posebnim propisom nije drukčije određeno
+     Confidence: 0.90
+     Position: 87-90
+
+  8. EXCEPTION: 'nije drukčije određeno'
+     Text: ako posebnim propisom nije drukčije određeno
+     Confidence: 0.95
+     Position: 109-131
+
+
+ASSERTION: Prava, obaveze i odgovornosti iz radnog odnosa uređuju se i kolektivnim ugovorom i ugovorom o radu, a pravilnikom o radu, odnosno ugovorom o radu – samo kada je to ovim zakonom određeno.
+Confidence: 0.50
+Conditions: 8
+--------------------------------------------------------------------------------
+
+  1. CONDITION: 'u skladu sa'
+     Text: uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama
+     Confidence: 0.90
+     Position: 116-127
+
+  2. CONDITION: 'kada'
+     Text: odnosno ugovorom o radu – samo kada je to ovim zakonom određeno
+     Confidence: 0.85
+     Position: 153-157
+
+  3. CONDITION: 'ako'
+     Text: kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno
+     Confidence: 0.90
+     Position: 253-256
+
+  4. EXCEPTION: 'nije drukčije određeno'
+     Text: kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno
+     Confidence: 0.95
+     Position: 265-287
+
+  5. CONDITION: 'ako'
+     Text: organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno
+     Confidence: 0.90
+     Position: 144-147
+
+  6. EXCEPTION: 'nije drukčije određeno'
+     Text: ako zakonom nije drukčije određeno
+     Confidence: 0.95
+     Position: 156-178
+
+  7. CONDITION: 'ako'
+     Text: ako posebnim propisom nije drukčije određeno
+     Confidence: 0.90
+     Position: 87-90
+
+  8. EXCEPTION: 'nije drukčije određeno'
+     Text: ako posebnim propisom nije drukčije određeno
+     Confidence: 0.95
+     Position: 109-131
+
+
+ASSERTION: Odredbe ovog zakona primenjuju se na zaposlene koji rade na teritoriji Republike Srbije, kod domaćeg ili stranog pravnog, odnosno fizičkog lica (u daljem tekstu: poslodavac), kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno.
+Confidence: 0.50
+Conditions: 8
+--------------------------------------------------------------------------------
+
+  1. CONDITION: 'u skladu sa'
+     Text: uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama
+     Confidence: 0.90
+     Position: 116-127
+
+  2. CONDITION: 'kada'
+     Text: odnosno ugovorom o radu – samo kada je to ovim zakonom određeno
+     Confidence: 0.85
+     Position: 153-157
+
+  3. CONDITION: 'ako'
+     Text: kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno
+     Confidence: 0.90
+     Position: 253-256
+
+  4. EXCEPTION: 'nije drukčije određeno'
+     Text: kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno
+     Confidence: 0.95
+     Position: 265-287
+
+  5. CONDITION: 'ako'
+     Text: organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno
+     Confidence: 0.90
+     Position: 144-147
+
+  6. EXCEPTION: 'nije drukčije određeno'
+     Text: ako zakonom nije drukčije određeno
+     Confidence: 0.95
+     Position: 156-178
+
+  7. CONDITION: 'ako'
+     Text: ako posebnim propisom nije drukčije određeno
+     Confidence: 0.90
+     Position: 87-90
+
+  8. EXCEPTION: 'nije drukčije određeno'
+     Text: ako posebnim propisom nije drukčije određeno
+     Confidence: 0.95
+     Position: 109-131
+
+
+ASSERTION: Odredbe ovog zakona primenjuju se i na zaposlene u državnim organima, organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno.
+Confidence: 0.50
+Conditions: 8
+--------------------------------------------------------------------------------
+
+  1. CONDITION: 'u skladu sa'
+     Text: uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama
+     Confidence: 0.90
+     Position: 116-127
+
+  2. CONDITION: 'kada'
+     Text: odnosno ugovorom o radu – samo kada je to ovim zakonom određeno
+     Confidence: 0.85
+     Position: 153-157
+
+  3. CONDITION: 'ako'
+     Text: kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno
+     Confidence: 0.90
+     Position: 253-256
+
+  4. EXCEPTION: 'nije drukčije određeno'
+     Text: kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno
+     Confidence: 0.95
+     Position: 265-287
+
+  5. CONDITION: 'ako'
+     Text: organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno
+     Confidence: 0.90
+     Position: 144-147
+
+  6. EXCEPTION: 'nije drukčije određeno'
+     Text: ako zakonom nije drukčije određeno
+     Confidence: 0.95
+     Position: 156-178
+
+  7. CONDITION: 'ako'
+     Text: ako posebnim propisom nije drukčije određeno
+     Confidence: 0.90
+     Position: 87-90
+
+  8. EXCEPTION: 'nije drukčije određeno'
+     Text: ako posebnim propisom nije drukčije određeno
+     Confidence: 0.95
+     Position: 109-131
+
+
+ASSERTION: Odredbe ovog zakona primenjuju se i na zaposlene kod poslodavaca u oblasti saobraćaja, ako posebnim propisom nije drukčije određeno.
+Confidence: 0.50
+Conditions: 8
+--------------------------------------------------------------------------------
+
+  1. CONDITION: 'u skladu sa'
+     Text: uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama
+     Confidence: 0.90
+     Position: 116-127
+
+  2. CONDITION: 'kada'
+     Text: odnosno ugovorom o radu – samo kada je to ovim zakonom određeno
+     Confidence: 0.85
+     Position: 153-157
+
+  3. CONDITION: 'ako'
+     Text: kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno
+     Confidence: 0.90
+     Position: 253-256
+
+  4. EXCEPTION: 'nije drukčije određeno'
+     Text: kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno
+     Confidence: 0.95
+     Position: 265-287
+
+  5. CONDITION: 'ako'
+     Text: organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno
+     Confidence: 0.90
+     Position: 144-147
+
+  6. EXCEPTION: 'nije drukčije određeno'
+     Text: ako zakonom nije drukčije određeno
+     Confidence: 0.95
+     Position: 156-178
+
+  7. CONDITION: 'ako'
+     Text: ako posebnim propisom nije drukčije određeno
+     Confidence: 0.90
+     Position: 87-90
+
+  8. EXCEPTION: 'nije drukčije određeno'
+     Text: ako posebnim propisom nije drukčije određeno
+     Confidence: 0.95
+     Position: 109-131
+
+
