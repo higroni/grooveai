@@ -1,0 +1,438 @@
+{
+  "document_id": "radni_odnosi_0123_000123.pdf",
+  "document_legal_unit_id": "3a5ba627-4ec3-4a04-b39b-793bd7709261",
+  "document_metadata": {
+    "import_run_id": "bfbf47e1-0eba-49e8-9100-ca2782ef5d12",
+    "path": "test_data\\documents2\\radni_odnosi_0123_000123.pdf",
+    "title": "Ministar za rad i zapošljavanje donosi PRAVILNIK o sadržini",
+    "document_type": "regulation",
+    "language_code": "sr",
+    "legal_units_count": 8,
+    "processed_at": "2026-06-08T23:55:00.840709"
+  },
+  "document_title": "Ministar za rad i zapošljavanje donosi PRAVILNIK o sadržini",
+  "full_text": "Na osnovu člana 150. Zakona o zapošljavanju i osiguranju za slučaj nezaposlenosti\n(„Službeni glasnik RS”’, broj 71/2003),\nMinistar za rad i zapošljavanje donosi\n\nPRAVILNIK\no sadržini, načinu i postupku vršenja stručnog nadzora nad radom nacionalne\nslužbe za zapošljavanje i agencija za zapošljavanje\n\"Službeni glasnik RS, broj 7 od 23. januara 2004.\n\n\nČlan 1.\nOvim pravilnikom uređuje se sadržina, način i postupak sprovođenja stručnog nadzora\nnad radom Nacionalne službe za zapošljavanje (u daljem tekstu: Nacionalna služba) i\nagencija za zapošljavanje (u daljem tekstu: agencija).\n\nČlan 2.\nStručni nadzor iz člana 1. ovog pravilnika obuhvata:\n1) utvrđivanje pravilnosti rada i kvaliteta izvršenih usluga Nacionalne službe i\nagencije;\n2) utvrđivanje stručne osposobljenosti zaposlenih u Nacionalnoj službi i agenciji;\n\nČlan 3.\nStručni nadzor iz člana 1. ovog pravilnika vrši Komisija za stručni nadzor (u daljem\ntekstu: komisija), koju obrazuje ministar nadležan za poslove rada i zapošljavanja.\nKomisiju čini potreban broj stručnjaka koji imaju odgovarajuće zanimanje i najmanje\nisti stepen stručne spreme, kao i zaposleni u Nacionalnoj službi i agenciji, nad čijim\nradom se vrši stručni nadzor.\n\nČlan 4.\nMinistarstvo za rad i zapošljavanje u roku od tri dana pre otpočinjanja vršenja\nstručnog nadzora obaveštava Nacionalnu službu i agenciju o vremenu vršenja stručnog\nnadzora.\n\nČlan 5.\nMinistarstvo za rad i zapošljavanje utvrđuje godišnji program vršenja stručnog\nnadzora nad radom Nacionalne službe i agencije.\nStručni nadzor nad radom Nacionalne službe i agencije može se vršiti i mimo rokova\nutvrđenih programom za sprovođenje stručnog nadzora.\n\nČlan 6.\nO izvršenom stručnom nadzoru nad radom Nacionalne službe i agencije komisija\nsačinjava izveštaj koji sadrži:\n1) naziv i sedište subjekta nad čijim radom je izvršen stručni nadzor;\n2) datum i mesto izvršenog stručnog nadzora;\n3) delatnost, odnosno poslove u oblasti zapošljavanja koje obavlja Nacionalna služba\nili agencija;\n4) podatke o broju korisnika usluga i izvršenim uslugama Nacionalne službe ili\nagencije;\n5) ocenu kvaliteta rada Nacionalne službe ili agencije nad čijim radom je izvršen\nstručni nadzor;\n6) naloge za preduzimanje mera, radi otklanjanja nepravilnosti;\n7) imena i potpise članova komisije koji su izvršili stručni nadzor,\n\nČlan 7.\nNacionalna služba ili agencija u čijem radu su u postupku stručnog nadzora utvrđene\nnepravilnosti, obavezne su da postupe po nalozima za preduzimanje mera iz člana 6. stav 1.\ntačka 6. ovog pravilnika.\n\nČlan 8.\nOvaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n\nBroj 011-00-618/2003-03\nU Beogradu, 20. januara 2004. godine\nMinistar,\nDragan Milovanović, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "6955f8e5-24a3-4a77-a004-a882934aa9c6",
+      "entity_type": "DATE",
+      "text": "23. januara 2004",
+      "start_char": 332,
+      "end_char": 348,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "0a6bc382-ac5f-4f4f-a1b3-8e827544248a",
+      "entity_type": "DATE",
+      "text": "20. januara 2004",
+      "start_char": 2665,
+      "end_char": 2681,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "fab3008c-b991-4c7f-a4c4-a27beee9a891",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 150",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "cfdbce5d-e3d7-4e5c-973f-2aeafb1b4f1d",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 352,
+      "end_char": 358,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "70474a6d-4226-4ffb-ac69-9d49084966c8",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 584,
+      "end_char": 590,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "64002f60-9ffc-4b42-bd3d-49a3e214dd38",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 1",
+      "start_char": 610,
+      "end_char": 617,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "47b428f8-802a-451b-afd3-feb2762f8f21",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 820,
+      "end_char": 826,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "8648a10c-433b-4695-8625-004f6fdd3897",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 1",
+      "start_char": 846,
+      "end_char": 853,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "6253bd2e-0b8a-4653-8c29-9c2801073aff",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 1199,
+      "end_char": 1205,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "07694305-8e10-4ea6-a61a-972a407a6d9b",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 1381,
+      "end_char": 1387,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "5c40b126-fd81-4b3c-864f-323bf4a5d8a2",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 1653,
+      "end_char": 1659,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "177c773c-182b-48f6-a298-9fa6cf90f1cb",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 7",
+      "start_char": 2306,
+      "end_char": 2312,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "837f26b3-fc1b-42ce-896b-f7842ffdcdc9",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 6",
+      "start_char": 2472,
+      "end_char": 2479,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "1c770caa-3fa3-468b-950b-f592004cb629",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 8",
+      "start_char": 2516,
+      "end_char": 2522,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "4ae26ba5-705a-43bd-ba86-666d779da945",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no sadržini",
+      "start_char": 162,
+      "end_char": 182,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:55:00.840709",
+  "export_timestamp": "2026-06-08T23:55:00.840709",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "ef2173d4-9d6c-50cd-a1c7-286e8f6752e5",
+        "parent_legal_unit_id": "3a5ba627-4ec3-4a04-b39b-793bd7709261",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Ovim pravilnikom uređuje se sadržina, način i postupak sprovođenja stručnog nadzora nad radom Nacionalne službe za zapošljavanje (u daljem tekstu: Nacionalna služba) i agencija za zapošljavanje (u daljem tekstu: agencija).",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "3a5ba627-4ec3-4a04-b39b-793bd7709261",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "e81c6c2f-6572-56d6-a9e5-38235d83a7dc",
+        "parent_legal_unit_id": "3a5ba627-4ec3-4a04-b39b-793bd7709261",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Stručni nadzor iz člana 1. ovog pravilnika obuhvata: 1) utvrđivanje pravilnosti rada i kvaliteta izvršenih usluga Nacionalne službe i agencije; 2) utvrđivanje stručne osposobljenosti zaposlenih u Nacionalnoj službi i agenciji;",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "3a5ba627-4ec3-4a04-b39b-793bd7709261",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "ea6dabd8-aa3f-56a4-abbd-5864114769d9",
+        "parent_legal_unit_id": "3a5ba627-4ec3-4a04-b39b-793bd7709261",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Stručni nadzor iz člana 1. ovog pravilnika vrši Komisija za stručni nadzor (u daljem tekstu: komisija), koju obrazuje ministar nadležan za poslove rada i zapošljavanja. Komisiju čini potreban broj stručnjaka koji imaju odgovarajuće zanimanje i najmanje isti stepen stručne spreme, kao i zaposleni u Nacionalnoj službi i agenciji, nad čijim radom se vrši stručni nadzor.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "3a5ba627-4ec3-4a04-b39b-793bd7709261",
+        "title": "Član 3"
+      },
+      {
+        "legal_unit_id": "9ce70459-fee4-575a-82b9-894da7588c9a",
+        "parent_legal_unit_id": "3a5ba627-4ec3-4a04-b39b-793bd7709261",
+        "unit_type": "article",
+        "number": "4",
+        "ordinal": 4,
+        "heading": null,
+        "content_text": "Ministarstvo za rad i zapošljavanje u roku od tri dana pre otpočinjanja vršenja stručnog nadzora obaveštava Nacionalnu službu i agenciju o vremenu vršenja stručnog nadzora.",
+        "path": "article:4",
+        "akoma_eid": "article_4",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "3a5ba627-4ec3-4a04-b39b-793bd7709261",
+        "title": "Član 4"
+      },
+      {
+        "legal_unit_id": "394f838f-b0b9-5c40-8342-08a66497d76c",
+        "parent_legal_unit_id": "3a5ba627-4ec3-4a04-b39b-793bd7709261",
+        "unit_type": "article",
+        "number": "5",
+        "ordinal": 5,
+        "heading": null,
+        "content_text": "Ministarstvo za rad i zapošljavanje utvrđuje godišnji program vršenja stručnog nadzora nad radom Nacionalne službe i agencije. Stručni nadzor nad radom Nacionalne službe i agencije može se vršiti i mimo rokova utvrđenih programom za sprovođenje stručnog nadzora.",
+        "path": "article:5",
+        "akoma_eid": "article_5",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "3a5ba627-4ec3-4a04-b39b-793bd7709261",
+        "title": "Član 5"
+      },
+      {
+        "legal_unit_id": "3d95c0c8-be1b-5788-9290-f12ce57ae7e3",
+        "parent_legal_unit_id": "3a5ba627-4ec3-4a04-b39b-793bd7709261",
+        "unit_type": "article",
+        "number": "6",
+        "ordinal": 6,
+        "heading": null,
+        "content_text": "O izvršenom stručnom nadzoru nad radom Nacionalne službe i agencije komisija sačinjava izveštaj koji sadrži: 1) naziv i sedište subjekta nad čijim radom je izvršen stručni nadzor; 2) datum i mesto izvršenog stručnog nadzora; 3) delatnost, odnosno poslove u oblasti zapošljavanja koje obavlja Nacionalna služba ili agencija; 4) podatke o broju korisnika usluga i izvršenim uslugama Nacionalne službe ili agencije; 5) ocenu kvaliteta rada Nacionalne službe ili agencije nad čijim radom je izvršen stručni nadzor; 6) naloge za preduzimanje mera, radi otklanjanja nepravilnosti; 7) imena i potpise članova komisije koji su izvršili stručni nadzor,",
+        "path": "article:6",
+        "akoma_eid": "article_6",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "3a5ba627-4ec3-4a04-b39b-793bd7709261",
+        "title": "Član 6"
+      },
+      {
+        "legal_unit_id": "aa1321bc-33e7-54e5-9b56-c54647790655",
+        "parent_legal_unit_id": "3a5ba627-4ec3-4a04-b39b-793bd7709261",
+        "unit_type": "article",
+        "number": "7",
+        "ordinal": 7,
+        "heading": null,
+        "content_text": "Nacionalna služba ili agencija u čijem radu su u postupku stručnog nadzora utvrđene nepravilnosti, obavezne su da postupe po nalozima za preduzimanje mera iz člana 6. stav 1. tačka 6. ovog pravilnika.",
+        "path": "article:7",
+        "akoma_eid": "article_7",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "3a5ba627-4ec3-4a04-b39b-793bd7709261",
+        "title": "Član 7"
+      },
+      {
+        "legal_unit_id": "75bf276e-1bb4-5265-b459-f199c24705e7",
+        "parent_legal_unit_id": "3a5ba627-4ec3-4a04-b39b-793bd7709261",
+        "unit_type": "article",
+        "number": "8",
+        "ordinal": 8,
+        "heading": null,
+        "content_text": "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Broj 011-00-618/2003-03 U Beogradu, 20. januara 2004. godine Ministar, Dragan Milovanović, s.r.",
+        "path": "article:8",
+        "akoma_eid": "article_8",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "3a5ba627-4ec3-4a04-b39b-793bd7709261",
+        "title": "Član 8"
+      }
+    ],
+    "statistics": {
+      "total_units": 8,
+      "total_articles": 8,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [
+        {
+          "text": "Stručni nadzor nad radom Nacionalne službe i agencije može se vršiti i mimo rokova\nutvrđenih programom za sprovođenje stručnog nadzora.",
+          "confidence": 0.8
+        }
+      ],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 2
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [
+          {
+            "step_number": 7,
+            "action": "imena i potpise članova komisije koji su izvršili stručni nadzor,",
+            "actor": null,
+            "deadline": null,
+            "context": "7) imena i potpise članova komisije koji su izvršili stručni nadzor,",
+            "line_number": 52
+          },
+          {
+            "step_number": null,
+            "action": "vrši stručni nadzor.",
+            "actor": null,
+            "deadline": null,
+            "context": "vrši stručni nadzor.",
+            "line_number": 27
+          },
+          {
+            "step_number": null,
+            "action": "izvršili stručni nadzor,",
+            "actor": null,
+            "deadline": null,
+            "context": "izvršili stručni nadzor,",
+            "line_number": 52
+          }
+        ],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "zaposleni",
+            "role": null,
+            "responsibilities": [
+              "zaposlenih u Nacionalnoj službi i agenciji;",
+              "zaposleni u Nacionalnoj službi i agenciji,"
+            ],
+            "context": "zaposlenih u Nacionalnoj službi i agenciji;",
+            "line_number": 20
+          },
+          {
+            "name": "ministar",
+            "role": null,
+            "responsibilities": [
+              "ministar nadležan za poslove rada i zapošljavanja."
+            ],
+            "context": "ministar nadležan za poslove rada i zapošljavanja.",
+            "line_number": 24
+          },
+          {
+            "name": "komisija",
+            "role": null,
+            "responsibilities": [
+              "komisija),"
+            ],
+            "context": "komisija),",
+            "line_number": 24
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.002274036407470703,
+      "total_elements": 6
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0010037422180175781,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "pravilnik",
+        "hierarchy_level": 4,
+        "issuing_authority": "Ministarstvo",
+        "legal_basis": [
+          "15"
+        ],
+        "official_gazette": "Službeni glasnik RS”’",
+        "can_override": [
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba"
+        ],
+        "confidence": 0.8
+      },
+      "title": "Ministar za rad i zapošljavanje donosi\n\nPRAVILNIK",
+      "detected_patterns": [
+        "PRAVILNIK\\s+o\\s+[a-zšđčćž\\s]+",
+        "Pravilnik\\s+o\\s+[a-zšđčćž\\s]+",
+        "ovaj\\s+pravilnik"
+      ],
+      "processing_time": 0.00099945068359375
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0009980201721191406,
+      "total_elements": 0
+    }
+  }
+}

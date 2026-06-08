@@ -1,0 +1,315 @@
+{
+  "document_id": "radni_odnosi_0011_000011.pdf",
+  "document_legal_unit_id": "9edcc848-1490-47cf-9ddb-d477f880815f",
+  "document_metadata": {
+    "import_run_id": "a31ce6a9-edd5-4692-96a8-298e701ce5f2",
+    "path": "test_data\\documents2\\radni_odnosi_0011_000011.pdf",
+    "title": "donose PRAVILNIK o načinu izdavanja i sa držaju potvrde o nastupanju privremene sprečenosti za rad zaposlenog u smisl u propisa o zdravstvenom osiguranju",
+    "document_type": "regulation",
+    "language_code": "sr",
+    "legal_units_count": 5,
+    "processed_at": "2026-06-08T23:11:42.158962"
+  },
+  "document_title": "donose PRAVILNIK o načinu izdavanja i sa držaju potvrde o nastupanju privremene sprečenosti za rad zaposlenog u smisl u propisa o zdravstvenom osiguranju",
+  "full_text": "Na osnovu člana 178. stav 2. Zakona o radu („Službeni glasnik RS”, br. 70/2001 i 73/2001),\nMinistar za rad i zapošljavanje i ministar zdravlja i zaštite životne okoline, sporazumno\ndonose\n\n\nPRAVILNIK\no načinu izdavanja i sa držaju potvrde o nastupanju privremene sprečenosti za rad\nzaposlenog u smisl u propisa o zdravstvenom osiguranju\n\"Službeni glasnik RS\", broj 1 od 14. januara 2002.\n\n\nČlan 1.\nOvim pravilnikom uređuje se način izdavanja i sadržaj potvrde o nastupanju privremene\nsprečenosti za rad u smislu propisa o zdravstvenom osiguranju (u daljem tekstu: potvrda).\n\nČlan 2.\nPotvrdu izdaje lekar koji je, po propisima o zdravstvenom osiguranju, ovlašćen da ceni\nprivremenu sprečenost za rad.\nU slučaju teže bolesti zaposlenog, potvrda se izdaje članu uže porodice ili drugom licu sa\nkojim živi u porodičnom domaćinstvu.\n\nČlan 3.\nPotvrda sadrži obavezno:\n1) identifikacione podatke, i to:\n(1) naziv zdravstvene ustanove, sedište i adresu,\n(2) ime i prezime zaposlenog, datum rođenja i lični – matični broj,\n(3) naziv poslodavca, sedište i adresu;\n2) podatke o privremenoj sprečenosti za rad, i to:\n(1) datum početka privremene sprečenosti za rad,\n(2) osnov za privremenu sprečenost za rad,\n(3) dijagnozu bolesti,\n(4) očekivano vreme trajanja sprečenosti za rad;\n3) potpis i faksimil lekara, overen pečatom zdravstvene ustanove.\n\nČlan 4.\nPotvrda se izdaje na obrascu ZOR-X (list veličine 21 x 14,5 cm, boja štampe crna, hartija\nbela).\nObrazac iz stava 1. ovog člana odštampan je uz ovaj pravilnik i čini njegov sastavni deo.\n\nČlan 5.\nOvaj pravilnik stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n\nBroj 110-00-2231/2001-02\nU Beogradu, 26. decembra 2001. godine\nMinistarstvo zdravlja\ni zaštite životne okoline\nzamenik ministra,\ndr Uroš Jovanović, s.r.\nMinistarstvo za rad\ni zapošljavanje\nministar,\nDragan Milovanović, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "4eb447ff-2c8d-46f8-bb55-614b4c59beae",
+      "entity_type": "DATE",
+      "text": "14. januara 2002",
+      "start_char": 370,
+      "end_char": 386,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "e60fafc8-13ed-4216-b14b-3020003a0f08",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 178",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "2953ce9e-e9aa-41b9-9c5f-a8325437438c",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 390,
+      "end_char": 396,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "5897e579-4005-4c22-980e-f859927a32e1",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 575,
+      "end_char": 581,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "9698f074-d31b-42dd-a9b6-cfd736e7e054",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 829,
+      "end_char": 835,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "e5b2b2ef-141a-4995-a48e-8e6114e27b6d",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 1336,
+      "end_char": 1342,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "f94844a3-fc45-4e6f-ae68-ee6013f19d7c",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 1532,
+      "end_char": 1538,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "a6c28a83-1359-41c0-afcb-2e22ed6a6623",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no načinu izdavanja i sa držaju potvrde o nastupanju privremene sprečenosti za rad\nzaposlenog u smisl u propisa o zdravstvenom osiguranju",
+      "start_char": 190,
+      "end_char": 336,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:11:42.158962",
+  "export_timestamp": "2026-06-08T23:11:42.158962",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "ab1a9122-b6fd-59c6-8d2c-14fc5e16dfb0",
+        "parent_legal_unit_id": "9edcc848-1490-47cf-9ddb-d477f880815f",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Ovim pravilnikom uređuje se način izdavanja i sadržaj potvrde o nastupanju privremene sprečenosti za rad u smislu propisa o zdravstvenom osiguranju (u daljem tekstu: potvrda).",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "9edcc848-1490-47cf-9ddb-d477f880815f",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "29e006c6-edec-5bda-a5c3-b60099146bd0",
+        "parent_legal_unit_id": "9edcc848-1490-47cf-9ddb-d477f880815f",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Potvrdu izdaje lekar koji je, po propisima o zdravstvenom osiguranju, ovlašćen da ceni privremenu sprečenost za rad. U slučaju teže bolesti zaposlenog, potvrda se izdaje članu uže porodice ili drugom licu sa kojim živi u porodičnom domaćinstvu.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "9edcc848-1490-47cf-9ddb-d477f880815f",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "08a83257-e151-5938-9458-6088f1e3e5c5",
+        "parent_legal_unit_id": "9edcc848-1490-47cf-9ddb-d477f880815f",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Potvrda sadrži obavezno: 1) identifikacione podatke, i to: (1) naziv zdravstvene ustanove, sedište i adresu, (2) ime i prezime zaposlenog, datum rođenja i lični – matični broj, (3) naziv poslodavca, sedište i adresu; 2) podatke o privremenoj sprečenosti za rad, i to: (1) datum početka privremene sprečenosti za rad, (2) osnov za privremenu sprečenost za rad, (3) dijagnozu bolesti, (4) očekivano vreme trajanja sprečenosti za rad; 3) potpis i faksimil lekara, overen pečatom zdravstvene ustanove.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "9edcc848-1490-47cf-9ddb-d477f880815f",
+        "title": "Član 3"
+      },
+      {
+        "legal_unit_id": "5934bd15-0ec9-588a-8dcd-261aaf8f94e3",
+        "parent_legal_unit_id": "9edcc848-1490-47cf-9ddb-d477f880815f",
+        "unit_type": "article",
+        "number": "4",
+        "ordinal": 4,
+        "heading": null,
+        "content_text": "Potvrda se izdaje na obrascu ZOR-X (list veličine 21 x 14,5 cm, boja štampe crna, hartija bela). Obrazac iz stava 1. ovog člana odštampan je uz ovaj pravilnik i čini njegov sastavni deo.",
+        "path": "article:4",
+        "akoma_eid": "article_4",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "9edcc848-1490-47cf-9ddb-d477f880815f",
+        "title": "Član 4"
+      },
+      {
+        "legal_unit_id": "085f22bb-a998-5886-9f9b-381979310f48",
+        "parent_legal_unit_id": "9edcc848-1490-47cf-9ddb-d477f880815f",
+        "unit_type": "article",
+        "number": "5",
+        "ordinal": 5,
+        "heading": null,
+        "content_text": "Ovaj pravilnik stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Broj 110-00-2231/2001-02 U Beogradu, 26. decembra 2001. godine Ministarstvo zdravlja i zaštite životne okoline zamenik ministra, dr Uroš Jovanović, s.r. Ministarstvo za rad i zapošljavanje ministar, Dragan Milovanović, s.r.",
+        "path": "article:5",
+        "akoma_eid": "article_5",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "9edcc848-1490-47cf-9ddb-d477f880815f",
+        "title": "Član 5"
+      }
+    ],
+    "statistics": {
+      "total_units": 5,
+      "total_articles": 5,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [
+          {
+            "step_number": null,
+            "action": "izdaje lekar koji je,",
+            "actor": null,
+            "deadline": null,
+            "context": "izdaje lekar koji je,",
+            "line_number": 17
+          },
+          {
+            "step_number": null,
+            "action": "izdaje na obrascu ZOR-X (list veličine 21 x 14,",
+            "actor": null,
+            "deadline": null,
+            "context": "izdaje na obrascu ZOR-X (list veličine 21 x 14,",
+            "line_number": 36
+          }
+        ],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministar za rad i zapošljavanje i ministar zdravlja i zaštite životne okoline,"
+            ],
+            "context": "Ministar za rad i zapošljavanje i ministar zdravlja i zaštite životne okoline,",
+            "line_number": 2
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": [
+          {
+            "form_name": "prescribed form",
+            "form_purpose": "Obrazac iz stava 1.",
+            "mandatory": false,
+            "prescribed_by": null,
+            "context": "Obrazac iz stava 1.",
+            "line_number": 38
+          }
+        ]
+      },
+      "processing_time": 0.0010008811950683594,
+      "total_elements": 4
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [
+          {
+            "condition_text": "teže bolesti zaposlenog",
+            "condition_type": "if",
+            "context": "U slučaju teže bolesti zaposlenog,",
+            "line_number": 19
+          }
+        ],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.001062154769897461,
+      "total_elements": 1
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "pravilnik",
+        "hierarchy_level": 4,
+        "issuing_authority": "Ministarstvo",
+        "legal_basis": [
+          "17"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba"
+        ],
+        "confidence": 0.9
+      },
+      "title": "donose\n\n\nPRAVILNIK\no načinu izdavanja i sa držaju potvrde o nastupanju privremene sprečenosti za rad\nzaposlenog u smisl u propisa o zdravstvenom osiguranju",
+      "detected_patterns": [
+        "PRAVILNIK\\s+o\\s+[a-zšđčćž\\s]+",
+        "Pravilnik\\s+o\\s+[a-zšđčćž\\s]+",
+        "ovaj\\s+pravilnik",
+        "ovaj\\s+pravilnik"
+      ],
+      "processing_time": 0.0009984970092773438
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    }
+  }
+}

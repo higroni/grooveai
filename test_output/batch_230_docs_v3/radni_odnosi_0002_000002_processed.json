@@ -1,0 +1,137 @@
+{
+  "document_id": "radni_odnosi_0002_000002.pdf",
+  "document_legal_unit_id": "8b2cd735-a253-4b3f-8abc-986523327e8e",
+  "document_metadata": {
+    "import_run_id": "ea162653-2c3c-4c63-b4da-1efeba46e79d",
+    "path": "test_data\\documents2\\radni_odnosi_0002_000002.pdf",
+    "title": "Vlada donosi ODLUKU o visini minimalne cene rada za period januar",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 0,
+    "processed_at": "2026-06-08T23:38:13.301332"
+  },
+  "document_title": "Vlada donosi ODLUKU o visini minimalne cene rada za period januar",
+  "full_text": "Na osnovu člana 112. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje) i člana 43. stav 1. Zakona o\nVladi („Službeni glasnik RS”, br. 55/05, 71/05 – ispravka, 101/07, 65/08, 16/11, 68/12 – US,\n72/12, 7/14 – US, 44/14 i 30/18 – dr. zakon),\nVlada donosi\nODLUKU\no visini minimalne cene rada za period januar–decembar 2026. godine\n\"Službeni glasnik RS\", broj 78 od 12. septembra 2025.\n1. Minimalna cena rada, bez poreza i doprinosa za obavezno socijalno osiguranje, za period\njanuar–decembar 2026. godine iznosi 371,00 dinar („neto”), po radnom času.\n2. Ovu odluku objaviti u „Službenom glasniku Republike Srbije”.\n05 broj 120-9889/2025\nU Beogradu, 11. septembra 2025. godine\nVlada\nPredsednik,\nprof. dr Đuro Macut, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "5984aed1-5c10-4d39-874f-e08c3da46b56",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 112",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "2c6b4bad-c0a1-438e-b96c-beeef4540d9e",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 43",
+      "start_char": 159,
+      "end_char": 167,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:38:13.301332",
+  "export_timestamp": "2026-06-08T23:38:13.301332",
+  "parsed_structure": {
+    "units": [],
+    "statistics": {
+      "total_units": 0,
+      "total_articles": 0,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [],
+      "total_count": 0
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "odluka",
+        "hierarchy_level": 5,
+        "issuing_authority": "Vlada Republike Srbije",
+        "legal_basis": [
+          "11"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik"
+        ],
+        "confidence": 0.6
+      },
+      "title": "Vlada donosi\nODLUKU",
+      "detected_patterns": [
+        "donosi\\s+ODLUKU"
+      ],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [
+          {
+            "type": "exact",
+            "value": "371,00",
+            "unit": "dinar",
+            "context": "iznosi 371,00 dinar („neto”),",
+            "applies_to": null,
+            "line_number": 10
+          }
+        ],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0010025501251220703,
+      "total_elements": 1
+    }
+  }
+}

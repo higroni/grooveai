@@ -1,0 +1,223 @@
+{
+  "document_id": "radni_odnosi_0168_000168.pdf",
+  "document_legal_unit_id": "b0c6fdf5-cf20-4f49-a0aa-c333335a5e65",
+  "document_metadata": {
+    "import_run_id": "12e04289-1c5c-4617-aaab-1cc212c43ab0",
+    "path": "test_data\\documents2\\radni_odnosi_0168_000168.pdf",
+    "title": "SPORAZUM o produženju roka važenja Kolektivnog ugovora Javnog preduzeća",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 2,
+    "processed_at": "2026-06-09T00:02:10.934994"
+  },
+  "document_title": "SPORAZUM o produženju roka važenja Kolektivnog ugovora Javnog preduzeća",
+  "full_text": "Na osnovu člana 247. i člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05,\n61/05, 54/09, 32/13, 75/14, 13/17 – odluka US, 113/17 i 95/18 – autentično tumačenje),\nOsnivač – Vlada, reprezentativna Sindikalna organizacija zaposlenih u Javnom preduzeću\n„Službeni glasnik”, reprezentativni Sindikat „Nezavisnost” kod poslodavca JP „Službeni\nglasnik” i Javno preduzeće „Službeni glasnik”, zaključuju\nSPORAZUM\no produženju roka važenja Kolektivnog ugovora Javnog preduzeća „Službeni glasnik”\n„Službeni glasnik RS“, broj 86 od 29. oktobra 2024.\nČlan 1.\nVaženje Kolektivnog ugovora Javnog preduzeća „Službeni glasnik” („Službeni glasnik RS”, br.\n102/21, 12/22, 2/23 i 118/23) produžava se do 6. maja 2025. godine.\nČlan 2.\nOvaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nZa Vladu\nMinistarka privrede,\nAdrijana Mesarović, s.r.\nZa Sindikalnu organizaciju zaposlenih\nu Javnom preduzeću „Službeni glasnik”\nPredsednik,\nDobrosav Janković, s.r.\nZa Sindikat „Nezavisnost”\nkod poslodavca JP „Službeni glasnik”\nGlavna poverenica,\nGordana Milosavljević Stojanović, s.r.\nZa Javno preduzeće „Službeni glasnik”\nVršilac dužnosti direktora,\nMladen Šarčević, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "5bd62211-1ee1-477c-9d6e-82f25948fd11",
+      "entity_type": "DATE",
+      "text": "6. maja 2025",
+      "start_char": 699,
+      "end_char": 711,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "b6ce2b1c-805f-482a-91ee-47d2275776cb",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 247",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "a1658fef-616a-41d6-b8fd-a780dc5163b7",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 23,
+      "end_char": 32,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "6349689f-7d25-4526-9f87-e1aaa4b41b44",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 553,
+      "end_char": 559,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "b40d9c84-3872-44a1-8b4a-375b5d1b812e",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 721,
+      "end_char": 727,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:02:10.934994",
+  "export_timestamp": "2026-06-09T00:02:10.934994",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "04f09c50-bda4-5bf0-b5fc-73654a707487",
+        "parent_legal_unit_id": "b0c6fdf5-cf20-4f49-a0aa-c333335a5e65",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Važenje Kolektivnog ugovora Javnog preduzeća „Službeni glasnik” („Službeni glasnik RS”, br. 102/21, 12/22, 2/23 i 118/23) produžava se do 6. maja 2025. godine.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "b0c6fdf5-cf20-4f49-a0aa-c333335a5e65",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "68eba2e7-f741-547d-8227-134f440c8241",
+        "parent_legal_unit_id": "b0c6fdf5-cf20-4f49-a0aa-c333335a5e65",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Ovaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Za Vladu Ministarka privrede, Adrijana Mesarović, s.r. Za Sindikalnu organizaciju zaposlenih u Javnom preduzeću „Službeni glasnik” Predsednik, Dobrosav Janković, s.r. Za Sindikat „Nezavisnost” kod poslodavca JP „Službeni glasnik” Glavna poverenica, Gordana Milosavljević Stojanović, s.r. Za Javno preduzeće „Službeni glasnik” Vršilac dužnosti direktora, Mladen Šarčević, s.r.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "b0c6fdf5-cf20-4f49-a0aa-c333335a5e65",
+        "title": "Član 2"
+      }
+    ],
+    "statistics": {
+      "total_units": 2,
+      "total_articles": 2,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [
+          {
+            "step_number": null,
+            "action": "Vršilac dužnosti direktora,",
+            "actor": "direktor",
+            "deadline": null,
+            "context": "Vršilac dužnosti direktora,",
+            "line_number": 27
+          }
+        ],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministarka privrede,"
+            ],
+            "context": "Ministarka privrede,",
+            "line_number": 16
+          },
+          {
+            "name": "direktor",
+            "role": null,
+            "responsibilities": [
+              "direktora,"
+            ],
+            "context": "direktora,",
+            "line_number": 27
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.001001119613647461,
+      "total_elements": 3
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009989738464355469,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": null,
+        "legal_basis": [
+          "24"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": "SPORAZUM",
+      "detected_patterns": [],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0010020732879638672,
+      "total_elements": 0
+    }
+  }
+}

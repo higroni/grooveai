@@ -1,0 +1,190 @@
+{
+  "document_id": "radni_odnosi_0122_000122.pdf",
+  "document_legal_unit_id": "f553ac6e-8a20-49ef-845c-0fb9e41c3a79",
+  "document_metadata": {
+    "import_run_id": "5a26715c-cd4b-4a4f-a628-b68764018ab3",
+    "path": "test_data\\documents2\\radni_odnosi_0122_000122.pdf",
+    "title": "Vlada donosi ODLUKU o osnivanju Republičkog saveta za zapošljavanje",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 0,
+    "processed_at": "2026-06-08T23:54:59.910078"
+  },
+  "document_title": "Vlada donosi ODLUKU o osnivanju Republičkog saveta za zapošljavanje",
+  "full_text": "Na osnovu člana 28. stav 2. Zakona o zapošljavanju i osiguranju za slučaj nezaposlenosti\n(„Službeni glasnik PC”, br. 36/09, 88/10, 38/15, 113/17 – dr. zakon i 113/17) i člana 43. stav\n1. Zakona o Vladi („Službeni glasnik RS”, br. 55/05, 71/05 − ispravka, 101/07, 65/08, 16/11,\n68/12 − US, 72/12, 7/14 − US, 44/14 i 30/18 − dr. zakon),\nVlada donosi\nODLUKU\no osnivanju Republičkog saveta za zapošljavanje\n\"Službeni glasnik RS\", broj 46 od 26. juna 2019.\n1. Osniva se Republički savet za zapošljavanje (u daljem tekstu: Savet).\n2. Savet, u skladu sa zakonom, daje mišljenja i preporuke Vladi u vezi sa pitanjima od\ninteresa za unapređenje zapošljavanja, i to: planovima zapošljavanja; programima i merama\naktivne politike zapošljavanja; propisima iz oblasti zapošljavanja; drugim pitanjima od\ninteresa za zapošljavanje.\n3. Savet se sastoji od predstavnika Vlade, reprezentativnih sindikata i udruženja\nposlodavaca, Nacionalne službe za zapošljavanje, udruženja od značaja za oblast\nzapošljavanja i stručnjaka za oblast zapošljavanja.\n4. Predsednika, zamenika predsednika, članove i sekretara Saveta imenuje i razrešava\nVlada posebnim rešenjem.\nPredsednik, zamenik predsednika, članovi i sekretar Saveta nemaju pravo na naknadu za svoj\nrad u Savetu.\n5. U radu Saveta, u skladu sa zakonom, bez prava glasa, mogu učestvovati udruženja koja se\nbave zaštitom interesa određenih kategorija nezaposlenih (osobe sa invaliditetom, etničke\nmanjine kod kojih je izražena stopa nezaposlenosti, žene, omladina i sl.).\n6. Stručnu i administrativno-tehničku podršku radu Saveta pruža ministarstvo nadležno za\nposlove zapošljavanja.\n7. Danom stupanja na snagu ove odluke prestaje da važi Odluka o osnivanju Republičkog saveta\nza zapošljavanje („Službeni glasnik RS”, broj 23/08).\n8. Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n05 broj 02-6001/2019\nU Beogradu, 21. juna 2019. godine\nVlada\nPredsednik,\nAna Brnabić, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "3e44bbf0-e0bf-4147-9f43-fe9fea227ba5",
+      "entity_type": "DATE",
+      "text": "26. juna 2019",
+      "start_char": 437,
+      "end_char": 450,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "2552253b-3dc2-4519-bd15-14ea9f61acc5",
+      "entity_type": "DATE",
+      "text": "21. juna 2019",
+      "start_char": 1897,
+      "end_char": 1910,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "26a5c438-ada4-466c-a863-0b03e3bc033c",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 28",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "2cfead2a-9e6b-49b7-bb6e-197e83dcf28d",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 43",
+      "start_char": 169,
+      "end_char": 177,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "5030b184-b28b-4172-9d09-ccf745ea7927",
+      "entity_type": "LEGAL_REF",
+      "text": "Odluka o osnivanju Republičkog saveta\nza zapošljavanje",
+      "start_char": 1669,
+      "end_char": 1723,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:54:59.910078",
+  "export_timestamp": "2026-06-08T23:54:59.910078",
+  "parsed_structure": {
+    "units": [],
+    "statistics": {
+      "total_units": 0,
+      "total_articles": 0,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "poslodavac",
+            "role": null,
+            "responsibilities": [
+              "poslodavaca,"
+            ],
+            "context": "poslodavaca,",
+            "line_number": 15
+          },
+          {
+            "name": "zaposleni",
+            "role": null,
+            "responsibilities": [
+              "zaposlenih (osobe sa invaliditetom,"
+            ],
+            "context": "zaposlenih (osobe sa invaliditetom,",
+            "line_number": 22
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 2
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009968280792236328,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "odluka",
+        "hierarchy_level": 5,
+        "issuing_authority": "Vlada Republike Srbije",
+        "legal_basis": [
+          "2",
+          "zakonom",
+          "zakonom"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik"
+        ],
+        "confidence": 0.9
+      },
+      "title": "Vlada donosi\nODLUKU\no osnivanju Republičkog saveta za zapošljavanje",
+      "detected_patterns": [
+        "ODLUKA\\s+o\\s+[a-zšđčćž\\s]+",
+        "Odluka\\s+o\\s+[a-zšđčćž\\s]+",
+        "ova\\s+odluka",
+        "donosi\\s+ODLUKU"
+      ],
+      "processing_time": 0.0010073184967041016
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    }
+  }
+}

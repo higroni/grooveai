@@ -1,0 +1,247 @@
+{
+  "document_id": "radni_odnosi_0211_000211.pdf",
+  "document_legal_unit_id": "dc73cfbf-36b6-47b3-9905-41b7d39ca2e6",
+  "document_metadata": {
+    "import_run_id": "e11d5010-204a-4439-a726-286eedd2d0e5",
+    "path": "test_data\\documents2\\radni_odnosi_0211_000211.pdf",
+    "title": "SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za predškolske ustanove čiji je osnivač grad Beograd",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 2,
+    "processed_at": "2026-06-09T00:03:19.896273"
+  },
+  "document_title": "SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za predškolske ustanove čiji je osnivač grad Beograd",
+  "full_text": "SPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za predškolske ustanove čiji je\nosnivač grad Beograd\n\"Službeni glasnik RS\", broj 48 od 22. maja 2026.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za predškolske ustanove čiji je osnivač Grad Beograd\n(„Službeni glasnik RS”, br. 48/23, 65/25 – Aneks I, 67/25 – Aneks II) produžava se do 9. juna\n2029. godine.\nČlan 2.\nOvaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nBroj 401 1-4491/23\nU Beogradu, 28. aprila 2026. godine\nGrad Beograd\nGradonačelnik\nAleksandar Šapić, s.r.\nSamostalni sindikat radnika predškolskog\nvaspitanja i obrazovanja Beograda\nPredsednik,\nSlobodanka Ninić, s.r.\nGranski sindikat prosvetnih\nradnika Srbije „Nezavisnost”\nPredsednik,\nRužica Todić, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "e58b7225-1918-4676-8cca-ba8c844991c2",
+      "entity_type": "DATE",
+      "text": "22. maja 2026",
+      "start_char": 151,
+      "end_char": 164,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "24b6385b-c742-4afb-b3a8-99f30940dece",
+      "entity_type": "DATE",
+      "text": "9. juna\n2029",
+      "start_char": 350,
+      "end_char": 362,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "29cc4dcb-9076-450e-bb67-1d77cd6fcf53",
+      "entity_type": "DATE",
+      "text": "28. aprila 2026",
+      "start_char": 517,
+      "end_char": 532,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "23abd7d5-f32e-4280-a6d5-9eec493fdf00",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 166,
+      "end_char": 172,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "62887068-208f-462b-bd67-872bf88b0ee0",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 372,
+      "end_char": 378,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "9b74c629-c534-49e4-a535-484e24febad4",
+      "entity_type": "LOCATION",
+      "text": "Beograd",
+      "start_char": 109,
+      "end_char": 116,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "ca2bce55-b64a-4051-9b9a-313e79be7f9c",
+      "entity_type": "LOCATION",
+      "text": "Beograd",
+      "start_char": 256,
+      "end_char": 263,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "0fb5ae48-df3a-49fd-955e-6c922837c00a",
+      "entity_type": "LOCATION",
+      "text": "Beograd",
+      "start_char": 546,
+      "end_char": 553,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "92a832c7-f779-4f86-b422-3e43c19cc746",
+      "entity_type": "LOCATION",
+      "text": "grad Beograd",
+      "start_char": 104,
+      "end_char": 116,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "e35d6b8e-0819-43dc-bac3-ddbf80640b3b",
+      "entity_type": "LOCATION",
+      "text": "Grad Beograd",
+      "start_char": 251,
+      "end_char": 263,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "9ee40a0c-48a3-4c42-8153-aa21c7a31625",
+      "entity_type": "LOCATION",
+      "text": "Grad Beograd",
+      "start_char": 541,
+      "end_char": 553,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:03:19.896273",
+  "export_timestamp": "2026-06-09T00:03:19.896273",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "4357e85f-8d65-5c0f-b780-283e50ddc3f2",
+        "parent_legal_unit_id": "dc73cfbf-36b6-47b3-9905-41b7d39ca2e6",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Važenje Posebnog kolektivnog ugovora za predškolske ustanove čiji je osnivač Grad Beograd („Službeni glasnik RS”, br. 48/23, 65/25 – Aneks I, 67/25 – Aneks II) produžava se do 9. juna",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "dc73cfbf-36b6-47b3-9905-41b7d39ca2e6",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "95a083b9-fe98-5f9e-8dd4-c4ae4330125d",
+        "parent_legal_unit_id": "dc73cfbf-36b6-47b3-9905-41b7d39ca2e6",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": "godine.",
+        "content_text": "Ovaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Broj 401 1-4491/23 U Beogradu, 28. aprila 2026. godine Grad Beograd Gradonačelnik Aleksandar Šapić, s.r. Samostalni sindikat radnika predškolskog vaspitanja i obrazovanja Beograda Predsednik, Slobodanka Ninić, s.r. Granski sindikat prosvetnih radnika Srbije „Nezavisnost” Predsednik, Ružica Todić, s.r.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "dc73cfbf-36b6-47b3-9905-41b7d39ca2e6",
+        "title": "Član 2"
+      }
+    ],
+    "statistics": {
+      "total_units": 2,
+      "total_articles": 2,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": null,
+        "legal_basis": [],
+        "official_gazette": "Službeni glasnik RS\"",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": "SPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za predškolske ustanove čiji je\nosnivač grad Beograd",
+      "detected_patterns": [],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    }
+  }
+}

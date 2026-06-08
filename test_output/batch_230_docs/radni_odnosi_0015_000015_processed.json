@@ -1,0 +1,287 @@
+{
+  "document_id": "radni_odnosi_0015_000015.pdf",
+  "document_legal_unit_id": "cf3f7789-d0b4-476b-b49e-631a121025d5",
+  "document_metadata": {
+    "import_run_id": "5dfc44a7-dca3-44fb-93e3-329437b2eec5",
+    "path": "test_data\\documents2\\radni_odnosi_0015_000015.pdf",
+    "title": "PRAVILNIK o sadržini i izgledu oznake zabrane rada na privremenim ili pokretnim gradilištima",
+    "document_type": "regulation",
+    "language_code": "sr",
+    "legal_units_count": 4,
+    "processed_at": "2026-06-08T23:11:51.738993"
+  },
+  "document_title": "PRAVILNIK o sadržini i izgledu oznake zabrane rada na privremenim ili pokretnim gradilištima",
+  "full_text": "Na osnovu člana 97. stav 7, a u vezi sa stavom 6. Zakona o bezbednosti i zdravlju na radu\n(„Službeni glasnik RS”, broj 35/23),\nMinistar za rad, zapošljavanje, boračka i socijalna pitanja, donosi\nPRAVILNIK\no sadržini i izgledu oznake zabrane rada na privremenim ili pokretnim gradilištima\n\"Službeni glasnik RS\", broj 10 od 31. januara 2025.\nČlan 1.\nOvim pravilnikom bliže se propisuje sadržina i izgled oznake zabrane rada na privremenim\nili pokretnim gradilištima zbog okolnosti koje dovode do ugrožavanja bezbednosti i\nzdravlja na radu zaposlenog.\nČlan 2.\nOznaka „ZABRANjEN RAD NA GRADILIŠTU” ima oblik pravougaonika, veličine 300 x 400 mm\nna materijalu sa samolepljivom pozadinom koji je postojan na vremenske uslove, a obavezni\ngrafički i tekstualni prikaz oznake, odštampan je uz ovaj pravilnik i čini njegov sastavni\ndeo.\nTekst u gornjem delu oznake sadrži reči: „ZABRANjEN RAD NA GRADILIŠTU” koji je uokviren\n(veličina okvira: 150 x 200 mm).\nTekst koji se ispisuje između gornjeg i donjeg dela oznake sadrži reči: „Ko skine ili povredi\nslužbeni pečat ili znak koji je ovlašćeno lice stavilo radi osiguranja predmeta ili\nprostora ili ko, bez skidanja ili povrede pečata ili znaka, uđe u takvu prostoriju ili otvori\npredmet na koji je bio stavljen službeni pečat ili znak, kazniće se novčanom kaznom ili\nzatvorom do jedne godine. Za pokušaj će se kazniti (član 327. Krivičnog zakonika „Službeni\nglasnik RS”, br. 85/05, 88/05, 107/05, 72/09, 111/09, 121/12, 104/13, 108/14, 94/16, 35/19 i\n94/24).”\nTekst u donjem delu oznake (ispod okvira) sadrži reči: „Republika Srbija”, a ispod reči:\n„Republika Srbija” ispisane su reči: „Ministarstvo za rad, zapošljavanje, boračka i\nsocijalna pitanja”, a ispod reči: „Ministarstvo za rad, zapošljavanje, boračka i socijalna\npitanja” ispisane su reči: „INSPEKTORAT ZA RAD”.\nOznaka „ZABRANjEN RAD NA GRADILIŠTU” izrađuje se na beloj podlozi, a svi slovni prikazi i\nokvir slovnog prikaza izrađuju se u crvenoj boji.\nČlan 3.\nPored postavljanja oznake zabrane rada na privremenim ili pokretnim gradilištima iz člana\n2. ovog pravilnika, gradilište na kojem je zabranjen rad se obeležava i postavljanjem\nposebne trake.\nPosebna traka za obeležavanje zatvorenog gradilišta izrađuje se od PVC folije širine 150\nmm i sadrži reči: „ZABRANjEN RAD NA GRADILIŠTU” i „INSPEKTORAT ZA RAD” (veličina\nslova: visina 90 mm, širina 40 mm) na propisanom razmaku između reči „ZABRANjEN RAD NA\nGRADILIŠTU” i „INSPEKTORAT ZA RAD” od 900 mm.\nPosebna traka izrađuje se u crvenoj boji kao osnovi sa crnim slovima.\nČlan 4.\nOvaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nBroj 110-00-00008/2024-01\nU Beogradu, 31. decembra 2024. godine\nMinistar,\nNemanja Starović, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "50963a37-f290-45ab-823b-d74267dca328",
+      "entity_type": "DATE",
+      "text": "31. januara 2025",
+      "start_char": 322,
+      "end_char": 338,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "9d721984-1284-4a97-bae9-5c4ebba769b1",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 97",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "ff41b35c-598f-4852-b757-72dc7c155607",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 340,
+      "end_char": 346,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "e47b0d0e-31a6-455d-b338-290b1813c478",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 549,
+      "end_char": 555,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "e19b7b79-0a7f-4d80-995c-7ca3920a2007",
+      "entity_type": "LEGAL_REF",
+      "text": "član 327",
+      "start_char": 1360,
+      "end_char": 1368,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "af78590d-4869-456c-b1c4-6e7e174db706",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1954,
+      "end_char": 1960,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "b2f127b3-3001-4ad2-b7c3-924519920af8",
+      "entity_type": "LEGAL_REF",
+      "text": "člana\n2",
+      "start_char": 2046,
+      "end_char": 2053,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "66e8962a-99be-49ce-92cc-bddce4054ef3",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 2526,
+      "end_char": 2532,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "ca081921-863f-4b93-8359-27eb5d5a3554",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no sadržini i izgledu oznake zabrane rada na privremenim ili pokretnim gradilištima",
+      "start_char": 195,
+      "end_char": 287,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:11:51.738993",
+  "export_timestamp": "2026-06-08T23:11:51.738993",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "1473ea03-a416-57cf-8044-4bbf47caac43",
+        "parent_legal_unit_id": "cf3f7789-d0b4-476b-b49e-631a121025d5",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Ovim pravilnikom bliže se propisuje sadržina i izgled oznake zabrane rada na privremenim ili pokretnim gradilištima zbog okolnosti koje dovode do ugrožavanja bezbednosti i zdravlja na radu zaposlenog.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "cf3f7789-d0b4-476b-b49e-631a121025d5",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "880ebf5d-de5b-5614-ab70-5ca3352a4f61",
+        "parent_legal_unit_id": "cf3f7789-d0b4-476b-b49e-631a121025d5",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Oznaka „ZABRANjEN RAD NA GRADILIŠTU” ima oblik pravougaonika, veličine 300 x 400 mm na materijalu sa samolepljivom pozadinom koji je postojan na vremenske uslove, a obavezni grafički i tekstualni prikaz oznake, odštampan je uz ovaj pravilnik i čini njegov sastavni deo. Tekst u gornjem delu oznake sadrži reči: „ZABRANjEN RAD NA GRADILIŠTU” koji je uokviren (veličina okvira: 150 x 200 mm). Tekst koji se ispisuje između gornjeg i donjeg dela oznake sadrži reči: „Ko skine ili povredi službeni pečat ili znak koji je ovlašćeno lice stavilo radi osiguranja predmeta ili prostora ili ko, bez skidanja ili povrede pečata ili znaka, uđe u takvu prostoriju ili otvori predmet na koji je bio stavljen službeni pečat ili znak, kazniće se novčanom kaznom ili zatvorom do jedne godine. Za pokušaj će se kazniti (član 327. Krivičnog zakonika „Službeni glasnik RS”, br. 85/05, 88/05, 107/05, 72/09, 111/09, 121/12, 104/13, 108/14, 94/16, 35/19 i 94/24).” Tekst u donjem delu oznake (ispod okvira) sadrži reči: „Republika Srbija”, a ispod reči: „Republika Srbija” ispisane su reči: „Ministarstvo za rad, zapošljavanje, boračka i socijalna pitanja”, a ispod reči: „Ministarstvo za rad, zapošljavanje, boračka i socijalna pitanja” ispisane su reči: „INSPEKTORAT ZA RAD”. Oznaka „ZABRANjEN RAD NA GRADILIŠTU” izrađuje se na beloj podlozi, a svi slovni prikazi i okvir slovnog prikaza izrađuju se u crvenoj boji.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "cf3f7789-d0b4-476b-b49e-631a121025d5",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "a475e6d7-36b9-5b60-9ce5-3f1f4a96cf8c",
+        "parent_legal_unit_id": "cf3f7789-d0b4-476b-b49e-631a121025d5",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Pored postavljanja oznake zabrane rada na privremenim ili pokretnim gradilištima iz člana",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "cf3f7789-d0b4-476b-b49e-631a121025d5",
+        "title": "Član 3"
+      },
+      {
+        "legal_unit_id": "9a08a6ef-e91e-50da-b09c-56846cac04fa",
+        "parent_legal_unit_id": "cf3f7789-d0b4-476b-b49e-631a121025d5",
+        "unit_type": "article",
+        "number": "4",
+        "ordinal": 4,
+        "heading": null,
+        "content_text": "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Broj 110-00-00008/2024-01 U Beogradu, 31. decembra 2024. godine Ministar, Nemanja Starović, s.r.",
+        "path": "article:4",
+        "akoma_eid": "article_4",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "cf3f7789-d0b4-476b-b49e-631a121025d5",
+        "title": "Član 4"
+      }
+    ],
+    "statistics": {
+      "total_units": 4,
+      "total_articles": 4,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministar za rad,",
+              "Ministarstvo za rad,"
+            ],
+            "context": "Ministar za rad,",
+            "line_number": 3
+          },
+          {
+            "name": "INSPEKTOR",
+            "role": null,
+            "responsibilities": [
+              "INSPEKTORAT ZA RAD”.",
+              "INSPEKTORAT ZA RAD” od 900 mm."
+            ],
+            "context": "INSPEKTORAT ZA RAD”.",
+            "line_number": 28
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0010001659393310547,
+      "total_elements": 2
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0010874271392822266,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "pravilnik",
+        "hierarchy_level": 4,
+        "issuing_authority": "Ministarstvo",
+        "legal_basis": [
+          "9"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba"
+        ],
+        "confidence": 0.9
+      },
+      "title": "PRAVILNIK\no sadržini i izgledu oznake zabrane rada na privremenim ili pokretnim gradilištima",
+      "detected_patterns": [
+        "PRAVILNIK\\s+o\\s+[a-zšđčćž\\s]+",
+        "Pravilnik\\s+o\\s+[a-zšđčćž\\s]+",
+        "ovaj\\s+pravilnik",
+        "ovaj\\s+pravilnik"
+      ],
+      "processing_time": 0.0009996891021728516
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0010001659393310547,
+      "total_elements": 0
+    }
+  }
+}

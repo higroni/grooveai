@@ -1,0 +1,277 @@
+{
+  "document_id": "radni_odnosi_0138_000138.pdf",
+  "document_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+  "document_metadata": {
+    "import_run_id": "6902cfe1-73bb-474b-ac15-47ad24864583",
+    "path": "test_data\\documents2\\radni_odnosi_0138_000138.pdf",
+    "title": "Vlada donosi UREDBU o kriterijumima i merilima za utvrđivanje konkurentnosti u javnom sektoru",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 4,
+    "processed_at": "2026-06-08T23:55:28.789631"
+  },
+  "document_title": "Vlada donosi UREDBU o kriterijumima i merilima za utvrđivanje konkurentnosti u javnom sektoru",
+  "full_text": "Ha osnovu člana 1. stav 6. Zakona o utvrđivanju maksimalne zarade u javnom sektoru\n(„Službeni glasnik PC”, broj 93/12) i člana 42. stav 1. Zakona o Vladi („Službeni glasnik\nPC”, br. 55/05, 71/05 – ispravka, 101/07, 65/08, 16/11, 68/12 – US i 72/12),\nVlada donosi\n\n\nUREDBU\no kriterijumima i merilima za utvrđivanje konkurentnosti u javnom sektoru\n\"Službeni glasnik RS\", broj 103 od 30. oktobra 2012.\n\n\nČlan 1.\nOvom uredbom uređuju se kriterijumi i merila na osnovu kojih se određuje da li javno\npreduzeće čiji je osnivač Republika Srbija, autonomna pokrajina ili jedinica lokalne\nsamouprave, pravno lice nad kojim Republika Srbija, autonomna pokrajina odnosno jedinica\nlokalne samouprave ima direktnu ili indirektnu kontrolu od 50% kapitala ili više od 50%\nglasova u upravnom odboru, kao i u drugim pravnim licima u kojima javna sredstva čine više\nod 50% ukupnih prihoda (u daljem tekstu: pravno lice) ima položaj učesnika na tržištu koji\nima konkurenciju u smislu odredaba Zakona o utvrđivanju maksimalne zarade u javnom sektoru\n(„Službeni glasnik PC”, broj 93/12).\nČlan 2.\nKriterijumi i merila na osnovu kojih se određuje da li pravno lice ima status učesnika na\ntržištu koji ima konkurenciju su sledeći:\n1) da se pravno lice u okviru svog redovnog poslovanja pretežno bavi prodajom roba ili\npružanjem usluga bez postojanja utvrđenih posebnih i isključivih prava na obavljanje takvih\ndelatnosti;\n2) da pravno lice posluje na tržištu na kome istu (ili zamenljivu) vrstu delatnosti\nobavljaju ili mogu obavljati i drugi učesnici registrovani u skladu sa važećim propisima za\nobavljanje takve delatnosti, s tim da ti učesnici na tržištu mogu slobodno pružati te iste\nili zamenljive usluge (u pogledu njihovog svojstva, uobičajene namene i cene) na istom\ngeografskom području po jednakim uslovima;\n3) da pravno lice prilikom prodaje roba ili pružanja usluga podleže režimu pravila strogo\ndefinisanih od strane ovlašćenog regulatornog tela;\n4) da se pravno lice bavi prodajom roba ili pružanjem usluga koje imaju za cilj bolji\nkvalitet i veću ponudu roba i usluga;\n5) da pravno lice ima značajnu konkurenciju na tržištu, odnosno koje nema značajno bolji\npoložaj u odnosu na konkurente uzimajući u obzir veličinu tržišnog udela, ekonomsku i\nfinansijsku snagu, pristup tržištima snabdevanja i distribucije;\n6) da je tržišni udeo pravnog lica manji od 40% na relevantnom tržištu;\n7) da je učešće prihoda koji se ostvaruju na tržištu usluga za koje imaju posebno pravo manji\nod 40% ukupnih prihoda;\n8) da pravno lice nema ekonomsku moć kojom može da spreči održavanje stvarne konkurencije\nna tržištu, tako što se ponaša u značajnoj meri nezavisno od svojih konkurenata, kupaca i\npotrošača.\nČlan 3.\nSmatra se da pravno lice ima položaj učesnika na tržištu koji ima konkurenciju u smislu\nodredaba Zakona o utvrđivanju maksimalne zarade u javnom sektoru („Službeni glasnik PC”,\nbroj 93/12) ukoliko ispunjava najmanje šest kriterijuma, odnosno merila iz člana 2. ove\nuredbe.\nČlan 4.\nOva uredba stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike\nSrbije”.\n\n05 broj 110-7285/2012\nU Beogradu, 25. oktobra 2012. godine\nVlada\nPredsednik,\nIvica Dačić, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "291f809b-4988-4271-b0ac-e67062a9d70c",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 1",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "c291ab28-bc3a-46f0-b481-7bb4b9a67596",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 42",
+      "start_char": 121,
+      "end_char": 129,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "8a395a24-b24e-4e45-98d6-397bc5684810",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 401,
+      "end_char": 407,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "10e2c680-4845-4a22-b4aa-45953391b0c2",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 1066,
+      "end_char": 1072,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "0b73edea-d0b5-472c-9f14-2be3fb6461d5",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 2681,
+      "end_char": 2687,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "823aa73f-bb16-488a-ba17-843e06f8a5ab",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 2",
+      "start_char": 2941,
+      "end_char": 2948,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "b3a4ffe0-5f59-4b9e-9d91-cfc6f224d1af",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 2962,
+      "end_char": 2968,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:55:28.789631",
+  "export_timestamp": "2026-06-08T23:55:28.789631",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "db284c21-434b-5c40-b0a8-eae8384df378",
+        "parent_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Ovom uredbom uređuju se kriterijumi i merila na osnovu kojih se određuje da li javno preduzeće čiji je osnivač Republika Srbija, autonomna pokrajina ili jedinica lokalne samouprave, pravno lice nad kojim Republika Srbija, autonomna pokrajina odnosno jedinica lokalne samouprave ima direktnu ili indirektnu kontrolu od 50% kapitala ili više od 50% glasova u upravnom odboru, kao i u drugim pravnim licima u kojima javna sredstva čine više od 50% ukupnih prihoda (u daljem tekstu: pravno lice) ima položaj učesnika na tržištu koji ima konkurenciju u smislu odredaba Zakona o utvrđivanju maksimalne zarade u javnom sektoru („Službeni glasnik PC”, broj 93/12).",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "126e9e3a-4c32-5c60-b935-915b4e91c721",
+        "parent_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Kriterijumi i merila na osnovu kojih se određuje da li pravno lice ima status učesnika na tržištu koji ima konkurenciju su sledeći: 1) da se pravno lice u okviru svog redovnog poslovanja pretežno bavi prodajom roba ili pružanjem usluga bez postojanja utvrđenih posebnih i isključivih prava na obavljanje takvih delatnosti; 2) da pravno lice posluje na tržištu na kome istu (ili zamenljivu) vrstu delatnosti obavljaju ili mogu obavljati i drugi učesnici registrovani u skladu sa važećim propisima za obavljanje takve delatnosti, s tim da ti učesnici na tržištu mogu slobodno pružati te iste ili zamenljive usluge (u pogledu njihovog svojstva, uobičajene namene i cene) na istom geografskom području po jednakim uslovima; 3) da pravno lice prilikom prodaje roba ili pružanja usluga podleže režimu pravila strogo definisanih od strane ovlašćenog regulatornog tela; 4) da se pravno lice bavi prodajom roba ili pružanjem usluga koje imaju za cilj bolji kvalitet i veću ponudu roba i usluga; 5) da pravno lice ima značajnu konkurenciju na tržištu, odnosno koje nema značajno bolji položaj u odnosu na konkurente uzimajući u obzir veličinu tržišnog udela, ekonomsku i finansijsku snagu, pristup tržištima snabdevanja i distribucije; 6) da je tržišni udeo pravnog lica manji od 40% na relevantnom tržištu; 7) da je učešće prihoda koji se ostvaruju na tržištu usluga za koje imaju posebno pravo manji od 40% ukupnih prihoda; 8) da pravno lice nema ekonomsku moć kojom može da spreči održavanje stvarne konkurencije na tržištu, tako što se ponaša u značajnoj meri nezavisno od svojih konkurenata, kupaca i potrošača.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "5c62c5ce-988f-5097-98c1-e99e4fd31ab1",
+        "parent_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Smatra se da pravno lice ima položaj učesnika na tržištu koji ima konkurenciju u smislu odredaba Zakona o utvrđivanju maksimalne zarade u javnom sektoru („Službeni glasnik PC”, broj 93/12) ukoliko ispunjava najmanje šest kriterijuma, odnosno merila iz člana 2. ove uredbe.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+        "title": "Član 3"
+      },
+      {
+        "legal_unit_id": "fdb1a33a-91bb-513e-ad0c-3fbf64b468ab",
+        "parent_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+        "unit_type": "article",
+        "number": "4",
+        "ordinal": 4,
+        "heading": null,
+        "content_text": "Ova uredba stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. 05 broj 110-7285/2012 U Beogradu, 25. oktobra 2012. godine Vlada Predsednik, Ivica Dačić, s.r.",
+        "path": "article:4",
+        "akoma_eid": "article_4",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+        "title": "Član 4"
+      }
+    ],
+    "statistics": {
+      "total_units": 4,
+      "total_articles": 4,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [
+        {
+          "text": "da pravno lice nema ekonomsku moć kojom može da spreči održavanje stvarne konkurencije\nna tržištu,",
+          "confidence": 0.8
+        }
+      ],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 1
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.002000093460083008,
+      "total_elements": 0
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [
+          {
+            "condition_text": "što se ponaša u značajnoj meri nezavisno od svojih konkurenata",
+            "condition_type": "if",
+            "context": "ako što se ponaša u značajnoj meri nezavisno od svojih konkurenata,",
+            "line_number": 43
+          },
+          {
+            "condition_text": "ispunjava najmanje šest kriterijuma",
+            "condition_type": "if",
+            "context": "ukoliko ispunjava najmanje šest kriterijuma,",
+            "line_number": 48
+          }
+        ],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 2
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike\nSrbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike\nSrbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "uredba",
+        "hierarchy_level": 3,
+        "issuing_authority": "Vlada Republike Srbije",
+        "legal_basis": [
+          "važećim propisima za\nobavljanje takve delatnosti"
+        ],
+        "official_gazette": "Službeni glasnik RS\"",
+        "can_override": [
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon"
+        ],
+        "confidence": 0.7
+      },
+      "title": "Vlada donosi\n\n\nUREDBU\no kriterijumima i merilima za utvrđivanje konkurentnosti u javnom sektoru",
+      "detected_patterns": [
+        "Vlada\\s+donosi\\s+UREDBU",
+        "ova\\s+uredba"
+      ],
+      "processing_time": 0.0009999275207519531
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [
+          {
+            "value": "40",
+            "context": "40% na relevantnom tržištu;",
+            "applies_to": null,
+            "line_number": 39
+          },
+          {
+            "value": "40",
+            "context": "40% ukupnih prihoda;",
+            "applies_to": null,
+            "line_number": 41
+          }
+        ],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0009961128234863281,
+      "total_elements": 2
+    }
+  }
+}

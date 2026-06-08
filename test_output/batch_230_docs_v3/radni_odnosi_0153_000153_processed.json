@@ -1,0 +1,275 @@
+{
+  "document_id": "radni_odnosi_0153_000153.pdf",
+  "document_legal_unit_id": "673c550a-f4b1-4f30-aaec-f602b3b37558",
+  "document_metadata": {
+    "import_run_id": "5ff3acf1-1e02-44e0-929b-3daeb2057519",
+    "path": "test_data\\documents2\\radni_odnosi_0153_000153.pdf",
+    "title": "Vlada donosi UREDBU o minimumu procesa rada u Republičkom geodetskom zavodu",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 3,
+    "processed_at": "2026-06-08T23:58:50.451121"
+  },
+  "document_title": "Vlada donosi UREDBU o minimumu procesa rada u Republičkom geodetskom zavodu",
+  "full_text": "Na osnovu člana 10. stav 2. Zakona o štrajku („Službeni list SRJ”, broj 29/96 i „Službeni\nglasnik RS”, br. 101/05 – dr. zakon i 103/12 – US) i člana 42. stav 1. Zakona o Vladi\n(„Službeni glasnik RS”, br. 55/05, 71/05 – ispravka, 101/07, 65/08, 16/11, 68/12 – US, 72/12,\n7/14 – US, 44/14 i 30/18 – dr. zakon),\nVlada donosi\nUREDBU\no minimumu procesa rada u Republičkom geodetskom zavodu\n\"Službeni glasnik RS\", broj 26 od 5. aprila 2019.\nČlan 1.\nMinimum procesa rada u Republičkom geodetskom zavodu, za vreme štrajka obuhvata obavljanje\nposlova kojima se obezbeđuje:\n1) prijem zahteva u službama za katastar nepokretnosti i u sedištu Zavoda;\n2) uslovi za omogućavanje svim strankama da podnesu zahtev za upis, izdavanje podataka,\nizdavanje lista nepokretnosti, posedovnog lista, kopije plana i uverenja;\n3) poslovi u vezi sa premerom i kopijom planova od značaja za bezbednost zemlje;\n4) omogućavanje geodetskim organizacijama da mogu da podnose zahteve za izdavanje podataka;\n5) rad Komisija za izlaganje na javni uvid podataka o nepokretnostima i stvarnim pravima na\nnjima.\nČlan 2.\nDirektor Republičkog geodetskog zavoda određuje način obezbeđivanja minimuma procesa\nrada, kao i poslove i broj izvršilaca koji su dužni da rade za vreme štrajka, u skladu sa\novom uredbom, odmah po stupanju na snagu ove uredbe.\nČlan 3.\nOva uredba stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike\nSrbije”.\n05 broj 110-3452/2019\nU Beogradu, 4. aprila 2019. godine\nVlada\nPredsednik,\nAna Brnabić, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "c5a327ba-dc09-4b1f-8c48-16062d70f0ac",
+      "entity_type": "DATE",
+      "text": "5. aprila 2019",
+      "start_char": 419,
+      "end_char": 433,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "423b15c2-c7a6-49a7-9949-0889ccf99ea0",
+      "entity_type": "DATE",
+      "text": "4. aprila 2019",
+      "start_char": 1451,
+      "end_char": 1465,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "49ace4a8-bac7-4300-ad9f-16ab9d1bb82e",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 10",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "baf3829f-dc0d-4208-81d0-ac335f655d74",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 42",
+      "start_char": 143,
+      "end_char": 151,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "f9a340c9-b72c-4331-8ea4-272b6d15eab3",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 435,
+      "end_char": 441,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "1c91ddad-5252-4afd-a137-9eb015029f89",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 1073,
+      "end_char": 1079,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "5676ea7f-3221-428f-8d82-2c780f8aab77",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1309,
+      "end_char": 1315,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:58:50.451121",
+  "export_timestamp": "2026-06-08T23:58:50.451121",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "6aff5775-666d-5e50-bdf0-85edae1ff884",
+        "parent_legal_unit_id": "673c550a-f4b1-4f30-aaec-f602b3b37558",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Minimum procesa rada u Republičkom geodetskom zavodu, za vreme štrajka obuhvata obavljanje poslova kojima se obezbeđuje: 1) prijem zahteva u službama za katastar nepokretnosti i u sedištu Zavoda; 2) uslovi za omogućavanje svim strankama da podnesu zahtev za upis, izdavanje podataka, izdavanje lista nepokretnosti, posedovnog lista, kopije plana i uverenja; 3) poslovi u vezi sa premerom i kopijom planova od značaja za bezbednost zemlje; 4) omogućavanje geodetskim organizacijama da mogu da podnose zahteve za izdavanje podataka; 5) rad Komisija za izlaganje na javni uvid podataka o nepokretnostima i stvarnim pravima na njima.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "673c550a-f4b1-4f30-aaec-f602b3b37558",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "3c6e6174-ff11-533f-a7ac-a4cb1fd495b9",
+        "parent_legal_unit_id": "673c550a-f4b1-4f30-aaec-f602b3b37558",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Direktor Republičkog geodetskog zavoda određuje način obezbeđivanja minimuma procesa rada, kao i poslove i broj izvršilaca koji su dužni da rade za vreme štrajka, u skladu sa ovom uredbom, odmah po stupanju na snagu ove uredbe.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "673c550a-f4b1-4f30-aaec-f602b3b37558",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "9fbcb5ad-eea3-5d56-b4db-584a175942e7",
+        "parent_legal_unit_id": "673c550a-f4b1-4f30-aaec-f602b3b37558",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Ova uredba stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. 05 broj 110-3452/2019 U Beogradu, 4. aprila 2019. godine Vlada Predsednik, Ana Brnabić, s.r.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "673c550a-f4b1-4f30-aaec-f602b3b37558",
+        "title": "Član 3"
+      }
+    ],
+    "statistics": {
+      "total_units": 3,
+      "total_articles": 3,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [
+          {
+            "step_number": null,
+            "action": "izdavanje podataka,",
+            "actor": null,
+            "deadline": null,
+            "context": "izdavanje podataka,",
+            "line_number": 13
+          },
+          {
+            "step_number": null,
+            "action": "izdavanje lista nepokretnosti,",
+            "actor": null,
+            "deadline": null,
+            "context": "izdavanje lista nepokretnosti,",
+            "line_number": 14
+          },
+          {
+            "step_number": null,
+            "action": "izdavanje podataka;",
+            "actor": null,
+            "deadline": null,
+            "context": "izdavanje podataka;",
+            "line_number": 16
+          },
+          {
+            "step_number": null,
+            "action": "izvršilaca koji su dužni da rade za vreme štrajka,",
+            "actor": null,
+            "deadline": null,
+            "context": "izvršilaca koji su dužni da rade za vreme štrajka,",
+            "line_number": 21
+          }
+        ],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "organ",
+            "role": null,
+            "responsibilities": [
+              "organizacijama da mogu da podnose zahteve za izdavanje podataka;"
+            ],
+            "context": "organizacijama da mogu da podnose zahteve za izdavanje podataka;",
+            "line_number": 16
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0010020732879638672,
+      "total_elements": 5
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009980201721191406,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike\nSrbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike\nSrbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "uredba",
+        "hierarchy_level": 3,
+        "issuing_authority": "Vlada Republike Srbije",
+        "legal_basis": [
+          "1",
+          "ovom uredbom"
+        ],
+        "official_gazette": "Službeni\nglasnik RS”",
+        "can_override": [
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon"
+        ],
+        "confidence": 0.7
+      },
+      "title": "Vlada donosi\nUREDBU\no minimumu procesa rada u Republičkom geodetskom zavodu",
+      "detected_patterns": [
+        "Vlada\\s+donosi\\s+UREDBU",
+        "ova\\s+uredba"
+      ],
+      "processing_time": 0.0009996891021728516
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    }
+  }
+}

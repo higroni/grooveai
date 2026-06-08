@@ -1,0 +1,292 @@
+{
+  "document_id": "radni_odnosi_0225_000225.pdf",
+  "document_legal_unit_id": "f328bf40-9f95-4f59-8197-115304dd1e26",
+  "document_metadata": {
+    "import_run_id": "c0468d0d-d26a-4ba1-9ddd-c28657dfa90d",
+    "path": "test_data\\documents2\\radni_odnosi_0225_000225.pdf",
+    "title": "Gradsko veće grada Požarevca",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 2,
+    "processed_at": "2026-06-09T00:06:43.184880"
+  },
+  "document_title": "Gradsko veće grada Požarevca",
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje), i člana 81. stav 1. tačka 26)\nStatuta grada Požarevca („Službeni glasnik grada Požarevca”, broj 4/24 – prečišćen tekst),\nGradsko veće grada Požarevca, koga zastupa gradonačelnik grada Požarevca Saša Pavlović,\ndipl. inž. elektrotehnike, u ime grada Požarevca kao osnivača, Sindikat zaposlenih u\nkomunalno-stambenoj delatnosti Srbije, koga zastupa Boban Martinović i Granski sindikat\njavnih saobraćajnih i komunalnih delatnosti „Nezavisnost”, koga zastupa Jugoslav Čarapić (u\ndaljem tekstu: učesnici), zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj\ndelatnosti grada Požarevca\n\"Službeni glasnik RS\", broj 53 od 17. juna 2024.\nČlan 1.\nProdužava se rok važenja Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj\ndelatnosti grada Požarevca („Službeni glasnik RS”, broj 69/15), zaključenog 16. jula 2015.\ngodine između učesnika, do 16. jula 2027. godine.\nČlan 2.\nTekst ovog sporazuma objaviti u „Službenom glasniku Republike Srbije”.\nSindikat zaposlenih\nu komunalno-stambenoj delatnosti Srbije,\nBoban Martinović, s.r.\nGranski sindikat javnih saobraćajnih\ni komunalnih delatnosti „Nezavisnost”,\nJugoslav Čarapić, s.r.\nGrad Požarevac\nGradonačelnik grada Požarevca,\nSaša Pavlović, s.r",
+  "document_entities": [
+    {
+      "entity_id": "ed1855d4-3752-4f79-b2c1-0e5a739dadf2",
+      "entity_type": "DATE",
+      "text": "17. juna 2024",
+      "start_char": 826,
+      "end_char": 839,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "23708ad2-5143-4faa-a27d-069e366639b0",
+      "entity_type": "DATE",
+      "text": "16. jula 2015",
+      "start_char": 1011,
+      "end_char": 1024,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "c148ac44-85ff-4211-9039-e14ac660e479",
+      "entity_type": "DATE",
+      "text": "16. jula 2027",
+      "start_char": 1053,
+      "end_char": 1066,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "7290d25a-2149-40e8-936d-79c6d15ce502",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "8c9ff6ea-3986-4d90-a4b1-9bdf9ddad8ea",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 81",
+      "start_char": 160,
+      "end_char": 168,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "88546185-18e6-4cc6-950b-ac3b75d8a5dc",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 841,
+      "end_char": 847,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "277c8bb3-b666-40a7-86dc-bfe5e8eceee8",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 1076,
+      "end_char": 1082,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "3a203497-4e98-40cc-a5dc-5307639c48bb",
+      "entity_type": "LOCATION",
+      "text": "Požarevac",
+      "start_char": 1343,
+      "end_char": 1352,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "308e3f77-df75-43d2-95cd-53fa10451e07",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 196,
+      "end_char": 211,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "29f03598-e45d-4516-987b-82f702731088",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 231,
+      "end_char": 246,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "defb130e-aad7-44dc-ab16-d86cb15b9524",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 292,
+      "end_char": 307,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "2383616d-4ab5-453b-b645-7985bd8d0284",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 336,
+      "end_char": 351,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "0ada2269-b3eb-49a8-bb8f-e9e9530f2e98",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 400,
+      "end_char": 415,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "cbd0b879-5f79-4ff3-9b20-63be1e989c74",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 776,
+      "end_char": 791,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "1f0b6879-61cc-4edb-8027-6113997c30a4",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 946,
+      "end_char": 961,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "4217ab6e-cd82-4595-b12c-b7237f448a04",
+      "entity_type": "LOCATION",
+      "text": "Grad Požarevac",
+      "start_char": 1338,
+      "end_char": 1352,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "44f3919c-d393-4998-8b88-56c5b2518edd",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 1367,
+      "end_char": 1382,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:06:43.184880",
+  "export_timestamp": "2026-06-09T00:06:43.184880",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "78148ae3-3542-598b-82b7-e6bd84c38eb5",
+        "parent_legal_unit_id": "f328bf40-9f95-4f59-8197-115304dd1e26",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Produžava se rok važenja Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj delatnosti grada Požarevca („Službeni glasnik RS”, broj 69/15), zaključenog 16. jula 2015. godine između učesnika, do 16. jula 2027. godine.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "f328bf40-9f95-4f59-8197-115304dd1e26",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "8066cabd-8654-56ba-adbf-53c34a695993",
+        "parent_legal_unit_id": "f328bf40-9f95-4f59-8197-115304dd1e26",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Tekst ovog sporazuma objaviti u „Službenom glasniku Republike Srbije”. Sindikat zaposlenih u komunalno-stambenoj delatnosti Srbije, Boban Martinović, s.r. Granski sindikat javnih saobraćajnih i komunalnih delatnosti „Nezavisnost”, Jugoslav Čarapić, s.r. Grad Požarevac Gradonačelnik grada Požarevca, Saša Pavlović, s.r",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "f328bf40-9f95-4f59-8197-115304dd1e26",
+        "title": "Član 2"
+      }
+    ],
+    "statistics": {
+      "total_units": 2,
+      "total_articles": 2,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 0
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [],
+      "total_count": 0
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": null,
+        "legal_basis": [
+          "26"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": null,
+      "detected_patterns": [],
+      "processing_time": 0.0010008811950683594
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    }
+  }
+}

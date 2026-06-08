@@ -1,0 +1,205 @@
+{
+  "document_id": "radni_odnosi_0200_000200.pdf",
+  "document_legal_unit_id": "82233801-66af-4fa5-9362-2a072afb5987",
+  "document_metadata": {
+    "import_run_id": "265a8868-f326-4131-af71-819f66c4f136",
+    "path": "test_data\\documents2\\radni_odnosi_0200_000200.pdf",
+    "title": "SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za zaposlene u ustanovama studentskog standarda čiji je osnivač Republika Srbija",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 2,
+    "processed_at": "2026-06-09T00:02:57.808623"
+  },
+  "document_title": "SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za zaposlene u ustanovama studentskog standarda čiji je osnivač Republika Srbija",
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US i 113/17),\nReprezentativni sindikati u oblasti prosvete na nivou Republike Srbije: Sindikat\nobrazovanja Srbije, Granski sindikat prosvetnih radnika Srbije „Nezavisnost ˮ i Vlada, 23.\ndecembra 2019. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za zaposlene u ustanovama\nstudentskog standarda čiji je osnivač Republika Srbija\n\"Službeni glasnik RS\", broj 94 od 27. decembra 2019.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za zaposlene u ustanovama studentskog standarda čiji je\nosnivač Republika Srbija („Službeni glasnik RS”, broj 1/19) produžava se do 12. januara\n2023. godine.\nČlan 2.\nOvaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije ˮ .\nZa Sindikat obrazovanja Srbije\nOdbor delatnosti učeničkog\ni studentskog standarda\nPredsednik,\nDanijel Đorđević, s.r.\nZa Granski sindikat prosvetnih\nradnika Srbije „Nezavisnost ˮ\nOdbor delatnosti učeničkog\ni studentskog standarda\nPredsednik,\nSrđan Slović, s.r.\nZa Vladu\nMinistar prosvete,\nnauke i tehnološkog razvoja,\nMladen Šarčević, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "f43c94bb-4ecd-482b-a3d0-771a41ead4d6",
+      "entity_type": "DATE",
+      "text": "12. januara\n2023",
+      "start_char": 709,
+      "end_char": 725,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "22dc9ea5-64f7-4813-b59c-8a628c0fbc40",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "571d8744-015f-4328-9516-f4e98376fb5c",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 532,
+      "end_char": 538,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "e7d6ae29-9b74-4334-9440-38ec513ba6f2",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 735,
+      "end_char": 741,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:02:57.808623",
+  "export_timestamp": "2026-06-09T00:02:57.808623",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "8430b87b-1281-5194-a1a5-eab278344486",
+        "parent_legal_unit_id": "82233801-66af-4fa5-9362-2a072afb5987",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Važenje Posebnog kolektivnog ugovora za zaposlene u ustanovama studentskog standarda čiji je osnivač Republika Srbija („Službeni glasnik RS”, broj 1/19) produžava se do 12. januara",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "82233801-66af-4fa5-9362-2a072afb5987",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "0cabdcbd-d604-5a1f-8698-d87754492800",
+        "parent_legal_unit_id": "82233801-66af-4fa5-9362-2a072afb5987",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": "godine.",
+        "content_text": "Ovaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije ˮ . Za Sindikat obrazovanja Srbije Odbor delatnosti učeničkog i studentskog standarda Predsednik, Danijel Đorđević, s.r. Za Granski sindikat prosvetnih radnika Srbije „Nezavisnost ˮ Odbor delatnosti učeničkog i studentskog standarda Predsednik, Srđan Slović, s.r. Za Vladu Ministar prosvete, nauke i tehnološkog razvoja, Mladen Šarčević, s.r.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "82233801-66af-4fa5-9362-2a072afb5987",
+        "title": "Član 2"
+      }
+    ],
+    "statistics": {
+      "total_units": 2,
+      "total_articles": 2,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "radnik",
+            "role": null,
+            "responsibilities": [
+              "radnika Srbije „Nezavisnost ˮ i Vlada,"
+            ],
+            "context": "radnika Srbije „Nezavisnost ˮ i Vlada,",
+            "line_number": 4
+          },
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministar prosvete,"
+            ],
+            "context": "Ministar prosvete,",
+            "line_number": 29
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0011508464813232422,
+      "total_elements": 2
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009982585906982422,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije ˮ ",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije ˮ ",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": null,
+        "legal_basis": [
+          "26"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": "SPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za zaposlene u ustanovama\nstudentskog standarda čiji je osnivač Republika Srbija",
+      "detected_patterns": [],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0010001659393310547,
+      "total_elements": 0
+    }
+  }
+}

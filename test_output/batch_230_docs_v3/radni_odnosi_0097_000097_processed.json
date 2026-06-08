@@ -1,0 +1,250 @@
+{
+  "document_id": "radni_odnosi_0097_000097.pdf",
+  "document_legal_unit_id": "ea0655ef-7398-4d7e-9671-5cf8af93dc3c",
+  "document_metadata": {
+    "import_run_id": "4bc96b0c-9d03-4c07-9c30-ece90a0623fb",
+    "path": "test_data\\documents2\\radni_odnosi_0097_000097.pdf",
+    "title": "Vlada donosi ODLUKU o osnivanju Saveta za socijalno preduzetništvo",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 0,
+    "processed_at": "2026-06-08T23:54:20.804839"
+  },
+  "document_title": "Vlada donosi ODLUKU o osnivanju Saveta za socijalno preduzetništvo",
+  "full_text": "Redakcijski prečišćen tekst\n\n\nNa osnovu člana 20. Zakona o socijalnom preduzetništvu („Službeni glasnik RS”, broj 14/22)\ni člana 17. stav 1. i člana 43. stav 1. Zakona o Vladi („Službeni glasnik RS”, br. 55/05, 71/05\n– ispravka, 101/07, 65/08, 16/11, 68/12 – US, 72/12, 7/14 – US, 44/14 i 30/18 – dr. zakon)\nVlada donosi\nODLUKU\no osnivanju Saveta za socijalno preduzetništvo\n\"Službeni glasnik RS\", br. 59 od 20. maja 2022, 34 od 28. aprila 2023, 55 od 7. jula 2023, 77\nod 20. septembra 2024.\n1. Osniva se Savet za socijalno preduzetništvo (u daljem tekstu: Savet).\n2. Savet čine predsednik i članovi Saveta, a tehničku podršku Savetu pružaju sekretar i\nzamenik sekretara.\n3. Savet čini jednak broj predstavnika javnog i privatnog sektora.\n4. Mandat predsednika Saveta, članova, sekretara i zamenika sekretara Saveta traje četiri\ngodine i mogu ponovo biti imenovani.\n5. U Savet se imenuju:\n1) za predsednika iz javnog sektora:\nNemanja Starović, ministar za rad, zapošljavanje, boračka i socijalna pitanja;\n2) za članove iz reda javnog sektora:\n– Zoran Martinović, Ministarstvo za rad, zapošljavanje, boračka i socijalna pitanja,\n– Vukašin Grozdić, Ministarstvo nauke, tehnološkog razvoja i inovacija,\n– Slavoljub Arsenijević, Pokrajinski sekretarijat za privredu i turizam, AP Vojvodina,\nPokrajinska Vlada,\n– Sanja Gavranović, Ministarstvo za rad, zapošljavanje, boračka i socijalna pitanja,\n– Ivana Gajić, Ministarstvo za ljudska i manjinska prava i društveni dijalog,\n– Slavica Ninković, Ministarstvo privrede;\n3) za članove iz reda privatnog sektora:\n– Anica Spasov, subjekt socijalnog preduzetništva,\n– Violeta Jovanović, udruženje,\n– Dina Rakin, stručnjak iz oblasti socijalnog preduzetništva,\n– Neven Marinović, stručnjak iz oblasti socijalnog preduzetništva,\n– Đorđe Vukotić, stručnjak iz oblasti socijalnog preduzetništva,\n– Danijela Maletić, udruženje,\n– Siniša Tešić, stručnjak iz oblasti socijalnog preduzetništva.\n*Službeni glasnik RS, broj 34/2023\n**Službeni glasnik RS, broj 77/2024\n6. Za tehničku podršku imenuju se:\n1) Katarina Denčić, Ministarstvo za rad, zapošljavanje, boračka i socijalna pitanja, za\nsekretara iz reda javnog sektora;\n2) Stefanos Jokić, za zamenika sekretara iz reda privatnog sektora.\n*Službeni glasnik RS, broj 77/2024\n7. Predsednik rukovodi radom Saveta i saziva i vodi sednice Saveta.\n8. Savet se sastaje po potrebi, a najmanje jedanput mesečno.\n9. U funkciji unapređenja pojedinih pitanja iz oblasti razvoja socijalnog preduzetništva,\nsednicama Saveta u skladu sa zakonom, po pozivu i bez prava odlučivanja i bez prava na\nnaknadu za svoj rad, mogu prisustvovati predstavnici drugih organa vlasti, privrede i\ncivilnog sektora, kao i stručnjaci iz oblasti socijalnog preduzetništva.\n10. Savet može tražiti podatke, analize, obaveštenja i izveštaje od nadležnih državnih\norgana i ustanova, u vezi sa pitanjima zbog kojih je osnovan.\n11. Savet u svom radu može ostvarivati stručnu saradnju u vidu međunarodnih projekata.\n12. Savet o svom radu podnosi izveštaj Vladi najmanje jednom godišnje.\n13. Predsednik i članovi Saveta, kao i sekretar i zamenik sekretara imaju pravo na naknadu\nza rad u Savetu.\n14. Naknada za rad predsednika i članova Saveta, kao i sekretara i zamenika sekretara\nSaveta utvrđuje se u neto iznosu od 20% (dvadeset procenata) isplaćene prosečne mesečne\nzarade bez poreza i doprinosa, prema poslednjem objavljenom podatku organa nadležnog za\nposlove statistike u trenutku ostvarivanja prava.\n15. Naknada za rad iz tačke 14. ove odluke obračunava se i isplaćuje mesečno.\n16. Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n05 broj 02-3832/2022\nU Beogradu, 19. maja 2022. godine\nVlada\nPredsednik,\nAna Brnabić, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "430aa917-2245-4256-a808-e4c2f702e4cd",
+      "entity_type": "DATE",
+      "text": "20. maja 2022",
+      "start_char": 408,
+      "end_char": 421,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "ec4e2165-ace2-476b-bb4e-bd75a6a9e26c",
+      "entity_type": "DATE",
+      "text": "28. aprila 2023",
+      "start_char": 429,
+      "end_char": 444,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "a632119e-c7ab-461c-8028-fd220d56434d",
+      "entity_type": "DATE",
+      "text": "7. jula 2023",
+      "start_char": 452,
+      "end_char": 464,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "37b062f2-9e5f-4a13-b717-1c09016e8ea7",
+      "entity_type": "DATE",
+      "text": "19. maja 2022",
+      "start_char": 3663,
+      "end_char": 3676,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "8043283e-c51d-4fc6-933c-6a2136ba1627",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 20",
+      "start_char": 40,
+      "end_char": 48,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "47dcf619-6269-41d9-b5c5-cdfc0af73634",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 17",
+      "start_char": 123,
+      "end_char": 131,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "0088d4e8-25a8-4431-93c7-24b2174a5495",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 43",
+      "start_char": 143,
+      "end_char": 151,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:54:20.804839",
+  "export_timestamp": "2026-06-08T23:54:20.804839",
+  "parsed_structure": {
+    "units": [],
+    "statistics": {
+      "total_units": 0,
+      "total_articles": 0,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [
+        {
+          "text": "Savet može tražiti podatke,",
+          "confidence": 0.8
+        },
+        {
+          "text": "Savet u svom radu može ostvarivati stručnu saradnju u vidu međunarodnih projekata.",
+          "confidence": 0.8
+        }
+      ],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 2
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [
+          {
+            "step_number": null,
+            "action": "podnosi izveštaj Vladi najmanje jednom godišnje.",
+            "actor": null,
+            "deadline": null,
+            "context": "podnosi izveštaj Vladi najmanje jednom godišnje.",
+            "line_number": 53
+          }
+        ],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "ministar",
+            "role": null,
+            "responsibilities": [
+              "ministar za rad,",
+              "Ministarstvo za rad,",
+              "Ministarstvo nauke,",
+              "Ministarstvo za ljudska i manjinska prava i društveni dijalog,",
+              "Ministarstvo privrede;"
+            ],
+            "context": "ministar za rad,",
+            "line_number": 20
+          },
+          {
+            "name": "organ",
+            "role": null,
+            "responsibilities": [
+              "organa vlasti,",
+              "organa i ustanova,"
+            ],
+            "context": "organa vlasti,",
+            "line_number": 48
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [
+          {
+            "document_type": "report",
+            "required_by": null,
+            "purpose": null,
+            "deadline": null,
+            "context": "podnosi izveštaj Vladi najmanje jednom godišnje.",
+            "line_number": 53
+          }
+        ],
+        "form_requirements": []
+      },
+      "processing_time": 0.0019991397857666016,
+      "total_elements": 4
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [
+          {
+            "consequence_text": "tražiti podatke,",
+            "consequence_type": "may",
+            "context": "može tražiti podatke,",
+            "line_number": 50
+          },
+          {
+            "consequence_text": "ostvarivati stručnu saradnju u vidu međunarodnih projekata.",
+            "consequence_type": "may",
+            "context": "može ostvarivati stručnu saradnju u vidu međunarodnih projekata.",
+            "line_number": 52
+          }
+        ],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 2
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "odluka",
+        "hierarchy_level": 5,
+        "issuing_authority": "Vlada Republike Srbije",
+        "legal_basis": [
+          "2",
+          "zakonom"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik"
+        ],
+        "confidence": 0.7
+      },
+      "title": "Redakcijski prečišćen tekst",
+      "detected_patterns": [
+        "ova\\s+odluka",
+        "donosi\\s+ODLUKU"
+      ],
+      "processing_time": 0.0010001659393310547
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 0
+    }
+  }
+}

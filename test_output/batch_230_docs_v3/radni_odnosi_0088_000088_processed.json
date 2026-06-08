@@ -1,0 +1,223 @@
+{
+  "document_id": "radni_odnosi_0088_000088.pdf",
+  "document_legal_unit_id": "4bcceb3b-d885-484c-9c69-64663f732295",
+  "document_metadata": {
+    "import_run_id": "4a29cc13-0312-44c2-ad48-02faed54a7fc",
+    "path": "test_data\\documents2\\radni_odnosi_0088_000088.pdf",
+    "title": "Vlada donosi ODLUKU o osnivanju Saveta za stručno usavršavanje zaposlenih u jedinicama lokalne samoupra",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 0,
+    "processed_at": "2026-06-08T23:54:08.593167"
+  },
+  "document_title": "Vlada donosi ODLUKU o osnivanju Saveta za stručno usavršavanje zaposlenih u jedinicama lokalne samoupra",
+  "full_text": "Redakcijski prečišćen tekst\n\n\nNa osnovu člana 117. i člana 118. stav 1. Zakona o zaposlenima u autonomnim pokrajinama i\njedinicama lokalne samouprave („Službeni glasnik RS”, br. 21/16, 113/17, 113/17 – dr. zakon,\n95/18 i 114/21) i člana 43. stav 1. Zakona o Vladi („Službeni glasnik RS”, br. 55/05, 71/05 –\nispravka, 101/07, 65/08, 16/11, 68/12 – US, 72/12, 7/14 – US, 44/14 i 30/18 – dr. zakon),\nVlada donosi\nODLUKU\no osnivanju Saveta za stručno usavršavanje zaposlenih u jedinicama lokalne samouprave\n\"Službeni glasnik RS\", br. 120 od 10. decembra 2021, 134 od 2. decembra 2022, 6 od 27.\njanuara 2023, 68 od 9. avgusta 2024, 76 od 13. septembra 2024, 13 od 14. februara 2025, 66 od\n25. jula 2025.\n1. Osniva se Savet za stručno usavršavanje zaposlenih u jedinicama lokalne samouprave (u\ndaljem tekstu: Savet).\n2. U Savet se imenuju:\n– za predsednika:\nZoran Kasalović, državni sekretar u Ministarstvu državne uprave i lokalne samouprave;\n– za članove:\n1) dr Jasmina Benmansur, pomoćnik ministra državne uprave i lokalne samouprave,\n2) Radovan Arežina, vršilac dužnosti pomoćnika ministra državne uprave i lokalne\nsamouprave,\n3) Predrag Rajić, državni sekretar u Ministarstvu državne uprave i lokalne samouprave,\n4) Ivan Milivojević, zamenik generalnog sekretara za usluge članstvu Stalne konferencije\ngradova i opština,\n5) Nikola Tarbuk, zamenik generalnog sekretara za zastupanje Stalne konferencije gradova i\nopština,\n6) Mirjana Radanović, v.d. načelnika Gradske uprave grada Beograda,\n7) Marija Ušumović Davčik, načelnik Gradske uprave grada Subotica.\n*Službeni glasnik RS, broj 134/2022\n**Službeni glasnik RS, broj 66/2025\n3. Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n05 broj 02-11339/2021\nU Beogradu, 9. decembra 2021. godine\nVlada\nPredsednik,\nAna Brnabić, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "8e5cea04-b030-4f3b-8414-2879bf7d6a72",
+      "entity_type": "DATE",
+      "text": "27.\njanuara 2023",
+      "start_char": 586,
+      "end_char": 602,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "61ab147b-734b-4866-8f01-b73134d25d56",
+      "entity_type": "DATE",
+      "text": "9. avgusta 2024",
+      "start_char": 610,
+      "end_char": 625,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "038a9657-b0af-4055-9b2c-9b6a7835fc2a",
+      "entity_type": "DATE",
+      "text": "14. februara 2025",
+      "start_char": 659,
+      "end_char": 676,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "72aaaf40-f769-4c65-a352-bcc0af1225a3",
+      "entity_type": "DATE",
+      "text": "25. jula 2025",
+      "start_char": 684,
+      "end_char": 697,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "2f3c97f7-c83d-4ee4-9cda-7858c7599748",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 117",
+      "start_char": 40,
+      "end_char": 49,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "1602dcdf-7448-4947-adb2-91da4c9b69d5",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 118",
+      "start_char": 53,
+      "end_char": 62,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "377bc41a-5965-4c9a-bf36-d65e0659986c",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 43",
+      "start_char": 231,
+      "end_char": 239,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "b436c408-fbc0-4bf3-935e-afcd2c8eb3c2",
+      "entity_type": "LOCATION",
+      "text": "Subotica",
+      "start_char": 1545,
+      "end_char": 1553,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "ab3616ca-f333-48d9-94aa-ce7cd20f3f45",
+      "entity_type": "LOCATION",
+      "text": "grada Beograda",
+      "start_char": 1472,
+      "end_char": 1486,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "bd83a634-927e-4012-9071-6ad2dde12419",
+      "entity_type": "LOCATION",
+      "text": "grada Subotica",
+      "start_char": 1539,
+      "end_char": 1553,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:54:08.593167",
+  "export_timestamp": "2026-06-08T23:54:08.593167",
+  "parsed_structure": {
+    "units": [],
+    "statistics": {
+      "total_units": 0,
+      "total_articles": 0,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministarstvu državne uprave i lokalne samouprave;",
+              "Ministarstvu državne uprave i lokalne samouprave,"
+            ],
+            "context": "Ministarstvu državne uprave i lokalne samouprave;",
+            "line_number": 18
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0009996891021728516,
+      "total_elements": 1
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "odluka",
+        "hierarchy_level": 5,
+        "issuing_authority": "Vlada Republike Srbije",
+        "legal_basis": [
+          "11"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik"
+        ],
+        "confidence": 0.7
+      },
+      "title": "Redakcijski prečišćen tekst",
+      "detected_patterns": [
+        "ova\\s+odluka",
+        "donosi\\s+ODLUKU"
+      ],
+      "processing_time": 0.001004934310913086
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    }
+  }
+}

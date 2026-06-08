@@ -1,0 +1,240 @@
+{
+  "document_id": "radni_odnosi_0191_000191.pdf",
+  "document_legal_unit_id": "1f24ee48-438e-4e1e-b131-e83cf4acf5e1",
+  "document_metadata": {
+    "import_run_id": "13ecaab3-4d86-43ef-89b7-42c3430e83bc",
+    "path": "test_data\\documents2\\radni_odnosi_0191_000191.pdf",
+    "title": "Na osnovu člana 4. stav 2. Zakona o državnim službenicima („Službeni glasnik RS”, br.",
+    "document_type": "law",
+    "language_code": "sr",
+    "legal_units_count": 2,
+    "processed_at": "2026-06-09T00:02:46.288905"
+  },
+  "document_title": "Na osnovu člana 4. stav 2. Zakona o državnim službenicima („Službeni glasnik RS”, br.",
+  "full_text": "Na osnovu člana 4. stav 2. Zakona o državnim službenicima („Službeni glasnik RS”, br.\n79/05, 81/05 – ispravka, 83/05 – ispravka, 64/07, 67/07 – ispravka, 116/08, 104/09, 99/14,\n94/17, 95/18, 157/20 i 142/22), a u vezi sa članom 263. stav 2. Zakona o radu („Službeni\nglasnik RS”, br. 24/05, 61/05, 54/09, 32/13, 75/14, 13/17 – US, 113/17 i 95/18 – dr. propis),\nVlada i reprezentativni sindikati koji su osnovani za teritoriju Republike Srbije:\nSindikat uprave Srbije, Sindikat zaposlenih u pravosudnim organima Republike Srbije i\nSindikat organizacija pravosudnih organa Srbije, 29. maja 2023. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za državne organe\n\"Službeni glasnik RS\", broj 44 od 31. maja 2023.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za državne organe („Službeni glasnik RS”, br. 38/19,\n55/20, 51/22 – dr. propis i 44/23) produžava se do 31. maja 2026. godine.\nČlan 2.\nOvaj sporazum stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”.\nZa Vladu\nMinistar državne uprave i lokalne samouprave,\ndr Aleksandar Martinović, s.r.\nZa Sindikat uprave Srbije\nSlađan Bobić, s.r.\nZa Sindikat zaposlenih\nu pravosudnim organima Republike Srbije\nSlađanka Milošević, s.r.\nZa Sindikat organizacija pravosudnih organa Srbije\nVioleta Marković, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "639b1052-27e0-4815-a9bc-e660b688b81a",
+      "entity_type": "DATE",
+      "text": "29. maja 2023",
+      "start_char": 578,
+      "end_char": 591,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "bc434d2e-ac26-4de9-bc46-cee7301ee706",
+      "entity_type": "DATE",
+      "text": "31. maja 2023",
+      "start_char": 728,
+      "end_char": 741,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "87cf962d-7c88-45b5-9552-a66844a82733",
+      "entity_type": "DATE",
+      "text": "31. maja 2026",
+      "start_char": 892,
+      "end_char": 905,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "f546b2d2-e471-4a3e-8cc2-bc3db078fbbd",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 4",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "c2338224-18b6-4da8-82eb-698b04f91e9f",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 263",
+      "start_char": 221,
+      "end_char": 231,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "7bc25c5d-ac6e-409c-9cb1-325ce0ded2e1",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 743,
+      "end_char": 749,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "9bb48df1-4cf5-4978-acf9-43a8fb5ffe66",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 915,
+      "end_char": 921,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:02:46.288905",
+  "export_timestamp": "2026-06-09T00:02:46.288905",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "d125a872-82dd-57d5-b12a-2359d91d5380",
+        "parent_legal_unit_id": "1f24ee48-438e-4e1e-b131-e83cf4acf5e1",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Važenje Posebnog kolektivnog ugovora za državne organe („Službeni glasnik RS”, br. 38/19, 55/20, 51/22 – dr. propis i 44/23) produžava se do 31. maja 2026. godine.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "1f24ee48-438e-4e1e-b131-e83cf4acf5e1",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "784ceae6-c81f-5ca3-97c8-fb13da347b15",
+        "parent_legal_unit_id": "1f24ee48-438e-4e1e-b131-e83cf4acf5e1",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Ovaj sporazum stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”. Za Vladu Ministar državne uprave i lokalne samouprave, dr Aleksandar Martinović, s.r. Za Sindikat uprave Srbije Slađan Bobić, s.r. Za Sindikat zaposlenih u pravosudnim organima Republike Srbije Slađanka Milošević, s.r. Za Sindikat organizacija pravosudnih organa Srbije Violeta Marković, s.r.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "1f24ee48-438e-4e1e-b131-e83cf4acf5e1",
+        "title": "Član 2"
+      }
+    ],
+    "statistics": {
+      "total_units": 2,
+      "total_articles": 2,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministar državne uprave i lokalne samouprave,"
+            ],
+            "context": "Ministar državne uprave i lokalne samouprave,",
+            "line_number": 17
+          },
+          {
+            "name": "organ",
+            "role": null,
+            "responsibilities": [
+              "organizacija pravosudnih organa Srbije,",
+              "organe („Službeni glasnik RS”,"
+            ],
+            "context": "organizacija pravosudnih organa Srbije,",
+            "line_number": 7
+          },
+          {
+            "name": "sud",
+            "role": null,
+            "responsibilities": [
+              "sudnih organa Srbije,"
+            ],
+            "context": "sudnih organa Srbije,",
+            "line_number": 7
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0010905265808105469,
+      "total_elements": 3
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009961128234863281,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": null,
+        "legal_basis": [],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": null,
+      "detected_patterns": [],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.00099945068359375,
+      "total_elements": 0
+    }
+  }
+}

@@ -1,0 +1,323 @@
+{
+  "document_id": "radni_odnosi_0072_000072.pdf",
+  "document_legal_unit_id": "5313f497-6d49-4d60-b402-cb2a2afa3ef5",
+  "document_metadata": {
+    "import_run_id": "1af3c570-65d7-42fc-a7a6-a2941e9d7e6d",
+    "path": "test_data\\documents2\\radni_odnosi_0072_000072.pdf",
+    "title": "PRAVILNIK o izdavanju identifikacionog dokumenta miritelja i arbitara",
+    "document_type": "regulation",
+    "language_code": "sr",
+    "legal_units_count": 6,
+    "processed_at": "2026-06-08T23:53:35.299135"
+  },
+  "document_title": "PRAVILNIK o izdavanju identifikacionog dokumenta miritelja i arbitara",
+  "full_text": "Na osnovu člana 53a stav 2. Zakona o mirnom rešavanju radnih sporova („Službeni glasnik\nRS”, br. 125/04, 104/09 i 50/18),\nMinistar za rad, zapošljavanje, boračka i socijalna pitanja donosi\nPRAVILNIK\no izdavanju identifikacionog dokumenta miritelja i arbitara\n\"Službeni glasnik RS\", broj 1 od 11. januara 2019.\nČlan 1.\nOvim pravilnikom propisuje se obrazac i sadržaj identifikacionog dokumenta miritelja i\narbitara Republičke Agencije za mirno rešavanje radnih sporova (u daljem tekstu:\nidentifikacioni dokument).\nČlan 2.\nMiritelji i arbitri Republičke agencije za mirno rešavanje radnih sporova (u daljem tekstu:\nAgencija), prilikom obavljanja službenih poslova propisanih Zakonom o mirnom rešavanju\nradnih sporova (u daljem tekstu: Zakon), svoj identitet i svojstvo dokazuju identifikacionim\ndokumentom.\nČlan 3.\nIdentifikacioni dokument sadrži sledeće podatke:\n1) na prednjoj strani sadrži:\n(1) grb Republike Srbije,\n(2) naziv „Republika Srbija ˮ ,\n(3) naziv Agencije,\n(4) naziv „Identifikacioni dokument ˮ ,\n(5) fotografiju imaoca identifikacionog dokumenta,\n(6) ime i prezime imaoca identifikacionog dokumenta,\n(7) potpis imaoca identifikacionog dokumenta,\n2) na poleđini sadrži:\n(1) serijski broj izdatog identifikacionog dokumenta,\n(2) datum izdavanja identifikacionog dokumenta,\n(3) rok važenja identifikacionog dokumenta,\n(4) potpis ovlašćenog lica za izdavanje identifikacionog dokumenta.\nČlan 4.\nObrazac identifikacionog dokumenta je pravougaonog oblika, u vidu višeslojne kartice,\nveličine 85,6 x 54 mm i izrađen je u potpunosti od polikarbonatnog materijala sa ugrađenim\ndualinterfejs čipom, koji ima minimum EAL5+ sertifikat, plavih i crvenih tonova na\nprednjoj i zadnjoj strani obrasca.\nObrazac identifikacionog dokumenta izrađen je u formatu ID-1, u skladu sa važećim\nstandardima: ISO/IEC 7810 i ISO/IEC 10373.\nČlan 5.\nZaštitni elementi na obrascu identifikacionog dokumenta su: mikroštampa, UV niti,\nsigurnosna nevidljiva boja koja pod UV svetlom fluorescira, aplikacija sigurnosnog\ndifrakcionog optički varijabilnog elementa jedinstvene originacije sa elementima\ndržavnosti Republike Srbije.\nObrazac identifikacionog dokumenta odštampan je uz ovaj pravilnik i čini njegov sastavni\ndeo.\nČlan 6.\nOvaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nBroj 110-00-00753/2018-05\nU Beogradu, 24. decembra 2018. godine\nMinistar,\nZoran Đorđević, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "f837b458-1340-42b5-b5c9-af8146d171c8",
+      "entity_type": "DATE",
+      "text": "11. januara 2019",
+      "start_char": 292,
+      "end_char": 308,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "34978441-f3b3-4b71-be21-4f2a39cd55b1",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 310,
+      "end_char": 316,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "0e112cd8-56ef-4606-a1d3-97eb87fea335",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 513,
+      "end_char": 519,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "52c906de-052f-4b0c-b108-7dc26bf2e1c0",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 805,
+      "end_char": 811,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "e21d66bb-b3f0-4f34-8714-8057d6e11d20",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 1397,
+      "end_char": 1403,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "bdec6f0a-d550-40d5-be23-4fa944d327bb",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 1825,
+      "end_char": 1831,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "87b94ec1-8b15-412c-822a-3fc84308dc78",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 2202,
+      "end_char": 2208,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "6f3fcd17-7c21-4f4d-8226-b012e49837ba",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no izdavanju identifikacionog dokumenta miritelja i arbitara",
+      "start_char": 189,
+      "end_char": 258,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:53:35.299135",
+  "export_timestamp": "2026-06-08T23:53:35.299135",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "2128ba22-32cc-5831-b7a8-f38dc3de408d",
+        "parent_legal_unit_id": "5313f497-6d49-4d60-b402-cb2a2afa3ef5",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Ovim pravilnikom propisuje se obrazac i sadržaj identifikacionog dokumenta miritelja i arbitara Republičke Agencije za mirno rešavanje radnih sporova (u daljem tekstu: identifikacioni dokument).",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5313f497-6d49-4d60-b402-cb2a2afa3ef5",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "aa4027bb-e82c-50db-80ff-0cc7583691bf",
+        "parent_legal_unit_id": "5313f497-6d49-4d60-b402-cb2a2afa3ef5",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Miritelji i arbitri Republičke agencije za mirno rešavanje radnih sporova (u daljem tekstu: Agencija), prilikom obavljanja službenih poslova propisanih Zakonom o mirnom rešavanju radnih sporova (u daljem tekstu: Zakon), svoj identitet i svojstvo dokazuju identifikacionim dokumentom.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5313f497-6d49-4d60-b402-cb2a2afa3ef5",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "742473bc-cbbc-5150-804f-194a70111edc",
+        "parent_legal_unit_id": "5313f497-6d49-4d60-b402-cb2a2afa3ef5",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Identifikacioni dokument sadrži sledeće podatke: 1) na prednjoj strani sadrži: (1) grb Republike Srbije, (2) naziv „Republika Srbija ˮ , (3) naziv Agencije, (4) naziv „Identifikacioni dokument ˮ , (5) fotografiju imaoca identifikacionog dokumenta, (6) ime i prezime imaoca identifikacionog dokumenta, (7) potpis imaoca identifikacionog dokumenta, 2) na poleđini sadrži: (1) serijski broj izdatog identifikacionog dokumenta, (2) datum izdavanja identifikacionog dokumenta, (3) rok važenja identifikacionog dokumenta, (4) potpis ovlašćenog lica za izdavanje identifikacionog dokumenta.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5313f497-6d49-4d60-b402-cb2a2afa3ef5",
+        "title": "Član 3"
+      },
+      {
+        "legal_unit_id": "adcecbc3-f6d0-5d77-8483-8358fe35762f",
+        "parent_legal_unit_id": "5313f497-6d49-4d60-b402-cb2a2afa3ef5",
+        "unit_type": "article",
+        "number": "4",
+        "ordinal": 4,
+        "heading": null,
+        "content_text": "Obrazac identifikacionog dokumenta je pravougaonog oblika, u vidu višeslojne kartice, veličine 85,6 x 54 mm i izrađen je u potpunosti od polikarbonatnog materijala sa ugrađenim dualinterfejs čipom, koji ima minimum EAL5+ sertifikat, plavih i crvenih tonova na prednjoj i zadnjoj strani obrasca. Obrazac identifikacionog dokumenta izrađen je u formatu ID-1, u skladu sa važećim standardima: ISO/IEC 7810 i ISO/IEC 10373.",
+        "path": "article:4",
+        "akoma_eid": "article_4",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5313f497-6d49-4d60-b402-cb2a2afa3ef5",
+        "title": "Član 4"
+      },
+      {
+        "legal_unit_id": "d8744d33-3d99-50fe-89b2-1b20294fc910",
+        "parent_legal_unit_id": "5313f497-6d49-4d60-b402-cb2a2afa3ef5",
+        "unit_type": "article",
+        "number": "5",
+        "ordinal": 5,
+        "heading": null,
+        "content_text": "Zaštitni elementi na obrascu identifikacionog dokumenta su: mikroštampa, UV niti, sigurnosna nevidljiva boja koja pod UV svetlom fluorescira, aplikacija sigurnosnog difrakcionog optički varijabilnog elementa jedinstvene originacije sa elementima državnosti Republike Srbije. Obrazac identifikacionog dokumenta odštampan je uz ovaj pravilnik i čini njegov sastavni deo.",
+        "path": "article:5",
+        "akoma_eid": "article_5",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5313f497-6d49-4d60-b402-cb2a2afa3ef5",
+        "title": "Član 5"
+      },
+      {
+        "legal_unit_id": "4fc1f489-a33f-520d-8b1f-1d6d869b2459",
+        "parent_legal_unit_id": "5313f497-6d49-4d60-b402-cb2a2afa3ef5",
+        "unit_type": "article",
+        "number": "6",
+        "ordinal": 6,
+        "heading": null,
+        "content_text": "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Broj 110-00-00753/2018-05 U Beogradu, 24. decembra 2018. godine Ministar, Zoran Đorđević, s.r.",
+        "path": "article:6",
+        "akoma_eid": "article_6",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5313f497-6d49-4d60-b402-cb2a2afa3ef5",
+        "title": "Član 6"
+      }
+    ],
+    "statistics": {
+      "total_units": 6,
+      "total_articles": 6,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [
+          {
+            "step_number": null,
+            "action": "izdatog identifikacionog dokumenta,",
+            "actor": null,
+            "deadline": null,
+            "context": "izdatog identifikacionog dokumenta,",
+            "line_number": 27
+          },
+          {
+            "step_number": null,
+            "action": "izdavanja identifikacionog dokumenta,",
+            "actor": null,
+            "deadline": null,
+            "context": "izdavanja identifikacionog dokumenta,",
+            "line_number": 28
+          },
+          {
+            "step_number": null,
+            "action": "izdavanje identifikacionog dokumenta.",
+            "actor": null,
+            "deadline": null,
+            "context": "izdavanje identifikacionog dokumenta.",
+            "line_number": 30
+          }
+        ],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministar za rad,"
+            ],
+            "context": "Ministar za rad,",
+            "line_number": 3
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.002048015594482422,
+      "total_elements": 4
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009963512420654297,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "pravilnik",
+        "hierarchy_level": 4,
+        "issuing_authority": null,
+        "legal_basis": [
+          "53",
+          "važećim\nstandardima: ISO/IEC 7810 i ISO/IEC 10373"
+        ],
+        "official_gazette": "Službeni glasnik\nRS”",
+        "can_override": [
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba"
+        ],
+        "confidence": 0.9
+      },
+      "title": "PRAVILNIK\no izdavanju identifikacionog dokumenta miritelja i arbitara",
+      "detected_patterns": [
+        "PRAVILNIK\\s+o\\s+[a-zšđčćž\\s]+",
+        "Pravilnik\\s+o\\s+[a-zšđčćž\\s]+",
+        "ovaj\\s+pravilnik",
+        "ovaj\\s+pravilnik"
+      ],
+      "processing_time": 0.0010051727294921875
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    }
+  }
+}

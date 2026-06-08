@@ -1,0 +1,223 @@
+{
+  "document_id": "radni_odnosi_0172_000172.pdf",
+  "document_legal_unit_id": "ef0a9f9f-6bad-4497-89a2-4550821f9343",
+  "document_metadata": {
+    "import_run_id": "b2fcc869-d39f-43c4-bffb-614c06070f71",
+    "path": "test_data\\documents2\\radni_odnosi_0172_000172.pdf",
+    "title": "zaključuju SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za zaposlen",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 2,
+    "processed_at": "2026-06-09T00:02:18.412807"
+  },
+  "document_title": "zaključuju SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za zaposlen",
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje),\nReprezentativni sindikati u oblasti prosvete na nivou Republike Srbije: Samostalni\nsindikat predškolskog vaspitanja i obrazovanja Srbije, Sindikat obrazovanja Srbije i\nGranski sindikat prosvetnih radnika Srbije „Nezavisnost” i Vlada, 3. jula 2023. godine,\nzaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za zaposlene u ustanovama\npredškolskog vaspitanja i obrazovanja čiji je osnivač Republika Srbija, autonomna pokrajina\ni jedinica lokalne samouprave\n\"Službeni glasnik RS\", broj 55 od 7. jula 2023.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za zaposlene u ustanovama predškolskog vaspitanja i\nobrazovanja čiji je osnivač Republika Srbija, autonomna pokrajina i jedinica lokalne\nsamouprave („Službeni glasnik RS”, br. 97/20 i 6/23) produžava se do 15. jula 2026. godine.\nČlan 2.\nOvaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nZa Vladu\nPo Odluci predsednika Vlade\nda vrši ovlašćenja ministra prosvete\n01 broj 035-00-9/2023\nod 30. maja 2023. godine\nMinistar bez portfelja\nzadužen za koordinaciju aktivnosti i mera\nu oblasti odnosa Republike Srbije sa dijasporom,\nĐorđe Milićević, s.r.\nZa Samostalni sindikat\npredškolskog vaspitanja\ni obrazovanja Srbije\nPredsednik,\nBosiljka Jovanović, s.r.\nZa Sindikat obrazovanja Srbije\nPredsednik,\nmr Valentina Ilić, s.r.\nZa Granski sindikat prosvetnih radnika\nSrbije „Nezavisnost”\nPredsednik,\nSrđan Slović, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "b583789f-f15d-4f80-b2e9-65fd36fa168f",
+      "entity_type": "DATE",
+      "text": "3. jula 2023",
+      "start_char": 392,
+      "end_char": 404,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "7361e49c-f392-4a1c-a89b-8e09957ed799",
+      "entity_type": "DATE",
+      "text": "7. jula 2023",
+      "start_char": 671,
+      "end_char": 683,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "e79d6a34-89ee-4636-9ea3-f7718c22f6e3",
+      "entity_type": "DATE",
+      "text": "15. jula 2026",
+      "start_char": 936,
+      "end_char": 949,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "ea45995e-2a76-479a-bc55-222783709f87",
+      "entity_type": "DATE",
+      "text": "30. maja 2023",
+      "start_char": 1172,
+      "end_char": 1185,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "0e568553-5bb2-4880-a2f5-c2159038cbad",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "48a7b257-1f82-44e9-b7e6-5df010441971",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 685,
+      "end_char": 691,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "1e56b029-ebb8-497b-a0ad-37aaf4c468fa",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 959,
+      "end_char": 965,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:02:18.412807",
+  "export_timestamp": "2026-06-09T00:02:18.412807",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "0d2e1adc-cc19-535b-bd7c-11e0c1d3e73b",
+        "parent_legal_unit_id": "ef0a9f9f-6bad-4497-89a2-4550821f9343",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Važenje Posebnog kolektivnog ugovora za zaposlene u ustanovama predškolskog vaspitanja i obrazovanja čiji je osnivač Republika Srbija, autonomna pokrajina i jedinica lokalne samouprave („Službeni glasnik RS”, br. 97/20 i 6/23) produžava se do 15. jula 2026. godine.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "ef0a9f9f-6bad-4497-89a2-4550821f9343",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "9cb5e7a6-63fd-515d-8eca-c6c6f280e6f0",
+        "parent_legal_unit_id": "ef0a9f9f-6bad-4497-89a2-4550821f9343",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Ovaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Za Vladu Po Odluci predsednika Vlade da vrši ovlašćenja ministra prosvete 01 broj 035-00-9/2023 od 30. maja 2023. godine Ministar bez portfelja zadužen za koordinaciju aktivnosti i mera u oblasti odnosa Republike Srbije sa dijasporom, Đorđe Milićević, s.r. Za Samostalni sindikat predškolskog vaspitanja i obrazovanja Srbije Predsednik, Bosiljka Jovanović, s.r. Za Sindikat obrazovanja Srbije Predsednik, mr Valentina Ilić, s.r. Za Granski sindikat prosvetnih radnika Srbije „Nezavisnost” Predsednik, Srđan Slović, s.r.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "ef0a9f9f-6bad-4497-89a2-4550821f9343",
+        "title": "Član 2"
+      }
+    ],
+    "statistics": {
+      "total_units": 2,
+      "total_articles": 2,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "radnik",
+            "role": null,
+            "responsibilities": [
+              "radnika Srbije „Nezavisnost” i Vlada,"
+            ],
+            "context": "radnika Srbije „Nezavisnost” i Vlada,",
+            "line_number": 5
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0009989738464355469,
+      "total_elements": 1
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.001001119613647461,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": null,
+        "legal_basis": [
+          "26"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": "zaključuju\nSPORAZUM",
+      "detected_patterns": [],
+      "processing_time": 0.0009999275207519531
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    }
+  }
+}

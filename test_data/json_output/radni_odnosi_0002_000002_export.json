@@ -1,18 +1,18 @@
 {
-  "import_run_id": "eb159879-bb3e-4dc0-9648-71b661d16f9b",
+  "import_run_id": "e6e385bc-1d39-4729-94dd-fcbcef221f57",
   "document": {
     "name": "radni_odnosi_0002_000002.pdf",
     "path": "test_data\\documents2\\radni_odnosi_0002_000002.pdf",
     "title": null,
     "document_type": "law",
     "language_code": "sr",
-    "processed_at": "2026-06-08T17:10:25.198004Z"
+    "processed_at": "2026-06-08T20:49:56.440166Z"
   },
   "full_text": "Na osnovu člana 112. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje) i člana 43. stav 1. Zakona o\nVladi („Službeni glasnik RS”, br. 55/05, 71/05 – ispravka, 101/07, 65/08, 16/11, 68/12 – US,\n72/12, 7/14 – US, 44/14 i 30/18 – dr. zakon),\nVlada donosi\nODLUKU\no visini minimalne cene rada za period januar–decembar 2026. godine\n\"Službeni glasnik RS\", broj 78 od 12. septembra 2025.\n1. Minimalna cena rada, bez poreza i doprinosa za obavezno socijalno osiguranje, za period\njanuar–decembar 2026. godine iznosi 371,00 dinar („neto”), po radnom času.\n2. Ovu odluku objaviti u „Službenom glasniku Republike Srbije”.\n05 broj 120-9889/2025\nU Beogradu, 11. septembra 2025. godine\nVlada\nPredsednik,\nprof. dr Đuro Macut, s.r.",
   "legal_units_count": 0,
   "document_entities": [
     {
-      "entity_id": "caf8abd1-68bb-4f9c-8dcf-aa9d9100e1b9",
+      "entity_id": "126a001a-b55d-452b-80e3-abe717582936",
       "entity_type": "LEGAL_REF",
       "text": "člana 112",
       "start_char": 10,
@@ -20,7 +20,7 @@
       "confidence": 0.85
     },
     {
-      "entity_id": "8a5ac753-d34c-4048-ad6b-8fab6735fec6",
+      "entity_id": "b661696e-789a-4589-9682-33c38b765385",
       "entity_type": "LEGAL_REF",
       "text": "člana 43",
       "start_char": 159,
@@ -29,5 +29,5 @@
     }
   ],
   "assertions": [],
-  "export_timestamp": "2026-06-08T17:10:25.199002Z"
+  "export_timestamp": "2026-06-08T20:49:56.440166Z"
 }

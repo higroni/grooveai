@@ -1,0 +1,463 @@
+{
+  "document_id": "radni_odnosi_0094_000094.pdf",
+  "document_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+  "document_metadata": {
+    "import_run_id": "f5ff63e3-8808-495d-9876-90b39220fe0f",
+    "path": "test_data\\documents2\\radni_odnosi_0094_000094.pdf",
+    "title": "Vlada Republike Srbije donosi UREDBU o priznanjima za obavljanje poslova u državnim organima",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 10,
+    "processed_at": "2026-06-08T23:54:16.936954"
+  },
+  "document_title": "Vlada Republike Srbije donosi UREDBU o priznanjima za obavljanje poslova u državnim organima",
+  "full_text": "Na osnovu člana 52. stav 2. Zakona o radnim odnosima u državnim oranima („Službeni\nglasnik RS”, br. 48/91 i 66/91),\nVlada Republike Srbije donosi\n\n\nUREDBU\no priznanjima za obavljanje poslova u državnim organima*\n„Službeni glasnik Republike Srbije”, br. 53 od 27. novembra 1997, 56 od 9. decembra\n1997 - ispravka, 69 od 19. septembra 2011.\n\n*Službeni glasnik RS, broj 56/1997\n\n\nČlan 1.\nOvom uredbom utvrđuju se vrste priznanja i uslovi i postupak za njihovu dodelu\npostavljenim i zaposlenim licima u ministarstvima, posebnim organizacijama, sudovima,\njavnim tužilaštvima, Republičkom javnom pravobranilaštvu, kao i sudijama za prekršaje.\nOva uredba primenjuje se i na zaposlena i postavljena lica u stručnoj službi\npredsednika Republike, Narodne skupštine, Vlade Republike Srbije (u daljem tekstu: Vlada),\nUstavnog suda i Upravi za zajedničke poslove republičkih organa.\n\nČlan 2.\nPriznanja se dodeljuju u vidu:\n1) novčane nagrade,\n2) poklona,\n3) zahvalnice.\n\nČlan 3.\nNovčana nagrada se dodeljuje:\n1) za uspešno obavljanje poslova od naročitog značaja za rad državnih* ograna;Redakcijski prečišćen tekst\n2) za poseban doprinos u obezbeđivanju i unapređivanju pravnog sistema u odgovarajućoj\noblasti;\n3) za uspešan rad u povremenom radnom telu Vlade ili Narodne skupštine;\n4) za dugotrajno angažovanje na poslovima izvan redovnog radnog vremena.\n\n*Službeni glasnik RS, broj 56/1997\n\nČlan 4.\nPoklon se dodeljuje:\n1) za poseban doprinos radu državnih organa;\n2) za istovremeno uspešno obavljanje više poslova iz nadležnosti državnih organa;\n3) za poseban doprinos u pripremi nacrta zakona, plana, programa, projekata ili\nsličnih akata.\n\nČlan 5.\nZahvalnica se dodeljuje:\n1) za značajan doprinos u osnivanju ustanova od značaja za ostvarivanje funkcija\ndržavnih organa;\n2) za uspešnu saradnju sa drugim državnim organima;\n3) za iskazane organizatorske sposobnosti;\n4) za dugogodišnji savestan i profesionalni rad.\n\nČlan 6.\nNovčana nagrada može iznositi najviše pet prosečnih zarada koje su u prethodnom\nmesecu po zaposlenom isplaćene u Republici Srbiji, prema podacima republičkog organa\nnadležnog za poslove statistike.\nIzuzetno, iznos novčane nagrade može biti veći zbog uspešne realizacije\nzadataka koji su od naročitog interesa za Republiku Srbiju.*\nPoklon se dodeljuje u prigodnom obliku i njegova vrednost može iznositi najviše tri\nprosečne zarade koje su u prethodnom mesecu po zaposlenom isplaćene u Republici Srbiji,\nprema podacima republičkog organa nadležnog za poslove statistike.\nZahvalnica se dodeljuje u pismenom obliku.\n\n*Službeni glasnik RS, broj 69/2011\n\nČlan 7.\nOdluku o dodeli priznanja postavljenim licima i sudijama za prekršaje donosi Vlada.\nOdluku o dodeli novčane nagrade zaposlenim licima donosi Vlada.\nOdluku o dodeli poklona i zahvalnica zaposlenim licima donosi starešina državnog\norgana.\n\nČlan 8.\nDodelu priznanja postavljenom licu predlaže starešina državnog organa, a dodelu\npriznanja postavljenom licu koje je starešina državnog organa* predlaže predsednik Vlade.\nDodelu priznanja sudiji za prekršaje predlaže starešina organa za prekršaje, a\ndodelu priznanja starešini organa za prekršaje* predlaže ministar pravde.\nDodelu novčane nagrade zaposlenim licima predlaže starešina državnog organa.\n\n*Službeni glasnik RS, broj 56/1997\n\nČlan 9.\nPredlog za dodelu novčane nagrade mora biti obrazložen i sadržati podatke o\ndoprinosu lica čije se nagrađivanje predlaže.\nPredlog za dodelu poklona mora sadržati oblik u kome poklon treba dodeliti.\n\nČlan 10.\nOva uredba stupa na snagu osmog dana od dana objavljivanja* u „Službenom glasniku\nRepublike Srbije”.\n\n*Službeni glasnik RS, broj 56/1997\n\n\n05 broj 110-3191/97\nU Beogradu, 25. novembra 1997. godine.\nVlada Republike Srbije\nPotpredsednik,\nprof. dr Ratko Marković, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "a7a08062-aeb0-4b2b-90f5-8e0a6961822b",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 52",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "b9bb7ee9-931b-4f3f-ae39-61b58cef4356",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 377,
+      "end_char": 383,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "7586fd9d-741e-4bd7-960f-d1b410481113",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 871,
+      "end_char": 877,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "4f2727cf-fb76-4d7d-801d-918dba9ee74c",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 958,
+      "end_char": 964,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "34efa081-d3d6-456b-b730-f0980524ad08",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 1380,
+      "end_char": 1386,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "39ce7c55-b1c5-4dbd-b6a4-2b3faea95f2c",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 1632,
+      "end_char": 1638,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "2d3842fd-b159-43cf-8991-e17fa5050357",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 1908,
+      "end_char": 1914,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "3272a02b-58d3-4167-b493-49e145b33536",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 7",
+      "start_char": 2566,
+      "end_char": 2572,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "1819e5be-154b-44ad-be89-5fc7cb9fb3c5",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 8",
+      "start_char": 2812,
+      "end_char": 2818,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "3ee7e719-cefb-4e97-8273-3c5b6c78e5ea",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 9",
+      "start_char": 3257,
+      "end_char": 3263,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "9a7f829e-b589-4639-a9b1-3b02987d0d93",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 10",
+      "start_char": 3464,
+      "end_char": 3471,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:54:16.936954",
+  "export_timestamp": "2026-06-08T23:54:16.936954",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "42f7e9de-199e-5666-8ebc-9001d1ce5ce8",
+        "parent_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Ovom uredbom utvrđuju se vrste priznanja i uslovi i postupak za njihovu dodelu postavljenim i zaposlenim licima u ministarstvima, posebnim organizacijama, sudovima, javnim tužilaštvima, Republičkom javnom pravobranilaštvu, kao i sudijama za prekršaje. Ova uredba primenjuje se i na zaposlena i postavljena lica u stručnoj službi predsednika Republike, Narodne skupštine, Vlade Republike Srbije (u daljem tekstu: Vlada), Ustavnog suda i Upravi za zajedničke poslove republičkih organa.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "d07d0f8f-b1cf-510d-84ac-bfa53db5de95",
+        "parent_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Priznanja se dodeljuju u vidu: 1) novčane nagrade, 2) poklona, 3) zahvalnice.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "2c60ad9b-5ca9-530b-a65f-8083bb490bb0",
+        "parent_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Novčana nagrada se dodeljuje: 1) za uspešno obavljanje poslova od naročitog značaja za rad državnih* ograna;Redakcijski prečišćen tekst 2) za poseban doprinos u obezbeđivanju i unapređivanju pravnog sistema u odgovarajućoj oblasti; 3) za uspešan rad u povremenom radnom telu Vlade ili Narodne skupštine; 4) za dugotrajno angažovanje na poslovima izvan redovnog radnog vremena. *Službeni glasnik RS, broj 56/1997",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "title": "Član 3"
+      },
+      {
+        "legal_unit_id": "cdb30f05-6757-5312-9cb9-3358dd3b8491",
+        "parent_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "unit_type": "article",
+        "number": "4",
+        "ordinal": 4,
+        "heading": null,
+        "content_text": "Poklon se dodeljuje: 1) za poseban doprinos radu državnih organa; 2) za istovremeno uspešno obavljanje više poslova iz nadležnosti državnih organa; 3) za poseban doprinos u pripremi nacrta zakona, plana, programa, projekata ili sličnih akata.",
+        "path": "article:4",
+        "akoma_eid": "article_4",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "title": "Član 4"
+      },
+      {
+        "legal_unit_id": "88f220c8-a77c-5078-91f1-f0a92c0247b0",
+        "parent_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "unit_type": "article",
+        "number": "5",
+        "ordinal": 5,
+        "heading": null,
+        "content_text": "Zahvalnica se dodeljuje: 1) za značajan doprinos u osnivanju ustanova od značaja za ostvarivanje funkcija državnih organa; 2) za uspešnu saradnju sa drugim državnim organima; 3) za iskazane organizatorske sposobnosti; 4) za dugogodišnji savestan i profesionalni rad.",
+        "path": "article:5",
+        "akoma_eid": "article_5",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "title": "Član 5"
+      },
+      {
+        "legal_unit_id": "f37d5281-9847-5207-aa5a-3faa426a0cc4",
+        "parent_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "unit_type": "article",
+        "number": "6",
+        "ordinal": 6,
+        "heading": null,
+        "content_text": "Novčana nagrada može iznositi najviše pet prosečnih zarada koje su u prethodnom mesecu po zaposlenom isplaćene u Republici Srbiji, prema podacima republičkog organa nadležnog za poslove statistike. Izuzetno, iznos novčane nagrade može biti veći zbog uspešne realizacije zadataka koji su od naročitog interesa za Republiku Srbiju.* Poklon se dodeljuje u prigodnom obliku i njegova vrednost može iznositi najviše tri prosečne zarade koje su u prethodnom mesecu po zaposlenom isplaćene u Republici Srbiji, prema podacima republičkog organa nadležnog za poslove statistike. Zahvalnica se dodeljuje u pismenom obliku. *Službeni glasnik RS, broj 69/2011",
+        "path": "article:6",
+        "akoma_eid": "article_6",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "title": "Član 6"
+      },
+      {
+        "legal_unit_id": "bbc197ec-eb75-5c40-bf98-f9cf58e364d2",
+        "parent_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "unit_type": "article",
+        "number": "7",
+        "ordinal": 7,
+        "heading": null,
+        "content_text": "Odluku o dodeli priznanja postavljenim licima i sudijama za prekršaje donosi Vlada. Odluku o dodeli novčane nagrade zaposlenim licima donosi Vlada. Odluku o dodeli poklona i zahvalnica zaposlenim licima donosi starešina državnog organa.",
+        "path": "article:7",
+        "akoma_eid": "article_7",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "title": "Član 7"
+      },
+      {
+        "legal_unit_id": "b605432e-8a5e-58d6-b1fc-d32c6576fb07",
+        "parent_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "unit_type": "article",
+        "number": "8",
+        "ordinal": 8,
+        "heading": null,
+        "content_text": "Dodelu priznanja postavljenom licu predlaže starešina državnog organa, a dodelu priznanja postavljenom licu koje je starešina državnog organa* predlaže predsednik Vlade. Dodelu priznanja sudiji za prekršaje predlaže starešina organa za prekršaje, a dodelu priznanja starešini organa za prekršaje* predlaže ministar pravde. Dodelu novčane nagrade zaposlenim licima predlaže starešina državnog organa. *Službeni glasnik RS, broj 56/1997",
+        "path": "article:8",
+        "akoma_eid": "article_8",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "title": "Član 8"
+      },
+      {
+        "legal_unit_id": "7bbf3126-d812-5f9f-8d1c-9e56d4bc8789",
+        "parent_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "unit_type": "article",
+        "number": "9",
+        "ordinal": 9,
+        "heading": null,
+        "content_text": "Predlog za dodelu novčane nagrade mora biti obrazložen i sadržati podatke o doprinosu lica čije se nagrađivanje predlaže. Predlog za dodelu poklona mora sadržati oblik u kome poklon treba dodeliti.",
+        "path": "article:9",
+        "akoma_eid": "article_9",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "title": "Član 9"
+      },
+      {
+        "legal_unit_id": "30a904be-9836-5cbd-ba29-f801e6de3f7b",
+        "parent_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "unit_type": "article",
+        "number": "10",
+        "ordinal": 10,
+        "heading": null,
+        "content_text": "Ova uredba stupa na snagu osmog dana od dana objavljivanja* u „Službenom glasniku Republike Srbije”. *Službeni glasnik RS, broj 56/1997 05 broj 110-3191/97 U Beogradu, 25. novembra 1997. godine. Vlada Republike Srbije Potpredsednik, prof. dr Ratko Marković, s.r.",
+        "path": "article:10",
+        "akoma_eid": "article_10",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "1af00305-3a4b-4770-bc27-791b96974a29",
+        "title": "Član 10"
+      }
+    ],
+    "statistics": {
+      "total_units": 10,
+      "total_articles": 10,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [
+        {
+          "text": "Predlog za dodelu novčane nagrade mora biti obrazložen i sadržati podatke o\ndoprinosu lica čije se nagrađivanje predlaže.",
+          "confidence": 0.8
+        },
+        {
+          "text": "Predlog za dodelu poklona mora sadržati oblik u kome poklon treba dodeliti.",
+          "confidence": 0.8
+        }
+      ],
+      "prohibitions": [],
+      "permissions": [
+        {
+          "text": "Novčana nagrada može iznositi najviše pet prosečnih zarada koje su u prethodnom\nmesecu po zaposlenom isplaćene u Republici Srbiji,",
+          "confidence": 0.8
+        },
+        {
+          "text": "iznos novčane nagrade može biti veći zbog uspešne realizacije\nzadataka koji su od naročitog interesa za Republiku Srbiju.",
+          "confidence": 0.8
+        },
+        {
+          "text": "Poklon se dodeljuje u prigodnom obliku i njegova vrednost može iznositi najviše tri\nprosečne zarade koje su u prethodnom mesecu po zaposlenom isplaćene u Republici Srbiji,",
+          "confidence": 0.8
+        }
+      ],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 6
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [
+          {
+            "step_number": null,
+            "action": "donosi Vlada.",
+            "actor": null,
+            "deadline": null,
+            "context": "donosi Vlada.",
+            "line_number": 67
+          }
+        ],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "zaposleni",
+            "role": null,
+            "responsibilities": [
+              "zaposlenim licima u ministarstvima,",
+              "zaposlenim licima donosi Vlada.",
+              "zaposlenim licima predlaže starešina državnog organa."
+            ],
+            "context": "zaposlenim licima u ministarstvima,",
+            "line_number": 16
+          },
+          {
+            "name": "ministar",
+            "role": null,
+            "responsibilities": [
+              "ministarstvima,",
+              "ministar pravde."
+            ],
+            "context": "ministarstvima,",
+            "line_number": 16
+          },
+          {
+            "name": "organ",
+            "role": null,
+            "responsibilities": [
+              "organizacijama,",
+              "organa.",
+              "organa;",
+              "organima;",
+              "organizatorske sposobnosti;",
+              "organa nadležnog za poslove statistike.",
+              "organa,",
+              "organa* predlaže predsednik Vlade.",
+              "organa za prekršaje,",
+              "organa za prekršaje* predlaže ministar pravde."
+            ],
+            "context": "organizacijama,",
+            "line_number": 16
+          },
+          {
+            "name": "sud",
+            "role": null,
+            "responsibilities": [
+              "sudovima,",
+              "sudijama za prekršaje.",
+              "suda i Upravi za zajedničke poslove republičkih organa.",
+              "sudijama za prekršaje donosi Vlada.",
+              "sudiji za prekršaje predlaže starešina organa za prekršaje,"
+            ],
+            "context": "sudovima,",
+            "line_number": 16
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.003000497817993164,
+      "total_elements": 5
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [
+          {
+            "consequence_text": "sadržati oblik u kome poklon treba dodeliti.",
+            "consequence_type": "must",
+            "context": "mora sadržati oblik u kome poklon treba dodeliti.",
+            "line_number": 84
+          }
+        ],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 1
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja* u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja* u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "uredba",
+        "hierarchy_level": 3,
+        "issuing_authority": "Vlada Republike Srbije",
+        "legal_basis": [
+          "5"
+        ],
+        "official_gazette": "Službeni\nglasnik RS”",
+        "can_override": [
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon"
+        ],
+        "confidence": 0.7
+      },
+      "title": "Vlada Republike Srbije donosi\n\n\nUREDBU",
+      "detected_patterns": [
+        "ova\\s+uredba",
+        "ova\\s+uredba"
+      ],
+      "processing_time": 0.0010001659393310547
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 0
+    }
+  }
+}

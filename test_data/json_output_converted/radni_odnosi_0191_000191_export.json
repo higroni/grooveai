@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "document_id": "radni_odnosi_0191_000191.pdf",
+    "document_legal_unit_id": "1f24ee48-438e-4e1e-b131-e83cf4acf5e1",
+    "title": "Na osnovu člana 4. stav 2. Zakona o državnim službenicima („Službeni glasnik RS”, br.",
+    "document_type": "law",
+    "effective_date": null,
+    "total_chars": 0,
+    "total_words": 0,
+    "processed_at": "2026-06-09T00:02:46.288905",
+    "processing_time_seconds": null
+  },
+  "legal_units": [
+    {
+      "legal_unit_id": "",
+      "document_legal_unit_id": "1f24ee48-438e-4e1e-b131-e83cf4acf5e1",
+      "parent_legal_unit_id": "1f24ee48-438e-4e1e-b131-e83cf4acf5e1",
+      "unit_type": "article",
+      "hierarchy_level": 0,
+      "hierarchy_path": "article:1",
+      "title": "Član 1",
+      "content": "",
+      "content_latinized": "",
+      "char_count": 0,
+      "word_count": 0,
+      "entities": [],
+      "assertions": [],
+      "normative_assertions": [],
+      "conditions": []
+    },
+    {
+      "legal_unit_id": "",
+      "document_legal_unit_id": "1f24ee48-438e-4e1e-b131-e83cf4acf5e1",
+      "parent_legal_unit_id": "1f24ee48-438e-4e1e-b131-e83cf4acf5e1",
+      "unit_type": "article",
+      "hierarchy_level": 0,
+      "hierarchy_path": "article:2",
+      "title": "Član 2",
+      "content": "",
+      "content_latinized": "",
+      "char_count": 0,
+      "word_count": 0,
+      "entities": [],
+      "assertions": [],
+      "normative_assertions": [],
+      "conditions": []
+    }
+  ]
+}

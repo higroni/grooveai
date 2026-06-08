@@ -5,6 +5,7 @@ import os
 import json
 import time
 from pathlib import Path
+from typing import Dict, Any
 
 # Add parent directory to path for imports
 sys.path.insert(0, str(Path(__file__).parent.parent.parent))
@@ -406,5 +407,41 @@ class LegalParserService:
                 "total_indents": parse_output.statistics.total_indents
             }
         }
+
+
+# Create singleton instance
+_service = LegalParserService()
+
+
+# Wrapper function for easy import
+def parse_legal_document(
+    text: str,
+    document_id: str,
+    db_session=None
+) -> Dict[str, Any]:
+    """
+    Wrapper function to parse legal document using the singleton service.
+    
+    Args:
+        text: Document text
+        document_id: Document identifier
+        db_session: Optional database session
+        
+    Returns:
+        Dictionary with parsed structure
+    """
+    result = _service.parse_document(
+        text=text,
+        source_uri=f"doc://{document_id}",
+        filename=document_id,
+        document_type="law",
+        language_code="sr"
+    )
+    
+    # Convert to dict format expected by batch processor
+    return {
+        'units': [unit.dict() for unit in result.legal_units],
+        'statistics': result.statistics.dict() if result.statistics else None
+    }
 
 # Made with Bob

@@ -1,0 +1,243 @@
+{
+  "document_id": "radni_odnosi_0136_000136.pdf",
+  "document_legal_unit_id": "e6d1cf06-19cb-4b59-b317-80c92966b178",
+  "document_metadata": {
+    "import_run_id": "32d51d2a-6369-4126-b807-2e0ee7bc23cf",
+    "path": "test_data\\documents2\\radni_odnosi_0136_000136.pdf",
+    "title": "ZAKON o prestanku važenja Zakona o privremenom uređivanju osnovica za obračun i isplatu plata",
+    "document_type": "law",
+    "language_code": "sr",
+    "legal_units_count": 3,
+    "processed_at": "2026-06-08T23:55:26.816332"
+  },
+  "document_title": "ZAKON o prestanku važenja Zakona o privremenom uređivanju osnovica za obračun i isplatu plata",
+  "full_text": "ZAKON\no prestanku važenja Zakona o privremenom uređivanju osnovica za obračun i isplatu plata,\nodnosno zarada i drugih stalnih primanja kod korisnika javnih sredstava\n\"Službeni glasnik RS\", broj 86 od 6. decembra 2019.\nČlan 1.\nDanom stupanja na snagu ovog zakona prestaje da važi Zakon o privremenom uređivanju\nosnovica za obračun i isplatu plata odnosno zarada i drugih stalnih primanja kod korisnika\njavnih sredstava („Službeni glasnik RS”, br. 116/14 i 95/18) – u daljem tekstu: Zakon.\nČlan 2.\nOsnovica, odnosno vrednost radnog časa, vrednost boda i vrednost osnovne zarade (u daljem\ntekstu: osnovica), za obračun i isplatu plata, odnosno zarada kod korisnika javnih sredstava\niz člana 2. stav 1. tač. 1)–3) Zakona primenjivaće se u visini koja je utvrđena u skladu sa\nzakonom u trenutku stupanja na snagu ovog zakona.\nOsnovica za obračun i isplatu plata, odnosno zarada kod korisnika javnih sredstava iz člana\n2. stav 1. tač. 4)–6) Zakona primenjivaće se u visini koja je bila utvrđena do dana stupanja na\nsnagu Zakona.\nČlan 3.\nOvaj zakon stupa na snagu 1. januara 2020. godine.",
+  "document_entities": [
+    {
+      "entity_id": "203e6813-d3ea-4f3c-aa25-9602590f1b22",
+      "entity_type": "DATE",
+      "text": "1. januara 2020",
+      "start_char": 1058,
+      "end_char": 1073,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "1eeb0146-f1ad-4f59-a9b8-d8f152654b5c",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 219,
+      "end_char": 225,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "54455b58-06e5-42ac-a46e-9e23a28d28b5",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 489,
+      "end_char": 495,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "2e863055-7452-40f2-8609-d378d7808d7f",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 2",
+      "start_char": 683,
+      "end_char": 690,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "f7ce3921-d555-42c9-80a9-8c24cf9ee5bc",
+      "entity_type": "LEGAL_REF",
+      "text": "člana\n2",
+      "start_char": 908,
+      "end_char": 915,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "06481bda-a4c4-4eb6-b055-739661995b0d",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1024,
+      "end_char": 1030,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "b42c1ddd-764e-4280-aee8-43df0a5b3a7a",
+      "entity_type": "LEGAL_REF",
+      "text": "ZAKON\no prestanku važenja Zakona o privremenom uređivanju osnovica za obračun i isplatu plata",
+      "start_char": 0,
+      "end_char": 93,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "04913dd2-7557-450f-a07d-acf96f440926",
+      "entity_type": "LEGAL_REF",
+      "text": "Zakon o privremenom uređivanju\nosnovica za obračun i isplatu plata odnosno zarada i drugih stalnih primanja kod korisnika\njavnih sredstava",
+      "start_char": 280,
+      "end_char": 418,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:55:26.816332",
+  "export_timestamp": "2026-06-08T23:55:26.816332",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "db9e0924-e007-5a37-8e5b-de3a47fff1c7",
+        "parent_legal_unit_id": "e6d1cf06-19cb-4b59-b317-80c92966b178",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Danom stupanja na snagu ovog zakona prestaje da važi Zakon o privremenom uređivanju osnovica za obračun i isplatu plata odnosno zarada i drugih stalnih primanja kod korisnika javnih sredstava („Službeni glasnik RS”, br. 116/14 i 95/18) – u daljem tekstu: Zakon.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "e6d1cf06-19cb-4b59-b317-80c92966b178",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "862a6827-1879-5fc7-a17d-52c32e975661",
+        "parent_legal_unit_id": "e6d1cf06-19cb-4b59-b317-80c92966b178",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Osnovica, odnosno vrednost radnog časa, vrednost boda i vrednost osnovne zarade (u daljem tekstu: osnovica), za obračun i isplatu plata, odnosno zarada kod korisnika javnih sredstava iz člana 2. stav 1. tač. 1)–3) Zakona primenjivaće se u visini koja je utvrđena u skladu sa zakonom u trenutku stupanja na snagu ovog zakona. Osnovica za obračun i isplatu plata, odnosno zarada kod korisnika javnih sredstava iz člana",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "e6d1cf06-19cb-4b59-b317-80c92966b178",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "f84faec3-2a1d-59c9-8d71-6935dfe8c8f4",
+        "parent_legal_unit_id": "e6d1cf06-19cb-4b59-b317-80c92966b178",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": "stav 1. tač. 4)–6) Zakona primenjivaće se u visini koja je bila utvrđena do dana stupanja na",
+        "content_text": "Ovaj zakon stupa na snagu 1. januara 2020. godine.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "e6d1cf06-19cb-4b59-b317-80c92966b178",
+        "title": "Član 3"
+      }
+    ],
+    "statistics": {
+      "total_units": 3,
+      "total_articles": 3,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0010020732879638672,
+      "total_elements": 0
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu 1",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu 1",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "zakon",
+        "hierarchy_level": 2,
+        "issuing_authority": null,
+        "legal_basis": [
+          "zakonom u trenutku stupanja na snagu ovog zakona"
+        ],
+        "official_gazette": "Službeni glasnik RS\"",
+        "can_override": [
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav"
+        ],
+        "confidence": 0.9
+      },
+      "title": "ZAKON",
+      "detected_patterns": [
+        "ZAKON\\s+o\\s+[a-zšđčćž\\s]+",
+        "ZAKON\\s+o\\s+[a-zšđčćž\\s]+",
+        "Zakon\\s+o\\s+[a-zšđčćž\\s]+",
+        "Zakon\\s+o\\s+[a-zšđčćž\\s]+",
+        "ovaj\\s+zakon"
+      ],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    }
+  }
+}

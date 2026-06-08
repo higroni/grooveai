@@ -128,6 +128,19 @@ class LatinizerService:
 # Create singleton instance
 service = LatinizerService()
 
+# Wrapper function for easy import
+def latinize_text(text: str) -> Dict[str, Any]:
+    """
+    Wrapper function to latinize text using the singleton service.
+    
+    Args:
+        text: Input text (may contain Cyrillic)
+        
+    Returns:
+        Dictionary with latinized_text and metadata
+    """
+    return service.latinize(text)
+
 
 # Example usage
 if __name__ == "__main__":

@@ -1,0 +1,332 @@
+{
+  "document_id": "radni_odnosi_0159_000159.pdf",
+  "document_legal_unit_id": "5664cfa6-4727-404b-b5ea-0796ac87ab6b",
+  "document_metadata": {
+    "import_run_id": "c7df6d1f-8d8b-45b6-9a49-d1d3c0811340",
+    "path": "test_data\\documents2\\radni_odnosi_0159_000159.pdf",
+    "title": "Vlada Republike Srbije donosi UREDBU o min imumu procesa rada za vreme štrajka u Javnom železničko transportnom preduzeću",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 5,
+    "processed_at": "2026-06-08T23:58:56.186233"
+  },
+  "document_title": "Vlada Republike Srbije donosi UREDBU o min imumu procesa rada za vreme štrajka u Javnom železničko transportnom preduzeću",
+  "full_text": "Na osnovu člana 2. tačka 2. Zakona o Vladi Republike Srbije („Službeni glasnik RS”, br.\n5/91 i 45/93), a u vezi sa članom 10. stav 2. Zakona o štrajku („Službeni list SRJ”, broj\n29/96),\nVlada Republike Srbije donosi\n\n\nUREDBU\no min imumu procesa rada za vreme štrajka u Javnom železničko transportnom\npreduzeću „Beograd”\n\"Službeni glasnik RS\", br. 50 od 23. avgusta 2002, 34 od 26. marta 2004 - US\n\n\nČlan 1.\nMinimum procesa rada za vreme štrajka u Javnom železničko transportnom preduzeću\n„Beograd” obuhvata sledeći obim prevoza u odnosu na važeći red vožnje:\n1. svi vozovi za prevoz putnika u međunarodnom saobraćaju;\n2. svi teretni vozovi u međunarodnom saobraćaju, bez obzira da li na putu od otpremne do\nuputne stanice menjaju broj koji nose;\n3. svi agencijski i drugi ugovoreni vozovi za prevoz putnika, kao i ugovoreni vojni\ntransporti;\n4. 10% vozova za prevoz putnika u unutrašnjem saobraćaju u odnosu na planirani broj\nredovnih vozova za prevoz putnika prema važećem redu vožnje;\n5. 6% teretnih vozova u unutrašnjem saobraćaju u odnosu na planirani broj redovnih\nteretnih vozova prema važećem redu vožnje.\n\nČlan 2.\nAko u vreme održavanja štrajka nastupi vanredni događaj u smislu odredaba Zakona o\nbezbednosti u železničkom saobraćaju („Službeni list SRJ”, br. 60/98 i 36/99) i Zakona o\nželeznici („Službeni glasnik RS”, br. 38/91, 41/91, 53/93, 67/93 i 48/94), saobraćaće i\npomoćni vozovi, kao i motorna pružna vozila za otklanjanje posledica nastalih vanrednim\ndogađajem.\n\nČlan 3.Redakcijski prečišćen tekst\nSve pošiljke primljene na prevoz sa opasnim i samozapaljivim materijama, do momenta\npočetka štrajka, moraju biti prevezene do istovarnog mesta, odnosno do prelazne stanice.\n\nČlan 4.\nPrestao je da važi (vidi Odluku US - 34/2004-3).\n\nČlan 5.\nDanom stupanja na snagu ove uredbe prestaje da važi Uredba o minimumu procesa rada za\nvreme štrajka u Javnom železničko transportnom preduzeću „Beograd” („Službeni glasnik RS”,\nbroj 11/97).\n\nČlan 6.\nOva uredba stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n\n05 broj 130-12222/2002-1\nU Beogradu, 22. avgusta 2002. godine\nVlada Republike Srbije\nPotpredsednik,\nprof. dr Žarko Korać, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "1204a521-7fbb-4546-b8a4-8241eaa7e1c3",
+      "entity_type": "DATE",
+      "text": "23. avgusta 2002",
+      "start_char": 353,
+      "end_char": 369,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "a3e93a65-7e34-4003-bad0-4fbca2397c8a",
+      "entity_type": "DATE",
+      "text": "26. marta 2004",
+      "start_char": 377,
+      "end_char": 391,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "21982c28-f763-492a-b258-8762c7e4d3fa",
+      "entity_type": "DATE",
+      "text": "22. avgusta 2002",
+      "start_char": 2094,
+      "end_char": 2110,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "2c7f4e32-2329-468e-a24b-18aa9ef8eff3",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 2",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "80f2d1c0-4d72-4d5d-8efa-2eebc1dbd3fd",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 10",
+      "start_char": 115,
+      "end_char": 124,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "14855da8-81ee-4fcd-a16b-80e452a11767",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 399,
+      "end_char": 405,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "502a501e-4eab-486f-90aa-23fa7e8dc096",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 1114,
+      "end_char": 1120,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "578aff22-7f72-40fb-94b8-860526765a16",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1482,
+      "end_char": 1488,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "b9db5bd1-17a5-43bc-8870-9249c6033972",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 1691,
+      "end_char": 1697,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "85ba0b7c-df77-457f-8621-7223b4fc5d66",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 1749,
+      "end_char": 1755,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "48ca5419-72f5-4bc5-93b4-ef19471c58d9",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 1948,
+      "end_char": 1954,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "90f7aed9-bed2-408f-958a-75f40c59fb6a",
+      "entity_type": "LEGAL_REF",
+      "text": "Uredba o minimumu procesa rada za\nvreme štrajka u Javnom železničko transportnom preduzeću",
+      "start_char": 1809,
+      "end_char": 1899,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "4985f592-0279-44c3-b7f8-1788033c2603",
+      "entity_type": "LOCATION",
+      "text": "Beograd",
+      "start_char": 311,
+      "end_char": 318,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "a5c3f77f-7a63-4a58-9a29-56763de43cca",
+      "entity_type": "LOCATION",
+      "text": "Beograd",
+      "start_char": 489,
+      "end_char": 496,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "5e2a3637-6cdf-4ec2-b25e-e48f6d761fb9",
+      "entity_type": "LOCATION",
+      "text": "Beograd",
+      "start_char": 1901,
+      "end_char": 1908,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:58:56.186233",
+  "export_timestamp": "2026-06-08T23:58:56.186233",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "35f63d55-d54e-5397-89f3-cb65229440b5",
+        "parent_legal_unit_id": "5664cfa6-4727-404b-b5ea-0796ac87ab6b",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Minimum procesa rada za vreme štrajka u Javnom železničko transportnom preduzeću „Beograd” obuhvata sledeći obim prevoza u odnosu na važeći red vožnje:",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5664cfa6-4727-404b-b5ea-0796ac87ab6b",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "16e92eb6-7e51-546f-a1c9-fec996628827",
+        "parent_legal_unit_id": "5664cfa6-4727-404b-b5ea-0796ac87ab6b",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": "6% teretnih vozova u unutrašnjem saobraćaju u odnosu na planirani broj redovnih",
+        "content_text": "Ako u vreme održavanja štrajka nastupi vanredni događaj u smislu odredaba Zakona o bezbednosti u železničkom saobraćaju („Službeni list SRJ”, br. 60/98 i 36/99) i Zakona o železnici („Službeni glasnik RS”, br. 38/91, 41/91, 53/93, 67/93 i 48/94), saobraćaće i pomoćni vozovi, kao i motorna pružna vozila za otklanjanje posledica nastalih vanrednim događajem. Član 3.Redakcijski prečišćen tekst Sve pošiljke primljene na prevoz sa opasnim i samozapaljivim materijama, do momenta početka štrajka, moraju biti prevezene do istovarnog mesta, odnosno do prelazne stanice.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5664cfa6-4727-404b-b5ea-0796ac87ab6b",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "ab903b16-3ab3-5f9e-9446-e77c213255ab",
+        "parent_legal_unit_id": "5664cfa6-4727-404b-b5ea-0796ac87ab6b",
+        "unit_type": "article",
+        "number": "4",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Prestao je da važi (vidi Odluku US - 34/2004-3).",
+        "path": "article:4",
+        "akoma_eid": "article_4",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5664cfa6-4727-404b-b5ea-0796ac87ab6b",
+        "title": "Član 4"
+      },
+      {
+        "legal_unit_id": "e12088b2-0424-5e68-831f-e2f1d291fd09",
+        "parent_legal_unit_id": "5664cfa6-4727-404b-b5ea-0796ac87ab6b",
+        "unit_type": "article",
+        "number": "5",
+        "ordinal": 4,
+        "heading": null,
+        "content_text": "Danom stupanja na snagu ove uredbe prestaje da važi Uredba o minimumu procesa rada za vreme štrajka u Javnom železničko transportnom preduzeću „Beograd” („Službeni glasnik RS”, broj 11/97).",
+        "path": "article:5",
+        "akoma_eid": "article_5",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5664cfa6-4727-404b-b5ea-0796ac87ab6b",
+        "title": "Član 5"
+      },
+      {
+        "legal_unit_id": "f18a7861-ec0a-511f-a05a-740abc2aeca7",
+        "parent_legal_unit_id": "5664cfa6-4727-404b-b5ea-0796ac87ab6b",
+        "unit_type": "article",
+        "number": "6",
+        "ordinal": 5,
+        "heading": null,
+        "content_text": "Ova uredba stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. 05 broj 130-12222/2002-1 U Beogradu, 22. avgusta 2002. godine Vlada Republike Srbije Potpredsednik, prof. dr Žarko Korać, s.r.",
+        "path": "article:6",
+        "akoma_eid": "article_6",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5664cfa6-4727-404b-b5ea-0796ac87ab6b",
+        "title": "Član 6"
+      }
+    ],
+    "statistics": {
+      "total_units": 5,
+      "total_articles": 5,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.000997781753540039,
+      "total_elements": 0
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009996891021728516,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "uredba",
+        "hierarchy_level": 3,
+        "issuing_authority": "Vlada Republike Srbije",
+        "legal_basis": [],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon"
+        ],
+        "confidence": 0.8
+      },
+      "title": "Vlada Republike Srbije donosi\n\n\nUREDBU\no min imumu procesa rada za vreme štrajka u Javnom železničko transportnom",
+      "detected_patterns": [
+        "UREDBA\\s+o\\s+[a-zšđčćž\\s]+",
+        "Uredba\\s+o\\s+[a-zšđčćž\\s]+",
+        "ova\\s+uredba"
+      ],
+      "processing_time": 0.001001119613647461
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    }
+  }
+}

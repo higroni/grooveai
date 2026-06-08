@@ -1,0 +1,221 @@
+{
+  "document_id": "radni_odnosi_0185_000185.pdf",
+  "document_legal_unit_id": "8fc8c3a9-5982-4ba9-b5fc-9c61bc8f437d",
+  "document_metadata": {
+    "import_run_id": "a561d3da-449b-4af1-b75c-6220fe4e3433",
+    "path": "test_data\\documents2\\radni_odnosi_0185_000185.pdf",
+    "title": "SPORAZUM o produženju roka važenja Poseb",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 2,
+    "processed_at": "2026-06-09T00:02:36.133803"
+  },
+  "document_title": "SPORAZUM o produženju roka važenja Poseb",
+  "full_text": "Na osnovu člana 4. stav 2. Zakona o državnim službenicima („Službeni glasnik RS”, br.\n79/05, 81/05 – ispravka, 83/05 – ispravka, 64/07, 67/07 – ispravka, 116/08, 104/09, 99/14,\n94/17 i 95/18), u vezi sa članom 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05,\n61/05, 54/09, 32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje),\nVlada i reprezentativni sindikat Ministarstva unutrašnjih poslova – Nezavisni sindikat\npolicije, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za policijske službenike\n\"Službeni glasnik RS\", broj 97 od 30. avgusta 2022.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za policijske službenike („Službeni glasnik RS”, br.\n62/19, 62/20 – Aneks I i 81/21 – Aneks II), produžava se do 31. avgusta 2023. godine.\nČlan 2.\nOvaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nBroj 01-4802/22-13\nU Beogradu, 29. avgusta 2022. godine\nZa Vladu\nMinistar unutrašnjih poslova,\nAleksandar Vulin, s.r.\nZa Nezavisni sindikat policije,\nMarjan Petrović, s.r.\nMaja Grujić, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "1850c64d-7d87-490b-9e91-9609b52634e2",
+      "entity_type": "DATE",
+      "text": "30. avgusta 2022",
+      "start_char": 583,
+      "end_char": 599,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "5028b9c4-c9d7-4f91-a7e0-dd4882482721",
+      "entity_type": "DATE",
+      "text": "31. avgusta 2023",
+      "start_char": 759,
+      "end_char": 775,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "30dfd071-d1ea-46c2-b8b9-d73681cef1aa",
+      "entity_type": "DATE",
+      "text": "29. avgusta 2022",
+      "start_char": 930,
+      "end_char": 946,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "59c407f3-5b6f-40f9-80bb-e8a85345b1b6",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 4",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "dcb04184-4e89-44d3-912d-85dccb7e0497",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 263",
+      "start_char": 203,
+      "end_char": 213,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "266c24b2-809c-497f-8394-64324d88fa68",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 601,
+      "end_char": 607,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "d2d550c6-78e6-4c7d-af63-4491c13e68de",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 785,
+      "end_char": 791,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:02:36.133803",
+  "export_timestamp": "2026-06-09T00:02:36.133803",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "2e84d19f-f203-5ac4-8111-17fdf6e7de3b",
+        "parent_legal_unit_id": "8fc8c3a9-5982-4ba9-b5fc-9c61bc8f437d",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Važenje Posebnog kolektivnog ugovora za policijske službenike („Službeni glasnik RS”, br. 62/19, 62/20 – Aneks I i 81/21 – Aneks II), produžava se do 31. avgusta 2023. godine.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "8fc8c3a9-5982-4ba9-b5fc-9c61bc8f437d",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "f30b0730-a70d-5a2f-8ceb-3c48be0fb322",
+        "parent_legal_unit_id": "8fc8c3a9-5982-4ba9-b5fc-9c61bc8f437d",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Ovaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Broj 01-4802/22-13 U Beogradu, 29. avgusta 2022. godine Za Vladu Ministar unutrašnjih poslova, Aleksandar Vulin, s.r. Za Nezavisni sindikat policije, Marjan Petrović, s.r. Maja Grujić, s.r.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "8fc8c3a9-5982-4ba9-b5fc-9c61bc8f437d",
+        "title": "Član 2"
+      }
+    ],
+    "statistics": {
+      "total_units": 2,
+      "total_articles": 2,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministar unutrašnjih poslova,"
+            ],
+            "context": "Ministar unutrašnjih poslova,",
+            "line_number": 19
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 1
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": null,
+        "legal_basis": [],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": "SPORAZUM",
+      "detected_patterns": [],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    }
+  }
+}

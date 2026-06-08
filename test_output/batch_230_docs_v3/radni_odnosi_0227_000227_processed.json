@@ -1,0 +1,328 @@
+{
+  "document_id": "radni_odnosi_0227_000227.pdf",
+  "document_legal_unit_id": "e42e0e51-999b-4cb0-a4c4-81331db1e26a",
+  "document_metadata": {
+    "import_run_id": "2c2b9411-24d5-49c3-8538-471abdce9538",
+    "path": "test_data\\documents2\\radni_odnosi_0227_000227.pdf",
+    "title": "u ime grada Požarevca kao osnivača i Gradski odbor Sindikata zaposlenih u komunalno",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 2,
+    "processed_at": "2026-06-09T00:06:44.951675"
+  },
+  "document_title": "u ime grada Požarevca kao osnivača i Gradski odbor Sindikata zaposlenih u komunalno",
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US i 113/17) i člana 90. stav 1. tačka 19) Statuta grada Požarevca\n(„Službeni glasnik grada Požarevca”, br. 17/16 – prečišćen tekst i 15/17), Gradsko veće\ngrada Požarevca koga zastupa Gradonačelnik grada Požarevca Bane Spasović, dipl. pravnik,\nu ime grada Požarevca kao osnivača i Gradski odbor Sindikata zaposlenih u komunalno-\nstambenoj delatnosti Srbije – za grad Požarevac, koga zastupa predsednik, Boban Martinović,\nkao reprezentativnog sindikata (u daljem tekstu: učesnici), zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj\ndelatnosti grada Požarevca\n\"Službeni glasnik RS\", broj 45 od 13. juna 2018.\nČlan 1.\nProdužava se rok važenja Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj\ndelatnosti grada Požarevca („Službeni glasnik RS”, broj 69/15), zaključenog 16. jula 2015.\ngodine između učesnika, do 16. jula 2021. godine.\nČlan 2.\nOvaj sporazum smatra se zaključenim kada ga potpišu predstavnici ugovornih strana, a stupa\nna snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.\nGradski odbor sindikata zaposlenih\nu komunalno stambenoj delatnosti Srbije –\nza grad Požarevac\nPredsednik\nBoban Martinović, s.r.\nGradonačelnik\ngrada Požarevca,\nBane Spasović, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "3c427592-6f15-4310-ad16-d19dd3695638",
+      "entity_type": "DATE",
+      "text": "13. juna 2018",
+      "start_char": 763,
+      "end_char": 776,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "01a26adc-0f0b-4cd3-816c-b61fbc2be881",
+      "entity_type": "DATE",
+      "text": "16. jula 2015",
+      "start_char": 948,
+      "end_char": 961,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "b401eeba-a645-4b05-ac9d-9edb818ec9eb",
+      "entity_type": "DATE",
+      "text": "16. jula 2021",
+      "start_char": 990,
+      "end_char": 1003,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "f9032576-c3c4-4f2b-9ce6-f1b853bc5d67",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "6a4b2acc-2ae7-40ea-a305-b1b7d7cd3873",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 90",
+      "start_char": 129,
+      "end_char": 137,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "bd91d20c-e654-44f0-a114-30651dac36ee",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 778,
+      "end_char": 784,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "2bdf537e-cdfe-4e3b-b303-e41fd0e5dd70",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 1013,
+      "end_char": 1019,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "74c08a33-422c-498c-a406-f40a3ca4cfbe",
+      "entity_type": "LOCATION",
+      "text": "Požarevac",
+      "start_char": 481,
+      "end_char": 490,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "13a9fd65-ae3d-4ec2-a896-c2edd7b7a5ab",
+      "entity_type": "LOCATION",
+      "text": "Požarevac",
+      "start_char": 1280,
+      "end_char": 1289,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "de41ed80-a27e-4d4d-ad8c-97e716f7546e",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 165,
+      "end_char": 180,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "f2fa6d18-0214-4776-9fa3-29f494b49735",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 200,
+      "end_char": 215,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "a528b1d6-6c88-4ae6-8da4-2905ba6b13fa",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 269,
+      "end_char": 284,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "70a440d4-7808-4275-bf28-bd0acc93ec6a",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 312,
+      "end_char": 327,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "820ddb2c-294c-4435-8068-5a4a4216fe5e",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 364,
+      "end_char": 379,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "9af394c8-afe7-473f-9a93-25416fd7dd20",
+      "entity_type": "LOCATION",
+      "text": "grad Požarevac",
+      "start_char": 476,
+      "end_char": 490,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "9b6bf87b-3dd1-4d11-bc8d-069b45e9b7ac",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 713,
+      "end_char": 728,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "3dc5afda-1f5e-413b-9893-c22adea475f4",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 883,
+      "end_char": 898,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "d39aab57-ca75-4bbb-91c9-affa4b2c9549",
+      "entity_type": "LOCATION",
+      "text": "grad Požarevac",
+      "start_char": 1275,
+      "end_char": 1289,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "ff4d0a9a-9187-4301-9e16-4a521f0da085",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 1338,
+      "end_char": 1353,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:06:44.951675",
+  "export_timestamp": "2026-06-09T00:06:44.951675",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "ca18b533-5b48-5ff0-9f10-aee334d940c2",
+        "parent_legal_unit_id": "e42e0e51-999b-4cb0-a4c4-81331db1e26a",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Produžava se rok važenja Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj delatnosti grada Požarevca („Službeni glasnik RS”, broj 69/15), zaključenog 16. jula 2015. godine između učesnika, do 16. jula 2021. godine.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "e42e0e51-999b-4cb0-a4c4-81331db1e26a",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "276add05-10db-5492-848d-ad46a4bc5302",
+        "parent_legal_unit_id": "e42e0e51-999b-4cb0-a4c4-81331db1e26a",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Ovaj sporazum smatra se zaključenim kada ga potpišu predstavnici ugovornih strana, a stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Gradski odbor sindikata zaposlenih u komunalno stambenoj delatnosti Srbije – za grad Požarevac Predsednik Boban Martinović, s.r. Gradonačelnik grada Požarevca, Bane Spasović, s.r.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "e42e0e51-999b-4cb0-a4c4-81331db1e26a",
+        "title": "Član 2"
+      }
+    ],
+    "statistics": {
+      "total_units": 2,
+      "total_articles": 2,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0009984970092773438,
+      "total_elements": 0
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [
+          {
+            "condition_text": "ga potpišu predstavnici ugovornih strana",
+            "condition_type": "when",
+            "context": "kada ga potpišu predstavnici ugovornih strana,",
+            "line_number": 17
+          }
+        ],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.00099945068359375,
+      "total_elements": 1
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa\nna snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa\nna snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": null,
+        "legal_basis": [
+          "26"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": null,
+      "detected_patterns": [],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0009996891021728516,
+      "total_elements": 0
+    }
+  }
+}

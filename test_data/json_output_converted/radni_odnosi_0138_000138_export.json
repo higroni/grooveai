@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "document_id": "radni_odnosi_0138_000138.pdf",
+    "document_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+    "title": "Vlada donosi UREDBU o kriterijumima i merilima za utvrđivanje konkurentnosti u javnom sektoru",
+    "document_type": "other",
+    "effective_date": null,
+    "total_chars": 0,
+    "total_words": 0,
+    "processed_at": "2026-06-08T23:55:28.789631",
+    "processing_time_seconds": null
+  },
+  "legal_units": [
+    {
+      "legal_unit_id": "",
+      "document_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+      "parent_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+      "unit_type": "article",
+      "hierarchy_level": 0,
+      "hierarchy_path": "article:1",
+      "title": "Član 1",
+      "content": "",
+      "content_latinized": "",
+      "char_count": 0,
+      "word_count": 0,
+      "entities": [],
+      "assertions": [],
+      "normative_assertions": [],
+      "conditions": []
+    },
+    {
+      "legal_unit_id": "",
+      "document_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+      "parent_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+      "unit_type": "article",
+      "hierarchy_level": 0,
+      "hierarchy_path": "article:2",
+      "title": "Član 2",
+      "content": "",
+      "content_latinized": "",
+      "char_count": 0,
+      "word_count": 0,
+      "entities": [],
+      "assertions": [],
+      "normative_assertions": [],
+      "conditions": []
+    },
+    {
+      "legal_unit_id": "",
+      "document_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+      "parent_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+      "unit_type": "article",
+      "hierarchy_level": 0,
+      "hierarchy_path": "article:3",
+      "title": "Član 3",
+      "content": "",
+      "content_latinized": "",
+      "char_count": 0,
+      "word_count": 0,
+      "entities": [],
+      "assertions": [],
+      "normative_assertions": [],
+      "conditions": []
+    },
+    {
+      "legal_unit_id": "",
+      "document_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+      "parent_legal_unit_id": "741efc32-d59f-432d-a7ad-66e13a1144cb",
+      "unit_type": "article",
+      "hierarchy_level": 0,
+      "hierarchy_path": "article:4",
+      "title": "Član 4",
+      "content": "",
+      "content_latinized": "",
+      "char_count": 0,
+      "word_count": 0,
+      "entities": [],
+      "assertions": [],
+      "normative_assertions": [],
+      "conditions": []
+    }
+  ]
+}

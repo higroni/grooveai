@@ -144,4 +144,30 @@ class TextNormalizerService:
         
         return text
 
+
+# Create singleton instance
+_service = TextNormalizerService()
+
+
+# Wrapper function for easy import
+def normalize_text(
+    text: str,
+    remove_extra_whitespace: bool = True,
+    normalize_newlines: bool = True,
+    fix_encoding: bool = True
+) -> Dict[str, Any]:
+    """
+    Wrapper function to normalize text using the singleton service.
+    
+    Args:
+        text: Input text to normalize
+        remove_extra_whitespace: Remove extra spaces and tabs
+        normalize_newlines: Normalize newlines to single \n
+        fix_encoding: Fix common encoding issues
+        
+    Returns:
+        Dictionary with normalized_text and metadata
+    """
+    return _service.normalize(text, remove_extra_whitespace, normalize_newlines, fix_encoding)
+
 # Made with Bob

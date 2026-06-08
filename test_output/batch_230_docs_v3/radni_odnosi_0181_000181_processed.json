@@ -1,0 +1,203 @@
+{
+  "document_id": "radni_odnosi_0181_000181.pdf",
+  "document_legal_unit_id": "4d742caf-a55c-4abc-a673-4f225e25c54b",
+  "document_metadata": {
+    "import_run_id": "e7817f2f-ded7-4a2b-8118-9eb6521a1227",
+    "path": "test_data\\documents2\\radni_odnosi_0181_000181.pdf",
+    "title": "autentično tumačenje",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 2,
+    "processed_at": "2026-06-09T00:02:32.610837"
+  },
+  "document_title": "autentično tumačenje",
+  "full_text": "Na osnovu člana 4. stav 2. Zakona o državnim službenicima („Službeni glasnik RS”, br.\n79/05, 81/05 – ispravka, 83/05 – ispravka, 64/07, 67/07 – ispravka, 116/08, 104/09, 99/14,\n94/17, 95/18, 157/20, 142/22, 13/25 – US i 19/25), u vezi sa članom 263. stav 2. Zakona o radu\n(„Službeni glasnik RS”, br. 24/05, 61/05, 54/09, 32/13, 75/14, 13/17 – US, 113/17 i 95/18 –\nautentično tumačenje),\nVlada i reprezentativni sindikati Ministarstva unutrašnjih poslova – Nezavisni sindikat\npolicije, Sindikat srpske policije i Policijski sindikat Srbije, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za policijske službenike\n\"Službeni glasnik RS\", broj 120 od 30. decembra 2025.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za policijske službenike („Službeni glasnik RS”, br.\n62/19, 62/20 – Aneks I i 81/21 – Aneks II), produžava se do 30. juna 2026. godine.\nČlan 2.\nOvaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n01 broj 011-363/25-46\nU Beogradu, 29. decembra 2025. godine\nZa Vladu\nPotpredsednik Vlade i ministar unutrašnjih poslova,\nIvica Dačić, s.r.\nZa Nezavisni sindikat policije\nGoran Lazić, s.r.\nZa Sindikat srpske policije,\nLazar Ranitović, s.r.\nZa Policijski sindikat Srbije,\nVeljko Mijailović, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "0f8ba281-5497-47ae-a30b-6d6e48c298e7",
+      "entity_type": "DATE",
+      "text": "30. juna 2026",
+      "start_char": 852,
+      "end_char": 865,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "e1057b20-cbdc-4401-87a1-f55a1da85f34",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 4",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "0d7b15fb-3bd4-4ee2-b385-f32e3657925c",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 263",
+      "start_char": 238,
+      "end_char": 248,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "b2b883e3-0f55-462c-8066-d15d55130ca8",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 694,
+      "end_char": 700,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "28516320-0526-414d-adfd-161b25270ec6",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 875,
+      "end_char": 881,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:02:32.610837",
+  "export_timestamp": "2026-06-09T00:02:32.610837",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "c2bbe26d-0563-5243-b2c5-c0e96e1609ec",
+        "parent_legal_unit_id": "4d742caf-a55c-4abc-a673-4f225e25c54b",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Važenje Posebnog kolektivnog ugovora za policijske službenike („Službeni glasnik RS”, br. 62/19, 62/20 – Aneks I i 81/21 – Aneks II), produžava se do 30. juna 2026. godine.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "4d742caf-a55c-4abc-a673-4f225e25c54b",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "2f01c6a3-bd13-585d-904c-3cd8aed48c21",
+        "parent_legal_unit_id": "4d742caf-a55c-4abc-a673-4f225e25c54b",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Ovaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. 01 broj 011-363/25-46 U Beogradu, 29. decembra 2025. godine Za Vladu Potpredsednik Vlade i ministar unutrašnjih poslova, Ivica Dačić, s.r. Za Nezavisni sindikat policije Goran Lazić, s.r. Za Sindikat srpske policije, Lazar Ranitović, s.r. Za Policijski sindikat Srbije, Veljko Mijailović, s.r.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "4d742caf-a55c-4abc-a673-4f225e25c54b",
+        "title": "Član 2"
+      }
+    ],
+    "statistics": {
+      "total_units": 2,
+      "total_articles": 2,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "ministar",
+            "role": null,
+            "responsibilities": [
+              "ministar unutrašnjih poslova,"
+            ],
+            "context": "ministar unutrašnjih poslova,",
+            "line_number": 20
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 1
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": null,
+        "legal_basis": [],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": null,
+      "detected_patterns": [],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 0
+    }
+  }
+}

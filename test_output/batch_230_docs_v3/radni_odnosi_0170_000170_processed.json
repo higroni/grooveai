@@ -1,0 +1,238 @@
+{
+  "document_id": "radni_odnosi_0170_000170.pdf",
+  "document_legal_unit_id": "e8fcc314-99c1-4ef3-8c3e-64f0a71739b7",
+  "document_metadata": {
+    "import_run_id": "784a051c-c0aa-411f-b709-e95a9fb8aed9",
+    "path": "test_data\\documents2\\radni_odnosi_0170_000170.pdf",
+    "title": "SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj delatnosti na terito",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 3,
+    "processed_at": "2026-06-09T00:02:14.472801"
+  },
+  "document_title": "SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj delatnosti na terito",
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 ‒ US, 113/17 i 95/18 ‒ autentično tumačenje),\nReprezentativni sindikati Sindikat zaposlenih u komunalno-stambenoj delatnosti Srbije,\nGranski sindikat javnih saobraćajnih i komunalnih delatnosti „Nezavisnost” i Vlada\nRepublike Srbije, 15. decembra 2023. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj\ndelatnosti na teritoriji Republike Srbije\n\"Službeni glasnik RS\", broj 1 od 5. januara 2024. godine\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj delatnosti na\nteritoriji Republike Srbije („Službeni glasnik RS”, broj 30/21), produžava se do 25. marta\n2027. godine.\nČlan 2.\nOvaj sporazum sačinjen je u 6 (šest) istovetnih primeraka, od kojih svaki od učesnika\nzadržava po 2 (dva) primerka i smatra se zaključenim kada ga potpišu ovlašćeni\npredstavnici učesnika.\nČlan 3.\nOvaj sporazum stupa na snagu osmog dana od objavljivanja u „Službenom glasniku Republike\nSrbije”.\nZa Vladu,\nMinistar građevinarstva, saobraćaja i infrastrukture,\nGoran Vesić, s.r.\nZa Sindikat zaposlenih u komunalno-stambenoj delatnosti Srbije,\nPredsednik,\nAleksandar Radojević, s.r.\nZa Granski sindikat javnih saobraćajnih i komunalnih delatnosti „Nezavisnost”,\nPredsednik,\nMilan Simić, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "da0a0c85-ae61-4db5-9a85-d6e6a5999c02",
+      "entity_type": "DATE",
+      "text": "5. januara 2024",
+      "start_char": 555,
+      "end_char": 570,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "3e1f8ba1-4b8b-49bd-9840-34562a41a6c1",
+      "entity_type": "DATE",
+      "text": "25. marta\n2027",
+      "start_char": 751,
+      "end_char": 765,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "9a129c53-87d0-4b46-8ff5-f4cce76352d7",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "c26bc9c2-687c-48d4-bb0d-1d5fb5bc20fb",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 579,
+      "end_char": 585,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "bf60c748-baa8-4c1e-b6b1-5a0cd7a0b5aa",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 775,
+      "end_char": 781,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "4cb55804-2ba1-4c57-bf30-7caf299ac973",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 971,
+      "end_char": 977,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:02:14.472801",
+  "export_timestamp": "2026-06-09T00:02:14.472801",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "95b00d77-3fdd-5356-9143-375cc3ead438",
+        "parent_legal_unit_id": "e8fcc314-99c1-4ef3-8c3e-64f0a71739b7",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Važenje Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj delatnosti na teritoriji Republike Srbije („Službeni glasnik RS”, broj 30/21), produžava se do 25. marta",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "e8fcc314-99c1-4ef3-8c3e-64f0a71739b7",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "cdec81cf-ed12-5576-ab97-e58a0b46b0a0",
+        "parent_legal_unit_id": "e8fcc314-99c1-4ef3-8c3e-64f0a71739b7",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": "godine.",
+        "content_text": "Ovaj sporazum sačinjen je u 6 (šest) istovetnih primeraka, od kojih svaki od učesnika zadržava po 2 (dva) primerka i smatra se zaključenim kada ga potpišu ovlašćeni predstavnici učesnika.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "e8fcc314-99c1-4ef3-8c3e-64f0a71739b7",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "3ed01901-c70c-5467-a678-7eaef55a2764",
+        "parent_legal_unit_id": "e8fcc314-99c1-4ef3-8c3e-64f0a71739b7",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Ovaj sporazum stupa na snagu osmog dana od objavljivanja u „Službenom glasniku Republike Srbije”. Za Vladu, Ministar građevinarstva, saobraćaja i infrastrukture, Goran Vesić, s.r. Za Sindikat zaposlenih u komunalno-stambenoj delatnosti Srbije, Predsednik, Aleksandar Radojević, s.r. Za Granski sindikat javnih saobraćajnih i komunalnih delatnosti „Nezavisnost”, Predsednik, Milan Simić, s.r.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "e8fcc314-99c1-4ef3-8c3e-64f0a71739b7",
+        "title": "Član 3"
+      }
+    ],
+    "statistics": {
+      "total_units": 3,
+      "total_articles": 3,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "zaposleni",
+            "role": null,
+            "responsibilities": [
+              "zaposlenih u komunalno-stambenoj delatnosti Srbije,"
+            ],
+            "context": "zaposlenih u komunalno-stambenoj delatnosti Srbije,",
+            "line_number": 3
+          },
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministar građevinarstva,"
+            ],
+            "context": "Ministar građevinarstva,",
+            "line_number": 22
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0010018348693847656,
+      "total_elements": 2
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od objavljivanja u „Službenom glasniku Republike\nSrbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od objavljivanja u „Službenom glasniku Republike\nSrbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": "Vlada Republike Srbije",
+        "legal_basis": [
+          "26"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": "SPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj",
+      "detected_patterns": [],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.001001596450805664,
+      "total_elements": 0
+    }
+  }
+}

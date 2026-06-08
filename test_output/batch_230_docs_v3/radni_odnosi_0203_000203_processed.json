@@ -1,0 +1,226 @@
+{
+  "document_id": "radni_odnosi_0203_000203.pdf",
+  "document_legal_unit_id": "755f7dd4-b9c4-426e-9894-4dd8d3c59942",
+  "document_metadata": {
+    "import_run_id": "819c132a-f28f-43bc-a303-223f8fe8c542",
+    "path": "test_data\\documents2\\radni_odnosi_0203_000203.pdf",
+    "title": "SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za zaposlene u osnovnim",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 2,
+    "processed_at": "2026-06-09T00:03:02.295159"
+  },
+  "document_title": "SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za zaposlene u osnovnim",
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US i 113/17),\nReprezentativni sindikati u oblasti prosvete na nivou Republike Srbije: Sindikat\nobrazovanja Srbije, Granski sindikat prosvetnih radnika Srbije „Nezavisnost”, Unija\nsindikata prosvetnih radnika Srbije i Sindikat radnika u prosveti Srbije i Vlada, 1.\nfebruara 2019. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za zaposlene u osnovnim i srednjim\nškolama i domovima učenika\n\"Službeni glasnik RS\", broj 8 od 8. februara 2019.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za zaposlene u osnovnim i srednjim školama i\ndomovima učenika („Službeni glasnik RS”, br. 21/15 i 16/18) produžava se do 5. marta 2022.\ngodine.\nČlan 2.\nOvaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nZa Vladu\nMinistar prosvete,\nnauke i tehnološkog razvoja,\nMladen Šarčević, s.r.\nZa Sindikat obrazovanja Srbije,\nValentina Ilić, s.r.\nZa Granski sindikat prosvetnih radnika Srbije\n„Nezavisnost”\nTomislav Živanović, s.r.\nZa Uniju sindikata prosvetnih radnika Srbije,\nJasna Janković, s.r.\nZa Sindikat radnika u prosveti Srbije,\nSlobodan Brajković, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "0f2e2b1c-97e1-4170-af8b-7d07066b3bd0",
+      "entity_type": "DATE",
+      "text": "1.\nfebruara 2019",
+      "start_char": 375,
+      "end_char": 391,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "559acc2f-732a-458b-bcf0-2d8e53619b2c",
+      "entity_type": "DATE",
+      "text": "8. februara 2019",
+      "start_char": 571,
+      "end_char": 587,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "28dca870-cc22-462f-8eb7-9321495312f0",
+      "entity_type": "DATE",
+      "text": "5. marta 2022",
+      "start_char": 755,
+      "end_char": 768,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "faf1e991-0229-4b06-b503-ec0616a1693f",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "568be531-ad4e-4324-853c-29dfb20edcc5",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 589,
+      "end_char": 595,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "d5d0ca6d-1b8b-43f8-a696-786245089a24",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 778,
+      "end_char": 784,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:03:02.295159",
+  "export_timestamp": "2026-06-09T00:03:02.295159",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "d4e37f51-a2af-5240-9c9f-2b4d8de57965",
+        "parent_legal_unit_id": "755f7dd4-b9c4-426e-9894-4dd8d3c59942",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Važenje Posebnog kolektivnog ugovora za zaposlene u osnovnim i srednjim školama i domovima učenika („Službeni glasnik RS”, br. 21/15 i 16/18) produžava se do 5. marta 2022. godine.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "755f7dd4-b9c4-426e-9894-4dd8d3c59942",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "3cf95c3a-b471-50e4-9b40-55f8133dfc01",
+        "parent_legal_unit_id": "755f7dd4-b9c4-426e-9894-4dd8d3c59942",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Ovaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Za Vladu Ministar prosvete, nauke i tehnološkog razvoja, Mladen Šarčević, s.r. Za Sindikat obrazovanja Srbije, Valentina Ilić, s.r. Za Granski sindikat prosvetnih radnika Srbije „Nezavisnost” Tomislav Živanović, s.r. Za Uniju sindikata prosvetnih radnika Srbije, Jasna Janković, s.r. Za Sindikat radnika u prosveti Srbije, Slobodan Brajković, s.r.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "755f7dd4-b9c4-426e-9894-4dd8d3c59942",
+        "title": "Član 2"
+      }
+    ],
+    "statistics": {
+      "total_units": 2,
+      "total_articles": 2,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "radnik",
+            "role": null,
+            "responsibilities": [
+              "radnika Srbije „Nezavisnost”,",
+              "radnika Srbije i Sindikat radnika u prosveti Srbije i Vlada,",
+              "radnika Srbije,",
+              "radnika u prosveti Srbije,"
+            ],
+            "context": "radnika Srbije „Nezavisnost”,",
+            "line_number": 4
+          },
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministar prosvete,"
+            ],
+            "context": "Ministar prosvete,",
+            "line_number": 19
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0010001659393310547,
+      "total_elements": 2
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": null,
+        "legal_basis": [
+          "26"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": "SPORAZUM",
+      "detected_patterns": [],
+      "processing_time": 0.0010001659393310547
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0005044937133789062,
+      "total_elements": 0
+    }
+  }
+}

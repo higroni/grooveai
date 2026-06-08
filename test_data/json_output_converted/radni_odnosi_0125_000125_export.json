@@ -1,0 +1,83 @@
+{
+  "document_metadata": {
+    "document_id": "radni_odnosi_0125_000125.pdf",
+    "document_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+    "title": "ZAKON o prestanku važenja Zakona o sredstvima solidarnosti za zaposlene koji su privremeno ostali bez posla usled ratnih dejstava",
+    "document_type": "law",
+    "effective_date": null,
+    "total_chars": 0,
+    "total_words": 0,
+    "processed_at": "2026-06-08T23:55:03.410961",
+    "processing_time_seconds": null
+  },
+  "legal_units": [
+    {
+      "legal_unit_id": "",
+      "document_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+      "parent_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+      "unit_type": "article",
+      "hierarchy_level": 0,
+      "hierarchy_path": "article:1",
+      "title": "Član 1",
+      "content": "",
+      "content_latinized": "",
+      "char_count": 0,
+      "word_count": 0,
+      "entities": [],
+      "assertions": [],
+      "normative_assertions": [],
+      "conditions": []
+    },
+    {
+      "legal_unit_id": "",
+      "document_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+      "parent_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+      "unit_type": "article",
+      "hierarchy_level": 0,
+      "hierarchy_path": "article:2",
+      "title": "Član 2",
+      "content": "",
+      "content_latinized": "",
+      "char_count": 0,
+      "word_count": 0,
+      "entities": [],
+      "assertions": [],
+      "normative_assertions": [],
+      "conditions": []
+    },
+    {
+      "legal_unit_id": "",
+      "document_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+      "parent_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+      "unit_type": "article",
+      "hierarchy_level": 0,
+      "hierarchy_path": "article:3",
+      "title": "Član 3",
+      "content": "",
+      "content_latinized": "",
+      "char_count": 0,
+      "word_count": 0,
+      "entities": [],
+      "assertions": [],
+      "normative_assertions": [],
+      "conditions": []
+    },
+    {
+      "legal_unit_id": "",
+      "document_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+      "parent_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+      "unit_type": "article",
+      "hierarchy_level": 0,
+      "hierarchy_path": "article:4",
+      "title": "Član 4",
+      "content": "",
+      "content_latinized": "",
+      "char_count": 0,
+      "word_count": 0,
+      "entities": [],
+      "assertions": [],
+      "normative_assertions": [],
+      "conditions": []
+    }
+  ]
+}

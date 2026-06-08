@@ -1,0 +1,247 @@
+{
+  "document_id": "radni_odnosi_0195_000195.pdf",
+  "document_legal_unit_id": "0736fc68-4bb3-4437-aaaf-0753906c1789",
+  "document_metadata": {
+    "import_run_id": "792dedaf-e27b-4ce8-a86a-3f9d519ffa1c",
+    "path": "test_data\\documents2\\radni_odnosi_0195_000195.pdf",
+    "title": "SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za socijalnu zaštitu u Republici Srbiji",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 3,
+    "processed_at": "2026-06-09T00:02:51.884935"
+  },
+  "document_title": "SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za socijalnu zaštitu u Republici Srbiji",
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 ‒ odluka US, 113/17 i 95/18 ‒ autentično tumačenje),\nReprezentativni sindikati: Sindikat zaposlenih u zdravstvu i socijalnoj zaštiti Srbije i\nSindikat zaposlenih u socijalnoj zaštiti Republike Srbije i Vlada Republike Srbije, 6.\naprila 2023. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za socijalnu zaštitu u Republici\nSrbiji\n\"Službeni glasnik RS\", broj 28 od 12. aprila 2023.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za socijalnu zaštitu u Republici Srbiji („Službeni\nglasnik RS”, br. 29/19, 60/20 i 48/22 ‒ dr. propis), produžava se do 19. aprila 2024. godine.\nČlan 2.\nOvaj sporazum sačinjen je u 6 (šest) istovetnih primeraka, od kojih svaki od učesnika\nzadržava po 2 (dva) primerka i smatra se zaključenim kada ga potpišu ovlašćeni\npredstavnici učesnika.\nČlan 3.\nOvaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nZa Vladu\nMinistar za rad, zapošljavanje,\nboračka i socijalna pitanja,\nNikola Selaković, s.r.\nZa Sindikat zaposlenih u zdravstvu\ni socijalnoj zaštiti Srbije,\ndr Zoran Savić, s.r.\nZa Sindikat zaposlenih u socijalnoj\nzaštiti Republike Srbije,\nMirjana Veljović, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "3ef356a4-8ce1-4078-ba38-e669c7c13002",
+      "entity_type": "DATE",
+      "text": "6.\naprila 2023",
+      "start_char": 338,
+      "end_char": 352,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "4d26bdb8-d097-4544-a84e-ed14011a7a4b",
+      "entity_type": "DATE",
+      "text": "12. aprila 2023",
+      "start_char": 511,
+      "end_char": 526,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "037142d5-5826-4215-a443-68c70fd98b0c",
+      "entity_type": "DATE",
+      "text": "19. aprila 2024",
+      "start_char": 693,
+      "end_char": 708,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "fbce2623-7549-4a66-9b75-f6abc29798bb",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "3887b732-cda0-44d5-9af5-223f434f8dab",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 528,
+      "end_char": 534,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "d3a6730d-5f4f-48f5-be8d-d81d7cf7e606",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 718,
+      "end_char": 724,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "ff53c622-838d-4c6c-ab38-7cb60f5a2bd7",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 914,
+      "end_char": 920,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:02:51.884935",
+  "export_timestamp": "2026-06-09T00:02:51.884935",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "a86c0bf7-0fdb-5996-a231-35fb96f6efe5",
+        "parent_legal_unit_id": "0736fc68-4bb3-4437-aaaf-0753906c1789",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Važenje Posebnog kolektivnog ugovora za socijalnu zaštitu u Republici Srbiji („Službeni glasnik RS”, br. 29/19, 60/20 i 48/22 ‒ dr. propis), produžava se do 19. aprila 2024. godine.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "0736fc68-4bb3-4437-aaaf-0753906c1789",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "dafe9882-e9ce-5772-b0eb-87ebc4f79c3e",
+        "parent_legal_unit_id": "0736fc68-4bb3-4437-aaaf-0753906c1789",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Ovaj sporazum sačinjen je u 6 (šest) istovetnih primeraka, od kojih svaki od učesnika zadržava po 2 (dva) primerka i smatra se zaključenim kada ga potpišu ovlašćeni predstavnici učesnika.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "0736fc68-4bb3-4437-aaaf-0753906c1789",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "411ca25a-0dd6-55f8-a3e2-fb19a470b220",
+        "parent_legal_unit_id": "0736fc68-4bb3-4437-aaaf-0753906c1789",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Ovaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Za Vladu Ministar za rad, zapošljavanje, boračka i socijalna pitanja, Nikola Selaković, s.r. Za Sindikat zaposlenih u zdravstvu i socijalnoj zaštiti Srbije, dr Zoran Savić, s.r. Za Sindikat zaposlenih u socijalnoj zaštiti Republike Srbije, Mirjana Veljović, s.r.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "0736fc68-4bb3-4437-aaaf-0753906c1789",
+        "title": "Član 3"
+      }
+    ],
+    "statistics": {
+      "total_units": 3,
+      "total_articles": 3,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "zaposleni",
+            "role": null,
+            "responsibilities": [
+              "zaposlenih u socijalnoj zaštiti Republike Srbije i Vlada Republike Srbije,"
+            ],
+            "context": "zaposlenih u socijalnoj zaštiti Republike Srbije i Vlada Republike Srbije,",
+            "line_number": 4
+          },
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministar za rad,"
+            ],
+            "context": "Ministar za rad,",
+            "line_number": 21
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 2
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0010004043579101562,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": "Vlada Republike Srbije",
+        "legal_basis": [
+          "26"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": "SPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za socijalnu zaštitu u Republici\nSrbiji",
+      "detected_patterns": [],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0010006427764892578,
+      "total_elements": 0
+    }
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "document_id": "radni_odnosi_0215_000215.pdf",
+  "document_legal_unit_id": "cbc46be1-2d51-4ac5-9bd8-a59f375ccbc3",
+  "document_metadata": {
+    "import_run_id": "d36304b5-ed8c-4f7b-a34b-cd0b54675328",
+    "path": "test_data\\documents2\\radni_odnosi_0215_000215.pdf",
+    "title": "SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za javna i javno komunalna preduzeća grada Subotice",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 3,
+    "processed_at": "2026-06-09T00:06:26.203520"
+  },
+  "document_title": "SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za javna i javno komunalna preduzeća grada Subotice",
+  "full_text": "Na osnovu člana 246. stav 1. i člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br.\n24/05, 61/05, 54/09, 32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje),\nGrad Subotica i Savez samostalnih sindikata grada Subotice – Sindikat zaposlenih u\nkomunalno-stambenoj delatnosti grada Subotice 25. novembra 2024. godine, zaključili su\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za javna i javno komunalna preduzeća\ngrada Subotice\n\"Službeni glasnik RS\", broj 97 od 6. decembra 2024.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za javna i javno komunalna preduzeća grada Subotice\n(„Službeni glasnik RS”, broj 127/21) produžava se do 31. decembra 2027. godine.\nČlan 2.\nOvaj sporazum sačinjen je u 6 (šest) istovetnih primeraka od kojih grad Subotica zadržava 4\n(četiri) primerka, a Sindikat zaposlenih u komunalno-stambenoj delatnosti grada Subotice 2\n(dva) primerka i smatra se zaključenim kada ga potpišu ovlašćeni predstavnici učesnika\nkolektivnog ugovora.\nČlan 3.\nOvaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nZa sindikat\nPredsednik Sindikata zaposlenih\nu komunalno-stambenoj delatnosti grada Subotice,\nDolora Stojanović, s.r.\nZa osnivača\nGradonačelnik grada Subotice,\nStevan Bakić, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "d1f36615-6dcc-4fe0-b309-eec2e047d6c6",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 246",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "30f3aa58-b249-4507-b50c-d6cf39fec3c2",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 31,
+      "end_char": 40,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "f4cc371d-8850-40ae-91ed-f83bf031f8a6",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 517,
+      "end_char": 523,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "14dd1a60-e986-4f84-9c1d-ba5c5cee7aef",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 694,
+      "end_char": 700,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "0e43236f-48f0-447b-b487-321bf5b10d83",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 993,
+      "end_char": 999,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "740ae48f-9389-4bd7-bcd8-617266600b55",
+      "entity_type": "LOCATION",
+      "text": "Subotica",
+      "start_char": 184,
+      "end_char": 192,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "622b2187-175f-46f5-84eb-97fa0d616b95",
+      "entity_type": "LOCATION",
+      "text": "Subotica",
+      "start_char": 774,
+      "end_char": 782,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "1ed85855-db72-442d-b3ea-4fa004d3cc77",
+      "entity_type": "LOCATION",
+      "text": "Grad Subotica",
+      "start_char": 179,
+      "end_char": 192,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "aae932c8-8a87-4f3e-8079-d14981344025",
+      "entity_type": "LOCATION",
+      "text": "grada Subotice",
+      "start_char": 223,
+      "end_char": 237,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "25efc619-e94e-4264-a483-0fae037fdbe4",
+      "entity_type": "LOCATION",
+      "text": "grada Subotice",
+      "start_char": 293,
+      "end_char": 307,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "191e00c6-afff-446e-8804-cf99c2a2be8e",
+      "entity_type": "LOCATION",
+      "text": "grada Subotice",
+      "start_char": 450,
+      "end_char": 464,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "3e2cf4c2-472a-42b0-ac69-6ef81bad3c77",
+      "entity_type": "LOCATION",
+      "text": "grada Subotice",
+      "start_char": 599,
+      "end_char": 613,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "d71d4cff-edbe-4ee3-ad19-bd55e975575f",
+      "entity_type": "LOCATION",
+      "text": "grad Subotica",
+      "start_char": 769,
+      "end_char": 782,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "f26b6b9e-0fbb-478e-a8dc-ab62762e7d30",
+      "entity_type": "LOCATION",
+      "text": "grada Subotice",
+      "start_char": 868,
+      "end_char": 882,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "eb729548-ee5d-4541-a391-0df7e059342e",
+      "entity_type": "LOCATION",
+      "text": "grada Subotice",
+      "start_char": 1181,
+      "end_char": 1195,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "275979d4-938e-47a2-be9a-74f2ec7cd04c",
+      "entity_type": "LOCATION",
+      "text": "grada Subotice",
+      "start_char": 1247,
+      "end_char": 1261,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:06:26.203520",
+  "export_timestamp": "2026-06-09T00:06:26.203520",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "f73cf072-6505-5b57-800c-3e0e9092fe56",
+        "parent_legal_unit_id": "cbc46be1-2d51-4ac5-9bd8-a59f375ccbc3",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Važenje Posebnog kolektivnog ugovora za javna i javno komunalna preduzeća grada Subotice („Službeni glasnik RS”, broj 127/21) produžava se do 31. decembra 2027. godine.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "cbc46be1-2d51-4ac5-9bd8-a59f375ccbc3",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "45f95ba3-238b-5566-a1ee-d1f299bb5378",
+        "parent_legal_unit_id": "cbc46be1-2d51-4ac5-9bd8-a59f375ccbc3",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Ovaj sporazum sačinjen je u 6 (šest) istovetnih primeraka od kojih grad Subotica zadržava 4 (četiri) primerka, a Sindikat zaposlenih u komunalno-stambenoj delatnosti grada Subotice 2 (dva) primerka i smatra se zaključenim kada ga potpišu ovlašćeni predstavnici učesnika kolektivnog ugovora.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "cbc46be1-2d51-4ac5-9bd8-a59f375ccbc3",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "0cf0b5a3-a4c7-5932-a5b4-754d4aace302",
+        "parent_legal_unit_id": "cbc46be1-2d51-4ac5-9bd8-a59f375ccbc3",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Ovaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Za sindikat Predsednik Sindikata zaposlenih u komunalno-stambenoj delatnosti grada Subotice, Dolora Stojanović, s.r. Za osnivača Gradonačelnik grada Subotice, Stevan Bakić, s.r.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "cbc46be1-2d51-4ac5-9bd8-a59f375ccbc3",
+        "title": "Član 3"
+      }
+    ],
+    "statistics": {
+      "total_units": 3,
+      "total_articles": 3,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0009996891021728516,
+      "total_elements": 0
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": null,
+        "legal_basis": [
+          "24"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": "SPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za javna i javno komunalna preduzeća\ngrada Subotice",
+      "detected_patterns": [],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.001108407974243164,
+      "total_elements": 0
+    }
+  }
+}

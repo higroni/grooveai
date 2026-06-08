@@ -4,7 +4,7 @@ Types: obligation, prohibition, permission, deadline, definition
 """
 
 import re
-from typing import Dict, List, Tuple
+from typing import Dict, List, Tuple, Any
 from modules.assertion_classifier.models import (
     Assertion,
     ClassificationResult,
@@ -225,5 +225,42 @@ class AssertionClassifierService:
                     "patterns": [name for _, name, _ in patterns]
                 }
         return stats
+
+
+# Create singleton instance
+_service = AssertionClassifierService()
+
+
+# Wrapper function for easy import
+def classify_assertions(assertions: List[Dict[str, Any]], language: str = "sr") -> Dict[str, Any]:
+    """
+    Wrapper function to classify assertions using the singleton service.
+    
+    Args:
+        assertions: List of assertion dictionaries
+        language: Language code (sr or en)
+        
+    Returns:
+        Dictionary with classified assertions
+    """
+    classified = []
+    
+    # Process each assertion
+    for assertion_dict in assertions:
+        # Convert dict to Assertion object
+        assertion_obj = Assertion(**assertion_dict)
+        
+        # Classify assertion
+        result = _service.classify_assertion(assertion_obj, language)
+        
+        # Add classification to assertion dict
+        classified_assertion = assertion_dict.copy()
+        classified_assertion['classification'] = result.classification.dict() if result.classification else None
+        classified.append(classified_assertion)
+    
+    return {
+        'classified_assertions': classified,
+        'total_classified': len(classified)
+    }
 
 # Made with Bob

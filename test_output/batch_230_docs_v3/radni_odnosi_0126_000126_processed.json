@@ -1,0 +1,323 @@
+{
+  "document_id": "radni_odnosi_0126_000126.pdf",
+  "document_legal_unit_id": "15c8794e-b5c8-4f1f-b2db-9055eb44e08e",
+  "document_metadata": {
+    "import_run_id": "9d458dd9-260b-4398-833d-351089d3c5be",
+    "path": "test_data\\documents2\\radni_odnosi_0126_000126.pdf",
+    "title": "ZAKON o određivanju poslova i radnih zadataka za obavezno zapošljavanje slepih invalida rada i drugih slepih lica",
+    "document_type": "law",
+    "language_code": "sr",
+    "legal_units_count": 5,
+    "processed_at": "2026-06-08T23:55:04.367234"
+  },
+  "document_title": "ZAKON o određivanju poslova i radnih zadataka za obavezno zapošljavanje slepih invalida rada i drugih slepih lica",
+  "full_text": "ZAKON\no određivanju poslova i radnih zadataka za obavezno zapošljavanje slepih\ninvalida rada i drugih slepih lica\n„Službeni glasnik SRS”, br. 50 od 9. decembra 1978, 24 od 6. jula 1985 - dr. zakon, 6 od\n25. februara 1989 - dr. zakon, \"Službeni glasnik RS\", broj 67 od 30. avgusta 1993 - dr. zakon\n\n\nČlan 1.\nOsnovne organizacije udruženog rada i druge samoupravne organizacije i zajednice (u\ndaljem tekstu: organizacije), dužne su da za obavljanje poslova i radnih zadataka (u daljem\ntekstu: poslovi) telefonista kućnih telefonskih centrala, kapaciteta najmanje četiri\nlinije za poštansko-telefonsku mrežu, zapošljavaju slepe invalide rada i druga slepa lica\nkoja su osposobljena za obavljanje takvih poslova.\nObavezno zapošljavanje iz stava 1. ovog člana, odnosi se na slučajeve potrebe povećanja\nbroja radnika za obavljanje tih poslova, kao i na slučajeve prestanka rada radnika koji su\nobavljali te poslove.\n\nČlan 2.\nOrganizacije koje za obavljanje redovne delatnosti zapošljavaju nastavnike, odnosno\nprofesore, koji izvode predmetnu nastavu dužne su da, pod jednakim uslovima za prijem na\nrad, zaposle slepo lice koje za te poslove ispunjava uslove utvrđene zakonom i samoupravnim\nopštim aktom.\nOrganizacije koje u okviru redovne delatnosti za obavljanje medicinskih usluga\nzapošljavaju fizioterapeute na poslovima masaže i primene pasivnih vežbi dužne su da za\nte poslove zapošljavaju slepa lica koja imaju odgovarajuću stručnu spremu.\nOrganizacije koje u okviru redovne delatnosti obavljaju poslove na izradi predmeta od\nplastičnih masa, kartonske i papirne ambalaže, obrade metala i pakovanje dužne su da za te\nposlove zapošljavaju slepa lica koja imaju odgovarajuću stručnu spremu.\nOrganizacije iz stava 3. ovog člana samoupravnim opštim aktima utvrđuju poslove i\nzadatke na kojima se zapošljavaju slepa lica.\nZa poslove iz st. 2. i 4. ovog člana organizacije zapošljavaju slepa lica prema\npotrebama za radnicima, a najmanje jedno slepo lice na pet radnika koji obavljaju te poslove.\n\nČlan 3.Redakcijski prečišćen tekst\nOrganizacije su dužne da usklade svoje samoupravne opšte akte sa odredbama ovog\nzakona u roku od šest meseci od dana njegovog stupanja na snagu.\n\nČlan 4.\nNovčanom kaznom do 350.000.000* dinara kazniće se za prekršaj organizacija, ako ne\nzaposli slepog invalida rada ili drugo slepo lice u skladu sa odredbama ovog zakona.\nZa prekršaj iz stava 1. ovog člana kazniće se i odgovorni radnik u organizaciji\nnovčanom kaznom do 70.000.000* dinara.\n\n*Službeni glasnik RS, b roj 67/1993\n\nČlan 5.\nStupanjem na snagu ovog zakona prestaje da važi Zakon o određivanju radnih mesta za\nzapošljavanje slepih invalida rada i drugih slepih lica („Službeni glasnik SRS”, br. 10/70\ni 4/75).\n\nČlan 6.\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nSocijalističke Republike Srbije”.",
+  "document_entities": [
+    {
+      "entity_id": "b8c1f02c-a168-4be2-aa78-9e780c69528a",
+      "entity_type": "DATE",
+      "text": "6. jula 1985",
+      "start_char": 172,
+      "end_char": 184,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "e74fd19c-0724-4fe0-b2ee-7bc3ffe7183b",
+      "entity_type": "DATE",
+      "text": "25. februara 1989",
+      "start_char": 203,
+      "end_char": 220,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "a93b2986-91ec-4df6-ba5b-44b31c6a1d16",
+      "entity_type": "DATE",
+      "text": "30. avgusta 1993",
+      "start_char": 268,
+      "end_char": 284,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "f3b9f373-d0b6-4ae8-962c-9281ec1e38b0",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 299,
+      "end_char": 305,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "c98e342d-d8ed-498d-9e5c-8d8f2fb66528",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 911,
+      "end_char": 917,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "cd588df3-685c-4bf8-be55-a3beab5577da",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1992,
+      "end_char": 1998,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "36f58888-3e43-40b6-8b86-408660f98f85",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 2173,
+      "end_char": 2179,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "5af62c63-917c-4214-875c-6a937acc6a8e",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 2506,
+      "end_char": 2512,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "2a95d95d-8b4d-4f33-852d-117a79f08825",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 2699,
+      "end_char": 2705,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "95c05796-d6c3-40a3-bdfe-31e45f1a35f6",
+      "entity_type": "LEGAL_REF",
+      "text": "ZAKON\no određivanju poslova i radnih zadataka za obavezno zapošljavanje slepih\ninvalida rada i drugih slepih lica",
+      "start_char": 0,
+      "end_char": 113,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "1f93329e-db4e-4088-a741-7e6ce697e692",
+      "entity_type": "LEGAL_REF",
+      "text": "Zakon o određivanju radnih mesta za\nzapošljavanje slepih invalida rada i drugih slepih lica",
+      "start_char": 2562,
+      "end_char": 2653,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:55:04.367234",
+  "export_timestamp": "2026-06-08T23:55:04.367234",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "3b6e3bb6-d439-5917-b1a2-c73820302730",
+        "parent_legal_unit_id": "15c8794e-b5c8-4f1f-b2db-9055eb44e08e",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": "februara 1989 - dr. zakon, \"Službeni glasnik RS\", broj 67 od 30. avgusta 1993 - dr. zakon",
+        "content_text": "Osnovne organizacije udruženog rada i druge samoupravne organizacije i zajednice (u daljem tekstu: organizacije), dužne su da za obavljanje poslova i radnih zadataka (u daljem tekstu: poslovi) telefonista kućnih telefonskih centrala, kapaciteta najmanje četiri linije za poštansko-telefonsku mrežu, zapošljavaju slepe invalide rada i druga slepa lica koja su osposobljena za obavljanje takvih poslova. Obavezno zapošljavanje iz stava 1. ovog člana, odnosi se na slučajeve potrebe povećanja broja radnika za obavljanje tih poslova, kao i na slučajeve prestanka rada radnika koji su obavljali te poslove.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "15c8794e-b5c8-4f1f-b2db-9055eb44e08e",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "771e23dd-5d39-5d87-a058-75e681c588dc",
+        "parent_legal_unit_id": "15c8794e-b5c8-4f1f-b2db-9055eb44e08e",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Organizacije koje za obavljanje redovne delatnosti zapošljavaju nastavnike, odnosno profesore, koji izvode predmetnu nastavu dužne su da, pod jednakim uslovima za prijem na rad, zaposle slepo lice koje za te poslove ispunjava uslove utvrđene zakonom i samoupravnim opštim aktom. Organizacije koje u okviru redovne delatnosti za obavljanje medicinskih usluga zapošljavaju fizioterapeute na poslovima masaže i primene pasivnih vežbi dužne su da za te poslove zapošljavaju slepa lica koja imaju odgovarajuću stručnu spremu. Organizacije koje u okviru redovne delatnosti obavljaju poslove na izradi predmeta od plastičnih masa, kartonske i papirne ambalaže, obrade metala i pakovanje dužne su da za te poslove zapošljavaju slepa lica koja imaju odgovarajuću stručnu spremu. Organizacije iz stava 3. ovog člana samoupravnim opštim aktima utvrđuju poslove i zadatke na kojima se zapošljavaju slepa lica. Za poslove iz st. 2. i 4. ovog člana organizacije zapošljavaju slepa lica prema potrebama za radnicima, a najmanje jedno slepo lice na pet radnika koji obavljaju te poslove. Član 3.Redakcijski prečišćen tekst Organizacije su dužne da usklade svoje samoupravne opšte akte sa odredbama ovog zakona u roku od šest meseci od dana njegovog stupanja na snagu.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "15c8794e-b5c8-4f1f-b2db-9055eb44e08e",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "378db623-a86d-5d68-b8ae-387e799d3f62",
+        "parent_legal_unit_id": "15c8794e-b5c8-4f1f-b2db-9055eb44e08e",
+        "unit_type": "article",
+        "number": "4",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Novčanom kaznom do 350.000.000* dinara kazniće se za prekršaj organizacija, ako ne zaposli slepog invalida rada ili drugo slepo lice u skladu sa odredbama ovog zakona. Za prekršaj iz stava 1. ovog člana kazniće se i odgovorni radnik u organizaciji novčanom kaznom do 70.000.000* dinara. *Službeni glasnik RS, b roj 67/1993",
+        "path": "article:4",
+        "akoma_eid": "article_4",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "15c8794e-b5c8-4f1f-b2db-9055eb44e08e",
+        "title": "Član 4"
+      },
+      {
+        "legal_unit_id": "e1e894fd-1187-5f55-a54c-4681134e4281",
+        "parent_legal_unit_id": "15c8794e-b5c8-4f1f-b2db-9055eb44e08e",
+        "unit_type": "article",
+        "number": "5",
+        "ordinal": 4,
+        "heading": null,
+        "content_text": "Stupanjem na snagu ovog zakona prestaje da važi Zakon o određivanju radnih mesta za zapošljavanje slepih invalida rada i drugih slepih lica („Službeni glasnik SRS”, br. 10/70 i 4/75).",
+        "path": "article:5",
+        "akoma_eid": "article_5",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "15c8794e-b5c8-4f1f-b2db-9055eb44e08e",
+        "title": "Član 5"
+      },
+      {
+        "legal_unit_id": "7f67bc92-d1dc-586b-8b1a-bb1350da92dc",
+        "parent_legal_unit_id": "15c8794e-b5c8-4f1f-b2db-9055eb44e08e",
+        "unit_type": "article",
+        "number": "6",
+        "ordinal": 5,
+        "heading": null,
+        "content_text": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Socijalističke Republike Srbije”.",
+        "path": "article:6",
+        "akoma_eid": "article_6",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "15c8794e-b5c8-4f1f-b2db-9055eb44e08e",
+        "title": "Član 6"
+      }
+    ],
+    "statistics": {
+      "total_units": 5,
+      "total_articles": 5,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "radnik",
+            "role": null,
+            "responsibilities": [
+              "radnika za obavljanje tih poslova,",
+              "radnika koji obavljaju te poslove."
+            ],
+            "context": "radnika za obavljanje tih poslova,",
+            "line_number": 15
+          },
+          {
+            "name": "organ",
+            "role": null,
+            "responsibilities": [
+              "organizacije),",
+              "Organizacije koje za obavljanje redovne delatnosti zapošljavaju nastavnike,",
+              "Organizacije iz stava 3.",
+              "organizacija,"
+            ],
+            "context": "organizacije),",
+            "line_number": 10
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0010006427764892578,
+      "total_elements": 2
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nSocijalističke Republike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nSocijalističke Republike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "zakon",
+        "hierarchy_level": 2,
+        "issuing_authority": null,
+        "legal_basis": [
+          "odredbama ovog zakona"
+        ],
+        "official_gazette": "Službeni glasnik RS\"",
+        "can_override": [
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav"
+        ],
+        "confidence": 0.9
+      },
+      "title": "ZAKON\no određivanju poslova i radnih zadataka za obavezno zapošljavanje slepih\ninvalida rada i drugih slepih lica",
+      "detected_patterns": [
+        "ZAKON\\s+o\\s+[a-zšđčćž\\s]+",
+        "ZAKON\\s+o\\s+[a-zšđčćž\\s]+",
+        "Zakon\\s+o\\s+[a-zšđčćž\\s]+",
+        "Zakon\\s+o\\s+[a-zšđčćž\\s]+",
+        "ovaj\\s+zakon"
+      ],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0010523796081542969,
+      "total_elements": 0
+    }
+  }
+}

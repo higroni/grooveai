@@ -1,0 +1,426 @@
+{
+  "document_id": "radni_odnosi_0231_000231.pdf",
+  "document_legal_unit_id": "5e1be99e-6886-4577-bf3e-f0f4b1da4cf0",
+  "document_metadata": {
+    "import_run_id": "0a02c9c4-3323-4889-ae2f-cdb4f5e2e492",
+    "path": "test_data\\documents2\\radni_odnosi_0231_000231.pdf",
+    "title": "Ministar rada i socijalne politike donosi PRAVILNIK o sadržini i načinu vođenja evidencije o volontiranju i podnošenju izveštaja o volontiranju",
+    "document_type": "regulation",
+    "language_code": "sr",
+    "legal_units_count": 8,
+    "processed_at": "2026-06-09T00:06:49.385074"
+  },
+  "document_title": "Ministar rada i socijalne politike donosi PRAVILNIK o sadržini i načinu vođenja evidencije o volontiranju i podnošenju izveštaja o volontiranju",
+  "full_text": "Redakcijski prečišćen tekst\n\n\nNa osnovu člana 28. stav 5. i člana 30. stav 3. Zakona o volontiranju („Službeni glasnik RS”,\nbroj 36/10),\nMinistar rada i socijalne politike donosi\nPRAVILNIK\no sadržini i načinu vođenja evidencije o volontiranju i podnošenju izveštaja o\nvolontiranju\n\"Službeni glasnik RS\", br. 92 od 5. decembra 2010, 44 od 8. juna 2018 - dr. zakon\nČlan 1.\nOvim pravilnikom propisuju se sadržina i način vođenja evidencije o volontiranju, kao i\nsadržina i način podnošenja izveštaja o volontiranju.\nČlan 2.\nOrganizator volontiranja vodi evidenciju o volontiranju koja sadrži:\n1) podatke o kratkoročnom volontiranju, koji se odnose na:\n(1) opis programa volontiranja, odnosno volonterskih usluga i aktivnosti, oblast u kojoj se\nprogram volontiranja obavlja (npr. mediji i komunikacije, kultura, sport, zaštita životne\nsredine, socijalna zaštita, humanitarni rad i dr.) i mesto obavljanja volonterskih usluga i\naktivnosti (Republika Srbija – opština/grad, odnosno inostranstvo – država),\n(2) trajanje programa volontiranja, odnosno volonterskih usluga i aktivnosti (vremenski\nperiod u kom se volontiranje obavlja i ukupan broj sati volontiranja),\n(3) ukupan broj angažovanih volontera na programu volontiranja, odnosno volonterskim\nuslugama i aktivnostima;\n2) podatke o dugoročnom volontiranju, koji se, pored podataka iz tačke 1) ovog stava, odnose\nna:\n(1) podatke o volonteru (ime i prezime, datum rođenja, JMBG, mesto prebivališta, odnosno\nboravišta, državljanstvo, broj sati provedenih u obavljanju volontiranja odnosno\nvolonterskih usluga i aktivnosti i broj i datum ugovora o volontiranju),\n(2) korisniku volontiranja (za pravno lice – naziv i sedište, za fizičko lice – naznaka da\nse radi o fizičkom licu), kao i podatke o krajnjem korisniku volontiranja (npr. kulturno\ndobro, prirodno dobro, žene, deca, Romi, izbeglice, raseljena lica, osobe sa invaliditetom,\nstara lica i dr),\n(3) podatke o osposobljavanju volontera tokom volontiranja (vrsta osposobljavanja, izvođač\nosposobljavanja i vreme trajanja osposobljavanja),\n(4) oblasti u kojoj su volonterske usluge i aktivnosti obavljene,\n(5) druge podatke od značaja za volontiranje koje organizator vodi u skladu sa svojim aktima.\nČlan 3.\nEvidencija o volontiranju može da se vodi unošenjem podataka u kartoteke, knjige, obrasce,\nsredstva za automatsku obradu podataka ili druga sredstva za vođenje evidencija.\nPodaci iz evidencije čuvaju se najmanje pet godina, osim podataka o volonteru koji se čuvaju\ntrajno.\nČlan 4.\nZaštita podataka iz evidencije u oblasti volontiranja koji su lične i poverljive prirode\nvrši se na način propisan zakonom.\nČlan 5.\nIzveštaj o volontiranju (u daljem tekstu: Izveštaj) podnosi svaki organizator volontiranja\nkoji je u izveštajnom periodu organizovao volontiranje, u skladu sa zakonom kojim se uređuje\nvolontiranje.\nČlan 6.\nIzveštaj se podnosi na Obrascu IV koji je odštampan uz ovaj pravilnik i koji čini njegov\nsastavni deo.\nČlan 7.\nPodaci sadržani u Izveštaju odgovaraju podacima iz evidencije o volontiranju koji vodi\norganizator volontiranja.\nIzveštaj mora biti potpisan od strane ovlašćenog lica organizatora volontiranja .\nIzveštaj se popunjava u dva primerka od kojih jedan zadržava organizator volontiranja kao\npodnosilac Izveštaja, a drugi se dostavlja ministarstvu nadležnom za rad, u skladu sa\nzakonom kojim se uređuje volontiranje.\n*Službeni glasnik RS, broj 44/2018\nČlan 8.\nOvaj pravilnik stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n\nBroj 110-00-1131/2010-02\nU Beogradu, 1. decembra 2010. godine\nMinistar,\nRasim Lj ajić, s.r.\n\n\nPrilozi",
+  "document_entities": [
+    {
+      "entity_id": "f9646388-224a-4b81-bbd0-5f1a1b527480",
+      "entity_type": "DATE",
+      "text": "8. juna 2018",
+      "start_char": 338,
+      "end_char": 350,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "fce6d28c-3b05-4611-9ff1-0cde7f6a130b",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 28",
+      "start_char": 40,
+      "end_char": 48,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "973d43cf-538e-4f99-8a22-7704a38b34e9",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 30",
+      "start_char": 60,
+      "end_char": 68,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "db159841-c566-4087-bcca-92aa4aa5bdc5",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 363,
+      "end_char": 369,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "c0e56e58-1ab0-4555-b36e-de1a19728de4",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 513,
+      "end_char": 519,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "897ade46-a306-4e97-92e1-5d4ec13c4459",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 2201,
+      "end_char": 2207,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "346b9a86-9c07-418d-9348-97ee18895401",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 2482,
+      "end_char": 2488,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "7fe6e858-c385-4f92-ba45-0a89e4765b78",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 2614,
+      "end_char": 2620,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "2286c9c8-43d6-4af9-8a8f-b9cda68a8d07",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 2820,
+      "end_char": 2826,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "bdf79b0c-3617-4b43-9f32-4ecf1b88bf01",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 7",
+      "start_char": 2931,
+      "end_char": 2937,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "3ce4aab5-a263-407d-b490-d5201218ae6c",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 8",
+      "start_char": 3384,
+      "end_char": 3390,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "4733ac67-25f2-4ae1-bd8e-9127a4c8cee1",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no sadržini i načinu vođenja evidencije o volontiranju i podnošenju izveštaja o\nvolontiranju",
+      "start_char": 179,
+      "end_char": 280,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:06:49.385074",
+  "export_timestamp": "2026-06-09T00:06:49.385074",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "27ca00b4-a129-53e0-aaea-f77655c58d84",
+        "parent_legal_unit_id": "5e1be99e-6886-4577-bf3e-f0f4b1da4cf0",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Ovim pravilnikom propisuju se sadržina i način vođenja evidencije o volontiranju, kao i sadržina i način podnošenja izveštaja o volontiranju.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5e1be99e-6886-4577-bf3e-f0f4b1da4cf0",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "5eadc551-2b64-526b-8e7e-d366bcb62f8a",
+        "parent_legal_unit_id": "5e1be99e-6886-4577-bf3e-f0f4b1da4cf0",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Organizator volontiranja vodi evidenciju o volontiranju koja sadrži: 1) podatke o kratkoročnom volontiranju, koji se odnose na: (1) opis programa volontiranja, odnosno volonterskih usluga i aktivnosti, oblast u kojoj se program volontiranja obavlja (npr. mediji i komunikacije, kultura, sport, zaštita životne sredine, socijalna zaštita, humanitarni rad i dr.) i mesto obavljanja volonterskih usluga i aktivnosti (Republika Srbija – opština/grad, odnosno inostranstvo – država), (2) trajanje programa volontiranja, odnosno volonterskih usluga i aktivnosti (vremenski period u kom se volontiranje obavlja i ukupan broj sati volontiranja), (3) ukupan broj angažovanih volontera na programu volontiranja, odnosno volonterskim uslugama i aktivnostima; 2) podatke o dugoročnom volontiranju, koji se, pored podataka iz tačke 1) ovog stava, odnose na: (1) podatke o volonteru (ime i prezime, datum rođenja, JMBG, mesto prebivališta, odnosno boravišta, državljanstvo, broj sati provedenih u obavljanju volontiranja odnosno volonterskih usluga i aktivnosti i broj i datum ugovora o volontiranju), (2) korisniku volontiranja (za pravno lice – naziv i sedište, za fizičko lice – naznaka da se radi o fizičkom licu), kao i podatke o krajnjem korisniku volontiranja (npr. kulturno dobro, prirodno dobro, žene, deca, Romi, izbeglice, raseljena lica, osobe sa invaliditetom, stara lica i dr), (3) podatke o osposobljavanju volontera tokom volontiranja (vrsta osposobljavanja, izvođač osposobljavanja i vreme trajanja osposobljavanja), (4) oblasti u kojoj su volonterske usluge i aktivnosti obavljene, (5) druge podatke od značaja za volontiranje koje organizator vodi u skladu sa svojim aktima.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5e1be99e-6886-4577-bf3e-f0f4b1da4cf0",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "3dfc09e9-ae85-5c3e-8c09-6a5f0b57e39d",
+        "parent_legal_unit_id": "5e1be99e-6886-4577-bf3e-f0f4b1da4cf0",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Evidencija o volontiranju može da se vodi unošenjem podataka u kartoteke, knjige, obrasce, sredstva za automatsku obradu podataka ili druga sredstva za vođenje evidencija. Podaci iz evidencije čuvaju se najmanje pet godina, osim podataka o volonteru koji se čuvaju trajno.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5e1be99e-6886-4577-bf3e-f0f4b1da4cf0",
+        "title": "Član 3"
+      },
+      {
+        "legal_unit_id": "b08d684d-1e16-595a-bcd7-02f6717b0959",
+        "parent_legal_unit_id": "5e1be99e-6886-4577-bf3e-f0f4b1da4cf0",
+        "unit_type": "article",
+        "number": "4",
+        "ordinal": 4,
+        "heading": null,
+        "content_text": "Zaštita podataka iz evidencije u oblasti volontiranja koji su lične i poverljive prirode vrši se na način propisan zakonom.",
+        "path": "article:4",
+        "akoma_eid": "article_4",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5e1be99e-6886-4577-bf3e-f0f4b1da4cf0",
+        "title": "Član 4"
+      },
+      {
+        "legal_unit_id": "dafe3e02-91b1-5cb9-bc6a-1f6f50c38a49",
+        "parent_legal_unit_id": "5e1be99e-6886-4577-bf3e-f0f4b1da4cf0",
+        "unit_type": "article",
+        "number": "5",
+        "ordinal": 5,
+        "heading": null,
+        "content_text": "Izveštaj o volontiranju (u daljem tekstu: Izveštaj) podnosi svaki organizator volontiranja koji je u izveštajnom periodu organizovao volontiranje, u skladu sa zakonom kojim se uređuje volontiranje.",
+        "path": "article:5",
+        "akoma_eid": "article_5",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5e1be99e-6886-4577-bf3e-f0f4b1da4cf0",
+        "title": "Član 5"
+      },
+      {
+        "legal_unit_id": "b2c7b3b8-777c-5997-96b7-eb3b229ec645",
+        "parent_legal_unit_id": "5e1be99e-6886-4577-bf3e-f0f4b1da4cf0",
+        "unit_type": "article",
+        "number": "6",
+        "ordinal": 6,
+        "heading": null,
+        "content_text": "Izveštaj se podnosi na Obrascu IV koji je odštampan uz ovaj pravilnik i koji čini njegov sastavni deo.",
+        "path": "article:6",
+        "akoma_eid": "article_6",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5e1be99e-6886-4577-bf3e-f0f4b1da4cf0",
+        "title": "Član 6"
+      },
+      {
+        "legal_unit_id": "45f7bf16-746e-54bf-b96b-51548bb12375",
+        "parent_legal_unit_id": "5e1be99e-6886-4577-bf3e-f0f4b1da4cf0",
+        "unit_type": "article",
+        "number": "7",
+        "ordinal": 7,
+        "heading": null,
+        "content_text": "Podaci sadržani u Izveštaju odgovaraju podacima iz evidencije o volontiranju koji vodi organizator volontiranja. Izveštaj mora biti potpisan od strane ovlašćenog lica organizatora volontiranja . Izveštaj se popunjava u dva primerka od kojih jedan zadržava organizator volontiranja kao podnosilac Izveštaja, a drugi se dostavlja ministarstvu nadležnom za rad, u skladu sa zakonom kojim se uređuje volontiranje. *Službeni glasnik RS, broj 44/2018",
+        "path": "article:7",
+        "akoma_eid": "article_7",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5e1be99e-6886-4577-bf3e-f0f4b1da4cf0",
+        "title": "Član 7"
+      },
+      {
+        "legal_unit_id": "d1b784f3-d834-5170-bb7f-38ab858f76dd",
+        "parent_legal_unit_id": "5e1be99e-6886-4577-bf3e-f0f4b1da4cf0",
+        "unit_type": "article",
+        "number": "8",
+        "ordinal": 8,
+        "heading": null,
+        "content_text": "Ovaj pravilnik stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Broj 110-00-1131/2010-02 U Beogradu, 1. decembra 2010. godine Ministar, Rasim Lj ajić, s.r. Prilozi",
+        "path": "article:8",
+        "akoma_eid": "article_8",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "5e1be99e-6886-4577-bf3e-f0f4b1da4cf0",
+        "title": "Član 8"
+      }
+    ],
+    "statistics": {
+      "total_units": 8,
+      "total_articles": 8,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [
+        {
+          "text": "Izveštaj mora biti potpisan od strane ovlašćenog lica organizatora volontiranja .",
+          "confidence": 0.8
+        }
+      ],
+      "prohibitions": [],
+      "permissions": [
+        {
+          "text": "Evidencija o volontiranju može da se vodi unošenjem podataka u kartoteke,",
+          "confidence": 0.8
+        }
+      ],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 2
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [
+          {
+            "step_number": null,
+            "action": "podnosilac Izveštaja,",
+            "actor": null,
+            "deadline": null,
+            "context": "podnosilac Izveštaja,",
+            "line_number": 58
+          },
+          {
+            "step_number": null,
+            "action": "dostavlja ministarstvu nadležnom za rad,",
+            "actor": "ministar",
+            "deadline": null,
+            "context": "dostavlja ministarstvu nadležnom za rad,",
+            "line_number": 58
+          },
+          {
+            "step_number": null,
+            "action": "vrši se na način propisan zakonom.",
+            "actor": null,
+            "deadline": null,
+            "context": "vrši se na način propisan zakonom.",
+            "line_number": 45
+          }
+        ],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "ministar",
+            "role": null,
+            "responsibilities": [
+              "ministarstvu nadležnom za rad,"
+            ],
+            "context": "ministarstvu nadležnom za rad,",
+            "line_number": 58
+          },
+          {
+            "name": "organ",
+            "role": null,
+            "responsibilities": [
+              "organizator vodi u skladu sa svojim aktima.",
+              "organizovao volontiranje,",
+              "organizator volontiranja.",
+              "organizatora volontiranja ."
+            ],
+            "context": "organizator vodi u skladu sa svojim aktima.",
+            "line_number": 37
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.001998424530029297,
+      "total_elements": 5
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [
+          {
+            "consequence_text": "biti potpisan od strane ovlašćenog lica organizatora volontiranja .",
+            "consequence_type": "must",
+            "context": "mora biti potpisan od strane ovlašćenog lica organizatora volontiranja .",
+            "line_number": 56
+          },
+          {
+            "consequence_text": "da se vodi unošenjem podataka u kartoteke,",
+            "consequence_type": "may",
+            "context": "može da se vodi unošenjem podataka u kartoteke,",
+            "line_number": 39
+          }
+        ],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009987354278564453,
+      "total_elements": 2
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "pravilnik",
+        "hierarchy_level": 4,
+        "issuing_authority": "Ministarstvo",
+        "legal_basis": [
+          "2",
+          "svojim aktima",
+          "zakonom kojim se uređuje\nvolontiranje",
+          "zakonom kojim se uređuje volontiranje"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba"
+        ],
+        "confidence": 0.9
+      },
+      "title": "Redakcijski prečišćen tekst",
+      "detected_patterns": [
+        "PRAVILNIK\\s+o\\s+[a-zšđčćž\\s]+",
+        "Pravilnik\\s+o\\s+[a-zšđčćž\\s]+",
+        "ovaj\\s+pravilnik",
+        "ovaj\\s+pravilnik"
+      ],
+      "processing_time": 0.0010013580322265625
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0009996891021728516,
+      "total_elements": 0
+    }
+  }
+}

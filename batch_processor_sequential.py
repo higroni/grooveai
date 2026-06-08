@@ -51,7 +51,8 @@ class SequentialBatchProcessor:
     def __init__(
         self,
         restart_interval: int = 20,
-        unified_db_path: str = "data/databases/grooveai_unified.db"
+        unified_db_path: str = "data/databases/grooveai_unified.db",
+        enable_semantic: bool = True
     ):
         """
         Initialize sequential batch processor.
@@ -59,13 +60,16 @@ class SequentialBatchProcessor:
         Args:
             restart_interval: Restart process after this many documents
             unified_db_path: Path to unified database
+            enable_semantic: Enable semantic extraction modules (default: True)
         """
         self.restart_interval = restart_interval
         self.unified_db_path = unified_db_path
+        self.enable_semantic = enable_semantic
         
         logger.info(f"Sequential Batch Processor initialized:")
         logger.info(f"  Restart interval: {self.restart_interval} documents")
         logger.info(f"  Database: {self.unified_db_path}")
+        logger.info(f"  Semantic extraction: {'ENABLED' if enable_semantic else 'DISABLED'}")
     
     def process_batch(
         self,
@@ -188,6 +192,36 @@ class SequentialBatchProcessor:
         from modules.assertion_classifier.service import classify_assertions
         from shared.unified_database import UnifiedDatabaseManager
         
+        # Semantic extraction modules (conditional import)
+        normative_extractor = None
+        procedural_extractor = None
+        conditional_extractor = None
+        temporal_linker = None
+        hierarchy_classifier = None
+        quantitative_extractor = None
+        
+        if self.enable_semantic:
+            try:
+                from modules.normative_extractor.service import NormativeExtractor
+                from modules.procedural_extractor.service import ProceduralExtractor
+                from modules.conditional_logic_extractor.service import ConditionalLogicExtractor
+                from modules.temporal_linker.service import TemporalLinker
+                from modules.legal_hierarchy.service import LegalHierarchyClassifier
+                from modules.quantitative_extractor.service import QuantitativeExtractor
+                
+                # Initialize extractors
+                normative_extractor = NormativeExtractor()
+                procedural_extractor = ProceduralExtractor()
+                conditional_extractor = ConditionalLogicExtractor()
+                temporal_linker = TemporalLinker()
+                hierarchy_classifier = LegalHierarchyClassifier()
+                quantitative_extractor = QuantitativeExtractor()
+                
+                logger.info("✓ Semantic extraction modules loaded")
+            except Exception as e:
+                logger.warning(f"⚠️  Semantic modules not available: {e}")
+                self.enable_semantic = False
+        
         processed = 0
         failed = 0
         
@@ -290,7 +324,89 @@ class SequentialBatchProcessor:
                             classified.extend(result['classified_assertions'])
                     classified_assertions[unit_id] = classified
                 
-                # Build final output
+                # SEMANTIC EXTRACTION (M10+)
+                semantic_data = {}
+                if self.enable_semantic and text:
+                    try:
+                        logger.info(f"    → Semantic extraction...")
+                        
+                        # Re-initialize extractors for each document to prevent memory buildup
+                        from modules.normative_extractor.service import NormativeExtractor
+                        from modules.procedural_extractor.service import ProceduralExtractor
+                        from modules.conditional_logic_extractor.service import ConditionalLogicExtractor
+                        from modules.temporal_linker.service import TemporalLinker
+                        from modules.legal_hierarchy.service import LegalHierarchyClassifier
+                        from modules.quantitative_extractor.service import QuantitativeExtractor
+                        
+                        doc_normative_extractor = NormativeExtractor()
+                        doc_procedural_extractor = ProceduralExtractor()
+                        doc_conditional_extractor = ConditionalLogicExtractor()
+                        doc_temporal_linker = TemporalLinker()
+                        doc_hierarchy_classifier = LegalHierarchyClassifier()
+                        doc_quantitative_extractor = QuantitativeExtractor()
+                        
+                        # Normative extraction
+                        normative_result = doc_normative_extractor.extract(text)
+                        semantic_data['normative_content'] = {
+                            'obligations': [{'text': o.source_text, 'confidence': o.confidence}
+                                           for o in normative_result.normative_content.obligations],
+                            'prohibitions': [{'text': p.source_text, 'confidence': p.confidence}
+                                            for p in normative_result.normative_content.prohibitions],
+                            'permissions': [{'text': p.source_text, 'confidence': p.confidence}
+                                           for p in normative_result.normative_content.permissions],
+                            'definitions': [{'text': d.source_text, 'confidence': d.confidence}
+                                           for d in normative_result.normative_content.definitions],
+                            'waivers': [{'text': w.source_text, 'confidence': w.confidence}
+                                       for w in normative_result.normative_content.waivers],
+                            'transfers': [{'text': t.source_text, 'confidence': t.confidence}
+                                         for t in normative_result.normative_content.transfers],
+                            'assignments': [{'text': a.source_text, 'confidence': a.confidence}
+                                           for a in normative_result.normative_content.assignments],
+                            'total_count': normative_result.normative_content.total_count
+                        }
+                        
+                        # Procedural extraction
+                        procedural_result = doc_procedural_extractor.extract(text)
+                        semantic_data['procedural_content'] = procedural_result.to_dict()
+                        
+                        # Conditional logic extraction
+                        conditional_result = doc_conditional_extractor.extract(text)
+                        semantic_data['conditional_logic'] = conditional_result.to_dict()
+                        
+                        # Temporal extraction
+                        temporal_elements = doc_temporal_linker.extract_temporal_elements(text)
+                        semantic_data['temporal_references'] = {
+                            'elements': [e.model_dump() for e in temporal_elements],
+                            'total_count': len(temporal_elements)
+                        }
+                        
+                        # Legal hierarchy classification
+                        hierarchy_result = doc_hierarchy_classifier.classify(text)
+                        semantic_data['legal_hierarchy'] = hierarchy_result.model_dump()
+                        
+                        # Quantitative extraction
+                        quantitative_result = doc_quantitative_extractor.extract(text)
+                        semantic_data['quantitative_data'] = quantitative_result.to_dict()
+                        
+                        # Log summary
+                        logger.info(f"      Normative: {semantic_data['normative_content']['total_count']} items")
+                        logger.info(f"      Procedural: {semantic_data['procedural_content'].get('total_elements', 0)} elements")
+                        logger.info(f"      Conditional: {semantic_data['conditional_logic'].get('total_elements', 0)} elements")
+                        logger.info(f"      Temporal: {semantic_data['temporal_references']['total_count']} refs")
+                        logger.info(f"      Quantitative: {len(semantic_data['quantitative_data'].get('standards', []))} standards")
+                        
+                        # Cleanup extractors and results
+                        del doc_normative_extractor, doc_procedural_extractor, doc_conditional_extractor
+                        del doc_temporal_linker, doc_hierarchy_classifier, doc_quantitative_extractor
+                        del normative_result, procedural_result, conditional_result
+                        del temporal_elements, hierarchy_result, quantitative_result
+                        gc.collect()
+                        
+                    except Exception as e:
+                        logger.warning(f"      ⚠️  Semantic extraction error: {e}")
+                        semantic_data = {}
+                
+                # Build final output with semantic data
                 output = {
                     'document_id': doc_name,
                     'processed_at': datetime.now().isoformat(),
@@ -299,6 +415,10 @@ class SequentialBatchProcessor:
                     'assertions_by_unit': classified_assertions,
                     'conditions_by_unit': conditions_by_unit
                 }
+                
+                # Add semantic extraction if available
+                if semantic_data:
+                    output['semantic_extraction'] = semantic_data
                 
                 # Save to JSON
                 output_file = output_path / f"{doc_file.stem}_processed.json"
@@ -353,6 +473,17 @@ def main():
         help="Restart process after N documents (default: 20)"
     )
     parser.add_argument(
+        "--enable-semantic",
+        action="store_true",
+        default=True,
+        help="Enable semantic extraction modules (default: True)"
+    )
+    parser.add_argument(
+        "--disable-semantic",
+        action="store_true",
+        help="Disable semantic extraction modules"
+    )
+    parser.add_argument(
         "--start-index",
         type=int,
         default=0,
@@ -367,8 +498,12 @@ def main():
     
     args = parser.parse_args()
     
+    # Handle semantic flag
+    enable_semantic = args.enable_semantic and not args.disable_semantic
+    
     processor = SequentialBatchProcessor(
-        restart_interval=args.restart_interval
+        restart_interval=args.restart_interval,
+        enable_semantic=enable_semantic
     )
     
     result = processor.process_batch(

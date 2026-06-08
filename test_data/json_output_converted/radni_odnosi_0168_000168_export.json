@@ -1,0 +1,49 @@
+{
+  "document_metadata": {
+    "document_id": "radni_odnosi_0168_000168.pdf",
+    "document_legal_unit_id": "b0c6fdf5-cf20-4f49-a0aa-c333335a5e65",
+    "title": "SPORAZUM o produženju roka važenja Kolektivnog ugovora Javnog preduzeća",
+    "document_type": "other",
+    "effective_date": null,
+    "total_chars": 0,
+    "total_words": 0,
+    "processed_at": "2026-06-09T00:02:10.934994",
+    "processing_time_seconds": null
+  },
+  "legal_units": [
+    {
+      "legal_unit_id": "",
+      "document_legal_unit_id": "b0c6fdf5-cf20-4f49-a0aa-c333335a5e65",
+      "parent_legal_unit_id": "b0c6fdf5-cf20-4f49-a0aa-c333335a5e65",
+      "unit_type": "article",
+      "hierarchy_level": 0,
+      "hierarchy_path": "article:1",
+      "title": "Član 1",
+      "content": "",
+      "content_latinized": "",
+      "char_count": 0,
+      "word_count": 0,
+      "entities": [],
+      "assertions": [],
+      "normative_assertions": [],
+      "conditions": []
+    },
+    {
+      "legal_unit_id": "",
+      "document_legal_unit_id": "b0c6fdf5-cf20-4f49-a0aa-c333335a5e65",
+      "parent_legal_unit_id": "b0c6fdf5-cf20-4f49-a0aa-c333335a5e65",
+      "unit_type": "article",
+      "hierarchy_level": 0,
+      "hierarchy_path": "article:2",
+      "title": "Član 2",
+      "content": "",
+      "content_latinized": "",
+      "char_count": 0,
+      "word_count": 0,
+      "entities": [],
+      "assertions": [],
+      "normative_assertions": [],
+      "conditions": []
+    }
+  ]
+}

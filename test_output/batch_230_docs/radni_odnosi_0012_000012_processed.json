@@ -1,0 +1,174 @@
+{
+  "document_id": "radni_odnosi_0012_000012.pdf",
+  "document_legal_unit_id": "4dc8f0f2-0d9f-4874-95d3-380b10dc1e6d",
+  "document_metadata": {
+    "import_run_id": "b895711b-bb38-4e6b-8568-abab9ce21621",
+    "path": "test_data\\documents2\\radni_odnosi_0012_000012.pdf",
+    "title": "Na osnovu člana 112. st. 1. i 5. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,",
+    "document_type": "law",
+    "language_code": "sr",
+    "legal_units_count": 0,
+    "processed_at": "2026-06-08T23:11:42.937091"
+  },
+  "document_title": "Na osnovu člana 112. st. 1. i 5. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,",
+  "full_text": "Na osnovu člana 112. st. 1. i 5. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – odluka US, 113/17 i 95/18 – autentično tumačenje) i člana 9. Zakona o\nSocijalno-ekonomskom savetu Republike Srbije („Službeni glasnik RS”, broj 125/04),\nSocijalno-ekonomski savet Republike Srbije na 124. redovnoj sednici, održanoj 15. jula\n2025. godine, donosi\nODLUKU\n\"Službeni glasnik RS\", broj 67 od 31. jula 2025.\nPočev od 1. oktobra 2025. godine visina minimalne cene rada iznosi 337,00 dinara po radnom\nčasu bez poreza i doprinosa.\nOva odluka se objavljuje u „Službenom glasniku Republike Srbije”.\nBroj 221/2025\nU Beogradu, 15. jula 2025. godine\nPredsedavajuća Saveta,\nMilica Đurđević Stamenkovski, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "e88c9fc9-8ac4-4a7b-ac5f-e5017d319a05",
+      "entity_type": "DATE",
+      "text": "15. jula\n2025",
+      "start_char": 349,
+      "end_char": 362,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "9f4a00af-cf99-4589-b552-fa059476eca4",
+      "entity_type": "DATE",
+      "text": "31. jula 2025",
+      "start_char": 420,
+      "end_char": 433,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "00a2f63f-c432-4434-b5cb-9d8b2040bdc7",
+      "entity_type": "DATE",
+      "text": "15. jula 2025",
+      "start_char": 647,
+      "end_char": 660,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "ac0d1ae8-b005-443d-a969-f408b50537a5",
+      "entity_type": "MONEY",
+      "text": "337,00 dinara",
+      "start_char": 502,
+      "end_char": 515,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "ef5e9dd6-aed2-4af5-a4f2-cd204cf87f18",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 112",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "6932582b-1ddb-4475-a23b-cc926563803e",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 9",
+      "start_char": 170,
+      "end_char": 177,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:11:42.937091",
+  "export_timestamp": "2026-06-08T23:11:42.937091",
+  "parsed_structure": {
+    "units": [],
+    "statistics": {
+      "total_units": 0,
+      "total_articles": 0,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [],
+      "total_count": 0
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "odluka",
+        "hierarchy_level": 5,
+        "issuing_authority": null,
+        "legal_basis": [
+          "11"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik"
+        ],
+        "confidence": 0.7
+      },
+      "title": "ODLUKU",
+      "detected_patterns": [
+        "ova\\s+odluka",
+        "donosi\\s+ODLUKU"
+      ],
+      "processing_time": 0.0010006427764892578
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [
+          {
+            "type": "exact",
+            "value": "33",
+            "unit": null,
+            "context": "iznosi 337,",
+            "applies_to": null,
+            "line_number": 8
+          }
+        ],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 1
+    }
+  }
+}

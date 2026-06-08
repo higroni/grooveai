@@ -1,18 +1,18 @@
 {
-  "import_run_id": "c540cd49-ceac-4141-b632-3ff63a883495",
+  "import_run_id": "09fb9bf3-dfaa-4f7f-863b-bf185c223e16",
   "document": {
     "name": "radni_odnosi_0003_000003.pdf",
     "path": "test_data\\documents2\\radni_odnosi_0003_000003.pdf",
     "title": null,
     "document_type": "law",
     "language_code": "sr",
-    "processed_at": "2026-06-08T17:10:25.547035Z"
+    "processed_at": "2026-06-08T20:49:56.805902Z"
   },
   "full_text": "Na osnovu člana 112. stav 1. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – odluka US, 113/17 i 95/18 – autentično tumačenje), na 119. redovnoj\nsednici, održanoj 28. avgusta 2024. godine,\nSocijalno-ekonomski savet Republike Srbije donosi\nODLUKU\n\"Službeni glasnik RS\", broj 74 od 4. septembra 2024.\nNAPOMENA IZDAVAČA: Socijalno-ekonomski savet Republike Srbije doneo je Odluku o visini\nminimalne cene rada, koja je objavljena u \"Službenom glasniku RS\", broj 67/2025 i kojom je\nodređeno da počev od 1. oktobra 2025. godine visina minimalne cene rada iznosi 337,00\ndinara po radnom času bez poreza i doprinosa (vidi Odluku - 67/2025-5).\nVisina minimalne cene rada za 2025. godinu iznosi 308,00 dinara po radnom času bez poreza\ni doprinosa.\nOva odluka se objavljuje u „Službenom glasniku Republike Srbije”.\nBroj 254/2024\nU Beogradu, 28. avgusta 2024. godine\nPredsedavajući Saveta,\nMiloš Nenezić, s.r.",
   "legal_units_count": 0,
   "document_entities": [
     {
-      "entity_id": "6277265f-7627-4e2d-96e5-5977231eea30",
+      "entity_id": "2c87d59f-1063-4c68-966f-072fe8f9ce11",
       "entity_type": "DATE",
       "text": "28. avgusta 2024",
       "start_char": 200,
@@ -20,7 +20,7 @@
       "confidence": 0.85
     },
     {
-      "entity_id": "e543b90e-dca9-44d6-bff5-f3a168acd243",
+      "entity_id": "2ade95a2-569e-4a97-9646-cf583bd01305",
       "entity_type": "MONEY",
       "text": "337,00\ndinara",
       "start_char": 593,
@@ -28,7 +28,7 @@
       "confidence": 0.85
     },
     {
-      "entity_id": "edddd476-3821-4525-9d6a-9d3c27c7a087",
+      "entity_id": "3de48617-ec49-48f9-bf27-b63c1da2a89d",
       "entity_type": "MONEY",
       "text": "308,00 dinara",
       "start_char": 722,
@@ -36,7 +36,7 @@
       "confidence": 0.85
     },
     {
-      "entity_id": "777fc1e2-c357-495c-8bae-dcbb835f07c2",
+      "entity_id": "b3771948-a62f-4b11-81a6-9342fba89e2c",
       "entity_type": "LEGAL_REF",
       "text": "člana 112",
       "start_char": 10,
@@ -45,5 +45,5 @@
     }
   ],
   "assertions": [],
-  "export_timestamp": "2026-06-08T17:10:25.547035Z"
+  "export_timestamp": "2026-06-08T20:49:56.805902Z"
 }

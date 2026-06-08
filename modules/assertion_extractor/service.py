@@ -6,7 +6,7 @@ Extracts legal assertions from legal unit content.
 import sys
 import re
 import uuid
-from typing import List, Tuple
+from typing import List, Tuple, Dict, Any
 from pathlib import Path
 
 # Add project root to path
@@ -170,5 +170,28 @@ class AssertionExtractorService:
             total_sentences=total_sentences,
             avg_confidence=round(avg_confidence, 3)
         )
+
+
+# Create singleton instance
+_service = AssertionExtractorService()
+
+
+# Wrapper function for easy import
+def extract_assertions(content: str, min_confidence: float = 0.5) -> Dict[str, Any]:
+    """
+    Wrapper function to extract assertions using the singleton service.
+    
+    Args:
+        content: Legal unit content text
+        min_confidence: Minimum confidence threshold (0-1)
+        
+    Returns:
+        Dictionary with assertions and statistics
+    """
+    result = _service.extract_assertions(content, min_confidence)
+    return {
+        'assertions': [a.dict() for a in result.assertions],
+        'stats': result.stats.dict() if result.stats else None
+    }
 
 # Made with Bob

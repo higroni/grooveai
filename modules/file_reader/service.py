@@ -172,4 +172,27 @@ class FileReaderService:
         except Exception as e:
             raise RuntimeError(f"Error reading TXT: {str(e)}")
 
+
+# Create singleton instance
+_service = FileReaderService()
+
+
+# Wrapper function for easy import
+def read_file(file_path: str, file_type: Optional[str] = None) -> Dict[str, Any]:
+    """
+    Wrapper function to read a file using the singleton service.
+    
+    Args:
+        file_path: Path to the file
+        file_type: File type (pdf, docx, txt). If None, will be inferred from extension
+        
+    Returns:
+        Dictionary with content, encoding, char_count, page_count, processing_time_ms
+    """
+    result = _service.read_file(file_path, file_type)
+    # Rename 'text' to 'content' for consistency with API
+    result['content'] = result.pop('text')
+    return result
+
+
 # Made with Bob

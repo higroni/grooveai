@@ -1,0 +1,262 @@
+{
+  "document_id": "radni_odnosi_0157_000157.pdf",
+  "document_legal_unit_id": "48b820d6-4148-4683-8b91-6a13533c3bb3",
+  "document_metadata": {
+    "import_run_id": "231b0b3e-1014-489f-bc85-e84b777e30fc",
+    "path": "test_data\\documents2\\radni_odnosi_0157_000157.pdf",
+    "title": "Vlada Republike Srbije donosi UREDBU o min imumu procesa rada fakulteta i univerziteta čiji je osnivač Republika Srbija",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 3,
+    "processed_at": "2026-06-08T23:58:54.369620"
+  },
+  "document_title": "Vlada Republike Srbije donosi UREDBU o min imumu procesa rada fakulteta i univerziteta čiji je osnivač Republika Srbija",
+  "full_text": "Na osnovu člana 90. tačka 2) Ustava Republike Srbije i člana 10. stav 2. Zakona o\nštrajku („Službeni list SRJ”, broj 29/96),\nVlada Republike Srbije donosi\n\n\nUREDBU\no min imumu procesa rada fakulteta i univerziteta čiji je osnivač Republika\nSrbija\n\"Službeni glasnik RS\", broj 65 od 27. juna 2003.\n\n\nČlan 1.\nMinimum procesa rada fakulteta i univerziteta čiji je osnivač Republika Srbija,\nobuhvata obavljanje poslova kojima se obezbeđuje:\n1) održavanje konsultativne nastave;\n2) održavanje ispita na osnovnim, specijalističkim, magistarskim i doktorskim\nstudijama;\n3) održavanje prijemnog ispita, odnosno ispita za proveru sklonosti i sposobnosti;\n4) obavljanje upisa studenata u odgovarajuću godinu studija;\n5) izdavanje javnih isprava.\n\nČlan 2.\nNačin obezbeđivanja minimuma procesa rada iz člana 1. ove uredbe, radna mesta i broj\nizvršilaca koji su dužni da rade, kao i druga pitanja, odrediće dekan, odnosno rektor, u\nskladu sa zakonom.\nAkt iz stava 1. ovog člana dekan, odnosno rektor dužan je da donese u roku od pet dana od dana\nstupanja na snagu ove uredbe.\n\nČlan 3.\nOva uredba stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n\n05 broj 130-3874/2003\nU Beogradu, 26. juna 2003. godine\nVlada Republike Srbije\nPotpredsednik,\nJožef Kasa, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "7b9c9450-43a2-420e-8766-41c2b6adeebd",
+      "entity_type": "DATE",
+      "text": "27. juna 2003",
+      "start_char": 281,
+      "end_char": 294,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "5731d25a-d51e-418e-98a9-75b6ded028af",
+      "entity_type": "DATE",
+      "text": "26. juna 2003",
+      "start_char": 1209,
+      "end_char": 1222,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "bd3d4029-75b3-4a55-936f-37458cbd38d5",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 90",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "770229e4-33b3-44da-87d5-6251ed5cd3a2",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 10",
+      "start_char": 55,
+      "end_char": 63,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "a06bb57a-6dd6-475f-a45e-54870bf8f638",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 298,
+      "end_char": 304,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "ecda04d9-9042-40aa-adf8-9ffdbfd69401",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 736,
+      "end_char": 742,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "00f842a2-2d15-4f20-917e-cd46ce808359",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 1",
+      "start_char": 789,
+      "end_char": 796,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "db1a375b-ae01-4d3d-9a7b-04563570f6b4",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1063,
+      "end_char": 1069,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:58:54.369620",
+  "export_timestamp": "2026-06-08T23:58:54.369620",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "5d6a27bb-ef2a-55a7-bdce-68565568db77",
+        "parent_legal_unit_id": "48b820d6-4148-4683-8b91-6a13533c3bb3",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Minimum procesa rada fakulteta i univerziteta čiji je osnivač Republika Srbija, obuhvata obavljanje poslova kojima se obezbeđuje: 1) održavanje konsultativne nastave; 2) održavanje ispita na osnovnim, specijalističkim, magistarskim i doktorskim studijama; 3) održavanje prijemnog ispita, odnosno ispita za proveru sklonosti i sposobnosti; 4) obavljanje upisa studenata u odgovarajuću godinu studija; 5) izdavanje javnih isprava.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "48b820d6-4148-4683-8b91-6a13533c3bb3",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "81b4e1cb-5aa0-522b-99ca-d0565af09580",
+        "parent_legal_unit_id": "48b820d6-4148-4683-8b91-6a13533c3bb3",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Način obezbeđivanja minimuma procesa rada iz člana 1. ove uredbe, radna mesta i broj izvršilaca koji su dužni da rade, kao i druga pitanja, odrediće dekan, odnosno rektor, u skladu sa zakonom. Akt iz stava 1. ovog člana dekan, odnosno rektor dužan je da donese u roku od pet dana od dana stupanja na snagu ove uredbe.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "48b820d6-4148-4683-8b91-6a13533c3bb3",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "5b82ac11-0878-5ab3-9491-9916a27acc1c",
+        "parent_legal_unit_id": "48b820d6-4148-4683-8b91-6a13533c3bb3",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Ova uredba stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. 05 broj 130-3874/2003 U Beogradu, 26. juna 2003. godine Vlada Republike Srbije Potpredsednik, Jožef Kasa, s.r.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "48b820d6-4148-4683-8b91-6a13533c3bb3",
+        "title": "Član 3"
+      }
+    ],
+    "statistics": {
+      "total_units": 3,
+      "total_articles": 3,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [
+        {
+          "text": "odnosno rektor dužan je da donese u roku od pet dana od dana\nstupanja na snagu ove uredbe.",
+          "confidence": 0.8
+        }
+      ],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 1
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [
+          {
+            "step_number": null,
+            "action": "izdavanje javnih isprava.",
+            "actor": null,
+            "deadline": null,
+            "context": "izdavanje javnih isprava.",
+            "line_number": 20
+          },
+          {
+            "step_number": null,
+            "action": "izvršilaca koji su dužni da rade,",
+            "actor": null,
+            "deadline": null,
+            "context": "izvršilaca koji su dužni da rade,",
+            "line_number": 24
+          }
+        ],
+        "sequences": [],
+        "actors": [],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 2
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "uredba",
+        "hierarchy_level": 3,
+        "issuing_authority": "Vlada Republike Srbije",
+        "legal_basis": [
+          "9",
+          "zakonom"
+        ],
+        "official_gazette": "Službeni glasnik RS\"",
+        "can_override": [
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon"
+        ],
+        "confidence": 0.6
+      },
+      "title": "Vlada Republike Srbije donosi\n\n\nUREDBU\no min imumu procesa rada fakulteta i univerziteta čiji je osnivač Republika\nSrbija",
+      "detected_patterns": [
+        "ova\\s+uredba"
+      ],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    }
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "document_id": "radni_odnosi_0125_000125.pdf",
+  "document_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+  "document_metadata": {
+    "import_run_id": "3c73e59e-5130-49a1-99bd-2fafd2ab3eb5",
+    "path": "test_data\\documents2\\radni_odnosi_0125_000125.pdf",
+    "title": "ZAKON o prestanku važenja Zakona o sredstvima solidarnosti za zaposlene koji su privremeno ostali bez posla usled ratnih dejstava",
+    "document_type": "law",
+    "language_code": "sr",
+    "legal_units_count": 4,
+    "processed_at": "2026-06-08T23:55:03.410961"
+  },
+  "document_title": "ZAKON o prestanku važenja Zakona o sredstvima solidarnosti za zaposlene koji su privremeno ostali bez posla usled ratnih dejstava",
+  "full_text": "ZAKON\no prestanku važenja Zakona o sredstvima solidarnosti za zaposlene koji su\nprivremeno ostali bez posla usled ratnih dejstava\n\"Službeni glasnik RS\", broj 29 od 17. maja 2001.\n\n\nČlan 1.\nDanom stupanja na snagu ovog zakona, prestaje da važi Zakon o sredstvima solidarnosti\nza zaposlene koji su privremeno ostali bez posla usled ratnih dejstava („Službeni glasnik\nRS”, broj 33/99).\n\nČlan 2.\nSredstva koja se na dan stupanja na snagu ovog zakona nalaze na računu Ministarstva za\nrad i zapošljavanje – sredstva solidarnosti, kao i sredstva koja će se ostvariti na ime\nvraćanja pozajmica iz sredstava solidarnosti u skladu sa Zakonom o sredstvima solidarnosti\nza zaposlene koji su privremeno ostali bez posla usled ratnih dejstava, koriste se u skladu\nsa ovim zakonom.\nSredstva koja su ostvarena, odnosno koja će se ostvariti na ime kamata i vraćanja\nkredita po osnovu ugovora zaključenih u cilju realizacije ekonomsko-socijalnih programa,\nkoriste se za realizaciju usvojenih ekonomsko-socijalnih programa.\nSredstva iz stava 2. ovog člana koja preostanu po realizaciji ekonomsko-socijalnih\nprograma, prenose se na račun budžeta Republike Srbije i zajedno sa sredstvima iz stava 1.\novog člana koriste za rešavanje viškova zaposlenih preko ministarstva nadležnog za\nposlove rada.\nStručne poslove realizacije programa iz stava 2. ovog člana obavlja Fond za razvoj\nRepublike Srbije, u skladu sa opštim aktom Fonda.\nStručne poslove iz stava 3. ovog člana obavlja ministarstvo nadležno za poslove rada.\n\nČlan 3.\nNadležni organ preduzeće mere za naplatu sredstava iz člana 2. ovog zakona, koja se ne\nvrate u roku od osam dana od dana dospeća, u skladu sa zakonom.\n\nČlan 4.\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.",
+  "document_entities": [
+    {
+      "entity_id": "989f031e-3604-4163-835d-6f53fe3833df",
+      "entity_type": "DATE",
+      "text": "17. maja 2001",
+      "start_char": 164,
+      "end_char": 177,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "7fea5c3b-b6e1-49c7-8918-f691508fe4a5",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 181,
+      "end_char": 187,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "0d085708-590c-473a-abec-0e4b0114235b",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 384,
+      "end_char": 390,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "c06a3a3a-8631-4b88-8656-26c5c07ff76a",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1496,
+      "end_char": 1502,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "f747bce8-e8d0-4061-b102-2bda4a677a74",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 2",
+      "start_char": 1558,
+      "end_char": 1565,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "d7245b3d-9ad6-43c4-a3be-70cbe44c7976",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 1656,
+      "end_char": 1662,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "cca11c20-7054-4ca2-a9f2-98e9a6e0a6ed",
+      "entity_type": "LEGAL_REF",
+      "text": "ZAKON\no prestanku važenja Zakona o sredstvima solidarnosti za zaposlene koji su\nprivremeno ostali bez posla usled ratnih dejstava",
+      "start_char": 0,
+      "end_char": 129,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "e965d671-87e4-452d-a30d-8edc8463ad67",
+      "entity_type": "LEGAL_REF",
+      "text": "Zakon o sredstvima solidarnosti\nza zaposlene koji su privremeno ostali bez posla usled ratnih dejstava",
+      "start_char": 243,
+      "end_char": 345,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:55:03.410961",
+  "export_timestamp": "2026-06-08T23:55:03.410961",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "9506723c-188e-5191-b615-d3414b65b141",
+        "parent_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Danom stupanja na snagu ovog zakona, prestaje da važi Zakon o sredstvima solidarnosti za zaposlene koji su privremeno ostali bez posla usled ratnih dejstava („Službeni glasnik RS”, broj 33/99).",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "93b78d43-160b-560b-89fc-913c373dc9fc",
+        "parent_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Sredstva koja se na dan stupanja na snagu ovog zakona nalaze na računu Ministarstva za rad i zapošljavanje – sredstva solidarnosti, kao i sredstva koja će se ostvariti na ime vraćanja pozajmica iz sredstava solidarnosti u skladu sa Zakonom o sredstvima solidarnosti za zaposlene koji su privremeno ostali bez posla usled ratnih dejstava, koriste se u skladu sa ovim zakonom. Sredstva koja su ostvarena, odnosno koja će se ostvariti na ime kamata i vraćanja kredita po osnovu ugovora zaključenih u cilju realizacije ekonomsko-socijalnih programa, koriste se za realizaciju usvojenih ekonomsko-socijalnih programa. Sredstva iz stava 2. ovog člana koja preostanu po realizaciji ekonomsko-socijalnih programa, prenose se na račun budžeta Republike Srbije i zajedno sa sredstvima iz stava 1. ovog člana koriste za rešavanje viškova zaposlenih preko ministarstva nadležnog za poslove rada. Stručne poslove realizacije programa iz stava 2. ovog člana obavlja Fond za razvoj Republike Srbije, u skladu sa opštim aktom Fonda. Stručne poslove iz stava 3. ovog člana obavlja ministarstvo nadležno za poslove rada.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "519fee0e-be62-52fd-9ada-e60c812ed738",
+        "parent_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Nadležni organ preduzeće mere za naplatu sredstava iz člana 2. ovog zakona, koja se ne vrate u roku od osam dana od dana dospeća, u skladu sa zakonom.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+        "title": "Član 3"
+      },
+      {
+        "legal_unit_id": "70aa49e4-0cb8-5f49-94dc-1d44dc28a72e",
+        "parent_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+        "unit_type": "article",
+        "number": "4",
+        "ordinal": 4,
+        "heading": null,
+        "content_text": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+        "path": "article:4",
+        "akoma_eid": "article_4",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "bca09693-a988-4271-bdd9-4a4e9806b972",
+        "title": "Član 4"
+      }
+    ],
+    "statistics": {
+      "total_units": 4,
+      "total_articles": 4,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "ministar",
+            "role": null,
+            "responsibilities": [
+              "ministarstvo nadležno za poslove rada."
+            ],
+            "context": "ministarstvo nadležno za poslove rada.",
+            "line_number": 27
+          },
+          {
+            "name": "organ",
+            "role": null,
+            "responsibilities": [
+              "organ preduzeće mere za naplatu sredstava iz člana 2."
+            ],
+            "context": "organ preduzeće mere za naplatu sredstava iz člana 2.",
+            "line_number": 30
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0010037422180175781,
+      "total_elements": 2
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.000997781753540039,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "zakon",
+        "hierarchy_level": 2,
+        "issuing_authority": "Ministarstvo",
+        "legal_basis": [
+          "Zakonom o sredstvima solidarnosti\nza zaposlene koji su privremeno ostali bez posla usled ratnih dejstava",
+          "ovim zakonom",
+          "opštim aktom Fonda",
+          "zakonom"
+        ],
+        "official_gazette": "Službeni glasnik RS\"",
+        "can_override": [
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav"
+        ],
+        "confidence": 0.9
+      },
+      "title": "ZAKON\no prestanku važenja Zakona o sredstvima solidarnosti za zaposlene koji su\nprivremeno ostali bez posla usled ratnih dejstava",
+      "detected_patterns": [
+        "ZAKON\\s+o\\s+[a-zšđčćž\\s]+",
+        "ZAKON\\s+o\\s+[a-zšđčćž\\s]+",
+        "Zakon\\s+o\\s+[a-zšđčćž\\s]+",
+        "Zakon\\s+o\\s+[a-zšđčćž\\s]+",
+        "ovaj\\s+zakon"
+      ],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.00099945068359375,
+      "total_elements": 0
+    }
+  }
+}

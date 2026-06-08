@@ -80,6 +80,13 @@ def process_document(
     output_path.mkdir(parents=True, exist_ok=True)
     
     doc_name = input_path.name
+    
+    # Check if output file already exists
+    output_file = output_path / f"{input_path.stem}_processed.json"
+    if output_file.exists():
+        logger.info(f"  ⏭️  SKIP: Output already exists for {doc_name}")
+        return {'success': True, 'skipped': True, 'reason': 'Output file already exists'}
+    
     start_time = time.time()
     
     try:
@@ -349,8 +356,7 @@ def process_document(
         if semantic_data:
             output['semantic_extraction'] = semantic_data
         
-        # Save JSON
-        output_file = output_path / f"{input_path.stem}_processed.json"
+        # Save JSON (output_file already defined at start)
         with open(output_file, 'w', encoding='utf-8') as f:
             json.dump(output, f, ensure_ascii=False, indent=2)
         

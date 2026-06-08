@@ -53,6 +53,9 @@ data/qdrant_storage/
 data/temp/
 data/cache/
 
+# Qdrant storage (Docker volume)
+qdrant_storage/
+
 # Documents (except sample)
 DOCUMENTS/
 !DOCUMENTS/DEV/

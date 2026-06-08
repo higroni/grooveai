@@ -1,0 +1,239 @@
+{
+  "document_id": "radni_odnosi_0158_000158.pdf",
+  "document_legal_unit_id": "88c0cbe0-c934-4d1a-ab77-af2fc169ffb3",
+  "document_metadata": {
+    "import_run_id": "77442222-43b3-473d-8ce7-cf4606e8386c",
+    "path": "test_data\\documents2\\radni_odnosi_0158_000158.pdf",
+    "title": "Vlada Republike Srbije donosi UREDBU o min imumu procesa rada u Javnom preduzeću",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 3,
+    "processed_at": "2026-06-08T23:58:55.241921"
+  },
+  "document_title": "Vlada Republike Srbije donosi UREDBU o min imumu procesa rada u Javnom preduzeću",
+  "full_text": "Na osnovu člana 2. tačka 2. Zakona o Vladi Republike Srbije („Službeni glasnik RS”, br.\n5/91 i 45/93), a u vezi sa članom 10. stav 2. Zakona o štrajku („Službeni list SRJ”, broj\n29/96),\nVlada Republike Srbije donosi\n\n\nUREDBU\no min imumu procesa rada u Javnom preduzeću „Radio-televizija Srbije”\n\"Službeni glasnik RS\", broj 4 od 23. januara 2003.\n\n\nČlan 1.\nMinimum procesa rada u Javnom preduzeću „Radio-televizija Srbije” obuhvata obavljanje\nposlova kojima se obezbeđuje izvršenje:\n1) planirane proizvodnje informativnog programa radija i televizije;\n2) unapred zakazane i planirane proizvodnje ostalih RTV programa;\n3) emitovanja radio i televizijskih programa po unapred utvrđenoj programskoj šemi;\n4) svih ranije ugovorenih obaveza Javnog preduzeća „Radio-televizija Srbije” prema\ntrećim licima.\n\nČlan 2.\nGeneralni direktor Javnog preduzeća „Radio-televizija Srbije” odrediće način\nobezbeđivanja minimuma procesa rada iz člana 1. ove uredbe, radna mesta i broj izvršilaca\nkoji su dužni da rade i druga pitanja, u skladu sa zakonom i opštim aktima Javnog preduzeća\n„Radio-televizije Srbije”.\n\nČlan 3.\nOva uredba stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n\n05 broj 130-326/2003\nU Beogradu, 23. januara 2003. godine\nVlada Republike Srbije\nPotpredsednik,\nDušan Mihajlović, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "a7452c30-727f-43fd-b613-48420f6334ee",
+      "entity_type": "DATE",
+      "text": "23. januara 2003",
+      "start_char": 328,
+      "end_char": 344,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "90dc591a-aacd-4b18-b55a-d6f323eb7172",
+      "entity_type": "DATE",
+      "text": "23. januara 2003",
+      "start_char": 1240,
+      "end_char": 1256,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "9a57a3ee-eb30-4493-9b11-2e90f470ecde",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 2",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "398dcd95-77bc-4fbd-b759-4ea1755b3653",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 10",
+      "start_char": 115,
+      "end_char": 124,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "e82b0611-08e3-4a7c-9a86-8b0e6372c012",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 348,
+      "end_char": 354,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "e317f351-9910-48a2-bd58-9a356608f201",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 800,
+      "end_char": 806,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "afa62ac1-1d43-416b-8949-e30b706090fc",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 1",
+      "start_char": 924,
+      "end_char": 931,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "4260a38a-c20b-4a3c-8259-15d13f3a00b9",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1095,
+      "end_char": 1101,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:58:55.241921",
+  "export_timestamp": "2026-06-08T23:58:55.241921",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "5ae78df4-0edb-5db2-b3a4-ced23e39b724",
+        "parent_legal_unit_id": "88c0cbe0-c934-4d1a-ab77-af2fc169ffb3",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Minimum procesa rada u Javnom preduzeću „Radio-televizija Srbije” obuhvata obavljanje poslova kojima se obezbeđuje izvršenje: 1) planirane proizvodnje informativnog programa radija i televizije; 2) unapred zakazane i planirane proizvodnje ostalih RTV programa; 3) emitovanja radio i televizijskih programa po unapred utvrđenoj programskoj šemi; 4) svih ranije ugovorenih obaveza Javnog preduzeća „Radio-televizija Srbije” prema trećim licima.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "88c0cbe0-c934-4d1a-ab77-af2fc169ffb3",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "d5fb41ce-6520-526e-9bcb-fed574f09cfd",
+        "parent_legal_unit_id": "88c0cbe0-c934-4d1a-ab77-af2fc169ffb3",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Generalni direktor Javnog preduzeća „Radio-televizija Srbije” odrediće način obezbeđivanja minimuma procesa rada iz člana 1. ove uredbe, radna mesta i broj izvršilaca koji su dužni da rade i druga pitanja, u skladu sa zakonom i opštim aktima Javnog preduzeća „Radio-televizije Srbije”.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "88c0cbe0-c934-4d1a-ab77-af2fc169ffb3",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "00536fda-f864-581e-bac6-561af97a306d",
+        "parent_legal_unit_id": "88c0cbe0-c934-4d1a-ab77-af2fc169ffb3",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Ova uredba stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. 05 broj 130-326/2003 U Beogradu, 23. januara 2003. godine Vlada Republike Srbije Potpredsednik, Dušan Mihajlović, s.r.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "88c0cbe0-c934-4d1a-ab77-af2fc169ffb3",
+        "title": "Član 3"
+      }
+    ],
+    "statistics": {
+      "total_units": 3,
+      "total_articles": 3,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 0
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "uredba",
+        "hierarchy_level": 3,
+        "issuing_authority": "Vlada Republike Srbije",
+        "legal_basis": [
+          "zakonom i opštim aktima Javnog preduzeća\n„Radio-televizije Srbije”"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon"
+        ],
+        "confidence": 0.6
+      },
+      "title": "Vlada Republike Srbije donosi\n\n\nUREDBU",
+      "detected_patterns": [
+        "ova\\s+uredba"
+      ],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    }
+  }
+}

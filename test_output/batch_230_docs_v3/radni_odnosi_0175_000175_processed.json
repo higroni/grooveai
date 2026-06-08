@@ -1,0 +1,196 @@
+{
+  "document_id": "radni_odnosi_0175_000175.pdf",
+  "document_legal_unit_id": "a28a732d-4200-480a-9988-58e69ed119a9",
+  "document_metadata": {
+    "import_run_id": "5658c901-e4b2-4ea5-a291-b7264b24f8db",
+    "path": "test_data\\documents2\\radni_odnosi_0175_000175.pdf",
+    "title": "SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za zdravstvene ustanove čiji je osni",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 2,
+    "processed_at": "2026-06-09T00:02:24.429375"
+  },
+  "document_title": "SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za zdravstvene ustanove čiji je osni",
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje),\nReprezentativni sindikati u oblasti zdravstva na nivou Republike Srbije: Sindikat\nzaposlenih u zdravstvu i socijalnoj zaštiti Srbije i Granski sindikat zdravstva i socijalne\nzaštite „Nezavisnost” i Vlada, 1. decembra 2022. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za zdravstvene ustanove čiji je\nosnivač Republika Srbija, autonomna pokrajina i jedinica lokalne samouprave\n\"Službeni glasnik RS\", broj 135 od 6. decembra 2022.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za zdravstvene ustanove čiji je osnivač Republika\nSrbija, autonomna pokrajina i jedinica lokalne samouprave („Službeni glasnik RS”, br. 96/19\ni 58/20) produžava se do 9. januara 2024. godine.\nČlan 2.\nOvaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nZa Vladu\nMinistar zdravlja,\nprof. dr Danica Grujičić, s.r.\nZa Sindikat zaposlenih u zdravstvu\ni socijalnoj zaštiti Srbije,\ndr Zoran Savić, s.r.\nZa Granski sindikat zdravstva\ni socijalne zaštite „Nezavisnost”,\nZoran Ilić, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "7258bc7d-740b-4644-b9ba-dbfe91d7c96b",
+      "entity_type": "DATE",
+      "text": "9. januara 2024",
+      "start_char": 837,
+      "end_char": 852,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "d74051c5-83db-4834-b177-5148a6653ee3",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "d2d95417-13f7-4bca-8562-045a5d9aa900",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 625,
+      "end_char": 631,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "fc650f36-b8b6-4ace-950f-aa8854c41ac9",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 862,
+      "end_char": 868,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:02:24.429375",
+  "export_timestamp": "2026-06-09T00:02:24.429375",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "09b210c5-0f02-5ef7-8353-ab0348c7ca0c",
+        "parent_legal_unit_id": "a28a732d-4200-480a-9988-58e69ed119a9",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Važenje Posebnog kolektivnog ugovora za zdravstvene ustanove čiji je osnivač Republika Srbija, autonomna pokrajina i jedinica lokalne samouprave („Službeni glasnik RS”, br. 96/19 i 58/20) produžava se do 9. januara 2024. godine.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "a28a732d-4200-480a-9988-58e69ed119a9",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "a5a411ee-c34a-5f6b-a763-167376a3ca4c",
+        "parent_legal_unit_id": "a28a732d-4200-480a-9988-58e69ed119a9",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Ovaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Za Vladu Ministar zdravlja, prof. dr Danica Grujičić, s.r. Za Sindikat zaposlenih u zdravstvu i socijalnoj zaštiti Srbije, dr Zoran Savić, s.r. Za Granski sindikat zdravstva i socijalne zaštite „Nezavisnost”, Zoran Ilić, s.r.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "a28a732d-4200-480a-9988-58e69ed119a9",
+        "title": "Član 2"
+      }
+    ],
+    "statistics": {
+      "total_units": 2,
+      "total_articles": 2,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministar zdravlja,"
+            ],
+            "context": "Ministar zdravlja,",
+            "line_number": 18
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.00099945068359375,
+      "total_elements": 1
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": null,
+        "legal_basis": [
+          "26"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": "zaposlenih u zdravstvu i socijalnoj zaštiti Srbije i Granski sindikat zdravstva i socijalne",
+      "detected_patterns": [],
+      "processing_time": 0.0009999275207519531
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    }
+  }
+}

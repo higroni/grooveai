@@ -1,0 +1,317 @@
+{
+  "document_id": "radni_odnosi_0233_000233.pdf",
+  "document_legal_unit_id": "a4382326-5e4b-4c5f-a2ef-9b7a98a82f6a",
+  "document_metadata": {
+    "import_run_id": "d9841d00-1001-44fb-82c6-1a02ed2e6035",
+    "path": "test_data\\documents2\\radni_odnosi_0233_000233.pdf",
+    "title": "sporazumno donose PRAVILNIK o bližim uslovima za obavljanje psihološke delatnosti preduzetnika",
+    "document_type": "regulation",
+    "language_code": "sr",
+    "legal_units_count": 4,
+    "processed_at": "2026-06-09T00:06:51.491526"
+  },
+  "document_title": "sporazumno donose PRAVILNIK o bližim uslovima za obavljanje psihološke delatnosti preduzetnika",
+  "full_text": "Na osnovu člana 9. stav 2. Zakona o uslovima za obavljanje psihološke delatnosti\n(„Službeni glasnik Republike Srbije”, broj 25/96),\nMinistar za rad, boračka i socijalna pitanja, ministar prosvete i ministar za zdravlje\nsporazumno donose\n\n\nPRAVILNIK\no bližim uslovima za obavljanje psihološke delatnosti preduzetnika\n„Službeni glasnik RS”, broj 30 od 25. avgusta 1998.\n\n\nČlan 1.\nOvim pravilnikom bliže se propisuju uslovi za obavljanje psihološke delatnosti\npreduzetnika.\n\nČlan 2.\nPreduzetnik može početi s radom i obavljati psihološku delatnost ako ima obezbeđenu\nprostoriju za rad s ispitanikom, zvučno i termički izolovanu, sa obezbeđenim grejanjem,\nelektričnim osvetljenjem, direktnom telefonskom linijom i sa obezbeđenim korišćenjem\nsanitarnog čvora sa tekućom toplom i hladnom vodom.\nProstorija iz stava 1. ovog člana treba da ima površinu od najmanje 9 m2, a ako\npreduzetnik obavlja grupno ispitivanje ili grupni savetodavni i terapeutski rad, površinu\nod najmanje 25 m2.\nU prostoriji iz stava 1. ovog člana treba da bude najmanje četiri stolice, a ako\npreduzetnik obavlja grupna ispitivanja ili grupni savetodavni i terapeutski rad i po jednu\nstolicu za svakog člana grupe.\nProzori u prostoriji iz stava 1. ovog člana treba da imaju zavese, odnosno druge\nzastore.\n\nČlan 3.\nKad je psihološka delatnost preduzetnika vezana za korišćenje mernih instrumenata,\nprostorija za ispitanika treba da ima orman obezbeđen ključem sa policom za odlaganje\npsiholoških mernih instrumenata i dokumetnacije, a ako se dokumentacija o ispitanicima\nvodi kompjuterski treba da bude na odgovarajući način zaštićena.\n\nČlan 4.\nOvaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n\nBroj 011-00-35/98-10\nU Beogradu, 10. avgusta 1998. godine\n\nMinistar\nza zdravlje,\ndr Leposava Milićević, s. r.\n\nMinistar prosvete,\nprof. dr Jovo Todorović, s. r.\n\nMinistar\nza rad, boračka\ni socijalna pitanja,\nTomisl av Milenković, s. r.",
+  "document_entities": [
+    {
+      "entity_id": "f96a8338-48c8-4308-a684-7f388e27a661",
+      "entity_type": "DATE",
+      "text": "25. avgusta 1998",
+      "start_char": 350,
+      "end_char": 366,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "40a5f7fd-56ef-4bb5-9bac-0e748e1cb86c",
+      "entity_type": "DATE",
+      "text": "10. avgusta 1998",
+      "start_char": 1748,
+      "end_char": 1764,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "810bffa4-3d7d-4a56-9010-ccc8b256b51b",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 9",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "2c7818ee-c401-4395-b455-ed5b92c78458",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 370,
+      "end_char": 376,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "bdbdfd26-e5a5-40cc-8d3d-4963326868aa",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 472,
+      "end_char": 478,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "4aec23ca-3630-4386-a441-38ecc7aa4089",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1272,
+      "end_char": 1278,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "b0e5d6c0-9218-4585-bdef-aad0dffd444c",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 1602,
+      "end_char": 1608,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "5212f74d-68c0-4b2c-954d-9f978491818c",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no bližim uslovima za obavljanje psihološke delatnosti preduzetnika",
+      "start_char": 239,
+      "end_char": 315,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:06:51.491526",
+  "export_timestamp": "2026-06-09T00:06:51.491526",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "7b2ba1db-2998-5f8d-8ab0-9be52ccce645",
+        "parent_legal_unit_id": "a4382326-5e4b-4c5f-a2ef-9b7a98a82f6a",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Ovim pravilnikom bliže se propisuju uslovi za obavljanje psihološke delatnosti preduzetnika.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "a4382326-5e4b-4c5f-a2ef-9b7a98a82f6a",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "704c4af0-e7e2-5f69-b992-7ad2c4114fb1",
+        "parent_legal_unit_id": "a4382326-5e4b-4c5f-a2ef-9b7a98a82f6a",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Preduzetnik može početi s radom i obavljati psihološku delatnost ako ima obezbeđenu prostoriju za rad s ispitanikom, zvučno i termički izolovanu, sa obezbeđenim grejanjem, električnim osvetljenjem, direktnom telefonskom linijom i sa obezbeđenim korišćenjem sanitarnog čvora sa tekućom toplom i hladnom vodom. Prostorija iz stava 1. ovog člana treba da ima površinu od najmanje 9 m2, a ako preduzetnik obavlja grupno ispitivanje ili grupni savetodavni i terapeutski rad, površinu od najmanje 25 m2. U prostoriji iz stava 1. ovog člana treba da bude najmanje četiri stolice, a ako preduzetnik obavlja grupna ispitivanja ili grupni savetodavni i terapeutski rad i po jednu stolicu za svakog člana grupe. Prozori u prostoriji iz stava 1. ovog člana treba da imaju zavese, odnosno druge zastore.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "a4382326-5e4b-4c5f-a2ef-9b7a98a82f6a",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "1cd82197-c80f-5819-b5b5-dcb4a1c3fa7b",
+        "parent_legal_unit_id": "a4382326-5e4b-4c5f-a2ef-9b7a98a82f6a",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Kad je psihološka delatnost preduzetnika vezana za korišćenje mernih instrumenata, prostorija za ispitanika treba da ima orman obezbeđen ključem sa policom za odlaganje psiholoških mernih instrumenata i dokumetnacije, a ako se dokumentacija o ispitanicima vodi kompjuterski treba da bude na odgovarajući način zaštićena.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "a4382326-5e4b-4c5f-a2ef-9b7a98a82f6a",
+        "title": "Član 3"
+      },
+      {
+        "legal_unit_id": "7b636663-1592-57f0-a047-7d0d1b251bce",
+        "parent_legal_unit_id": "a4382326-5e4b-4c5f-a2ef-9b7a98a82f6a",
+        "unit_type": "article",
+        "number": "4",
+        "ordinal": 4,
+        "heading": null,
+        "content_text": "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Broj 011-00-35/98-10 U Beogradu, 10. avgusta 1998. godine Ministar za zdravlje, dr Leposava Milićević, s. r. Ministar prosvete, prof. dr Jovo Todorović, s. r. Ministar za rad, boračka i socijalna pitanja, Tomisl av Milenković, s. r.",
+        "path": "article:4",
+        "akoma_eid": "article_4",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "a4382326-5e4b-4c5f-a2ef-9b7a98a82f6a",
+        "title": "Član 4"
+      }
+    ],
+    "statistics": {
+      "total_units": 4,
+      "total_articles": 4,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [
+        {
+          "text": "ovog člana treba da ima površinu od najmanje 9 m2,",
+          "confidence": 0.8
+        },
+        {
+          "text": "ovog člana treba da bude najmanje četiri stolice,",
+          "confidence": 0.8
+        },
+        {
+          "text": "ovog člana treba da imaju zavese,",
+          "confidence": 0.8
+        },
+        {
+          "text": "prostorija za ispitanika treba da ima orman obezbeđen ključem sa policom za odlaganje\npsiholoških mernih instrumenata i dokumetnacije,",
+          "confidence": 0.8
+        },
+        {
+          "text": "ako se dokumentacija o ispitanicima\nvodi kompjuterski treba da bude na odgovarajući način zaštićena.",
+          "confidence": 0.8
+        }
+      ],
+      "prohibitions": [],
+      "permissions": [
+        {
+          "text": "Preduzetnik može početi s radom i obavljati psihološku delatnost ako ima obezbeđenu\nprostoriju za rad s ispitanikom,",
+          "confidence": 0.8
+        }
+      ],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 7
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [
+          {
+            "step_number": null,
+            "action": "vršinu od najmanje 9 m2,",
+            "actor": null,
+            "deadline": null,
+            "context": "vršinu od najmanje 9 m2,",
+            "line_number": 21
+          }
+        ],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministar za rad,",
+              "Ministar prosvete,"
+            ],
+            "context": "Ministar za rad,",
+            "line_number": 3
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0009992122650146484,
+      "total_elements": 2
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009987354278564453,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "pravilnik",
+        "hierarchy_level": 4,
+        "issuing_authority": null,
+        "legal_basis": [],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba"
+        ],
+        "confidence": 0.8
+      },
+      "title": "sporazumno donose\n\n\nPRAVILNIK\no bližim uslovima za obavljanje psihološke delatnosti preduzetnika",
+      "detected_patterns": [
+        "PRAVILNIK\\s+o\\s+[a-zšđčćž\\s]+",
+        "Pravilnik\\s+o\\s+[a-zšđčćž\\s]+",
+        "ovaj\\s+pravilnik"
+      ],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [
+          {
+            "type": "minimum",
+            "value": "9",
+            "unit": "m",
+            "context": "najmanje 9 m2,",
+            "applies_to": null,
+            "line_number": 21
+          },
+          {
+            "type": "minimum",
+            "value": "25",
+            "unit": "m",
+            "context": "najmanje 25 m2.",
+            "applies_to": null,
+            "line_number": 23
+          }
+        ],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0009996891021728516,
+      "total_elements": 2
+    }
+  }
+}

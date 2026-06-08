@@ -1,0 +1,168 @@
+{
+  "document_id": "radni_odnosi_0219_000219.pdf",
+  "document_legal_unit_id": "980d4d71-aca6-49d3-867d-2e05fbdc8630",
+  "document_metadata": {
+    "import_run_id": "87b40eeb-7904-4307-b7c6-88a6cda7395d",
+    "path": "test_data\\documents2\\radni_odnosi_0219_000219.pdf",
+    "title": "Na osnovu člana 257. stav 1. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,",
+    "document_type": "law",
+    "language_code": "sr",
+    "legal_units_count": 0,
+    "processed_at": "2026-06-09T00:06:32.998258"
+  },
+  "document_title": "Na osnovu člana 257. stav 1. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,",
+  "full_text": "Na osnovu člana 257. stav 1. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje) i člana 43. stav 1. Zakona o\nVladi („Službeni glasnik RS”, br. 55/05, 71/05 – ispravka, 101/07, 65/08, 16/11, 68/12 – US,\n72/12, 7/14 – US, 44/14 i 30/18 – dr. zakon),\nVlada donosi\nODLUKU\n\"Službeni glasnik RS\", broj 56 od 4. juna 2021.\n1. Poseban kolektivni ugovor za delatnost putne privrede Republike Srbije („Službeni\nglasnik PC”, br. 14/18, 46/18 i 17/21) primenjuje se i na poslodavce koji nisu članovi\nudruženja poslodavaca – učesnika kolektivnog ugovora, a koji obavljaju pretežnu delatnost u\noblasti putne privrede (šifra delatnosti: 42.11), osim na javna preduzeća čiji je osnivač\nRepublika Srbija, autonomna pokrajina ili jedinica lokalne samouprave.\n2. Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n05 broj 11-5207/2021-1\nU Beogradu, 3. juna 2021. godine\nVlada\nPredsednik,\nAna Brnabić, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "8d758f09-57b1-4d90-be1d-1a773cffe82c",
+      "entity_type": "DATE",
+      "text": "4. juna 2021",
+      "start_char": 379,
+      "end_char": 391,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "80d5edb8-8fcd-4745-a2c5-d8f56903f78c",
+      "entity_type": "DATE",
+      "text": "3. juna 2021",
+      "start_char": 956,
+      "end_char": 968,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "4b8fd2f5-a607-408e-ac9f-4f79ff75b121",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 257",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "8a803acf-1778-4c02-a5c6-9ada5405cd2f",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 43",
+      "start_char": 159,
+      "end_char": 167,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:06:32.998258",
+  "export_timestamp": "2026-06-09T00:06:32.998258",
+  "parsed_structure": {
+    "units": [],
+    "statistics": {
+      "total_units": 0,
+      "total_articles": 0,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "poslodavac",
+            "role": null,
+            "responsibilities": [
+              "poslodavaca – učesnika kolektivnog ugovora,"
+            ],
+            "context": "poslodavaca – učesnika kolektivnog ugovora,",
+            "line_number": 10
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 1
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0010743141174316406,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "odluka",
+        "hierarchy_level": 5,
+        "issuing_authority": "Vlada Republike Srbije",
+        "legal_basis": [
+          "25"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik"
+        ],
+        "confidence": 0.7
+      },
+      "title": "Vlada donosi\nODLUKU",
+      "detected_patterns": [
+        "ova\\s+odluka",
+        "donosi\\s+ODLUKU"
+      ],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0010006427764892578,
+      "total_elements": 0
+    }
+  }
+}

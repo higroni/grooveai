@@ -1,0 +1,187 @@
+{
+  "document_id": "radni_odnosi_0177_000177.pdf",
+  "document_legal_unit_id": "16511e4a-3007-4b98-8d29-5b902a7bfebc",
+  "document_metadata": {
+    "import_run_id": "e682dd21-7b9c-484c-8bc1-12d4d7bd1f13",
+    "path": "test_data\\documents2\\radni_odnosi_0177_000177.pdf",
+    "title": "SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za visoko obrazovanje",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 2,
+    "processed_at": "2026-06-09T00:02:27.492599"
+  },
+  "document_title": "SPORAZUM o produženju roka važenja Posebnog kolektivnog ugovora za visoko obrazovanje",
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje),\nReprezentativni sindikati u oblasti visokog obrazovanja na nivou Republike Srbije:\nSindikat obrazovanja Srbije i Sindikat visokog obrazovanja Srbije i Vlada, 14. decembra\n2023. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za visoko obrazovanje\n\"Službeni glasnik RS\", broj 111 od 14. decembra 2023.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za visoko obrazovanje („Službeni glasnik RS”, br.\n86/19, 93/20, 152/20 i 7/23) produžava se do 14. decembra 2026. godine.\nČlan 2.\nOvaj sporazum stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”.\nZa Vladu\nDržavni sekretar u Ministarstvu prosvete,\nZoran Kasalović, s.r.\nZa Sindikat obrazovanja Srbije ,\nmr Valentina Ilić, s.r.\nZa Sindikat visokog obrazovanja Srbije,\nprof. dr Maja Petrović, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "d60c4ef4-0c44-4729-9ab2-b808d5f7f46a",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "55a4d5a8-41fe-41ea-9cd1-023ae3033e3f",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 494,
+      "end_char": 500,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "dc7f1c05-9e7c-4b5c-b1c1-3e0153d6c656",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 661,
+      "end_char": 667,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:02:27.492599",
+  "export_timestamp": "2026-06-09T00:02:27.492599",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "af79059a-3908-5aa5-bc22-f9d8ea992441",
+        "parent_legal_unit_id": "16511e4a-3007-4b98-8d29-5b902a7bfebc",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Važenje Posebnog kolektivnog ugovora za visoko obrazovanje („Službeni glasnik RS”, br. 86/19, 93/20, 152/20 i 7/23) produžava se do 14. decembra 2026. godine.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "16511e4a-3007-4b98-8d29-5b902a7bfebc",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "82c3d18a-a284-5e3e-b167-87e96c550ac8",
+        "parent_legal_unit_id": "16511e4a-3007-4b98-8d29-5b902a7bfebc",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Ovaj sporazum stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”. Za Vladu Državni sekretar u Ministarstvu prosvete, Zoran Kasalović, s.r. Za Sindikat obrazovanja Srbije , mr Valentina Ilić, s.r. Za Sindikat visokog obrazovanja Srbije, prof. dr Maja Petrović, s.r.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "16511e4a-3007-4b98-8d29-5b902a7bfebc",
+        "title": "Član 2"
+      }
+    ],
+    "statistics": {
+      "total_units": 2,
+      "total_articles": 2,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministarstvu prosvete,"
+            ],
+            "context": "Ministarstvu prosvete,",
+            "line_number": 15
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.001001119613647461,
+      "total_elements": 1
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": null,
+        "legal_basis": [
+          "26"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": "SPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za visoko obrazovanje",
+      "detected_patterns": [],
+      "processing_time": 0.0009999275207519531
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    }
+  }
+}

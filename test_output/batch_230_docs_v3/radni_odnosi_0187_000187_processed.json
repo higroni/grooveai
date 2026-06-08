@@ -1,0 +1,229 @@
+{
+  "document_id": "radni_odnosi_0187_000187.pdf",
+  "document_legal_unit_id": "eb9a809a-6ecf-4da1-b7c5-0f533e48477a",
+  "document_metadata": {
+    "import_run_id": "51525f8a-a525-49d1-a6c8-9507f2132325",
+    "path": "test_data\\documents2\\radni_odnosi_0187_000187.pdf",
+    "title": "Na osnovu člana 6. stav 3. Zakona o zaposlenima u autonomnim pokrajinama i jedinicama",
+    "document_type": "law",
+    "language_code": "sr",
+    "legal_units_count": 2,
+    "processed_at": "2026-06-09T00:02:40.176644"
+  },
+  "document_title": "Na osnovu člana 6. stav 3. Zakona o zaposlenima u autonomnim pokrajinama i jedinicama",
+  "full_text": "Na osnovu člana 6. stav 3. Zakona o zaposlenima u autonomnim pokrajinama i jedinicama\nlokalne samouprave („Službeni glasnik RS”, br. 21/16, 113/17, 95/18, 114/21 i 92/23), a u\nvezi sa članom 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US, 113/17, 95/18 – autentično tumačenje i 109/25 – dr. zakon),\nVlada, Stalna konferencija gradova i opština – Savez gradova i opština Srbije i\nreprezentativni sindikat – Sindikat uprave Srbije, 21. maja 2026. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za zaposlene u jedinicama lokalne\nsamouprave\n\"Službeni glasnik RS\", broj 48 od 22. maja 2026.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za zaposlene u jedinicama lokalne samouprave\n(„Službeni glasnik RS”, br. 38/19, 55/20, 51/22, 51/22 – dr. propis, 44/23, 44/23 – dr. propis\ni 48/26) produžava se do 31. maja 2027. godine.\nČlan 2.\nOvaj sporazum stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”.\nZa Sindikat uprave Srbije\nSlađan Bobić, s.r.\nZa Stalnu konferenciju gradova i opština\n– Savez gradova i opština Srbije\nNikola Tarbuk, s.r.\nZa Vladu\nministar državne uprave i lokalne samouprave\nSnežana Paunović, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "908175d6-55a6-4c58-add5-5b8e3f3020c8",
+      "entity_type": "DATE",
+      "text": "21. maja 2026",
+      "start_char": 484,
+      "end_char": 497,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "5e97a088-2ace-4b1d-90a1-5ad7ff083c95",
+      "entity_type": "DATE",
+      "text": "22. maja 2026",
+      "start_char": 661,
+      "end_char": 674,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "d386e930-7518-49b3-ae57-b9a57f917ae0",
+      "entity_type": "DATE",
+      "text": "31. maja 2027",
+      "start_char": 886,
+      "end_char": 899,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "23a7308f-37e3-4751-86ef-0d50769a45a9",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 6",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "f1022018-88a7-40ca-aeca-69c274f1897e",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 263",
+      "start_char": 184,
+      "end_char": 194,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "669dd150-6556-4e89-adff-98cb3967e98c",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 676,
+      "end_char": 682,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "7f623c3c-408a-4617-a3b4-6d076e9dabc0",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 909,
+      "end_char": 915,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "7b8d59d5-8b3a-40a4-bdd9-d4b35cebed5f",
+      "entity_type": "LOCATION",
+      "text": "opština Srbije",
+      "start_char": 416,
+      "end_char": 430,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "5dc3e7ca-81cb-4f35-9ec3-388e4d17ac74",
+      "entity_type": "LOCATION",
+      "text": "opština Srbije",
+      "start_char": 1111,
+      "end_char": 1125,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:02:40.176644",
+  "export_timestamp": "2026-06-09T00:02:40.176644",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "59f986a9-7de8-5c89-89ac-816872c9fb2d",
+        "parent_legal_unit_id": "eb9a809a-6ecf-4da1-b7c5-0f533e48477a",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Važenje Posebnog kolektivnog ugovora za zaposlene u jedinicama lokalne samouprave („Službeni glasnik RS”, br. 38/19, 55/20, 51/22, 51/22 – dr. propis, 44/23, 44/23 – dr. propis i 48/26) produžava se do 31. maja 2027. godine.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "eb9a809a-6ecf-4da1-b7c5-0f533e48477a",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "c60919a3-8ada-55b6-8a31-dedcb466ea1a",
+        "parent_legal_unit_id": "eb9a809a-6ecf-4da1-b7c5-0f533e48477a",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Ovaj sporazum stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”. Za Sindikat uprave Srbije Slađan Bobić, s.r. Za Stalnu konferenciju gradova i opština – Savez gradova i opština Srbije Nikola Tarbuk, s.r. Za Vladu ministar državne uprave i lokalne samouprave Snežana Paunović, s.r.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "eb9a809a-6ecf-4da1-b7c5-0f533e48477a",
+        "title": "Član 2"
+      }
+    ],
+    "statistics": {
+      "total_units": 2,
+      "total_articles": 2,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0010006427764892578,
+      "total_elements": 0
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.001001119613647461,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": null,
+        "legal_basis": [],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": null,
+      "detected_patterns": [],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0010793209075927734,
+      "total_elements": 0
+    }
+  }
+}

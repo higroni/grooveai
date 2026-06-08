@@ -1,0 +1,272 @@
+{
+  "document_id": "radni_odnosi_0102_000102.pdf",
+  "document_legal_unit_id": "fd8a7571-7a84-45f7-87df-f120efce1b20",
+  "document_metadata": {
+    "import_run_id": "3e439061-8cb4-408f-a1f2-0da1ea88cebc",
+    "path": "test_data\\documents2\\radni_odnosi_0102_000102.pdf",
+    "title": "Ministar nadležan za poslove rada donosi PRAVILNIK o sadržini potvrde o radnom angažovanju sezonskog radnika",
+    "document_type": "regulation",
+    "language_code": "sr",
+    "legal_units_count": 3,
+    "processed_at": "2026-06-08T23:54:27.758207"
+  },
+  "document_title": "Ministar nadležan za poslove rada donosi PRAVILNIK o sadržini potvrde o radnom angažovanju sezonskog radnika",
+  "full_text": "Na osnovu člana 5. stav 5. Zakona o pojednostavljenom radnom angažovanju na sezonskim\nposlovima u određenim delatnostima („Službeni glasnik RS”, broj 50/18),\nMinistar nadležan za poslove rada donosi\nPRAVILNIK\no sadržini potvrde o radnom angažovanju sezonskog radnika\n\"Službeni glasnik RS\", broj 67 od 31. avgusta 2018.\nČlan 1.\nOvim pravilnikom propisuju se bliža sadržina i izgled potvrde o radnom angažovanju\nsezonskih radnika.\nČlan 2.\nPotvrda o radnom angažovanju sezonskog radnika (Obrazac) obavezno sadrži podatke utvrđene\nu članu 5. st. 1. i 4. Zakona o pojednostavljenom radnom angažovanju na sezonskim poslovima u\nodređenim delatnostima, kao i izmene ugovorenih uslova rada, a može da sadrži i druge\npodatke o ugovorenim uslovima rada u skladu sa zakonom.\nSvaka potvrda o radnom angažovanju sezonskog radnika popunjava se najmanje u dva primerka\nod kojih se jedan primerak predaje sezonskom radniku, a drugi zadržava poslodavac.\nObrazac je odštampan uz ovaj pravilnik i čini njegov sastavni deo.\nČlan 3.\nOvaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”, a primenjuje se od 7. januara 2019. godine.\nBroj 110-00-638/2018-05\nU Beogradu, 23. avgusta 2018. godine\nMinistar,\nZoran Đorđević, s.r.\nPrilog\nObrazac - Potvrda o radnom angažovanju sezonskog radnika",
+  "document_entities": [
+    {
+      "entity_id": "436dbb42-87b4-4352-a5ab-9260384fda82",
+      "entity_type": "DATE",
+      "text": "31. avgusta 2018",
+      "start_char": 301,
+      "end_char": 317,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "fb822cbd-fad1-4398-81fc-b542c479aad4",
+      "entity_type": "DATE",
+      "text": "7. januara 2019",
+      "start_char": 1134,
+      "end_char": 1149,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "87c2e5e8-6c73-46d1-915f-08b4b4fcad47",
+      "entity_type": "DATE",
+      "text": "23. avgusta 2018",
+      "start_char": 1195,
+      "end_char": 1211,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "04bbbe23-4a10-4a8a-85ab-dea6d8854ed8",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 5",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "d3ff6612-dea1-44af-bbde-b178d5d36f07",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 319,
+      "end_char": 325,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "784f89ab-cfc0-459a-9de3-f421ab1aa38f",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 429,
+      "end_char": 435,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "749e283d-0b44-4d36-a4da-c4ee3c29a128",
+      "entity_type": "LEGAL_REF",
+      "text": "članu 5",
+      "start_char": 529,
+      "end_char": 536,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "47677e40-2ecc-4341-b2c1-37c22a1859c7",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1003,
+      "end_char": 1009,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "e3f2df86-7f4f-487e-beec-e6f151cd3da4",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no sadržini potvrde o radnom angažovanju sezonskog radnika",
+      "start_char": 199,
+      "end_char": 266,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:54:27.758207",
+  "export_timestamp": "2026-06-08T23:54:27.758207",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "b837d775-6866-53ed-b6c8-565055f6cf2a",
+        "parent_legal_unit_id": "fd8a7571-7a84-45f7-87df-f120efce1b20",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Ovim pravilnikom propisuju se bliža sadržina i izgled potvrde o radnom angažovanju sezonskih radnika.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "fd8a7571-7a84-45f7-87df-f120efce1b20",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "d21031bb-4966-5549-b223-5844a9fadd6f",
+        "parent_legal_unit_id": "fd8a7571-7a84-45f7-87df-f120efce1b20",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Potvrda o radnom angažovanju sezonskog radnika (Obrazac) obavezno sadrži podatke utvrđene u članu 5. st. 1. i 4. Zakona o pojednostavljenom radnom angažovanju na sezonskim poslovima u određenim delatnostima, kao i izmene ugovorenih uslova rada, a može da sadrži i druge podatke o ugovorenim uslovima rada u skladu sa zakonom. Svaka potvrda o radnom angažovanju sezonskog radnika popunjava se najmanje u dva primerka od kojih se jedan primerak predaje sezonskom radniku, a drugi zadržava poslodavac. Obrazac je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "fd8a7571-7a84-45f7-87df-f120efce1b20",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "c1adff26-a484-54b2-ac31-0f4631a63432",
+        "parent_legal_unit_id": "fd8a7571-7a84-45f7-87df-f120efce1b20",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, a primenjuje se od 7. januara 2019. godine. Broj 110-00-638/2018-05 U Beogradu, 23. avgusta 2018. godine Ministar, Zoran Đorđević, s.r. Prilog Obrazac - Potvrda o radnom angažovanju sezonskog radnika",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "fd8a7571-7a84-45f7-87df-f120efce1b20",
+        "title": "Član 3"
+      }
+    ],
+    "statistics": {
+      "total_units": 3,
+      "total_articles": 3,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "radnik",
+            "role": null,
+            "responsibilities": [
+              "radnika.",
+              "radniku,"
+            ],
+            "context": "radnika.",
+            "line_number": 9
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0011017322540283203,
+      "total_elements": 1
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009992122650146484,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        },
+        {
+          "type": "effective_date",
+          "value": "primenjuje se od 7",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "primenjuje se od 7",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 2
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "pravilnik",
+        "hierarchy_level": 4,
+        "issuing_authority": "Ministarstvo",
+        "legal_basis": [
+          "zakonom"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba"
+        ],
+        "confidence": 0.9
+      },
+      "title": "Ministar nadležan za poslove rada donosi\nPRAVILNIK\no sadržini potvrde o radnom angažovanju sezonskog radnika",
+      "detected_patterns": [
+        "PRAVILNIK\\s+o\\s+[a-zšđčćž\\s]+",
+        "Pravilnik\\s+o\\s+[a-zšđčćž\\s]+",
+        "ovaj\\s+pravilnik",
+        "ovaj\\s+pravilnik"
+      ],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0010023117065429688,
+      "total_elements": 0
+    }
+  }
+}

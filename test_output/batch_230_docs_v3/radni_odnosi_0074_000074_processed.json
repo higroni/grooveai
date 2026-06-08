@@ -1,0 +1,246 @@
+{
+  "document_id": "radni_odnosi_0074_000074.pdf",
+  "document_legal_unit_id": "cde3a899-d77f-4824-bdd2-94a04ee279cc",
+  "document_metadata": {
+    "import_run_id": "9a58efe8-9d53-48df-9ba3-a9e002293f71",
+    "path": "test_data\\documents2\\radni_odnosi_0074_000074.pdf",
+    "title": "upisani u Imenik miritelja i arbitara Republičke agencije za mirno rešavanje radnih sporova",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 3,
+    "processed_at": "2026-06-08T23:53:37.313941"
+  },
+  "document_title": "upisani u Imenik miritelja i arbitara Republičke agencije za mirno rešavanje radnih sporova",
+  "full_text": "Na osnovu člana 49. stav 2. Zakona o mirnom rešavanju radnih sporova („Službeni glasnik\nRS”, br. 125/04, 104/99 i 50/18),\nMinistar za rad, zapošljavanje, boračka i socijalna pitanja donosi\nETIČKI KODEKS\nmiritelja i arbitara\n\"Službeni glasnik RS\", broj 1 od 11. januara 2019.\nČlan 1.\nOvim kodeksom uređuju se etički principi i pravila ponašanja miritelja i arbitara –\nupisani u Imenik miritelja i arbitara Republičke agencije za mirno rešavanje radnih\nsporova (u daljem tekstu: Agencija).\nČlan 2.\nMiritelji i arbitri, tokom postupka mirnog rešavanja individualnih i kolektivnih radnih\nsporova, dužni su da se rukovode i primenjuju etičke principe i opšteprihvaćena pravila\nponašanja i visoke profesionalne standarde ponašanja, a naročito:\n1) da svoje odluke donose na osnovu slobodnog uverenja, zasnovanog na primeni zakona;\n2) da u svom radu budu nezavisni u odnosu na udruženja poslodavaca, sindikate i strane u\nsporu;\n3) da donete preporuke i rešenja zasnivaju na zakonu, izvedenim dokazima, utvrđenim\nčinjenicama, a na osnovu principa objektivnosti;\n4) da prema stranama u sporu postupaju nepristrasno, uz poštovanje pravila postupka, bez\nnaklonosti, predubeđenja ili predrasuda;\n5) da prepoznaju slučajeve koji mogu dovesti do sukoba interesa, da izbegavaju radnje i\naktivnosti koje do toga mogu dovesti i da odbiju prijem poklona ili bilo kakve usluge ili\nkoristi za sebe ili drugog od strana u postupku, njihovih predstavnika ili drugih\nzainteresovanih lica, tokom postupka;\n6) da ne koriste svoju ulogu, odnosno svoje znanje za ostvarivanje privatnih ciljeva, odnosno\ninteresa;\n7) da izbegavaju odnose koji bi doveli ili mogli dovesti do sumnje u njihovu objektivnost i\nnezavisnost;\n8) da se, tokom postupka, ponašaju politički neutralno od svojih uverenja;\n9) da neovlašćeno ne saopštavaju informacije do kojih su došli tokom postupka ili da\ndokumenta iz postupka učine dostupnim trećim licima, osim u opravdanim slučajevima, u\nskladu sa zakonom;\n10) da se staraju o poverljivosti postupka i stranama u sporu ne otkrivaju informacije koje\nim je u poverenju saopštila jedna ili druga strana, bez njihove saglasnosti;\n11) da štite poverljive informacije preduzimanjem odgovarajućih mera i radnji tokom\npostupka kao i kroz vraćanjem prikupljenih dokumenata Agenciji, po okončanju postupka;\n12) da nastoje da uspostavljaju i održavaju saradnju i dobre odnose sa stranama u sporu, uz\npoštovanje pravila postupka;\n13) da postupaju ispravno i časno sa stranama u sporu, podstiču i doprinose poverenju\njavnosti u mirno rešavanje radnih sporova pred Agencijom;\n14) da svojim ponašanjem prema stranama u sporu održe ozbiljnost i pristojnost, budu\nstrpljivi, dostojanstveni i ljubazni;\n15) da tokom postupka stranama u sporu ne daju izjave niti komentare, koji bi mogli da utiču\nili ugroze pravičnost postupka;\n16) da se u komunikaciji sa medijima uzdrže bilo kakvog ličnog isticanja i komentarisanja\nkojim se otežava ili ugrožava postupak;\n17) da nastoje da svoju profesionalnu osposobljenost i kompetencije stalno unapređuju, kroz\nobuke koje planira i realizuje Agencija;\n18) da svojim ličnim angažovanjem unapređuju praksu mirnog rešavanja radnih sporova i\nsaradnju sa stručnjacima iz drugih oblasti koje su od značaja za mirno rešavanje radnih\nsporova.\nČlan 3.\nOvaj kodeks stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike\nSrbije”.\nBroj 110-00-00754/2018-05\nU Beogradu, 24. decembra 2018. godine\nMinistar,\nZoran Đorđević, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "1171367a-53d1-4833-b95f-29094692924b",
+      "entity_type": "DATE",
+      "text": "11. januara 2019",
+      "start_char": 257,
+      "end_char": 273,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "bb59beae-1c72-4e40-b1b7-1af872d23c9a",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 49",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "432f4dc5-1004-4c61-a2c9-71e2f2ead7f2",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 275,
+      "end_char": 281,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "1beb2540-f024-42c6-9073-3120fef86bcc",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 488,
+      "end_char": 494,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "a9dbafbb-ef7f-493d-9dbb-b4f629f0e198",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 3254,
+      "end_char": 3260,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:53:37.313941",
+  "export_timestamp": "2026-06-08T23:53:37.313941",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "371a6ed6-4a33-5ebd-9c50-f1281ff4d6ab",
+        "parent_legal_unit_id": "cde3a899-d77f-4824-bdd2-94a04ee279cc",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Ovim kodeksom uređuju se etički principi i pravila ponašanja miritelja i arbitara – upisani u Imenik miritelja i arbitara Republičke agencije za mirno rešavanje radnih sporova (u daljem tekstu: Agencija).",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "cde3a899-d77f-4824-bdd2-94a04ee279cc",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "f06c446b-4a9b-5986-9e05-233e896b1334",
+        "parent_legal_unit_id": "cde3a899-d77f-4824-bdd2-94a04ee279cc",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Miritelji i arbitri, tokom postupka mirnog rešavanja individualnih i kolektivnih radnih sporova, dužni su da se rukovode i primenjuju etičke principe i opšteprihvaćena pravila ponašanja i visoke profesionalne standarde ponašanja, a naročito: 1) da svoje odluke donose na osnovu slobodnog uverenja, zasnovanog na primeni zakona; 2) da u svom radu budu nezavisni u odnosu na udruženja poslodavaca, sindikate i strane u sporu; 3) da donete preporuke i rešenja zasnivaju na zakonu, izvedenim dokazima, utvrđenim činjenicama, a na osnovu principa objektivnosti; 4) da prema stranama u sporu postupaju nepristrasno, uz poštovanje pravila postupka, bez naklonosti, predubeđenja ili predrasuda; 5) da prepoznaju slučajeve koji mogu dovesti do sukoba interesa, da izbegavaju radnje i aktivnosti koje do toga mogu dovesti i da odbiju prijem poklona ili bilo kakve usluge ili koristi za sebe ili drugog od strana u postupku, njihovih predstavnika ili drugih zainteresovanih lica, tokom postupka; 6) da ne koriste svoju ulogu, odnosno svoje znanje za ostvarivanje privatnih ciljeva, odnosno interesa; 7) da izbegavaju odnose koji bi doveli ili mogli dovesti do sumnje u njihovu objektivnost i nezavisnost; 8) da se, tokom postupka, ponašaju politički neutralno od svojih uverenja; 9) da neovlašćeno ne saopštavaju informacije do kojih su došli tokom postupka ili da dokumenta iz postupka učine dostupnim trećim licima, osim u opravdanim slučajevima, u skladu sa zakonom; 10) da se staraju o poverljivosti postupka i stranama u sporu ne otkrivaju informacije koje im je u poverenju saopštila jedna ili druga strana, bez njihove saglasnosti; 11) da štite poverljive informacije preduzimanjem odgovarajućih mera i radnji tokom postupka kao i kroz vraćanjem prikupljenih dokumenata Agenciji, po okončanju postupka; 12) da nastoje da uspostavljaju i održavaju saradnju i dobre odnose sa stranama u sporu, uz poštovanje pravila postupka; 13) da postupaju ispravno i časno sa stranama u sporu, podstiču i doprinose poverenju javnosti u mirno rešavanje radnih sporova pred Agencijom; 14) da svojim ponašanjem prema stranama u sporu održe ozbiljnost i pristojnost, budu strpljivi, dostojanstveni i ljubazni; 15) da tokom postupka stranama u sporu ne daju izjave niti komentare, koji bi mogli da utiču ili ugroze pravičnost postupka; 16) da se u komunikaciji sa medijima uzdrže bilo kakvog ličnog isticanja i komentarisanja kojim se otežava ili ugrožava postupak; 17) da nastoje da svoju profesionalnu osposobljenost i kompetencije stalno unapređuju, kroz obuke koje planira i realizuje Agencija; 18) da svojim ličnim angažovanjem unapređuju praksu mirnog rešavanja radnih sporova i saradnju sa stručnjacima iz drugih oblasti koje su od značaja za mirno rešavanje radnih sporova.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "cde3a899-d77f-4824-bdd2-94a04ee279cc",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "76dd4aaf-82fd-524c-8284-a7cf595a9f14",
+        "parent_legal_unit_id": "cde3a899-d77f-4824-bdd2-94a04ee279cc",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Ovaj kodeks stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Broj 110-00-00754/2018-05 U Beogradu, 24. decembra 2018. godine Ministar, Zoran Đorđević, s.r.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "cde3a899-d77f-4824-bdd2-94a04ee279cc",
+        "title": "Član 3"
+      }
+    ],
+    "statistics": {
+      "total_units": 3,
+      "total_articles": 3,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "poslodavac",
+            "role": null,
+            "responsibilities": [
+              "poslodavaca,"
+            ],
+            "context": "poslodavaca,",
+            "line_number": 16
+          },
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministar za rad,"
+            ],
+            "context": "Ministar za rad,",
+            "line_number": 3
+          },
+          {
+            "name": "sud",
+            "role": null,
+            "responsibilities": [
+              "suda;"
+            ],
+            "context": "suda;",
+            "line_number": 21
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.003999948501586914,
+      "total_elements": 3
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [
+          {
+            "exception_text": "u opravdanim slučajevima,",
+            "exception_type": "unless",
+            "context": "osim u opravdanim slučajevima,",
+            "line_number": 32
+          }
+        ],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.002000093460083008,
+      "total_elements": 1
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike\nSrbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike\nSrbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": null,
+        "legal_basis": [
+          "4",
+          "zakonom"
+        ],
+        "official_gazette": "Službeni glasnik\nRS”",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": "ETIČKI KODEKS\nmiritelja i arbitara",
+      "detected_patterns": [],
+      "processing_time": 0.0010004043579101562
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0009992122650146484,
+      "total_elements": 0
+    }
+  }
+}

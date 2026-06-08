@@ -1,0 +1,474 @@
+{
+  "document_id": "radni_odnosi_0056_000056.pdf",
+  "document_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+  "document_metadata": {
+    "import_run_id": "2524214f-858f-4f05-a7d5-666d83303e18",
+    "path": "test_data\\documents2\\radni_odnosi_0056_000056.pdf",
+    "title": "PRAVILNIK o postupku utvrđivanja ispunjenosti propisanih uslova u oblasti bezbednosti i zdravlja na radu",
+    "document_type": "regulation",
+    "language_code": "sr",
+    "legal_units_count": 11,
+    "processed_at": "2026-06-08T23:52:50.292907"
+  },
+  "document_title": "PRAVILNIK o postupku utvrđivanja ispunjenosti propisanih uslova u oblasti bezbednosti i zdravlja na radu",
+  "full_text": "Na osnovu člana 18. stav 6. Zakona o bezbednosti i zdravlju na radu („Službeni glasnik\nRS”, broj 101/05),\nMinistar rada, zapošljavanja i socijalne politike donosi\n\n\nPRAVILNIK\no postupku utvrđivanja ispunjenosti propisanih uslova u oblasti bezbednosti i\nzdravlja na radu\n\"Službeni glasnik RS\", broj 60 od 14. jula 2006.\n\n\nČlan 1.\nOvim pravilnikom uređuje se postupak utvrđivanja ispunjenosti propisanih uslova u\noblasti bezbednosti i zdravlja na radu.\n\nČlan 2.\nPostupak utvrđivanja ispunjenosti propisanih uslova u oblasti bezbednosti i zdravlja\nna radu vrši se, u skladu sa zakonom, pre početka obavljanja delatnosti poslodavca.\nZahtev za utvrđivanje ispunjenosti propisanih uslova u oblasti bezbednosti i zdravlja\nna radu (u daljem tekstu: zahtev) podnosi poslodavac.\nZahtev se, u skladu sa zakonom, podnosi ministarstvu nadležnom za poslove rada –\ninspekciji rada, najmanje osam dana pre početka obavljanja delatnosti poslodavca.\nU zahtevu poslodavac navodi delatnost koju će obavljati i površinu radnog i pomoćnog\nprostora u kome će navedenu delatnost obavljati, a za koju se traži utvrđivanje ispunjenosti\npropisanih uslova u oblasti bezbednosti i zdravlja na radu.\nUz zahtev poslodavac prilaže:\n1) šematski prikaz sredstava za rad (radni i pomoćni prostor i položaj opreme za rad\nkoja se koristi u procesu rada);\n2) dokaz o primenjenim propisanim merama u oblasti bezbednosti i zdravlja na radu za\nopremu za rad sa dokumentacijom za njenu upotrebu i održavanje u ispravnom stanju;\n3) dokaz o izvršenoj uplati troškova utvrđivanja ispunjenosti propisanih uslova u\noblasti bezbednosti i zdravlja na radu.\n\nČlan 3.\nIspunjenost propisanih uslova u oblasti bezbednosti i zdravlja na radu utvrđuje\ninspektor rada, najkasnije u roku od pet dana od dana prijema urednog zahteva.\n\nČlan 4.\nPostupak utvrđivanja ispunjenosti propisanih uslova u oblasti bezbednosti i zdravlja\nna radu obuhvata proveru podataka iz zahteva i pregled sredstava za rad i radne okoline.\n\nČlan 5.\nProverom podataka iz zahteva utvrđuje se usaglašenost stvarnog stanja sa dostavljenim\npodacima iz zahteva.\n\nČlan 6.\nPregledom sredstava za rad utvrđuje se ispunjenost propisanih uslova u oblasti\nbezbednosti i zdravlja na radu u objektu koji se koristi kao radni i pomoćni prostor,\nuključujući i objekat na otvorenom prostoru, sa svim pripadajućim instalacijama i opremom\nza rad koja se koristi u procesu rada.\n\nČlan 7.\nPregledom radne okoline utvrđuje se ispunjenost propisanih uslova u oblasti\nbezbednosti i zdravlja na radu za sva radna mesta kod poslodavca, kao i za radne uslove\n(zagrevanje, provetravanje, osvetljenost i dr.).\n\nČlan 8.\nPo izvršenom pregledu inspektor rada sastavlja zapisnik kojim utvrđuje da su\nispunjeni propisani uslovi u oblasti bezbednosti i zdravlja na radu za obavljanje delatnosti\niz zahteva poslodavca i u roku od tri dana od dana sastavljanja zapisnika donosi rešenje o\nispunjenosti propisanih uslova u oblasti bezbednosti i zdravlja na radu.\n\nČlan 9.\nAko u postupku utvrđivanja ispunjenosti propisanih uslova u oblasti bezbednosti i\nzdravlja na radu inspektor rada utvrdi da nisu ispunjeni propisani uslovi, zapisnikom\nnalaže poslodavcu da otkloni utvrđene nepravilnosti i određuje mu rok za njihovo\notklanjanje.\n\nČlan 10.\nDanom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o postupku\nutvrđivanja ispunjenosti propisanih uslova iz zaštite na radu („Službeni glasnik RS”, broj\n7/99).\n\nČlan 11.\nOvaj pravilnik stupa na snagu osmog dana od objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n\nBroj 110-00-442/2006-20\nU Beogradu, 23. juna 2006. godine\nMinistar,\nSlobodan Lalović, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "7e24b26f-d0e6-4839-8682-968717ffaef7",
+      "entity_type": "DATE",
+      "text": "14. jula 2006",
+      "start_char": 304,
+      "end_char": 317,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "33187478-d2bf-409a-a64c-2a43faec9fe6",
+      "entity_type": "DATE",
+      "text": "23. juna 2006",
+      "start_char": 3546,
+      "end_char": 3559,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "43f4a12a-eba7-4acb-be3f-783ac5fbf1b6",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 18",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "a39889c5-c27b-418f-8a64-38a0d70b825e",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 321,
+      "end_char": 327,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "c3207eb3-d4dd-451e-9a11-8be5a6411f69",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 452,
+      "end_char": 458,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "b3cda8b6-a64c-42dd-b67d-e550dbaa33a1",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1609,
+      "end_char": 1615,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "5fd93f93-9b43-4cc8-ab92-c4f6b0c1ee7c",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 1777,
+      "end_char": 1783,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "d53fbb69-847c-45f2-9158-3379abe78181",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 1960,
+      "end_char": 1966,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "f16dcfc7-81b1-4a84-bc3d-b6c03c59f173",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 2076,
+      "end_char": 2082,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "5349d875-a05f-49e8-9292-a2b594f76a80",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 7",
+      "start_char": 2379,
+      "end_char": 2385,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "fe5a7ef3-8094-4868-9cd1-854fc6a20680",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 8",
+      "start_char": 2601,
+      "end_char": 2607,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "dc5c5611-56e5-4d71-a275-8c5500e428b0",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 9",
+      "start_char": 2944,
+      "end_char": 2950,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "92f24585-3a31-4a71-a0fa-222c7456e30c",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 10",
+      "start_char": 3215,
+      "end_char": 3222,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "eac0762c-89d4-493b-ac77-caab4d7d8ea1",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 11",
+      "start_char": 3401,
+      "end_char": 3408,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "fda0296f-4e6d-482b-b120-5c5592d378c3",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no postupku utvrđivanja ispunjenosti propisanih uslova u oblasti bezbednosti i\nzdravlja na radu",
+      "start_char": 165,
+      "end_char": 269,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "45c3695e-6e87-40d4-ba0d-e01c59f257ce",
+      "entity_type": "LEGAL_REF",
+      "text": "Pravilnik o postupku\nutvrđivanja ispunjenosti propisanih uslova iz zaštite na radu",
+      "start_char": 3281,
+      "end_char": 3363,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:52:50.292907",
+  "export_timestamp": "2026-06-08T23:52:50.292907",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "d0a4ce39-f620-50fe-9cc2-870f03ab70a7",
+        "parent_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Ovim pravilnikom uređuje se postupak utvrđivanja ispunjenosti propisanih uslova u oblasti bezbednosti i zdravlja na radu.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "c7985640-9651-56d6-a33c-0b1074632848",
+        "parent_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Postupak utvrđivanja ispunjenosti propisanih uslova u oblasti bezbednosti i zdravlja na radu vrši se, u skladu sa zakonom, pre početka obavljanja delatnosti poslodavca. Zahtev za utvrđivanje ispunjenosti propisanih uslova u oblasti bezbednosti i zdravlja na radu (u daljem tekstu: zahtev) podnosi poslodavac. Zahtev se, u skladu sa zakonom, podnosi ministarstvu nadležnom za poslove rada – inspekciji rada, najmanje osam dana pre početka obavljanja delatnosti poslodavca. U zahtevu poslodavac navodi delatnost koju će obavljati i površinu radnog i pomoćnog prostora u kome će navedenu delatnost obavljati, a za koju se traži utvrđivanje ispunjenosti propisanih uslova u oblasti bezbednosti i zdravlja na radu. Uz zahtev poslodavac prilaže: 1) šematski prikaz sredstava za rad (radni i pomoćni prostor i položaj opreme za rad koja se koristi u procesu rada); 2) dokaz o primenjenim propisanim merama u oblasti bezbednosti i zdravlja na radu za opremu za rad sa dokumentacijom za njenu upotrebu i održavanje u ispravnom stanju; 3) dokaz o izvršenoj uplati troškova utvrđivanja ispunjenosti propisanih uslova u oblasti bezbednosti i zdravlja na radu.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "04b5489a-1452-5bec-941f-535477d36c04",
+        "parent_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Ispunjenost propisanih uslova u oblasti bezbednosti i zdravlja na radu utvrđuje inspektor rada, najkasnije u roku od pet dana od dana prijema urednog zahteva.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "title": "Član 3"
+      },
+      {
+        "legal_unit_id": "1907bb0e-b55e-5560-beb7-331c10d67fa1",
+        "parent_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "unit_type": "article",
+        "number": "4",
+        "ordinal": 4,
+        "heading": null,
+        "content_text": "Postupak utvrđivanja ispunjenosti propisanih uslova u oblasti bezbednosti i zdravlja na radu obuhvata proveru podataka iz zahteva i pregled sredstava za rad i radne okoline.",
+        "path": "article:4",
+        "akoma_eid": "article_4",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "title": "Član 4"
+      },
+      {
+        "legal_unit_id": "9ad4834f-7bc5-52ab-9e33-38e3369ba2de",
+        "parent_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "unit_type": "article",
+        "number": "5",
+        "ordinal": 5,
+        "heading": null,
+        "content_text": "Proverom podataka iz zahteva utvrđuje se usaglašenost stvarnog stanja sa dostavljenim podacima iz zahteva.",
+        "path": "article:5",
+        "akoma_eid": "article_5",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "title": "Član 5"
+      },
+      {
+        "legal_unit_id": "77999f4c-8b75-5c7b-8e35-ccea153c1df4",
+        "parent_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "unit_type": "article",
+        "number": "6",
+        "ordinal": 6,
+        "heading": null,
+        "content_text": "Pregledom sredstava za rad utvrđuje se ispunjenost propisanih uslova u oblasti bezbednosti i zdravlja na radu u objektu koji se koristi kao radni i pomoćni prostor, uključujući i objekat na otvorenom prostoru, sa svim pripadajućim instalacijama i opremom za rad koja se koristi u procesu rada.",
+        "path": "article:6",
+        "akoma_eid": "article_6",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "title": "Član 6"
+      },
+      {
+        "legal_unit_id": "d582b3ce-0bd5-55e0-b5f8-9e457d092329",
+        "parent_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "unit_type": "article",
+        "number": "7",
+        "ordinal": 7,
+        "heading": null,
+        "content_text": "Pregledom radne okoline utvrđuje se ispunjenost propisanih uslova u oblasti bezbednosti i zdravlja na radu za sva radna mesta kod poslodavca, kao i za radne uslove (zagrevanje, provetravanje, osvetljenost i dr.).",
+        "path": "article:7",
+        "akoma_eid": "article_7",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "title": "Član 7"
+      },
+      {
+        "legal_unit_id": "b11627c9-f435-581c-b7e2-38fdc6d79808",
+        "parent_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "unit_type": "article",
+        "number": "8",
+        "ordinal": 8,
+        "heading": null,
+        "content_text": "Po izvršenom pregledu inspektor rada sastavlja zapisnik kojim utvrđuje da su ispunjeni propisani uslovi u oblasti bezbednosti i zdravlja na radu za obavljanje delatnosti iz zahteva poslodavca i u roku od tri dana od dana sastavljanja zapisnika donosi rešenje o ispunjenosti propisanih uslova u oblasti bezbednosti i zdravlja na radu.",
+        "path": "article:8",
+        "akoma_eid": "article_8",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "title": "Član 8"
+      },
+      {
+        "legal_unit_id": "d8cb830d-c703-5e9e-a76f-c3e046993dc2",
+        "parent_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "unit_type": "article",
+        "number": "9",
+        "ordinal": 9,
+        "heading": null,
+        "content_text": "Ako u postupku utvrđivanja ispunjenosti propisanih uslova u oblasti bezbednosti i zdravlja na radu inspektor rada utvrdi da nisu ispunjeni propisani uslovi, zapisnikom nalaže poslodavcu da otkloni utvrđene nepravilnosti i određuje mu rok za njihovo otklanjanje.",
+        "path": "article:9",
+        "akoma_eid": "article_9",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "title": "Član 9"
+      },
+      {
+        "legal_unit_id": "6960b75d-08a2-5289-aec5-2d6ee47d26de",
+        "parent_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "unit_type": "article",
+        "number": "10",
+        "ordinal": 10,
+        "heading": null,
+        "content_text": "Danom stupanja na snagu ovog pravilnika prestaje da važi Pravilnik o postupku utvrđivanja ispunjenosti propisanih uslova iz zaštite na radu („Službeni glasnik RS”, broj 7/99).",
+        "path": "article:10",
+        "akoma_eid": "article_10",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "title": "Član 10"
+      },
+      {
+        "legal_unit_id": "d3423e83-bc5c-516d-a98a-64c7789fd575",
+        "parent_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "unit_type": "article",
+        "number": "11",
+        "ordinal": 11,
+        "heading": null,
+        "content_text": "Ovaj pravilnik stupa na snagu osmog dana od objavljivanja u „Službenom glasniku Republike Srbije”. Broj 110-00-442/2006-20 U Beogradu, 23. juna 2006. godine Ministar, Slobodan Lalović, s.r.",
+        "path": "article:11",
+        "akoma_eid": "article_11",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "53f7890d-01ac-44e2-86f5-22ca6a5ac8d8",
+        "title": "Član 11"
+      }
+    ],
+    "statistics": {
+      "total_units": 11,
+      "total_articles": 11,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [
+          {
+            "step_number": null,
+            "action": "podnosi poslodavac.",
+            "actor": null,
+            "deadline": null,
+            "context": "podnosi poslodavac.",
+            "line_number": 20
+          },
+          {
+            "step_number": null,
+            "action": "vrši se,",
+            "actor": null,
+            "deadline": null,
+            "context": "vrši se,",
+            "line_number": 18
+          }
+        ],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministar rada,"
+            ],
+            "context": "Ministar rada,",
+            "line_number": 3
+          },
+          {
+            "name": "inspektor",
+            "role": null,
+            "responsibilities": [
+              "inspektor rada,",
+              "inspektor rada utvrdi da nisu ispunjeni propisani uslovi,"
+            ],
+            "context": "inspektor rada,",
+            "line_number": 36
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0030465126037597656,
+      "total_elements": 4
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0010008811950683594,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "pravilnik",
+        "hierarchy_level": 4,
+        "issuing_authority": null,
+        "legal_basis": [
+          "1",
+          "zakonom",
+          "zakonom"
+        ],
+        "official_gazette": "Službeni glasnik\nRS”",
+        "can_override": [
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba"
+        ],
+        "confidence": 0.9
+      },
+      "title": "PRAVILNIK\no postupku utvrđivanja ispunjenosti propisanih uslova u oblasti bezbednosti i\nzdravlja na radu",
+      "detected_patterns": [
+        "PRAVILNIK\\s+o\\s+[a-zšđčćž\\s]+",
+        "PRAVILNIK\\s+o\\s+[a-zšđčćž\\s]+",
+        "Pravilnik\\s+o\\s+[a-zšđčćž\\s]+",
+        "Pravilnik\\s+o\\s+[a-zšđčćž\\s]+",
+        "ovaj\\s+pravilnik"
+      ],
+      "processing_time": 0.0009999275207519531
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0009999275207519531,
+      "total_elements": 0
+    }
+  }
+}

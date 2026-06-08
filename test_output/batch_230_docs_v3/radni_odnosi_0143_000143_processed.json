@@ -1,0 +1,175 @@
+{
+  "document_id": "radni_odnosi_0143_000143.pdf",
+  "document_legal_unit_id": "a4c2a8eb-e49c-46c6-8886-c0d2d6e4aa6f",
+  "document_metadata": {
+    "import_run_id": "6dc56d3a-6a06-489c-864f-89b0854896dc",
+    "path": "test_data\\documents2\\radni_odnosi_0143_000143.pdf",
+    "title": "Zakona o Vladi",
+    "document_type": "law",
+    "language_code": "sr",
+    "legal_units_count": 0,
+    "processed_at": "2026-06-08T23:55:35.881113"
+  },
+  "document_title": "Zakona o Vladi",
+  "full_text": "Na osnovu člana 15. stav 3. Zakona o platama državnih službenika i nameštenika\n(„Službeni glasnik RS”, br. 62/06, 63/06 – ispravka i 115/06 – ispravka) i člana 43. stav 1.\nZakona o Vladi („Službeni glasnik RS”, br. 55/05 i 71/05 – ispravka),\nVlada donosi\n\nODLUKU\no određivanju koeficijenta za obračun i ispl atu plate savetnika predsednika\nVlade i sa vetnika potpredsednika Vlade\n\"Službeni glasnik RS\", broj 6 od 19. januara 2007.\n\n\n1. Koeficijent za obračun i isplatu plate savetnika predsednika Vlade koji je u\nradnom odnosu isti je kao koeficijent državnog službenika na položaju koji je razvrstan u\ntreću grupu položaja i iznosi 7,11.\nKoeficijent za obračun i isplatu plate savetnika potpredsednika Vlade koji je u\nradnom odnosu isti je kao koeficijent državnog službenika na položaju koji je razvrstan u\nčetvrtu grupu položaja i iznosi 6,32.\n\n2. Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n\n05 broj 121-477/2007\nU Beogradu, 18. januara 2007. godine\nVlada\nPredsednik,\nVojislav Koštunica, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "b362b5b4-a13c-48b5-a1f2-2445fc54d3ae",
+      "entity_type": "DATE",
+      "text": "19. januara 2007",
+      "start_char": 413,
+      "end_char": 429,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "84a470ba-114d-41f5-9d69-d54d7ecaff44",
+      "entity_type": "DATE",
+      "text": "18. januara 2007",
+      "start_char": 985,
+      "end_char": 1001,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "a9852552-0336-45b8-961b-8a4dd93c9c73",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 15",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "553b30ee-0536-4389-a6c2-b667e011de0b",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 43",
+      "start_char": 154,
+      "end_char": 162,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:55:35.881113",
+  "export_timestamp": "2026-06-08T23:55:35.881113",
+  "parsed_structure": {
+    "units": [],
+    "statistics": {
+      "total_units": 0,
+      "total_articles": 0,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009980201721191406,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "odluka",
+        "hierarchy_level": 5,
+        "issuing_authority": "Vlada Republike Srbije",
+        "legal_basis": [
+          "1"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik"
+        ],
+        "confidence": 0.7
+      },
+      "title": "Vlada donosi\n\nODLUKU\no određivanju koeficijenta za obračun i ispl atu plate savetnika predsednika\nVlade i sa vetnika potpredsednika Vlade",
+      "detected_patterns": [
+        "ova\\s+odluka",
+        "donosi\\s+ODLUKU"
+      ],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [
+          {
+            "type": "exact",
+            "value": "7,1",
+            "unit": null,
+            "context": "iznosi 7,11.",
+            "applies_to": null,
+            "line_number": 14
+          },
+          {
+            "type": "exact",
+            "value": "6,3",
+            "unit": null,
+            "context": "iznosi 6,32.",
+            "applies_to": null,
+            "line_number": 17
+          }
+        ],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0010006427764892578,
+      "total_elements": 2
+    }
+  }
+}

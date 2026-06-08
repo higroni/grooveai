@@ -1,0 +1,196 @@
+{
+  "document_id": "radni_odnosi_0113_000113.pdf",
+  "document_legal_unit_id": "bc37aab6-fcc4-4a8c-b2df-f4166dd9ed6d",
+  "document_metadata": {
+    "import_run_id": "79129450-ca3a-49b1-b8c7-6d6c7fed0a3f",
+    "path": "test_data\\documents2\\radni_odnosi_0113_000113.pdf",
+    "title": "Vlada donosi ODLUKU o obrazovanju Radne grupe za praćenje sprovođenja Programa podsticanja zapošljavanja mladih",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 0,
+    "processed_at": "2026-06-08T23:54:45.535100"
+  },
+  "document_title": "Vlada donosi ODLUKU o obrazovanju Radne grupe za praćenje sprovođenja Programa podsticanja zapošljavanja mladih",
+  "full_text": "Na osnovu člana 33. st. 2. i 3, člana 17. stav 1. i člana 43. stav 1. Zakona o Vladi („Službeni\nglasnik RS”, br. 55/05, 71/05 – ispravka, 101/07, 65/08, 16/11, 68/12 – US, 72/12, 7/14 – US,\n44/14 i 30/18 – dr. zakon) i člana 7. Uredbe o Programu podsticanja zapošljavanja mladih\n„Moja prva plata” („Službeni glasnik RS”, broj 107/20),\nVlada donosi\nODLUKU\no obrazovanju Radne grupe za praćenje sprovođenja Programa podsticanja zapošljavanja mladih\n„Moja prva plata”\n\"Službeni glasnik RS\", broj 122 od 9. oktobra 2020.\n1. Obrazuje se Radna grupa za praćenje sprovođenja Programa podsticanja zapošljavanja\nmladih „Moja prva plata” (u daljem tekstu: Radna grupa).\n2. U Radnu grupu se imenuju:\n1) za predsednika:\n– Vukašin Grozdić, Kabinet predsednika Vlade;\n2) za članove:\n– Ljiljana Manojlović, Ministarstvo finansija,\n– Dragica Ivanović, Ministarstvo za rad, zapošljavanje, boračka i socijalna pitanja,\n– Boško Latković, Ministarstva za rad, zapošljavanje, boračka i socijalna pitanja,\n– Snežana Klašnja, Ministarstvo omladine i sporta,\n– Neda Milanović, Nacionalna služba za zapošljavanje,\n– Ilija Knežević, Nacionalna služba za zapošljavanje,\n– Mirjana Kovačević, Privredna komora Srbije.\n3. Zadatak Radne grupe je da prati sprovođenje Programa podsticanja zapošljavanja mladih\n„Moja prva plata” i razmatra pitanja, daje predloge, mišljenja i stručna obrazloženja o\npitanjima od značaja za sprovođenje Programa.\n4. Članovi Radne grupe nemaju pravo na naknadu za rad.\n5. Stručnu i administrativno-tehničku potporu Radnoj grupi pruža ministarstvo nadležno za\nposlove zapošljavanja.\n6. Radna grupa je dužna da izveštaj o radu dostavlja nadležnom odboru Vlade najmanje svakih\n60 dana, a Vladi najmanje svakih 90 dana.\n7. Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n05 broj 02-7828/2020-3\nU Beogradu, 8. oktobra 2020. godine\nVlada\nPredsednik,\nAna Brnabić, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "2f9a7ad5-a97f-462d-8e9d-8a862f043cc9",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 33",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "fba794c4-162a-40ed-8304-8070adee1048",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 17",
+      "start_char": 32,
+      "end_char": 40,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "ae2b1240-0086-4f20-943d-78f585fac95e",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 43",
+      "start_char": 52,
+      "end_char": 60,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "4d9245a8-0bcd-4773-b0a5-349cac89013a",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 7",
+      "start_char": 219,
+      "end_char": 226,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "9b8d4155-c82b-4653-9733-81acda3bc400",
+      "entity_type": "DURATION",
+      "text": "60 dana",
+      "start_char": 1672,
+      "end_char": 1679,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "cda2d81d-a61a-4437-98e7-6a1be7cf2410",
+      "entity_type": "DURATION",
+      "text": "90 dana",
+      "start_char": 1705,
+      "end_char": 1712,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:54:45.535100",
+  "export_timestamp": "2026-06-08T23:54:45.535100",
+  "parsed_structure": {
+    "units": [],
+    "statistics": {
+      "total_units": 0,
+      "total_articles": 0,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministarstvo finansija,",
+              "Ministarstvo za rad,",
+              "Ministarstva za rad,",
+              "Ministarstvo omladine i sporta,"
+            ],
+            "context": "Ministarstvo finansija,",
+            "line_number": 16
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.002000570297241211,
+      "total_elements": 1
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [
+          {
+            "consequence_text": "Srbije.",
+            "consequence_type": "must",
+            "context": "mora Srbije.",
+            "line_number": 22
+          }
+        ],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 1
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "odluka",
+        "hierarchy_level": 5,
+        "issuing_authority": "Vlada Republike Srbije",
+        "legal_basis": [
+          "3"
+        ],
+        "official_gazette": "Službeni\nglasnik RS”",
+        "can_override": [
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik"
+        ],
+        "confidence": 0.7
+      },
+      "title": "Vlada donosi\nODLUKU\no obrazovanju Radne grupe za praćenje sprovođenja Programa podsticanja zapošljavanja mladih",
+      "detected_patterns": [
+        "ova\\s+odluka",
+        "donosi\\s+ODLUKU"
+      ],
+      "processing_time": 0.0
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0010001659393310547,
+      "total_elements": 0
+    }
+  }
+}

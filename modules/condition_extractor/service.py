@@ -276,4 +276,43 @@ class ConditionExtractorService:
         clause = text[clause_start:clause_end].strip()
         return clause
 
+
+# Create singleton instance
+_service = ConditionExtractorService()
+
+
+# Wrapper function for easy import
+def extract_conditions(assertions: List[Dict[str, Any]], language: str = "sr") -> Dict[str, Any]:
+    """
+    Wrapper function to extract conditions using the singleton service.
+    
+    Args:
+        assertions: List of assertion dictionaries
+        language: Language code (sr or en)
+        
+    Returns:
+        Dictionary with conditions and statistics
+    """
+    all_conditions = []
+    
+    # Process each assertion
+    for assertion_dict in assertions:
+        # Convert dict to Assertion object
+        assertion_obj = Assertion(**assertion_dict)
+        
+        # Create request
+        request = ConditionExtractionRequest(
+            assertion=assertion_obj,
+            language=language
+        )
+        
+        # Extract conditions
+        result = _service.extract_conditions(request)
+        all_conditions.extend(result.conditions)
+    
+    return {
+        'conditions': [c.dict() for c in all_conditions],
+        'total_conditions': len(all_conditions)
+    }
+
 # Made with Bob

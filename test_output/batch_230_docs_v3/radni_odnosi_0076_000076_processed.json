@@ -1,0 +1,465 @@
+{
+  "document_id": "radni_odnosi_0076_000076.pdf",
+  "document_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+  "document_metadata": {
+    "import_run_id": "13074674-4052-4382-b1b9-c7ac669995b7",
+    "path": "test_data\\documents2\\radni_odnosi_0076_000076.pdf",
+    "title": "PRAVILNIK o upisu lokalnih saveta u registar",
+    "document_type": "regulation",
+    "language_code": "sr",
+    "legal_units_count": 9,
+    "processed_at": "2026-06-08T23:53:39.442744"
+  },
+  "document_title": "PRAVILNIK o upisu lokalnih saveta u registar",
+  "full_text": "Na osnovu člana 20. stav 2. Zakona o socijalno-ekonomskom savetu („Službeni glasnik\nRS”, broj 125/04),\nMinistar rada, zapošljavanja i socijalne politike donosi\n\nPRAVILNIK\no upisu lokalnih saveta u registar\n„Službeni glasnik RS”, broj 139 od 30. decembra 2004.\n\n\nČlan 1.\nOvim pravilnikom bliže se uređuje način upisa socijalno--ekonomskog saveta za\nteritoriju autonomne pokrajine ili jedinice lokalne samouprave (u daljem tekstu: lokalni\nsavet) u registar lokalnih saveta (u daljem tekstu: Registar), brisanje iz Registra i sadržina\nRegistra.\n\nČlan 2.\nRegistar se vodi kao javna i elektronska baza podataka.\nRegistar sadrži sledeće podatke:\n1) redni (registarski) broj;\n2) broj i datum rešenja o upisu, promeni podataka i brisanju lokalnog saveta iz\nRegistra;\n3) datum zaključivanja sporazuma o osnivanju lokalnog saveta;\n4) naziv i nivo osnivanja lokalnog saveta;\n5) sedište i adresa lokalnog saveta;\n6) naziv, sedište i adresa učesnika lokalnog saveta;\n7) ime i prezime lica ovlašćenog za podnošenje zahteva za upis.\n\nČlan 3.\nZahtev za registraciju lokalnog saveta (u daljem tekstu: zahtev) podnosi se u pismenoj\nformi i mora biti razumljiv, potpun i podnet u skladu sa zakonom.\nAko je zahtev nerazumljiv ili nepotpun tako da se po njemu ne može postupiti,\nministarstvo nadležno za rad (u daljem tekstu: ministarstvo) će o nedostacima obavestiti\npodnosioca zahteva.\nPodnosilac zahteva je dužan da otkloni nedostatke u roku od osam dana od dana prijema\nobaveštenja.\nAko podnosilac zahteva u roku ne otkloni nedostatke, zahtev će se zaključkom odbaciti.\n\nČlan 4.\nUz zahtev se dostavljaju dva primerka sporazuma o osnivanju lokalnog saveta, ovlašćenje\nza podnošenje zahteva, kao i drugi dokazi koji se odnose na podatke koji se upisuju u\nRegistar.\n\nČlan 5.\nPo upisu u Registar, ovlašćeno lice ministarstva na sve primerke sporazuma o\nosnivanju lokalnog saveta upisuje redni broj registracije koji overava svojim potpisom i\npečatom organa.\nOvlašćeno lice iz stava 1. ovog člana jedan primerak overenog sporazuma i rešenje o\nupisu u Registar zadržava u arhivi, a jedan primerak dostavlja lokalnom savetu.\n\nČlan 6.\nU Registar se upisuje i promena sedišta i adrese, odnosno promena učesnika lokalnog\nsaveta.\nUz zahtev za upis promene podataka podnosi se odluka o promeni sedišta i adrese\nlokalnog saveta, odnosno odluka o promeni učesnika lokalnog saveta, kao i ovlašćenje za\npodnošenje zahteva.\n\nČlan 7.\nUz zahtev za brisanje lokalnog saveta dostavlja se otkaz sporazuma o osnivanju lokalnog\nsaveta, otkaz jednog od učesnika lokalnog saveta, odnosno obaveštenje o gubitku\nreprezentativnosti jednog od učesnika lokalnog saveta zbog čega su prestali da postoje\nuslovi propisani zakonom u pogledu zastupljenosti sva tri učesnika lokalnog saveta, kao i\novlašćenje za podnošenje zahteva.\n\nČlan 8.\nNa način utvrđen ovim pravilnikom za upis lokalnog saveta u Registar, u Registar se\nupisuju i promene podataka, odnosno brisanje lokalnog saveta.\n\nČlan 9.\nOvaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n\nBroj 110-00-998/2004-02\nU Beogradu, 30. decembra 2004. godine\nMinistar,\nSlobodan Lalović, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "d8cc96b9-42fb-4975-b96a-e8de0d37138f",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 20",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "5007c7fd-3b3a-4e44-9a23-d4aab4fa6ca7",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 262,
+      "end_char": 268,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "ea6989de-8a02-40a4-9588-f86455bad71a",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 543,
+      "end_char": 549,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "5576355a-5bde-4bc4-b676-e50c18cb5561",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1019,
+      "end_char": 1025,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "4bdf0b5a-15a1-4031-8d21-929e938c8eb2",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 1554,
+      "end_char": 1560,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "45a1e60c-76a1-4c64-9133-6fea8b302a86",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 1747,
+      "end_char": 1753,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "aca1c557-f994-423b-9867-d311d7228f77",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 2102,
+      "end_char": 2108,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "72aa49b9-b86e-4e00-b908-e5229bc14125",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 7",
+      "start_char": 2391,
+      "end_char": 2397,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "0cfd96de-ac44-491e-b75c-57e36c7c1220",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 8",
+      "start_char": 2779,
+      "end_char": 2785,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "42f778a1-e005-4014-a3c2-21523749429b",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 9",
+      "start_char": 2934,
+      "end_char": 2940,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "ee7407be-4032-45a7-a5af-9eee7f70ead2",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no upisu lokalnih saveta u registar",
+      "start_char": 161,
+      "end_char": 205,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "bb609230-a54c-4bf2-b1dd-7b73fd61dbc6",
+      "entity_type": "LEGAL_REF",
+      "text": "odluka o promeni sedišta i adrese\nlokalnog saveta",
+      "start_char": 2248,
+      "end_char": 2297,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "a0efe2e9-b854-4cb1-a9d5-9fa43184f244",
+      "entity_type": "LEGAL_REF",
+      "text": "odluka o promeni učesnika lokalnog saveta",
+      "start_char": 2307,
+      "end_char": 2348,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-08T23:53:39.442744",
+  "export_timestamp": "2026-06-08T23:53:39.442744",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "9a4c64d4-9295-54fa-99f2-eeda0ee08c9b",
+        "parent_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Ovim pravilnikom bliže se uređuje način upisa socijalno--ekonomskog saveta za teritoriju autonomne pokrajine ili jedinice lokalne samouprave (u daljem tekstu: lokalni savet) u registar lokalnih saveta (u daljem tekstu: Registar), brisanje iz Registra i sadržina Registra.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "b6afc57d-2404-59ba-9b59-f655d949a87f",
+        "parent_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "Registar se vodi kao javna i elektronska baza podataka. Registar sadrži sledeće podatke: 1) redni (registarski) broj; 2) broj i datum rešenja o upisu, promeni podataka i brisanju lokalnog saveta iz Registra; 3) datum zaključivanja sporazuma o osnivanju lokalnog saveta; 4) naziv i nivo osnivanja lokalnog saveta; 5) sedište i adresa lokalnog saveta; 6) naziv, sedište i adresa učesnika lokalnog saveta; 7) ime i prezime lica ovlašćenog za podnošenje zahteva za upis.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "1b76f2d3-7c2a-5305-b6d9-0a6d213bf4f2",
+        "parent_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Zahtev za registraciju lokalnog saveta (u daljem tekstu: zahtev) podnosi se u pismenoj formi i mora biti razumljiv, potpun i podnet u skladu sa zakonom. Ako je zahtev nerazumljiv ili nepotpun tako da se po njemu ne može postupiti, ministarstvo nadležno za rad (u daljem tekstu: ministarstvo) će o nedostacima obavestiti podnosioca zahteva. Podnosilac zahteva je dužan da otkloni nedostatke u roku od osam dana od dana prijema obaveštenja. Ako podnosilac zahteva u roku ne otkloni nedostatke, zahtev će se zaključkom odbaciti.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "title": "Član 3"
+      },
+      {
+        "legal_unit_id": "e7bb303b-93c5-567c-84cc-9d8a4f27484c",
+        "parent_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "unit_type": "article",
+        "number": "4",
+        "ordinal": 4,
+        "heading": null,
+        "content_text": "Uz zahtev se dostavljaju dva primerka sporazuma o osnivanju lokalnog saveta, ovlašćenje za podnošenje zahteva, kao i drugi dokazi koji se odnose na podatke koji se upisuju u Registar.",
+        "path": "article:4",
+        "akoma_eid": "article_4",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "title": "Član 4"
+      },
+      {
+        "legal_unit_id": "40823c29-ef76-5a02-b483-4e9c8a2e5898",
+        "parent_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "unit_type": "article",
+        "number": "5",
+        "ordinal": 5,
+        "heading": null,
+        "content_text": "Po upisu u Registar, ovlašćeno lice ministarstva na sve primerke sporazuma o osnivanju lokalnog saveta upisuje redni broj registracije koji overava svojim potpisom i pečatom organa. Ovlašćeno lice iz stava 1. ovog člana jedan primerak overenog sporazuma i rešenje o upisu u Registar zadržava u arhivi, a jedan primerak dostavlja lokalnom savetu.",
+        "path": "article:5",
+        "akoma_eid": "article_5",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "title": "Član 5"
+      },
+      {
+        "legal_unit_id": "a524434e-2ab8-59e2-86c3-d117a72244fe",
+        "parent_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "unit_type": "article",
+        "number": "6",
+        "ordinal": 6,
+        "heading": null,
+        "content_text": "U Registar se upisuje i promena sedišta i adrese, odnosno promena učesnika lokalnog saveta. Uz zahtev za upis promene podataka podnosi se odluka o promeni sedišta i adrese lokalnog saveta, odnosno odluka o promeni učesnika lokalnog saveta, kao i ovlašćenje za podnošenje zahteva.",
+        "path": "article:6",
+        "akoma_eid": "article_6",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "title": "Član 6"
+      },
+      {
+        "legal_unit_id": "83951d83-c099-5f71-bacd-d8c4f41ba72b",
+        "parent_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "unit_type": "article",
+        "number": "7",
+        "ordinal": 7,
+        "heading": null,
+        "content_text": "Uz zahtev za brisanje lokalnog saveta dostavlja se otkaz sporazuma o osnivanju lokalnog saveta, otkaz jednog od učesnika lokalnog saveta, odnosno obaveštenje o gubitku reprezentativnosti jednog od učesnika lokalnog saveta zbog čega su prestali da postoje uslovi propisani zakonom u pogledu zastupljenosti sva tri učesnika lokalnog saveta, kao i ovlašćenje za podnošenje zahteva.",
+        "path": "article:7",
+        "akoma_eid": "article_7",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "title": "Član 7"
+      },
+      {
+        "legal_unit_id": "1770f33d-0cc1-52fc-815d-24fbde078bcf",
+        "parent_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "unit_type": "article",
+        "number": "8",
+        "ordinal": 8,
+        "heading": null,
+        "content_text": "Na način utvrđen ovim pravilnikom za upis lokalnog saveta u Registar, u Registar se upisuju i promene podataka, odnosno brisanje lokalnog saveta.",
+        "path": "article:8",
+        "akoma_eid": "article_8",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "title": "Član 8"
+      },
+      {
+        "legal_unit_id": "41642846-ee3b-547f-a6a2-f3b71e2719b0",
+        "parent_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "unit_type": "article",
+        "number": "9",
+        "ordinal": 9,
+        "heading": null,
+        "content_text": "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Broj 110-00-998/2004-02 U Beogradu, 30. decembra 2004. godine Ministar, Slobodan Lalović, s.r.",
+        "path": "article:9",
+        "akoma_eid": "article_9",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "a375ba59-8fce-4871-a1b1-7ab8db0f66fd",
+        "title": "Član 9"
+      }
+    ],
+    "statistics": {
+      "total_units": 9,
+      "total_articles": 9,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [
+        {
+          "text": "podnosi se u pismenoj\nformi i mora biti razumljiv,",
+          "confidence": 0.8
+        },
+        {
+          "text": "Podnosilac zahteva je dužan da otkloni nedostatke u roku od osam dana od dana prijema\nobaveštenja.",
+          "confidence": 0.8
+        }
+      ],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 2
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [
+          {
+            "step_number": null,
+            "action": "podnosioca zahteva.",
+            "actor": null,
+            "deadline": null,
+            "context": "podnosioca zahteva.",
+            "line_number": 33
+          },
+          {
+            "step_number": null,
+            "action": "podnosilac zahteva u roku ne otkloni nedostatke,",
+            "actor": null,
+            "deadline": null,
+            "context": "podnosilac zahteva u roku ne otkloni nedostatke,",
+            "line_number": 36
+          },
+          {
+            "step_number": null,
+            "action": "dostavljaju dva primerka sporazuma o osnivanju lokalnog saveta,",
+            "actor": null,
+            "deadline": null,
+            "context": "dostavljaju dva primerka sporazuma o osnivanju lokalnog saveta,",
+            "line_number": 39
+          },
+          {
+            "step_number": null,
+            "action": "dostavlja lokalnom savetu.",
+            "actor": null,
+            "deadline": null,
+            "context": "dostavlja lokalnom savetu.",
+            "line_number": 48
+          }
+        ],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministar rada,"
+            ],
+            "context": "Ministar rada,",
+            "line_number": 3
+          },
+          {
+            "name": "organ",
+            "role": null,
+            "responsibilities": [
+              "organa."
+            ],
+            "context": "organa.",
+            "line_number": 46
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.002000093460083008,
+      "total_elements": 6
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [
+          {
+            "condition_text": "je zahtev nerazumljiv ili nepotpun tako da se po njemu ne može postupiti",
+            "condition_type": "if",
+            "context": "Ako je zahtev nerazumljiv ili nepotpun tako da se po njemu ne može postupiti,",
+            "line_number": 31
+          },
+          {
+            "condition_text": "podnosilac zahteva u roku ne otkloni nedostatke",
+            "condition_type": "if",
+            "context": "Ako podnosilac zahteva u roku ne otkloni nedostatke,",
+            "line_number": 36
+          }
+        ],
+        "consequences": [
+          {
+            "consequence_text": "biti razumljiv,",
+            "consequence_type": "must",
+            "context": "mora biti razumljiv,",
+            "line_number": 30
+          },
+          {
+            "consequence_text": "postupiti,",
+            "consequence_type": "may",
+            "context": "može postupiti,",
+            "line_number": 31
+          }
+        ],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009996891021728516,
+      "total_elements": 4
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "odluka",
+        "hierarchy_level": 5,
+        "issuing_authority": "Ministarstvo",
+        "legal_basis": [
+          "2",
+          "zakonom"
+        ],
+        "official_gazette": "Službeni glasnik\nRS”",
+        "can_override": [
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik"
+        ],
+        "confidence": 0.9
+      },
+      "title": "PRAVILNIK\no upisu lokalnih saveta u registar",
+      "detected_patterns": [
+        "ODLUKA\\s+o\\s+[a-zšđčćž\\s]+",
+        "ODLUKA\\s+o\\s+[a-zšđčćž\\s]+",
+        "Odluka\\s+o\\s+[a-zšđčćž\\s]+",
+        "Odluka\\s+o\\s+[a-zšđčćž\\s]+"
+      ],
+      "processing_time": 0.0010004043579101562
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.00099945068359375,
+      "total_elements": 0
+    }
+  }
+}

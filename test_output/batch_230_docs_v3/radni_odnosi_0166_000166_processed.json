@@ -1,0 +1,301 @@
+{
+  "document_id": "radni_odnosi_0166_000166.pdf",
+  "document_legal_unit_id": "c819ba2f-b84b-4acb-9ae7-8d9a52776f40",
+  "document_metadata": {
+    "import_run_id": "9a192ad6-8224-4ed2-bd71-d28bda3efda1",
+    "path": "test_data\\documents2\\radni_odnosi_0166_000166.pdf",
+    "title": "SPORAZUM o produženju roka važenja Kolektivnog ugovora Javno",
+    "document_type": "other",
+    "language_code": "sr",
+    "legal_units_count": 3,
+    "processed_at": "2026-06-09T00:02:09.190034"
+  },
+  "document_title": "SPORAZUM o produženju roka važenja Kolektivnog ugovora Javno",
+  "full_text": "Na osnovu člana 247. i člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05,\n61/05, 54/09, 32/13, 75/14, 13/17 – odluka US, 113/17 i 95/18 – autentično tumačenje),\nOsnivač – Vlada, reprezentativna Sindikalna organizacija zaposlenih u Javnom preduzeću\n„Službeni glasnik” i reprezentativni Sindikat „Nezavisnost” – „Službeni glasnik” d.o.o. i\nposlodavac „Službeni glasnik” društvo s ograničenom odgovornošću Beograd, zaključuju\nSPORAZUM\no produženju roka važenja Kolektivnog ugovora Javnog preduzeća „Službeni glasnik”\n\"Službeni glasnik RS\", broj 40 od 30. aprila 2026.\nČlan 1.\nVaženje Kolektivnog ugovora Javnog preduzeća „Službeni glasnik” („Službeni glasnik RS”, br.\n102/21, 12/22, 2/23, 118/23, 86/24 i 107/24) produžava se do 6. maja 2027. godine.\nČlan 2.\nU naslovu i u čl. 1, 10. i 98. Kolektivnog ugovora Javnog preduzeća „Službeni glasnik” reči:\n„Javno preduzeće „Službeni glasnik” u određenom padežu zamenjuju se rečima: „privredno\ndruštvo „Službeni glasnik” društvo s ograničenom odgovornošću Beograd” u odgovarajućem\npadežu.\nU članu 61. stav 1. tačka 6) briše se reč: „Preduzeća”.\nČlan 3.\nOvaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nZa Vladu\nMinistar privrede,\nAdrijana Mesarović, s.r.\nZa Sindikalnu organizaciju zaposlenih\nu Javnom preduzeću „Službeni glasnik”\nPredsednik,\nIvan Špica, s.r.\nZa Sindikat „Nezavisnost” – „Službeni glasnik” d.o.o.\nGlavna poverenica,\nGordana Milosavljević Stojanović, s.r.\nZa „Službeni glasnik” društvo s ograničenom odgovornošću Beograd\nVršilac dužnosti direktora,\nMladen Šarčević, s.r.",
+  "document_entities": [
+    {
+      "entity_id": "ad6253f0-9701-4104-9138-9210712b5653",
+      "entity_type": "DATE",
+      "text": "30. aprila 2026",
+      "start_char": 565,
+      "end_char": 580,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "2736a9bc-cf6b-4692-8d66-537711a8c22a",
+      "entity_type": "DATE",
+      "text": "6. maja 2027",
+      "start_char": 743,
+      "end_char": 755,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "bc2bbf2b-9835-48cf-827e-012b701da804",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 247",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "392d355f-f323-4abf-a401-830909f10dae",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 23,
+      "end_char": 32,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "558e511c-03b6-4207-8506-bbbde2dd0b4a",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 582,
+      "end_char": 588,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "1b6cf8d5-4bf8-4b78-ad92-cb0fe9734b29",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 765,
+      "end_char": 771,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "7693e3d8-26e0-42c5-85b9-be868235a211",
+      "entity_type": "LEGAL_REF",
+      "text": "članu 61",
+      "start_char": 1050,
+      "end_char": 1058,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "f6e875a8-53fc-4ba2-8951-1083cfcf87e8",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1104,
+      "end_char": 1110,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "3912b47d-2524-425b-ab8f-8838cd39a208",
+      "entity_type": "LOCATION",
+      "text": "Beograd",
+      "start_char": 420,
+      "end_char": 427,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "6e577369-450e-4b92-8fb6-1072b9f22283",
+      "entity_type": "LOCATION",
+      "text": "Beograd",
+      "start_char": 1015,
+      "end_char": 1022,
+      "confidence": 0.85,
+      "metadata": {}
+    },
+    {
+      "entity_id": "5cb40b5e-ad9c-478e-a94b-ec76a3199999",
+      "entity_type": "LOCATION",
+      "text": "Beograd",
+      "start_char": 1542,
+      "end_char": 1549,
+      "confidence": 0.85,
+      "metadata": {}
+    }
+  ],
+  "processed_at": "2026-06-09T00:02:09.190034",
+  "export_timestamp": "2026-06-09T00:02:09.190034",
+  "parsed_structure": {
+    "units": [
+      {
+        "legal_unit_id": "e6c2246e-728a-5e5e-93f9-bc27376dc8a2",
+        "parent_legal_unit_id": "c819ba2f-b84b-4acb-9ae7-8d9a52776f40",
+        "unit_type": "article",
+        "number": "1",
+        "ordinal": 1,
+        "heading": null,
+        "content_text": "Važenje Kolektivnog ugovora Javnog preduzeća „Službeni glasnik” („Službeni glasnik RS”, br. 102/21, 12/22, 2/23, 118/23, 86/24 i 107/24) produžava se do 6. maja 2027. godine.",
+        "path": "article:1",
+        "akoma_eid": "article_1",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "c819ba2f-b84b-4acb-9ae7-8d9a52776f40",
+        "title": "Član 1"
+      },
+      {
+        "legal_unit_id": "e0a59336-4b42-595c-b006-dfa7a07f3b70",
+        "parent_legal_unit_id": "c819ba2f-b84b-4acb-9ae7-8d9a52776f40",
+        "unit_type": "article",
+        "number": "2",
+        "ordinal": 2,
+        "heading": null,
+        "content_text": "U naslovu i u čl. 1, 10. i 98. Kolektivnog ugovora Javnog preduzeća „Službeni glasnik” reči: „Javno preduzeće „Službeni glasnik” u određenom padežu zamenjuju se rečima: „privredno društvo „Službeni glasnik” društvo s ograničenom odgovornošću Beograd” u odgovarajućem padežu. U članu 61. stav 1. tačka 6) briše se reč: „Preduzeća”.",
+        "path": "article:2",
+        "akoma_eid": "article_2",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "c819ba2f-b84b-4acb-9ae7-8d9a52776f40",
+        "title": "Član 2"
+      },
+      {
+        "legal_unit_id": "c332ce13-fcdd-5569-a5c6-1e053f956a47",
+        "parent_legal_unit_id": "c819ba2f-b84b-4acb-9ae7-8d9a52776f40",
+        "unit_type": "article",
+        "number": "3",
+        "ordinal": 3,
+        "heading": null,
+        "content_text": "Ovaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”. Za Vladu Ministar privrede, Adrijana Mesarović, s.r. Za Sindikalnu organizaciju zaposlenih u Javnom preduzeću „Službeni glasnik” Predsednik, Ivan Špica, s.r. Za Sindikat „Nezavisnost” – „Službeni glasnik” d.o.o. Glavna poverenica, Gordana Milosavljević Stojanović, s.r. Za „Službeni glasnik” društvo s ograničenom odgovornošću Beograd Vršilac dužnosti direktora, Mladen Šarčević, s.r.",
+        "path": "article:3",
+        "akoma_eid": "article_3",
+        "akoma_wid": null,
+        "metadata": {},
+        "document_legal_unit_id": "c819ba2f-b84b-4acb-9ae7-8d9a52776f40",
+        "title": "Član 3"
+      }
+    ],
+    "statistics": {
+      "total_units": 3,
+      "total_articles": 3,
+      "total_paragraphs": 0,
+      "total_points": 0,
+      "total_lists": 0,
+      "total_indents": 0
+    }
+  },
+  "entities_by_unit": {},
+  "assertions_by_unit": {},
+  "conditions_by_unit": {},
+  "semantic_extraction": {
+    "normative_content": {
+      "obligations": [],
+      "prohibitions": [],
+      "permissions": [],
+      "definitions": [],
+      "waivers": [],
+      "transfers": [],
+      "assignments": [],
+      "total_count": 0
+    },
+    "procedural_content": {
+      "content": {
+        "steps": [
+          {
+            "step_number": null,
+            "action": "Vršilac dužnosti direktora,",
+            "actor": "direktor",
+            "deadline": null,
+            "context": "Vršilac dužnosti direktora,",
+            "line_number": 32
+          }
+        ],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "poslodavac",
+            "role": null,
+            "responsibilities": [
+              "poslodavac „Službeni glasnik” društvo s ograničenom odgovornošću Beograd,"
+            ],
+            "context": "poslodavac „Službeni glasnik” društvo s ograničenom odgovornošću Beograd,",
+            "line_number": 5
+          },
+          {
+            "name": "Ministar",
+            "role": null,
+            "responsibilities": [
+              "Ministar privrede,"
+            ],
+            "context": "Ministar privrede,",
+            "line_number": 22
+          },
+          {
+            "name": "direktor",
+            "role": null,
+            "responsibilities": [
+              "direktora,"
+            ],
+            "context": "direktora,",
+            "line_number": 32
+          }
+        ],
+        "dependencies": [],
+        "approval_authorities": [],
+        "documentation_requirements": [],
+        "form_requirements": []
+      },
+      "processing_time": 0.0009987354278564453,
+      "total_elements": 4
+    },
+    "conditional_logic": {
+      "content": {
+        "conditions": [],
+        "consequences": [],
+        "exceptions": [],
+        "rules": [],
+        "circular_conditions": [],
+        "impossible_conditions": []
+      },
+      "processing_time": 0.0009996891021728516,
+      "total_elements": 0
+    },
+    "temporal_references": {
+      "elements": [
+        {
+          "type": "effective_date",
+          "value": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "reference_point": null,
+          "is_mandatory": true,
+          "can_be_extended": false,
+          "applies_to": null,
+          "source_text": "stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”",
+          "confidence": 0.8
+        }
+      ],
+      "total_count": 1
+    },
+    "legal_hierarchy": {
+      "document": {
+        "document_type": "unknown",
+        "hierarchy_level": 999,
+        "issuing_authority": null,
+        "legal_basis": [
+          "24"
+        ],
+        "official_gazette": "Službeni glasnik RS”",
+        "can_override": [],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "confidence": 0.0
+      },
+      "title": "SPORAZUM",
+      "detected_patterns": [],
+      "processing_time": 0.0010008811950683594
+    },
+    "quantitative_data": {
+      "content": {
+        "standards": [],
+        "thresholds": [],
+        "percentages": [],
+        "monetary_amounts": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 0
+    }
+  }
+}
