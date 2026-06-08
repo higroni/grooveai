@@ -1,0 +1,458 @@
+[
+  {
+    "test_name": "Jednostavni uslovi",
+    "result": {
+      "content": {
+        "conditions": [
+          {
+            "condition_text": "zaposleni ima više od 5 godina staža",
+            "condition_type": "if",
+            "context": "Ako zaposleni ima više od 5 godina staža,",
+            "line_number": 4
+          },
+          {
+            "condition_text": "poslodavac ne ispuni obavezu",
+            "condition_type": "if",
+            "context": "Ukoliko poslodavac ne ispuni obavezu,",
+            "line_number": 6
+          }
+        ],
+        "consequences": [
+          {
+            "consequence_text": "ima pravo na dodatak.",
+            "consequence_type": "may",
+            "context": "tada ima pravo na dodatak.",
+            "line_number": 4
+          },
+          {
+            "consequence_text": "platiti kaznu.",
+            "consequence_type": "must",
+            "context": "mora platiti kaznu.",
+            "line_number": 6
+          },
+          {
+            "consequence_text": "na dodatak.",
+            "consequence_type": "may",
+            "context": "ima pravo na dodatak.",
+            "line_number": 4
+          }
+        ],
+        "exceptions": [],
+        "rules": [
+          {
+            "conditions": [
+              {
+                "condition_text": "zaposleni ima više od 5 godina staža",
+                "condition_type": "if",
+                "context": "zaposleni ima više od 5 godina staža",
+                "line_number": 4
+              }
+            ],
+            "consequences": [
+              {
+                "consequence_text": "ima pravo na dodatak.",
+                "consequence_type": "must",
+                "context": "ima pravo na dodatak.",
+                "line_number": 4
+              }
+            ],
+            "exceptions": [],
+            "rule_text": "Ako zaposleni ima više od 5 godina staža, tada ima pravo na dodatak.",
+            "rule_type": "simple",
+            "line_number": 4
+          },
+          {
+            "conditions": [
+              {
+                "condition_text": "poslodavac ne ispuni obavezu",
+                "condition_type": "if",
+                "context": "poslodavac ne ispuni obavezu",
+                "line_number": 6
+              }
+            ],
+            "consequences": [
+              {
+                "consequence_text": "platiti kaznu.",
+                "consequence_type": "must",
+                "context": "platiti kaznu.",
+                "line_number": 6
+              }
+            ],
+            "exceptions": [],
+            "rule_text": "Ukoliko poslodavac ne ispuni obavezu, mora platiti kaznu.",
+            "rule_type": "simple",
+            "line_number": 6
+          }
+        ]
+      },
+      "processing_time": 0.001001119613647461,
+      "total_elements": 7
+    }
+  },
+  {
+    "test_name": "Uslovi sa izuzecima",
+    "result": {
+      "content": {
+        "conditions": [
+          {
+            "condition_text": "postoje vanredne okolnosti",
+            "condition_type": "if",
+            "context": "ako postoje vanredne okolnosti.",
+            "line_number": 4
+          },
+          {
+            "condition_text": "je prekršio radnu disciplinu",
+            "condition_type": "if",
+            "context": "ako je prekršio radnu disciplinu.",
+            "line_number": 8
+          },
+          {
+            "condition_text": "više sile",
+            "condition_type": "if",
+            "context": "u slučaju više sile.",
+            "line_number": 6
+          }
+        ],
+        "consequences": [
+          {
+            "consequence_text": "koristiti godišnji odmor,",
+            "consequence_type": "may",
+            "context": "može koristiti godišnji odmor,",
+            "line_number": 4
+          },
+          {
+            "consequence_text": "na bonus,",
+            "consequence_type": "may",
+            "context": "ima pravo na bonus,",
+            "line_number": 8
+          }
+        ],
+        "exceptions": [
+          {
+            "exception_text": "ako postoje vanredne okolnosti.",
+            "exception_type": "unless",
+            "context": "osim ako postoje vanredne okolnosti.",
+            "line_number": 4
+          },
+          {
+            "exception_text": "u slučaju više sile.",
+            "exception_type": "except",
+            "context": "izuzev u slučaju više sile.",
+            "line_number": 6
+          },
+          {
+            "exception_text": "ako je prekršio radnu disciplinu.",
+            "exception_type": "excluding",
+            "context": "sem ako je prekršio radnu disciplinu.",
+            "line_number": 8
+          },
+          {
+            "exception_text": "postoje vanredne okolnosti.",
+            "exception_type": "unless",
+            "context": "osim ako postoje vanredne okolnosti.",
+            "line_number": 4
+          },
+          {
+            "exception_text": "je prekršio radnu disciplinu.",
+            "exception_type": "excluding",
+            "context": "sem ako je prekršio radnu disciplinu.",
+            "line_number": 8
+          }
+        ],
+        "rules": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 10
+    }
+  },
+  {
+    "test_name": "Složeni uslovi",
+    "result": {
+      "content": {
+        "conditions": [
+          {
+            "condition_text": "zaposleni ima više od 10 godina staža",
+            "condition_type": "if",
+            "context": "Ako zaposleni ima više od 10 godina staža,",
+            "line_number": 4
+          },
+          {
+            "condition_text": "da poslodavac ne odgovori u roku",
+            "condition_type": "if",
+            "context": "U slučaju da poslodavac ne odgovori u roku,",
+            "line_number": 6
+          },
+          {
+            "condition_text": "poslodavac ne odgovori u roku",
+            "condition_type": "if",
+            "context": "U slučaju da poslodavac ne odgovori u roku,",
+            "line_number": 6
+          },
+          {
+            "condition_text": "su ispunjeni svi kriterijumi",
+            "condition_type": "provided_that",
+            "context": "Pod uslovom da su ispunjeni svi kriterijumi,",
+            "line_number": 8
+          }
+        ],
+        "consequences": [
+          {
+            "consequence_text": "može zahtevati povećanje plate.",
+            "consequence_type": "may",
+            "context": "tada može zahtevati povećanje plate.",
+            "line_number": 4
+          },
+          {
+            "consequence_text": "zaposleni može podneti žalbu.",
+            "consequence_type": "may",
+            "context": "onda zaposleni može podneti žalbu.",
+            "line_number": 6
+          },
+          {
+            "consequence_text": "zahtevati povećanje plate.",
+            "consequence_type": "may",
+            "context": "može zahtevati povećanje plate.",
+            "line_number": 4
+          },
+          {
+            "consequence_text": "podneti žalbu.",
+            "consequence_type": "may",
+            "context": "može podneti žalbu.",
+            "line_number": 6
+          }
+        ],
+        "exceptions": [],
+        "rules": [
+          {
+            "conditions": [
+              {
+                "condition_text": "zaposleni ima više od 10 godina staža",
+                "condition_type": "if",
+                "context": "zaposleni ima više od 10 godina staža",
+                "line_number": 4
+              }
+            ],
+            "consequences": [
+              {
+                "consequence_text": "može zahtevati povećanje plate.",
+                "consequence_type": "must",
+                "context": "može zahtevati povećanje plate.",
+                "line_number": 4
+              }
+            ],
+            "exceptions": [],
+            "rule_text": "Ako zaposleni ima više od 10 godina staža, tada može zahtevati povećanje plate.",
+            "rule_type": "simple",
+            "line_number": 4
+          },
+          {
+            "conditions": [
+              {
+                "condition_text": "poslodavac ne odgovori u roku",
+                "condition_type": "if",
+                "context": "poslodavac ne odgovori u roku",
+                "line_number": 6
+              }
+            ],
+            "consequences": [
+              {
+                "consequence_text": "zaposleni može podneti žalbu.",
+                "consequence_type": "must",
+                "context": "zaposleni može podneti žalbu.",
+                "line_number": 6
+              }
+            ],
+            "exceptions": [],
+            "rule_text": "U slučaju da poslodavac ne odgovori u roku, onda zaposleni može podneti žalbu.",
+            "rule_type": "simple",
+            "line_number": 6
+          }
+        ]
+      },
+      "processing_time": 0.0,
+      "total_elements": 10
+    }
+  },
+  {
+    "test_name": "Kada uslovi",
+    "result": {
+      "content": {
+        "conditions": [
+          {
+            "condition_text": "zaposleni dostavi zahtev",
+            "condition_type": "when",
+            "context": "Kada zaposleni dostavi zahtev,",
+            "line_number": 4
+          },
+          {
+            "condition_text": "istekne rok",
+            "condition_type": "when",
+            "context": "Kada istekne rok,",
+            "line_number": 6
+          }
+        ],
+        "consequences": [
+          {
+            "consequence_text": "odgovoriti u roku od 15 dana.",
+            "consequence_type": "must",
+            "context": "mora odgovoriti u roku od 15 dana.",
+            "line_number": 4
+          },
+          {
+            "consequence_text": "na naknadu.",
+            "consequence_type": "may",
+            "context": "ima pravo na naknadu.",
+            "line_number": 6
+          }
+        ],
+        "exceptions": [],
+        "rules": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 4
+    }
+  },
+  {
+    "test_name": "Kombinovani uslovi",
+    "result": {
+      "content": {
+        "conditions": [
+          {
+            "condition_text": "zaposleni ima više od 3 godine staža",
+            "condition_type": "if",
+            "context": "Ako zaposleni ima više od 3 godine staža,",
+            "line_number": 4
+          },
+          {
+            "condition_text": "je ispunio sve obaveze",
+            "condition_type": "if",
+            "context": "ako je ispunio sve obaveze,",
+            "line_number": 4
+          },
+          {
+            "condition_text": "postoje opravdani razlozi",
+            "condition_type": "if",
+            "context": "ako postoje opravdani razlozi.",
+            "line_number": 6
+          },
+          {
+            "condition_text": "poslodavac ne isplati platu na vreme",
+            "condition_type": "if",
+            "context": "Ukoliko poslodavac ne isplati platu na vreme,",
+            "line_number": 6
+          }
+        ],
+        "consequences": [
+          {
+            "consequence_text": "ima pravo na bonus.",
+            "consequence_type": "may",
+            "context": "tada ima pravo na bonus.",
+            "line_number": 4
+          },
+          {
+            "consequence_text": "platiti zateznu kamatu,",
+            "consequence_type": "must",
+            "context": "mora platiti zateznu kamatu,",
+            "line_number": 6
+          },
+          {
+            "consequence_text": "na bonus.",
+            "consequence_type": "may",
+            "context": "ima pravo na bonus.",
+            "line_number": 4
+          }
+        ],
+        "exceptions": [
+          {
+            "exception_text": "ako postoje opravdani razlozi.",
+            "exception_type": "unless",
+            "context": "osim ako postoje opravdani razlozi.",
+            "line_number": 6
+          },
+          {
+            "exception_text": "postoje opravdani razlozi.",
+            "exception_type": "unless",
+            "context": "osim ako postoje opravdani razlozi.",
+            "line_number": 6
+          }
+        ],
+        "rules": [
+          {
+            "conditions": [
+              {
+                "condition_text": "je ispunio sve obaveze",
+                "condition_type": "if",
+                "context": "je ispunio sve obaveze",
+                "line_number": 4
+              }
+            ],
+            "consequences": [
+              {
+                "consequence_text": "ima pravo na bonus.",
+                "consequence_type": "must",
+                "context": "ima pravo na bonus.",
+                "line_number": 4
+              }
+            ],
+            "exceptions": [],
+            "rule_text": "ako je ispunio sve obaveze, tada ima pravo na bonus.",
+            "rule_type": "simple",
+            "line_number": 4
+          },
+          {
+            "conditions": [
+              {
+                "condition_text": "poslodavac ne isplati platu na vreme",
+                "condition_type": "if",
+                "context": "poslodavac ne isplati platu na vreme",
+                "line_number": 6
+              }
+            ],
+            "consequences": [
+              {
+                "consequence_text": "platiti zateznu kamatu,",
+                "consequence_type": "must",
+                "context": "platiti zateznu kamatu,",
+                "line_number": 6
+              }
+            ],
+            "exceptions": [],
+            "rule_text": "Ukoliko poslodavac ne isplati platu na vreme, mora platiti zateznu kamatu,",
+            "rule_type": "simple",
+            "line_number": 6
+          },
+          {
+            "conditions": [
+              {
+                "condition_text": "zaposleni ima više od 3 godine staža",
+                "condition_type": "if",
+                "context": "zaposleni ima više od 3 godine staža",
+                "line_number": 4
+              },
+              {
+                "condition_text": "je",
+                "condition_type": "if",
+                "context": "je",
+                "line_number": 4
+              }
+            ],
+            "consequences": [
+              {
+                "consequence_text": "ispunio sve obaveze,",
+                "consequence_type": "then",
+                "context": "ispunio sve obaveze,",
+                "line_number": 4
+              }
+            ],
+            "exceptions": [],
+            "rule_text": "Ako zaposleni ima više od 3 godine staža, a ako je ispunio sve obaveze,",
+            "rule_type": "nested",
+            "line_number": 4
+          }
+        ]
+      },
+      "processing_time": 0.0,
+      "total_elements": 12
+    }
+  }
+]

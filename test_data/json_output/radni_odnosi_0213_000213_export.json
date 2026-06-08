@@ -1,0 +1,234 @@
+{
+  "import_run_id": "42f6ad53-60e6-49b6-bd17-4509476eb051",
+  "document": {
+    "name": "radni_odnosi_0213_000213.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0213_000213.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:24:09.766739Z"
+  },
+  "full_text": "Na osnovu člana 246. stav 1. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje) i člana 67. tačka 29. Statuta\ngrada Novog Sada („Službeni list grada Novog Sada”, broj 11/19), a u vezi sa članom 263.\nZakona o radu i članom 77. Posebnog kolektivnog ugovora za javna komunalna preduzeća i\ndruga javna preduzeća grada Novog Sada („Službeni list grada Novog Sada”, broj 10/22),\nGradsko veće grada Novog Sada i reprezentativni sindikati osnovani za teritoriju grada\nNovog Sada i to: Sindikat zaposlenih u komunalno-stambenoj delatnosti Novog Sada, Granski\nsindikat javnih saobraćajnih i komunalnih delatnosti „Nezavisnost” i Sindikat zaposlenih u\nkomunalno-stambenoj delatnosti Srbije, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za javna komunalna i druga javna\npreduzeća grada Novog Sada\n\"Službeni glasnik RS\", broj 17 od 28. februara 2025.\nČlan 1.\nOvim sporazumom rok važenja Posebnog kolektivnog ugovora za javna komunalna i druga javna\npreduzeća grada Novog Sada („Službeni list grada Novog Sada”, broj 10/22) produžava se do\n25. marta 2028. godine.\nČlan 2.\nOvaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom listu grada Novog\nSada”.\nZa Gradsko veće grada Novog Sada\nGradonačelnik,\nMilan Đurić, s.r.\nZa Sindikat zaposlenih\nu komunalno-stambenoj delatnosti Novog Sada\nPredsednik,\nBoban Petković, s.r.\nZa Granski sindikat javnih saobraćajnih\ni komunalnih delatnosti „Nezavisnost”\nPotpredsednik,\nObrad Tepić, s.r.\nZa Sindikat zaposlenih\nu komunalno-stambenoj delatnosti Srbije\nPredsednik Gradskog odbora za grad Novi Sad,\nMiladin Dragaš, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "b4d1e700-bf4a-43e7-a625-f013fd287edc",
+      "entity_type": "DATE",
+      "text": "28. februara 2025",
+      "start_char": 926,
+      "end_char": 943,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "23537dc1-28e9-4b95-8d33-5efecf05f743",
+      "entity_type": "DATE",
+      "text": "25. marta 2028",
+      "start_char": 1133,
+      "end_char": 1147,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "29c2f416-3bcf-4921-b38c-efb74fe5cb09",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 246",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "8035f468-1059-4ec4-84de-5ac0a8666be1",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 67",
+      "start_char": 159,
+      "end_char": 167,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "2f377136-c7ea-4867-bad2-2ed9208462e6",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 263",
+      "start_char": 264,
+      "end_char": 274,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "2eb52e66-c46c-4954-9fc7-2f8b796c57ad",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 77",
+      "start_char": 292,
+      "end_char": 301,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "00af18a1-c884-4a9a-816e-abcbba5200e2",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 945,
+      "end_char": 951,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "6eeb867b-ca57-418c-b53b-ec362f8556e9",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 1157,
+      "end_char": 1163,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "036baed2-3063-453c-ab73-004c35aca714",
+      "entity_type": "LOCATION",
+      "text": "Novi Sad",
+      "start_char": 1640,
+      "end_char": 1648,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "1e74338a-fafc-4b58-9a15-f6a97cd49011",
+      "entity_type": "LOCATION",
+      "text": "grada Novog",
+      "start_char": 187,
+      "end_char": 198,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "16b90365-91a0-4551-9c5f-50b32c9246ea",
+      "entity_type": "LOCATION",
+      "text": "grada\nNovog",
+      "start_char": 531,
+      "end_char": 542,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "165b72e7-3429-4ffb-8aad-e8d9c7857cfb",
+      "entity_type": "LOCATION",
+      "text": "grad Novi",
+      "start_char": 1635,
+      "end_char": 1644,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "ecbd322f-11b3-429d-b852-2605af701315",
+      "text": "Ovim sporazumom rok važenja Posebnog kolektivnog ugovora za javna komunalna i druga javna preduzeća grada Novog Sada („Službeni list grada Novog Sada”, broj 10/22) produžava se do",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 179,
+      "entities": [
+        {
+          "entity_id": "72ccb3e4-ab83-46be-b6ce-13608bd74811",
+          "entity_type": "LOCATION",
+          "text": "grada Novog",
+          "start_char": 100,
+          "end_char": 111,
+          "confidence": 0.85
+        },
+        {
+          "entity_id": "e7ebf314-3685-418d-93a5-6ef1e318eca6",
+          "entity_type": "LOCATION",
+          "text": "grada Novog",
+          "start_char": 133,
+          "end_char": 144,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "d54072b0-c823-4de5-9528-e5ad0b360da7",
+      "text": "Ovaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom listu grada Novog Sada”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 100,
+      "entities": [
+        {
+          "entity_id": "157880cb-217b-4426-8c60-446876f6e35f",
+          "entity_type": "LOCATION",
+          "text": "grada Novog",
+          "start_char": 81,
+          "end_char": 92,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "a8e34456-c940-4a01-b4db-453e980f86c5",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom listu grada Novog Sada”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "567871ec-03b8-4bc5-871e-e89be9ffe804",
+      "text": "Za Gradsko veće grada Novog Sada Gradonačelnik, Milan Đurić, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 100,
+      "end_char": 166,
+      "entities": [
+        {
+          "entity_id": "0fa17642-6b86-4cb2-82d8-936ec399df08",
+          "entity_type": "LOCATION",
+          "text": "grada Novog",
+          "start_char": 16,
+          "end_char": 27,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "52d95639-c8e9-4213-8222-2d325b460179",
+      "text": "Za Sindikat zaposlenih u komunalno-stambenoj delatnosti Novog Sada Predsednik, Boban Petković, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 166,
+      "end_char": 266,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "073a11db-2829-4dff-bbdb-05655d463a7c",
+      "text": "Za Granski sindikat javnih saobraćajnih i komunalnih delatnosti „Nezavisnost” Potpredsednik, Obrad Tepić, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 266,
+      "end_char": 377,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "f3e0157c-982b-4b90-9952-08507448ba6e",
+      "text": "Za Sindikat zaposlenih u komunalno-stambenoj delatnosti Srbije Predsednik Gradskog odbora za grad Novi Sad, Miladin Dragaš, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 4,
+      "start_char": 377,
+      "end_char": 505,
+      "entities": [
+        {
+          "entity_id": "a866c6db-7cb8-465e-9375-04c1053b4552",
+          "entity_type": "LOCATION",
+          "text": "Novi Sad",
+          "start_char": 98,
+          "end_char": 106,
+          "confidence": 0.85
+        },
+        {
+          "entity_id": "e7bb5029-6879-4068-afba-172f9caeb90a",
+          "entity_type": "LOCATION",
+          "text": "grad Novi",
+          "start_char": 93,
+          "end_char": 102,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:24:09.766739Z"
+}

@@ -1,0 +1,154 @@
+{
+  "import_run_id": "a9149851-2191-451a-94fa-3d6ad5368ad5",
+  "document": {
+    "name": "radni_odnosi_0138_000138.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0138_000138.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:16:42.074866Z"
+  },
+  "full_text": "Ha osnovu člana 1. stav 6. Zakona o utvrđivanju maksimalne zarade u javnom sektoru\n(„Službeni glasnik PC”, broj 93/12) i člana 42. stav 1. Zakona o Vladi („Službeni glasnik\nPC”, br. 55/05, 71/05 – ispravka, 101/07, 65/08, 16/11, 68/12 – US i 72/12),\nVlada donosi\n \n \nUREDBU\no kriterijumima i merilima za utvrđivanje konkurentnosti u javnom sektoru\n\"Službeni glasnik RS\", broj 103 od 30. oktobra 2012.\n \n \nČlan 1.\nOvom uredbom uređuju se kriterijumi i merila na osnovu kojih se određuje da li javno\npreduzeće čiji je osnivač Republika Srbija, autonomna pokrajina ili jedinica lokalne\nsamouprave, pravno lice nad kojim Republika Srbija, autonomna pokrajina odnosno jedinica\nlokalne samouprave ima direktnu ili indirektnu kontrolu od 50% kapitala ili više od 50%\nglasova u upravnom odboru, kao i u drugim pravnim licima u kojima javna sredstva čine više\nod 50% ukupnih prihoda (u daljem tekstu: pravno lice) ima položaj učesnika na tržištu koji\nima konkurenciju u smislu odredaba Zakona o utvrđivanju maksimalne zarade u javnom sektoru\n(„Službeni glasnik PC”, broj 93/12).\nČlan 2.\nKriterijumi i merila na osnovu kojih se određuje da li pravno lice ima status učesnika na\ntržištu koji ima konkurenciju su sledeći:\n1) da se pravno lice u okviru svog redovnog poslovanja pretežno bavi prodajom roba ili\npružanjem usluga bez postojanja utvrđenih posebnih i isključivih prava na obavljanje takvih\ndelatnosti;\n2) da pravno lice posluje na tržištu na kome istu (ili zamenljivu) vrstu delatnosti\nobavljaju ili mogu obavljati i drugi učesnici registrovani u skladu sa važećim propisima za\nobavljanje takve delatnosti, s tim da ti učesnici na tržištu mogu slobodno pružati te iste\nili zamenljive usluge (u pogledu njihovog svojstva, uobičajene namene i cene) na istom\ngeografskom području po jednakim uslovima;\n3) da pravno lice prilikom prodaje roba ili pružanja usluga podleže režimu pravila strogo\ndefinisanih od strane ovlašćenog regulatornog tela;\n4) da se pravno lice bavi prodajom roba ili pružanjem usluga koje imaju za cilj bolji\nkvalitet i veću ponudu roba i usluga;\n5) da pravno lice ima značajnu konkurenciju na tržištu, odnosno koje nema značajno bolji\npoložaj u odnosu na konkurente uzimajući u obzir veličinu tržišnog udela, ekonomsku i\nfinansijsku snagu, pristup tržištima snabdevanja i distribucije;\n6) da je tržišni udeo pravnog lica manji od 40% na relevantnom tržištu;\n7) da je učešće prihoda koji se ostvaruju na tržištu usluga za koje imaju posebno pravo manji\nod 40% ukupnih prihoda;\n8) da pravno lice nema ekonomsku moć kojom može da spreči održavanje stvarne konkurencije\nna tržištu, tako što se ponaša u značajnoj meri nezavisno od svojih konkurenata, kupaca i\npotrošača.\nČlan 3.\nSmatra se da pravno lice ima položaj učesnika na tržištu koji ima konkurenciju u smislu\nodredaba Zakona o utvrđivanju maksimalne zarade u javnom sektoru („Službeni glasnik PC”,\nbroj 93/12) ukoliko ispunjava najmanje šest kriterijuma, odnosno merila iz člana 2. ove\nuredbe.\nČlan 4.\nOva uredba stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike\nSrbije”.\n \n05 broj 110-7285/2012\nU Beogradu, 25. oktobra 2012. godine\nVlada\nPredsednik,\nIvica Dačić, s.r.",
+  "legal_units_count": 4,
+  "document_entities": [
+    {
+      "entity_id": "f455b3ed-1ddf-4398-a137-f379232c9beb",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 1",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "20bd9ee3-e536-48ff-a9be-c44fbf1f09de",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 42",
+      "start_char": 121,
+      "end_char": 129,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "f298e4c0-48a9-4025-83ae-5b37a1b9b5d9",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 401,
+      "end_char": 407,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "991a7405-8592-4c92-ba5f-0b2d731bb557",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 1066,
+      "end_char": 1072,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "1bb10e34-615b-40af-8799-ce978cddde76",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 2681,
+      "end_char": 2687,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "4b85a954-17ef-4d5a-b2f2-6b4f6b37ebbf",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 2",
+      "start_char": 2941,
+      "end_char": 2948,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "f78ae922-1377-4885-8a46-e626bb5f52bf",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 2962,
+      "end_char": 2968,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "f0231b0a-5629-42cd-85ba-3e161c020df4",
+      "text": "Ovom uredbom uređuju se kriterijumi i merila na osnovu kojih se određuje da li javno preduzeće čiji je osnivač Republika Srbija, autonomna pokrajina ili jedinica lokalne samouprave, pravno lice nad kojim Republika Srbija, autonomna pokrajina odnosno jedinica lokalne samouprave ima direktnu ili indirektnu kontrolu od 50% kapitala ili više od 50% glasova u upravnom odboru, kao i u drugim pravnim licima u kojima javna sredstva čine više od 50% ukupnih prihoda (u daljem tekstu: pravno lice) ima položaj učesnika na tržištu koji ima konkurenciju u smislu odredaba Zakona o utvrđivanju maksimalne zarade u javnom sektoru („Službeni glasnik PC”, broj 93/12).",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 656,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "1100ed4b-56ef-4b62-b187-eb0c34bc17e2",
+      "text": "Kriterijumi i merila na osnovu kojih se određuje da li pravno lice ima status učesnika na tržištu koji ima konkurenciju su sledeći: 1) da se pravno lice u okviru svog redovnog poslovanja pretežno bavi prodajom roba ili pružanjem usluga bez postojanja utvrđenih posebnih i isključivih prava na obavljanje takvih delatnosti; 2) da pravno lice posluje na tržištu na kome istu (ili zamenljivu) vrstu delatnosti obavljaju ili mogu obavljati i drugi učesnici registrovani u skladu sa važećim propisima za obavljanje takve delatnosti, s tim da ti učesnici na tržištu mogu slobodno pružati te iste ili zamenljive usluge (u pogledu njihovog svojstva, uobičajene namene i cene) na istom geografskom području po jednakim uslovima; 3) da pravno lice prilikom prodaje roba ili pružanja usluga podleže režimu pravila strogo definisanih od strane ovlašćenog regulatornog tela; 4) da se pravno lice bavi prodajom roba ili pružanjem usluga koje imaju za cilj bolji kvalitet i veću ponudu roba i usluga; 5) da pravno lice ima značajnu konkurenciju na tržištu, odnosno koje nema značajno bolji položaj u odnosu na konkurente uzimajući u obzir veličinu tržišnog udela, ekonomsku i finansijsku snagu, pristup tržištima snabdevanja i distribucije; 6) da je tržišni udeo pravnog lica manji od 40% na relevantnom tržištu; 7) da je učešće prihoda koji se ostvaruju na tržištu usluga za koje imaju posebno pravo manji od 40% ukupnih prihoda; 8) da pravno lice nema ekonomsku moć kojom može da spreči održavanje stvarne konkurencije na tržištu, tako što se ponaša u značajnoj meri nezavisno od svojih konkurenata, kupaca i potrošača.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 1606,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "b381f752-3180-4a8c-9eff-739ffa7b9afd",
+          "condition_type": "condition",
+          "text": "2) da pravno lice posluje na tržištu na kome istu (ili zamenljivu) vrstu delatnosti obavljaju ili mogu obavljati i drugi učesnici registrovani u skladu sa važećim propisima za obavljanje takve delatnosti",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "e36accf4-7665-4714-90f7-62e4fac75942",
+          "condition_type": "modal",
+          "text": "8) da pravno lice nema ekonomsku moć kojom može da spreči održavanje stvarne konkurencije na tržištu",
+          "trigger_word": "može",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "acfe9f48-f2d8-416e-bcc9-5b0f6407e5a0",
+      "text": "Smatra se da pravno lice ima položaj učesnika na tržištu koji ima konkurenciju u smislu odredaba Zakona o utvrđivanju maksimalne zarade u javnom sektoru („Službeni glasnik PC”, broj 93/12) ukoliko ispunjava najmanje šest kriterijuma, odnosno merila iz člana 2.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 261,
+      "entities": [
+        {
+          "entity_id": "c395e38a-b87e-4b11-9912-7abaf197b526",
+          "entity_type": "LEGAL_REF",
+          "text": "člana 2",
+          "start_char": 252,
+          "end_char": 259,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "b17e8fb5-6904-4252-85ea-5c6f79d77d7b",
+          "condition_type": "condition",
+          "text": "broj 93/12) ukoliko ispunjava najmanje šest kriterijuma",
+          "trigger_word": "ukoliko",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "12395319-adeb-4367-a7a3-9d0ae6502af7",
+      "text": "Ova uredba stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 100,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "e508b6e9-140a-48d0-99f0-454e7adc013d",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:16:42.074866Z"
+}

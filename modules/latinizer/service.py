@@ -48,7 +48,7 @@ class LatinizerService:
     
     def __init__(self):
         """Initialize the latinizer service."""
-        logger.info("Latinizer service initialized")
+        logger.debug("Latinizer service initialized")
     
     def latinize(self, text: str) -> Dict[str, Any]:
         """

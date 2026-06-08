@@ -1,0 +1,272 @@
+{
+  "import_run_id": "performance_test_run_001",
+  "document": {
+    "job_id": "25451700-e59b-45fc-88e5-310c3cb91975",
+    "name": "radni_odnosi_0001_000001.pdf",
+    "file_path": "D:/POSAO/OllamaProjects/GROOVE.AI/DOCUMENTS/DEV/radni_odnosi_0001_000001.pdf",
+    "file_type": "pdf",
+    "char_count": null,
+    "page_count": null,
+    "processed_at": "2026-06-06 13:50:29.550551"
+  },
+  "full_text": "Zakon o radu reguliše prava i obaveze zaposlenih.",
+  "assertions": [
+    {
+      "assertion_id": null,
+      "legal_unit_id": "test-unit-001",
+      "text": "Poslodavac je dužan da zaposlenom isplati zaradu za obavljeni rad i vreme provedeno na radu.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "test-unit-001",
+      "text": "Zaposleni može da koristi godišnji odmor u skladu sa zakonom.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "test-unit-001",
+      "text": "Zabranjeno je diskriminisati zaposlene na bilo kom osnovu.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "test-unit-001",
+      "text": "Poslodavac mora da obezbedi bezbedne uslove rada.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "test-unit-001",
+      "text": "Zaposleni ima pravo na pauzu tokom radnog vremena.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "d0486e26-3e00-55bc-855f-aad71ab90733",
+      "text": "Prava, obaveze i odgovornosti iz radnog odnosa, odnosno po osnovu rada, uređuju se ovim zakonom i posebnim zakonom, u skladu sa ratifikovanim međunarodnim konvencijama.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "d0486e26-3e00-55bc-855f-aad71ab90733",
+      "text": "Prava, obaveze i odgovornosti iz radnog odnosa uređuju se i kolektivnim ugovorom i ugovorom o radu, a pravilnikom o radu, odnosno ugovorom o radu – samo kada je to ovim zakonom određeno.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "f1ba18e8-a915-5998-9e89-2ba31002bff7",
+      "text": "Odredbe ovog zakona primenjuju se na zaposlene koji rade na teritoriji Republike Srbije, kod domaćeg ili stranog pravnog, odnosno fizičkog lica (u daljem tekstu: poslodavac), kao i na zaposlene koji su upućeni na rad u inostranstvo od strane poslodavca ako zakonom nije drukčije određeno.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "f1ba18e8-a915-5998-9e89-2ba31002bff7",
+      "text": "Odredbe ovog zakona primenjuju se i na zaposlene u državnim organima, organima teritorijalne autonomije i lokalne samouprave i javnim službama, ako zakonom nije drukčije određeno.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "f1ba18e8-a915-5998-9e89-2ba31002bff7",
+      "text": "Odredbe ovog zakona primenjuju se i na zaposlene kod poslodavaca u oblasti saobraćaja, ako posebnim propisom nije drukčije određeno.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "f1ba18e8-a915-5998-9e89-2ba31002bff7",
+      "text": "Odredbe ovog zakona primenjuju se na zaposlene strane državljane i lica bez državljanstva koji rade kod poslodavca na teritoriji Republike Srbije, ako zakonom nije drukčije određeno.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "96b1053c-0844-594a-99ee-d6d928e79f17",
+      "text": "Kolektivnim ugovorom kod poslodavca, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa i međusobni odnosi učesnika kolektivnog ugovora.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "96b1053c-0844-594a-99ee-d6d928e79f17",
+      "text": "Pravilnikom o radu, odnosno ugovorom o radu, u skladu sa zakonom, uređuju se prava, obaveze i odgovornosti iz radnog odnosa: 1) ako kod poslodavca nije osnovan sindikat ili nijedan sindikat ne ispunjava uslove reprezentativnosti ili nije zaključen sporazum o udruživanju u skladu sa ovim zakonom; 2) ako nijedan učesnik kolektivnog ugovora ne pokrene inicijativu za početak pregovora radi zaključivanja kolektivnog ugovora; 3) ako učesnici kolektivnog ugovora ne postignu saglasnost za zaključivanje kolektivnog ugovora u roku od 60 dana od dana započinjanja pregovora; 4) ako sindikat, u roku od 15 dana od dana dostavljanja poziva za početak pregovora za zaključivanje kolektivnog ugovora, ne prihvati inicijativu poslodavca.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "96b1053c-0844-594a-99ee-d6d928e79f17",
+      "text": "tačka 3) ovog člana učesnici kolektivnog ugovora dužni su da nastave pregovore u dobroj veri.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "96b1053c-0844-594a-99ee-d6d928e79f17",
+      "text": "tačka 3) ovog člana, poslodavac je dužan da pravilnik o radu dostavi reprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "96b1053c-0844-594a-99ee-d6d928e79f17",
+      "text": "Poslodavac koji ne prihvati inicijativu reprezentativnog sindikata za pristupanje pregovorima za zaključenje kolektivnog ugovora, ne može pravilnikom o radu da uredi prava i obaveze iz radnog odnosa.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "96b1053c-0844-594a-99ee-d6d928e79f17",
+      "text": "Pravilnik o radu donosi nadležni organ kod poslodavca, utvrđen zakonom, odnosno osnivačkim ili drugim opštim aktom poslodavca, a kod poslodavca koji nema svojstvo pravnog lica donosi ovlašćeno lice u skladu sa zakonom.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "96b1053c-0844-594a-99ee-d6d928e79f17",
+      "text": "Pravilnik o radu javnog preduzeća i društva kapitala čiji je osnivač Republika, autonomna pokrajina ili jedinica lokalne samouprave (u daljem tekstu: javno preduzeće) i društva kapitala čiji je osnivač javno preduzeće, donosi se uz prethodnu saglasnost osnivača.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "96b1053c-0844-594a-99ee-d6d928e79f17",
+      "text": "Pravilnik o radu prestaje da važi danom stupanja na snagu kolektivnog ugovora iz stava 1.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "98ee3b17-5241-553f-8a1c-65a4c108fbeb",
+      "text": "Opšti i poseban kolektivni ugovor moraju biti u saglasnosti sa zakonom.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "98ee3b17-5241-553f-8a1c-65a4c108fbeb",
+      "text": "Kolektivni ugovor kod poslodavca, pravilnik o radu i ugovor o radu moraju biti u saglasnosti sa zakonom, a kod poslodavca iz čl.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "98ee3b17-5241-553f-8a1c-65a4c108fbeb",
+      "text": "ovog zakona – i sa opštim i posebnim kolektivnim ugovorom.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "f19a2e75-e1ca-5b5b-8b09-01f7e44ca592",
+      "text": "Zaposleni, u smislu ovog zakona, jeste fizičko lice koje je u radnom odnosu kod poslodavca.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "f19a2e75-e1ca-5b5b-8b09-01f7e44ca592",
+      "text": "Poslodavac, u smislu ovog zakona, jeste domaće, odnosno strano pravno ili fizičko lice koje zapošljava, odnosno radno angažuje, jedno ili više lica.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "5f27e7b5-f6b5-5a0f-832c-e0d6bad3d140",
+      "text": "Sindikatom, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija zaposlenih u koju se oni dobrovoljno udružuju radi zastupanja, predstavljanja, unapređenja i zaštite svojih profesionalnih, radnih, ekonomskih, socijalnih, kulturnih i drugih pojedinačnih i kolektivnih interesa.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "2cadf0ce-8fd2-5b6b-abac-4e98e63985ac",
+      "text": "Udruženjem poslodavaca, u smislu ovog zakona, smatra se samostalna, demokratska i nezavisna organizacija u koju poslodavci dobrovoljno stupaju radi predstavljanja, unapređenja i zaštite svojih poslovnih interesa, u skladu sa zakonom.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "51e2d70d-a94b-58d8-b0e0-3275a39ad6ed",
+      "text": "Kolektivni ugovor i pravilnik o radu (u daljem tekstu: opšti akt) i ugovor o radu ne mogu da sadrže odredbe kojima se zaposlenom daju manja prava ili utvrđuju nepovoljniji uslovi rada od prava i uslova koji su utvrđeni zakonom.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "51e2d70d-a94b-58d8-b0e0-3275a39ad6ed",
+      "text": "Opštim aktom i ugovorom o radu mogu da se utvrde veća prava i povoljniji uslovi rada od prava i uslova utvrđenih zakonom, kao i druga prava koja nisu utvrđena zakonom, osim ako zakonom nije drukčije određeno.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "ab3b2016-2d93-58ca-8cbe-a537dcd0ad88",
+      "text": "Ako opšti akt i pojedine njegove odredbe utvrđuju nepovoljnije uslove rada od uslova utvrđenih zakonom, primenjuju se odredbe zakona.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "ab3b2016-2d93-58ca-8cbe-a537dcd0ad88",
+      "text": "Pojedine odredbe ugovora o radu kojima su utvrđeni nepovoljniji uslovi rada od uslova utvrđenih zakonom i opštim aktom, odnosno koje se zasnivaju na netačnom obaveštenju od strane poslodavca o pojedinim pravima, obavezama i odgovornostima zaposlenog – ništave su.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "c82ec28a-747f-57d9-aeaf-c6f1da6cd0a8",
+      "text": "Posebnim kolektivnim ugovorom ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim kolektivnim ugovorom koji obavezuje poslodavce koji su članovi udruženja poslodavaca koje zaključuje taj poseban kolektivni ugovor.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    },
+    {
+      "assertion_id": null,
+      "legal_unit_id": "c82ec28a-747f-57d9-aeaf-c6f1da6cd0a8",
+      "text": "Kolektivnim ugovorom kod poslodavca ne mogu se utvrditi manja prava i nepovoljniji uslovi rada zaposlenom od prava i uslova utvrđenih opštim, odnosno posebnim kolektivnim ugovorom koji obavezuje tog poslodavca.",
+      "entities": [],
+      "conditions": [],
+      "classification": {}
+    }
+  ],
+  "export_timestamp": "2026-06-08T07:39:54.299458Z"
+}

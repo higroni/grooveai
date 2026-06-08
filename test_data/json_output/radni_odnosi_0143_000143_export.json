@@ -1,0 +1,49 @@
+{
+  "import_run_id": "1da87530-49f3-4492-aa10-37cd11cb05b1",
+  "document": {
+    "name": "radni_odnosi_0143_000143.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0143_000143.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:16:46.773939Z"
+  },
+  "full_text": " \nNa osnovu člana 15. stav 3. Zakona o platama državnih službenika i nameštenika\n(„Službeni glasnik RS”, br. 62/06, 63/06 – ispravka i 115/06 – ispravka) i člana 43. stav 1.\nZakona o Vladi („Službeni glasnik RS”, br. 55/05 i 71/05 – ispravka),\nVlada donosi\n  \nODLUKU\no određivanju koeficijenta za obračun i ispl atu plate savetnika predsednika\nVlade i sa vetnika potpredsednika Vlade\n\"Službeni glasnik RS\", broj 6 od 19. januara 2007.\n \n \n1. Koeficijent za obračun i isplatu plate savetnika predsednika Vlade koji je u\nradnom odnosu isti je kao koeficijent državnog službenika na položaju koji je razvrstan u\ntreću grupu položaja i iznosi 7,11.\nKoeficijent za obračun i isplatu plate savetnika potpredsednika Vlade koji je u\nradnom odnosu isti je kao koeficijent državnog službenika na položaju koji je razvrstan u\nčetvrtu grupu položaja i iznosi 6,32.\n \n2. Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n  \n05 broj 121-477/2007\nU Beogradu, 18. januara 2007. godine\nVlada\nPredsednik,\nVojislav Koštunica, s.r.",
+  "legal_units_count": 0,
+  "document_entities": [
+    {
+      "entity_id": "9f5a42f1-3fe6-4c0c-a6d6-3db5eeab055d",
+      "entity_type": "DATE",
+      "text": "19. januara 2007",
+      "start_char": 413,
+      "end_char": 429,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "da60866b-4601-42e6-b463-565947cd3aca",
+      "entity_type": "DATE",
+      "text": "18. januara 2007",
+      "start_char": 985,
+      "end_char": 1001,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "1576cbb8-7517-431e-8db1-87ba6c478893",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 15",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "29d0603f-808e-4ffc-8dee-4629d0a3ad4f",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 43",
+      "start_char": 154,
+      "end_char": 162,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [],
+  "export_timestamp": "2026-06-08T17:16:46.773939Z"
+}

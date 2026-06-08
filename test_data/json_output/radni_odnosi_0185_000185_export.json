@@ -1,0 +1,120 @@
+{
+  "import_run_id": "77f6f5a3-80ec-4a9a-8427-85b6c9cf38de",
+  "document": {
+    "name": "radni_odnosi_0185_000185.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0185_000185.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:38.402344Z"
+  },
+  "full_text": "Na osnovu člana 4. stav 2. Zakona o državnim službenicima („Službeni glasnik RS”, br.\n79/05, 81/05 – ispravka, 83/05 – ispravka, 64/07, 67/07 – ispravka, 116/08, 104/09, 99/14,\n94/17 i 95/18), u vezi sa članom 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05,\n61/05, 54/09, 32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje),\nVlada i reprezentativni sindikat Ministarstva unutrašnjih poslova – Nezavisni sindikat\npolicije, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za policijske službenike\n\"Službeni glasnik RS\", broj 97 od 30. avgusta 2022.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za policijske službenike („Službeni glasnik RS”, br.\n62/19, 62/20 – Aneks I i 81/21 – Aneks II), produžava se do 31. avgusta 2023. godine.\nČlan 2.\nOvaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nBroj 01-4802/22-13\nU Beogradu, 29. avgusta 2022. godine\nZa Vladu\nMinistar unutrašnjih poslova,\nAleksandar Vulin, s.r.\nZa Nezavisni sindikat policije,\nMarjan Petrović, s.r.\nMaja Grujić, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "ecf73fbd-792f-4df4-9acc-4b8ba5f7a530",
+      "entity_type": "DATE",
+      "text": "30. avgusta 2022",
+      "start_char": 583,
+      "end_char": 599,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "dd618dc9-7652-4530-8503-719cda0d285b",
+      "entity_type": "DATE",
+      "text": "31. avgusta 2023",
+      "start_char": 759,
+      "end_char": 775,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "ca2654b5-70c1-4f7c-99cc-9f10ccb90c22",
+      "entity_type": "DATE",
+      "text": "29. avgusta 2022",
+      "start_char": 930,
+      "end_char": 946,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "06b4b6d1-3f22-4822-80bd-43c4b4ba6577",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 4",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "6ab22eb5-5807-403f-9e28-4927818c9305",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 263",
+      "start_char": 203,
+      "end_char": 213,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "cba598af-5768-42c5-af76-ab3540e20332",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 601,
+      "end_char": 607,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "2dd0be50-fd69-401a-8909-c5ec2ccf06b0",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 785,
+      "end_char": 791,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "ccf325f4-e758-4e51-b0ac-8177cf6c848b",
+      "text": "Važenje Posebnog kolektivnog ugovora za policijske službenike („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 90,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "962ae999-2ffc-4968-a24a-1b7ff6567c21",
+      "text": "62/19, 62/20 – Aneks I i 81/21 – Aneks II), produžava se do 31.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 90,
+      "end_char": 154,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "6015932c-06ea-46f6-9bc5-48e24a737fd0",
+          "condition_type": "temporal",
+          "text": "produžava se do 31",
+          "trigger_word": "do",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "assertion_id": "18784645-0bcf-4d02-919b-c1e790cd0498",
+      "text": "Ovaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 106,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "05527f7a-1984-4c87-ac0b-251056d9763f",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:38.402344Z"
+}

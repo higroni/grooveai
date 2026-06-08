@@ -1,0 +1,844 @@
+{
+  "import_run_id": "f22521d6-3ca3-4c8a-876e-3c8784e299f1",
+  "document": {
+    "name": "radni_odnosi_0042_000042.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0042_000042.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:13:28.584597Z"
+  },
+  "full_text": "Redakcijski prečišćen tekst\n \n \nNa osnovu člana 7. stav 2. Zakona o bezbednosti i zdravlju na radu (,,Službeni glasnik RS”,\nbroj 101/05),\nMinistar rada, zapošljavanja i socijalne politike donosi\nPRAVILNIK\no preventivnim merama za bezbedan i zdrav rad pri izlaganju veštačkim optičkim zračenjima\n\"Službeni glasnik RS\", br. 120 od 21. decembra 2012, 29 od 29. marta 2013 - ispravka, 130 od\n29. decembra 2021.\nČlan 1.\nOvim pravilnikom propisuju se zahtevi koje je poslodavac dužan da ispuni u obezbeđivanju\nprimene preventivnih mera sa ciljem otklanjanja ili svođenja na najmanju moguću meru rizika\nod nastanka oštećenja zdravlja zaposlenih koji nastaju ili mogu da nastanu pri izlaganju\nveštačkim optičkim zračenjima, a naročito rizika od nastanka oštećenja očiju i kože,\ngranične vrednosti izloženosti zračenju za nekoherentno optičko zračenje i granične\nvrednosti izloženosti zračenju za lasersko optičko zračenje.\nČlan 2.\nPojedini izrazi koji se koriste u ovom pravilniku imaju sledeće značenje:\n1) optičko zračenje – jeste svako elektromagnetsko zračenje sa opsegom talasne dužine između\n100 nm i 1 mm. Spektar optičkog zračenja se deli na ultraljubičasto zračenje, vidljivo\nzračenje i infracrveno zračenje:\n(1) ultraljubičasto zračenje – jeste optičko zračenje sa opsegom talasne dužine između 100\nnm i 400 nm. Ultraljubičasta oblast se deli na UVA (315 nm do 400 nm), UVB (280 nm do 315\nnm) i UVC (100 nm do 280 nm),\n(2) vidljivo zračenje – jeste optičko zračenje sa opsegom talasne dužine između 380 nm i 780\nnm,\n(3) infracrveno zračenje – jeste optičko zračenje sa opsegom talasne dužine između 780 nm i\n1 mm. Infracrvena oblast se deli na IRA (780 nm do 1400 nm), IRB (1400 nm do 3000 nm) i\nIRC (3000 nm do 1 mm);\n2) laser (pojačanje svetlosti pomoću stimulisane emisije zračenja) – jeste svaki uređaj koji\nmože proizvesti ili pojačati elektromagnetsko zračenje u opsegu talasne dužine optičkog\nzračenja uglavnom procesom kontrolisane stimulisane emisije;\n3) lasersko zračenje – jeste optičko zračenje lasera;\n4) nekoherentno zračenje – jeste svako optičko zračenje koje nije lasersko zračenje;\n5) granične vrednosti izloženosti – jesu granice izloženosti optičkom zračenju koje su\nneposredno zasnovane na utvrđenim posledicama po zdravlje i biološkim razlozima.\nUsaglašenost sa ovim graničnim vrednostima obezbeđuje da su zaposleni koji su izloženi\nveštačkim izvorima optičkog zračenja zaštićeni od svih poznatih štetnih posledica po\nzdravlje;\n6) iradijansa (E) ili gustina snage – jeste snaga optičkog zračenja po jedinici površine\nprijemnika izražena u vatima po kvadratnom metru (W m−2);\n7) izloženost zračenju (H) – jeste vremenski integral iradijanse, izražen u džulima po\nkvadratnom metru (J m−2);\n8) radijansa (L) – jeste fluks zračenja ili izlazna snaga po jedinici površine izvora u\njedinični prostorni ugao, izražena u vatima po kvadratnom metru i steradijanu (W m−2\nsr−1);\n9) nivo – jeste kombinacija iradijanse, izloženosti i radijanse kojima je zaposleni izložen.\nČlan 3.\nGranične vrednosti izloženosti zračenju za nekoherentno optičko zračenje (Prilog 1.) i\nGranične vrednosti izloženosti zračenju za lasersko optičko zračenje (Prilog 2.)\nodštampane su uz ovaj pravilnik i čine njegov sastavni deo.\nČlan 4.\nPoslodavac je dužan da za sva radna mesta u radnoj okolini na kojima postoji mogućnost\nizlaganja zaposlenih veštačkim izvorima optičkog zračenja, izvrši procenu rizika od\nnastanka oštećenja zdravlja zaposlenih, proceni nivo izloženosti i, ukoliko je potrebno,\nobezbedi da se izvrši merenje nivoa izloženosti optičkom zračenju, radi utvrđivanja načina\ni mera za otklanjanje ili smanjenje izloženosti na nivo ispod graničnih vrednosti.\nMetode koje se koriste u postupku procene, merenja i/ili izračunavanja treba da budu:\n1) za lasersko zračenje u skladu sa standardima SRPS EN 12254:2010, SRPS EN\n12254:2010/AC:2012, SRPS EN ISO 11146-1:2009, SRPS EN ISO 11146-2:2009, SRPS EN ISO\n11670:2009 i SRPS EN ISO 11670:2009/AC:2009;\n2) za nekoherentno zračenje u skladu sa standardima SRPS EN 14255-1:2012 i SRPS EN 14255-\n2:2012.\nU slučajevima izloženosti koji nisu obuhvaćeni ovim standardima procena, merenje i/ili\nizračunavanje vrši se u skladu sa odgovarajućim tehničkim propisima.\nProcena nivoa izloženosti veštačkim optičkim zračenjima može se vršiti na osnovu\npodataka dobijenih od proizvođača opreme za rad u skladu sa zakonom kojim se uređuju\ntehnički zahtevi za proizvode i ocenjivanje usaglašenosti.\nPoslodavac je dužan da na osnovu utvrđenih štetnosti koje nastaju usled izloženosti\nzaposlenih veštačkim optičkim zračenjima angažuje pravno lice sa licencom radi\nsprovođenja preventivnih i periodičnih ispitivanja uslova radne okoline.\nČlan 5.\nPoslodavac je dužan da u postupku procene rizika koji se javlja usled izloženosti\nzaposlenih veštačkim optičkim zračenjima naročito uzme u obzir:\n1) nivo, opseg talasne dužine i trajanje izloženosti veštačkim izvorima optičkog zračenja;\n2) granične vrednosti izloženosti za nekoherentno zračenje i granične vrednosti\nizloženosti za lasersko zračenje;\n3) efekte koji mogu uticati na bezbednost i zdravlje zaposlenih koji su posebno osetljivi na\nizlaganje veštačkim izvorima optičkog zračenja;\n4) uticaje na bezbednost i zdravlje zaposlenih koji proizlaze iz interakcije između optičkog\nzračenja i hemijskih supstanci osetljivih na optičko zračenje na radnom mestu;\n5) posredne uticaje na bezbednost i zdravlje zaposlenih, kao što su privremeno slepilo,\neksplozija ili požar;\n6) postojanje opreme za rad koja je projektovana za smanjenje nivoa izloženosti veštačkom\noptičkom zračenju;\n7) informacije o rezultatima dobijenim na osnovu praćenja zdravstvenog stanja i na bazi\ndostupnih podataka;\n8) izloženost većem broju izvora veštačkog optičkog zračenja;\n9) klasifikaciju koja se primenjuje na lasere prema odgovarajućem standardu SRPS EN 60825-\n1:2008, a za bilo koji veštački izvor za koji je verovatno da će izazvati štetu sličnu kao\nlaseri klase 3B ili 4, bilo koju sličnu klasifikaciju;\n10) podatke o izvorima optičkog zračenja koji su dobijeni od proizvođača opreme za rad u\nskladu sa zakonom kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje\nusaglašenosti.\nČlan 6.\nPoslodavac je dužan da donese akt o proceni rizika u pisanoj formi, radi mogućnosti stalnog\nuvida. Procena rizika vrši se u skladu sa propisima o bezbednosti i zdravlju na radu,\nredovno se ažurira, odnosno vrši se delimična izmena ili dopuna akta o proceni rizika\nukoliko:\n1) je procena rizika izvršena tako da nisu evidentirani i procenjeni svi faktori rizika\nkoji nastaju usled izlaganja zaposlenih veštačkim optičkim zračenjima;\n2) je došlo do promene u obavljanju poslova, odnosno pojave novih opasnosti i štetnosti;\n3) je to potrebno na osnovu rezultata dobijenih na osnovu praćenja zdravstvenog stanja.\nProcena rizika može da sadrži obrazloženje poslodavca da, prema prirodi i obimu rizika\nkoji proističu iz izlaganja veštačkom optičkom zračenju više nije potrebna dalja detaljna\nprocena rizika.\nČlan 7.\nPoslodavac je dužan da uzimajući u obzir savremena tehnička rešenja i dostupnost mera za\nkontrolu rizika na njegovom izvoru, kao i polazeći od načela primene preventivnih mera,\nrizik koji nastaje usled izloženosti zaposlenih veštačkim optičkim zračenjima otkloni ili\nsmanji na najmanju moguću meru.\nPoslodavac je dužan da, ukoliko se u postupku procene rizika utvrdi da su granične\nvrednosti izloženosti veštačkom optičkom zračenju prekoračene ili da mogu biti\nprekoračene, aktom o proceni rizika utvrdi tehničke i/ili organizacione mera čija primena\nmora da obezbedi smanjenje izloženosti zaposlenih i pri tome je dužan da jednu ili više\nuzme u obzir:\n1) druge metode rada čijom se primenom smanjuje rizik od optičkog zračenja;\n2) izbor odgovarajuće opreme za rad koja, s obzirom na poslove koje zaposleni obavlja emituje\nmanje optičkog zračenja;\n3) smanjenje emisije optičkog zračenja primenom tehničkih mera, uključujući i, gde je to\nneophodno, korišćenje blokada, štitova ili sličnih mehanizama za zaštitu zdravlja;\n4) odgovarajuće programe održavanja radnog mesta i opreme za rad;\n5) projektovanje i raspored radnih mesta;\n6) ograničavanje trajanja i nivoa izloženosti;\n7) kontrolu upotrebe odgovarajućih sredstava i opreme za ličnu zaštitu na radu;\n8) uputstva proizvođača opreme za rad, obezbeđena u skladu sa tehničkim propisom donetim\nna osnovu zakona kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti,\na kojim je propisana obaveza proizvođača da sačini uputstvo za takvu opremu.\nPoslodavac je dužan da radna mesta, za koja je na osnovu procene rizika utvrđeno da postoji\nmogućnost da granična vrednost izloženosti veštačkom optičkom zračenju bude prekoračena,\nobeleži oznakama za bezbednost i zdravlje na radu, kao i da taj prostor obezbedi od pristupa\nsvih lica koja ne rade na tim radnim mestima.\nPoslodavac je dužan da izloženost zaposlenih veštačkom optičkom zračenju svede na najmanju\nmoguću vrednost, a u svakom slučaju na vrednost koja je manja od granične vrednosti\nizloženosti.\nPoslodavac je dužan da, ukoliko je i pored primene preventivnih mera izloženost veća od\ngranične vrednosti izloženosti veštačkom optičkom zračenju, što je moguće pre preduzme\nodgovarajuće mere tako da smanji izloženost ispod granične vrednosti izloženosti, utvrdi\nrazloge zbog kojih je došlo do prekoračenja granične vrednosti izloženosti i koriguje\nprimenu mera sa ciljem da se spreči da se prekoračenje granične vrednosti izloženosti\nveštačkom optičkom zračenju ponovi.\nPoslodavac je dužan da prilagodi mere za bezbednost i zdravlje na radu koje se odnose na\nsmanjenje izloženosti veštačkom optičkom zračenju zaposlenima koji su posebno osetljivi na\nizlaganje veštačkom optičkom zračenju.\n*Službeni glasnik RS, broj 130/2021\nČlan 8.\nPoslodavac je dužan da zaposlenima koji jesu izloženi veštačkom optičkom zračenju ili\nnjihovim predstavnicima za bezbednost i zdravlje na radu obezbedi sve informacije o merama\nkoje se preduzimaju sa ciljem ostvarenja bezbednih i zdravih uslova rada pri izlaganju\nveštačkom optičkom zračenju, kao i da te zaposlene u toku osposobljavanja za bezbedan i zdrav\nrad upozna sa svim vrstama rizika koji nastaju pri izlaganju veštačkom optičkom zračenju, a\nnaročito u odnosu na:\n1) mere koje se preduzimaju sa ciljem otklanjanja ili smanjenja na najmanju moguću meru rizika\nod oštećenja zdravlja usled izloženosti veštačkom optičkom zračenju u skladu sa ovim\npravilnikom;\n2) postojanje granične vrednosti izloženosti i rizike koji mogu da nastanu pri izlaganju;\n3) rezultate procene rizika i/ili merenja uz objašnjenje njihovog značenja i mogućih\nopasnosti i štetnosti koji mogu nastati usled izlaganja veštačkom optičkom zračenju;\n4) način za otkrivanje i prijavljivanje oštećenja zdravlja koji su posledica izloženosti;\n5) okolnosti pod kojima zaposleni imaju pravo na praćenje zdravstvenog stanja;\n6) bezbedne načine rada kako bi se izloženost veštačkom optičkom zračenju smanjila na\nnajmanju moguću meru;\n7) pravilno korišćenje odgovarajućih sredstava i opreme za ličnu zaštitu na radu.\n*Službeni glasnik RS, broj 130/2021\nČlan 9.\nPoslodavac i zaposleni, odnosno njihovi predstavnici za bezbednost i zdravlje na radu\ndužni su da sarađuju u vezi sa svim pitanjima koja se odnose na primenu preventivnih mera\npri izlaganju veštačkim optičkim zračenjima, u skladu sa Zakonom o bezbednosti i zdravlju\nna radu.\nČlan 10.\nPoslodavac je dužan da, radi prevencije i ranog otkrivanja svih štetnih posledica,\nsprečavanja dugoročnih rizika po zdravlje i svih rizika od hroničnih bolesti koji su\nposledica izloženosti veštačkom optičkom zračenju, u skladu sa propisima u oblasti\nbezbednosti i zdravlja na radu i zdravstvene zaštite, obezbedi propisano praćenje\nzdravstvenog stanja za zaposlene koji rade, ili treba da rade, na radnim mestima za koja se\nrezultatima procene rizika, iz člana 4. ovog pravilnika utvrdi da su radna mesta sa\npovećanim rizikom od nastanka oštećenja zdravlja.\nSlužba medicine rada koja prati zdravstveno stanje zaposlenih iz stava 1. ovog člana za\nsvakog zaposlenog vodi podatke o njegovom zdravstvenom stanju i redovno ih ažurira na način\nkoji omogućava kasniji uvid. Izveštaj o lekarskom pregledu zaposlenog sadrži ocenu\nzdravstvenog stanja.\nU postupku vršenja prethodnog i periodičnog lekarskog pregleda služba medicine rada\nkoristi podatke o faktorima rizika na radnom mestu sa povećanim rizikom, kao i podatke o\nposebnim zdravstvenim uslovima koje moraju ispunjavati zaposleni, iz akta poslodavca o\nproceni rizika.\nRezultati praćenja zdravstvenog stanja zaposlenih čuvaju se u odgovarajućem obliku kojim se\nobezbeđuje mogućnost naknadnog uvida uz poštovanje obaveze o poverljivosti podataka o\nličnosti.\nSvakom zaposlenom potrebno je na lični zahtev obezbediti pristup njegovim podacima o\nzdravstvenom stanju i rezultatima praćenja zdravstvenog stanja.\nPoslodavac je dužan da zaposlenog na radnom mestu na kome je izloženost veća od granične\nvrednosti izloženosti, a koje nije aktom o proceni rizika iz člana 4. stav 1. ovog pravilnika\nutvrđeno kao radno mesto sa povećanim rizikom, uputi na ciljani lekarski pregled. Ciljani\nlekarski pregledi vrše se na način, po postupku i u rokovima kao i prethodni i periodični\nlekarski pregledi zaposlenih na radnim mestima sa povećanim rizikom.\nKada je izloženost veća od granične vrednosti izloženosti ili se praćenjem zdravstvenog\nstanja utvrdi oštećenje zdravlja zaposlenog koje je prema nalazu službe medicine rada\nnastalo kao posledica izlaganja veštačkom optičkom zračenju na radnom mestu, tada je:\n1) služba medicine rada dužna da obavesti zaposlenog o rezultatima praćenja zdravstvenog\nstanja koji se odnose na njega i da zaposlenom obezbedi sve informacije i savete u vezi sa\nnačinom praćenja zdravstvenog stanja po završetku izlaganja;\n2) služba medicine rada dužna da obaveštava poslodavca o bitnim rezultatima praćenja\nzdravstvenog stanja zaposlenog na način kojim se ne narušava princip poverljivosti ličnih\npodataka;\n3) poslodavac dužan da:\n(1) izvrši proveru procene rizika koja je sprovedena u skladu sa članom 4. ovog pravilnika,\n(2) proveri i izvrši korekciju preventivnih mera koje su predviđene za otklanjanje ili\nsmanjenje rizika saglasno članu 7. ovog pravilnika,\n(3) uzme u obzir savet službe medicine rada pri sprovođenju preventivnih mera koje su\npredviđene za otklanjanje ili smanjenje rizika saglasno članu 7. ovog pravilnika,\n(4) obezbedi praćenje zdravstvenog stanja ostalih zaposlenih koji su bili na sličan način\nizloženi veštačkom optičkom zračenju. Služba medicine rada može predložiti da se izvrši\nlekarski pregled izloženih lica.\n*Službeni glasnik RS, broj 130/2021\nČlan 11.\nOvaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”, a primenjuje se od 1. januara 2017. godine.\nBroj 110-00-00016/2012-01\nU Beogradu, 13. decembra 2012. godine\nMinistar,\ndr Jovan Krkobabić, s.r.\n \nLista priloga:\n \nPrilog 1 - Granične vrednosti izloženosti zračenju za nekoherentno optičko\nzračenje\nPrilog 2 - Granične vrednosti izloženosti zračenju za lasersko optičko zračenje\n ",
+  "legal_units_count": 11,
+  "document_entities": [
+    {
+      "entity_id": "38b3f9e2-2030-462e-bd1f-ca058e528e93",
+      "entity_type": "DATE",
+      "text": "29. marta 2013",
+      "start_char": 352,
+      "end_char": 366,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e615bd0a-bcf7-4277-8c03-337b1d48a888",
+      "entity_type": "DATE",
+      "text": "1. januara 2017",
+      "start_char": 14711,
+      "end_char": 14726,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "283f8660-0e03-4b17-9bc7-9473a0953da7",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 7",
+      "start_char": 40,
+      "end_char": 47,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "fb9b8616-5d26-48cf-af60-2cae9ea5cbe4",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 405,
+      "end_char": 411,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e4cb2a69-68fc-47a5-acef-fc05ab2ac00e",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 913,
+      "end_char": 919,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "0b93691f-49e2-4cb3-9468-7787943d4e62",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 2983,
+      "end_char": 2989,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "6fd3eabe-360c-47c0-bc51-96b86c993151",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 3219,
+      "end_char": 3225,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "284e7c86-21db-40b5-ac9b-36bbc0467d3b",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 4667,
+      "end_char": 4673,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "5b18c366-ea0d-4d71-8223-c43d44ed95f2",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 6148,
+      "end_char": 6154,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "710b28c8-a0ea-4b9a-890c-3be71501269a",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 7",
+      "start_char": 6958,
+      "end_char": 6964,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "6ec2c589-45fd-42d1-b6a9-56f3e858ae17",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 8",
+      "start_char": 9715,
+      "end_char": 9721,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "1e219bc0-2919-4cf9-9f4d-e1d3b0399566",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 9",
+      "start_char": 11043,
+      "end_char": 11049,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "11941d38-71e2-423e-8595-d68f28e6af0a",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 10",
+      "start_char": 11326,
+      "end_char": 11333,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "bbb1b06a-beae-4f77-bc93-c461103509fb",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 4",
+      "start_char": 11791,
+      "end_char": 11798,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "27b8fd26-feb9-4e89-9d1e-4afee8c23f5a",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 4",
+      "start_char": 13998,
+      "end_char": 14006,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "d68ddbe0-1b06-479b-aa91-641e41fccb48",
+      "entity_type": "LEGAL_REF",
+      "text": "članu 7",
+      "start_char": 14138,
+      "end_char": 14145,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "07512e99-b52b-439b-bf41-da208394915d",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 11",
+      "start_char": 14579,
+      "end_char": 14586,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "8124366d-256e-4d5d-b07e-1de66ac6aa9d",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no preventivnim merama za bezbedan i zdrav rad pri izlaganju veštačkim optičkim zračenjima",
+      "start_char": 193,
+      "end_char": 292,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "39b60fb6-0c4b-4b3f-b1a6-2bd77bff1d13",
+      "text": "Ovim pravilnikom propisuju se zahtevi koje je poslodavac dužan da ispuni u obezbeđivanju primene preventivnih mera sa ciljem otklanjanja ili svođenja na najmanju moguću meru rizika od nastanka oštećenja zdravlja zaposlenih koji nastaju ili mogu da nastanu pri izlaganju veštačkim optičkim zračenjima, a naročito rizika od nastanka oštećenja očiju i kože, granične vrednosti izloženosti zračenju za nekoherentno optičko zračenje i granične vrednosti izloženosti zračenju za lasersko optičko zračenje.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 499,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "9093b62a-25d3-4d02-905b-299e4831cb38",
+      "text": "Pojedini izrazi koji se koriste u ovom pravilniku imaju sledeće značenje: 1) optičko zračenje – jeste svako elektromagnetsko zračenje sa opsegom talasne dužine između 100 nm i 1 mm.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 182,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "0455ac2a-4f57-44e3-8663-fd28e3c1db20",
+      "text": "Spektar optičkog zračenja se deli na ultraljubičasto zračenje, vidljivo zračenje i infracrveno zračenje: (1) ultraljubičasto zračenje – jeste optičko zračenje sa opsegom talasne dužine između 100 nm i 400 nm.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 182,
+      "end_char": 391,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "bbefbf20-f265-47dc-98eb-18fdafcbb89d",
+      "text": "Ultraljubičasta oblast se deli na UVA (315 nm do 400 nm), UVB (280 nm do 315 nm) i UVC (100 nm do 280 nm), (2) vidljivo zračenje – jeste optičko zračenje sa opsegom talasne dužine između 380 nm i 780 nm, (3) infracrveno zračenje – jeste optičko zračenje sa opsegom talasne dužine između 780 nm i 1 mm.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 391,
+      "end_char": 693,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "e152b2ac-de8d-4f43-925f-995a9a57b77d",
+          "condition_type": "temporal",
+          "text": "do 400 nm), UVB (280 nm do 315 nm) i UVC (100 nm do 280 nm)",
+          "trigger_word": "do",
+          "confidence": 0.75
+        },
+        {
+          "condition_id": "c40c8e0f-f880-468a-971f-846f58a0a56e",
+          "condition_type": "temporal",
+          "text": "UVB (280 nm do 315 nm) i UVC (100 nm do 280 nm)",
+          "trigger_word": "do",
+          "confidence": 0.75
+        },
+        {
+          "condition_id": "7f35849e-0021-4190-986f-7f2fe9fcbd53",
+          "condition_type": "temporal",
+          "text": "UVB (280 nm do 315 nm) i UVC (100 nm do 280 nm), (2) vidljivo zračenje – jeste optičko zračenje sa opsegom talasne dužine između 380 nm i 780 nm",
+          "trigger_word": "do",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "assertion_id": "b4fd21c1-85e7-4dc8-aa37-d2faee9a530c",
+      "text": "Infracrvena oblast se deli na IRA (780 nm do 1400 nm), IRB (1400 nm do 3000 nm) i IRC (3000 nm do 1 mm); 2) laser (pojačanje svetlosti pomoću stimulisane emisije zračenja) – jeste svaki uređaj koji može proizvesti ili pojačati elektromagnetsko zračenje u opsegu talasne dužine optičkog zračenja uglavnom procesom kontrolisane stimulisane emisije; 3) lasersko zračenje – jeste optičko zračenje lasera; 4) nekoherentno zračenje – jeste svako optičko zračenje koje nije lasersko zračenje; 5) granične vrednosti izloženosti – jesu granice izloženosti optičkom zračenju koje su neposredno zasnovane na utvrđenim posledicama po zdravlje i biološkim razlozima.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 3,
+      "start_char": 693,
+      "end_char": 1347,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "d9150f53-86c5-47d4-99ad-a901abb26b6d",
+          "condition_type": "temporal",
+          "text": "do 1400 nm), IRB (1400 nm do 3000 nm) i IRC (3000 nm do 1 mm)",
+          "trigger_word": "do",
+          "confidence": 0.75
+        },
+        {
+          "condition_id": "c07d2c8b-cb41-417a-b464-49f558fc2ff8",
+          "condition_type": "temporal",
+          "text": "IRB (1400 nm do 3000 nm) i IRC (3000 nm do 1 mm)",
+          "trigger_word": "do",
+          "confidence": 0.75
+        },
+        {
+          "condition_id": "3cbe132b-5771-47e8-a24d-6b32538666f2",
+          "condition_type": "temporal",
+          "text": "IRB (1400 nm do 3000 nm) i IRC (3000 nm do 1 mm)",
+          "trigger_word": "do",
+          "confidence": 0.75
+        },
+        {
+          "condition_id": "409f80f4-5ad6-4b1b-96e8-e9e551f1a677",
+          "condition_type": "modal",
+          "text": "2) laser (pojačanje svetlosti pomoću stimulisane emisije zračenja) – jeste svaki uređaj koji može proizvesti ili pojačati elektromagnetsko zračenje u opsegu talasne dužine optičkog zračenja uglavnom procesom kontrolisane stimulisane emisije",
+          "trigger_word": "može",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "bd26d319-4438-4acf-9dbc-ed0e2b8dab1a",
+      "text": "Usaglašenost sa ovim graničnim vrednostima obezbeđuje da su zaposleni koji su izloženi veštačkim izvorima optičkog zračenja zaštićeni od svih poznatih štetnih posledica po zdravlje; 6) iradijansa (E) ili gustina snage – jeste snaga optičkog zračenja po jedinici površine prijemnika izražena u vatima po kvadratnom metru (W m−2); 7) izloženost zračenju (H) – jeste vremenski integral iradijanse, izražen u džulima po kvadratnom metru (J m−2); 8) radijansa (L) – jeste fluks zračenja ili izlazna snaga po jedinici površine izvora u jedinični prostorni ugao, izražena u vatima po kvadratnom metru i steradijanu (W m−2 sr−1); 9) nivo – jeste kombinacija iradijanse, izloženosti i radijanse kojima je zaposleni izložen.",
+      "confidence": 0.5,
+      "sentence_index": 4,
+      "start_char": 1347,
+      "end_char": 2061,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "6475ddef-8f05-4f6d-b488-a213c5f64e31",
+      "text": "Granične vrednosti izloženosti zračenju za nekoherentno optičko zračenje (Prilog 1.) i Granične vrednosti izloženosti zračenju za lasersko optičko zračenje (Prilog 2.) odštampane su uz ovaj pravilnik i čine njegov sastavni deo.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 227,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "697bb67f-e54b-4a42-88ab-d01443d6db44",
+      "text": "Poslodavac je dužan da za sva radna mesta u radnoj okolini na kojima postoji mogućnost izlaganja zaposlenih veštačkim izvorima optičkog zračenja, izvrši procenu rizika od nastanka oštećenja zdravlja zaposlenih, proceni nivo izloženosti i, ukoliko je potrebno, obezbedi da se izvrši merenje nivoa izloženosti optičkom zračenju, radi utvrđivanja načina i mera za otklanjanje ili smanjenje izloženosti na nivo ispod graničnih vrednosti.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 434,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "319a6ef7-8fa4-42b1-8c29-bfe16c790be7",
+          "condition_type": "condition",
+          "text": "proceni nivo izloženosti i, ukoliko je potrebno",
+          "trigger_word": "ukoliko",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "a4ddf282-a4f8-45e2-86ed-e5c5cb6159c9",
+      "text": "Metode koje se koriste u postupku procene, merenja i/ili izračunavanja treba da budu: 1) za lasersko zračenje u skladu sa standardima SRPS EN 12254:2010, SRPS EN 12254:2010/AC:2012, SRPS EN ISO 11146-1:2009, SRPS EN ISO 11146-2:2009, SRPS EN ISO 11670:2009 i SRPS EN ISO 11670:2009/AC:2009; 2) za nekoherentno zračenje u skladu sa standardima SRPS EN 14255-1:2012 i SRPS EN 14255- 2:2012.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 1,
+      "start_char": 434,
+      "end_char": 823,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "6f29a410-7445-4b93-baf7-aa6b9c2727e3",
+          "condition_type": "condition",
+          "text": "1) za lasersko zračenje u skladu sa standardima SRPS EN 12254",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "603bfd2f-df67-40a5-b5f9-b3b788c23091",
+          "condition_type": "condition",
+          "text": "2) za nekoherentno zračenje u skladu sa standardima SRPS EN 14255-1",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "8bc30d5e-8a04-43d8-9fe5-53cf2202e383",
+          "condition_type": "modal",
+          "text": "merenja i/ili izračunavanja treba da budu",
+          "trigger_word": "treba",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "672eed84-124f-457d-b17c-3523ad820d50",
+      "text": "U slučajevima izloženosti koji nisu obuhvaćeni ovim standardima procena, merenje i/ili izračunavanje vrši se u skladu sa odgovarajućim tehničkim propisima.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 823,
+      "end_char": 979,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "2a473749-9229-46c7-bc7f-c32343fa4bd9",
+          "condition_type": "condition",
+          "text": "merenje i/ili izračunavanje vrši se u skladu sa odgovarajućim tehničkim propisima",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "5660227b-baa6-4f2a-bb73-2d3f9778c188",
+      "text": "Procena nivoa izloženosti veštačkim optičkim zračenjima može se vršiti na osnovu podataka dobijenih od proizvođača opreme za rad u skladu sa zakonom kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 3,
+      "start_char": 979,
+      "end_char": 1204,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "739c4fc1-a0ca-478b-898f-2023bf384c4d",
+          "condition_type": "condition",
+          "text": "u skladu sa zakonom kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "81ca2dfb-6c74-41ba-855c-7b20dc7f819c",
+          "condition_type": "modal",
+          "text": "može se vršiti na osnovu podataka dobijenih od proizvođača opreme za rad u skladu sa zakonom kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti",
+          "trigger_word": "može",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "04deb3c3-f70c-4aeb-9a22-eda5dfdaa95e",
+      "text": "Poslodavac je dužan da na osnovu utvrđenih štetnosti koje nastaju usled izloženosti zaposlenih veštačkim optičkim zračenjima angažuje pravno lice sa licencom radi sprovođenja preventivnih i periodičnih ispitivanja uslova radne okoline.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 4,
+      "start_char": 1204,
+      "end_char": 1439,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "8bb68300-ed4e-4199-913e-0958d8f3947e",
+      "text": "Poslodavac je dužan da u postupku procene rizika koji se javlja usled izloženosti zaposlenih veštačkim optičkim zračenjima naročito uzme u obzir: 1) nivo, opseg talasne dužine i trajanje izloženosti veštačkim izvorima optičkog zračenja; 2) granične vrednosti izloženosti za nekoherentno zračenje i granične vrednosti izloženosti za lasersko zračenje; 3) efekte koji mogu uticati na bezbednost i zdravlje zaposlenih koji su posebno osetljivi na izlaganje veštačkim izvorima optičkog zračenja; 4) uticaje na bezbednost i zdravlje zaposlenih koji proizlaze iz interakcije između optičkog zračenja i hemijskih supstanci osetljivih na optičko zračenje na radnom mestu; 5) posredne uticaje na bezbednost i zdravlje zaposlenih, kao što su privremeno slepilo, eksplozija ili požar; 6) postojanje opreme za rad koja je projektovana za smanjenje nivoa izloženosti veštačkom optičkom zračenju; 7) informacije o rezultatima dobijenim na osnovu praćenja zdravstvenog stanja i na bazi dostupnih podataka; 8) izloženost većem broju izvora veštačkog optičkog zračenja; 9) klasifikaciju koja se primenjuje na lasere prema odgovarajućem standardu SRPS EN 60825- 1:2008, a za bilo koji veštački izvor za koji je verovatno da će izazvati štetu sličnu kao laseri klase 3B ili 4, bilo koju sličnu klasifikaciju; 10) podatke o izvorima optičkog zračenja koji su dobijeni od proizvođača opreme za rad u skladu sa zakonom kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 1472,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "c8a442ad-7d54-4dc7-9c60-8b256381b75b",
+          "condition_type": "condition",
+          "text": "10) podatke o izvorima optičkog zračenja koji su dobijeni od proizvođača opreme za rad u skladu sa zakonom kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "34cfb0e9-4c9b-4338-982b-7691126ac8ec",
+      "text": "Poslodavac je dužan da donese akt o proceni rizika u pisanoj formi, radi mogućnosti stalnog uvida.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 99,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "ac7d69e3-1fec-42ad-9e50-6f190366be5f",
+      "text": "Procena rizika vrši se u skladu sa propisima o bezbednosti i zdravlju na radu, redovno se ažurira, odnosno vrši se delimična izmena ili dopuna akta o proceni rizika ukoliko: 1) je procena rizika izvršena tako da nisu evidentirani i procenjeni svi faktori rizika koji nastaju usled izlaganja zaposlenih veštačkim optičkim zračenjima; 2) je došlo do promene u obavljanju poslova, odnosno pojave novih opasnosti i štetnosti; 3) je to potrebno na osnovu rezultata dobijenih na osnovu praćenja zdravstvenog stanja.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 99,
+      "end_char": 609,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "4d558b3c-7f32-4f85-855f-38b51ca89267",
+          "condition_type": "condition",
+          "text": "u skladu sa propisima o bezbednosti i zdravlju na radu",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "d66a6b4f-890b-4138-89c8-3930a7932fdc",
+          "condition_type": "condition",
+          "text": "odnosno vrši se delimična izmena ili dopuna akta o proceni rizika ukoliko",
+          "trigger_word": "ukoliko",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "d5eac26c-2ff2-4597-9dc5-7a987fcc602d",
+      "text": "Procena rizika može da sadrži obrazloženje poslodavca da, prema prirodi i obimu rizika koji proističu iz izlaganja veštačkom optičkom zračenju više nije potrebna dalja detaljna procena rizika.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 2,
+      "start_char": 609,
+      "end_char": 801,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "07031c34-4682-490d-a747-4c63c7fcedc8",
+          "condition_type": "modal",
+          "text": "može da sadrži obrazloženje poslodavca da",
+          "trigger_word": "može",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "a8c2298d-74c5-4d30-9116-2d133aa9569d",
+      "text": "Poslodavac je dužan da uzimajući u obzir savremena tehnička rešenja i dostupnost mera za kontrolu rizika na njegovom izvoru, kao i polazeći od načela primene preventivnih mera, rizik koji nastaje usled izloženosti zaposlenih veštačkim optičkim zračenjima otkloni ili smanji na najmanju moguću meru.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 299,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "7f2cc0a9-0546-470e-b0c6-e249cba84bd9",
+      "text": "Poslodavac je dužan da, ukoliko se u postupku procene rizika utvrdi da su granične vrednosti izloženosti veštačkom optičkom zračenju prekoračene ili da mogu biti prekoračene, aktom o proceni rizika utvrdi tehničke i/ili organizacione mera čija primena mora da obezbedi smanjenje izloženosti zaposlenih i pri tome je dužan da jednu ili više uzme u obzir: 1) druge metode rada čijom se primenom smanjuje rizik od optičkog zračenja; 2) izbor odgovarajuće opreme za rad koja, s obzirom na poslove koje zaposleni obavlja emituje manje optičkog zračenja; 3) smanjenje emisije optičkog zračenja primenom tehničkih mera, uključujući i, gde je to neophodno, korišćenje blokada, štitova ili sličnih mehanizama za zaštitu zdravlja; 4) odgovarajuće programe održavanja radnog mesta i opreme za rad; 5) projektovanje i raspored radnih mesta; 6) ograničavanje trajanja i nivoa izloženosti; 7) kontrolu upotrebe odgovarajućih sredstava i opreme za ličnu zaštitu na radu; 8) uputstva proizvođača opreme za rad, obezbeđena u skladu sa tehničkim propisom donetim na osnovu zakona kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti, a kojim je propisana obaveza proizvođača da sačini uputstvo za takvu opremu.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 1,
+      "start_char": 299,
+      "end_char": 1514,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "651bffb1-0149-4159-9de5-1f00a145da8e",
+          "condition_type": "condition",
+          "text": "obezbeđena u skladu sa tehničkim propisom donetim na osnovu zakona kojim se uređuju tehnički zahtevi za proizvode i ocenjivanje usaglašenosti",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "58791d72-4d89-4b4d-afa0-fd24190c3688",
+          "condition_type": "condition",
+          "text": "ukoliko se u postupku procene rizika utvrdi da su granične vrednosti izloženosti veštačkom optičkom zračenju prekoračene ili da mogu biti prekoračene",
+          "trigger_word": "ukoliko",
+          "confidence": 0.85
+        },
+        {
+          "condition_id": "e7a8854d-75ba-4156-ac0f-695b63d73f83",
+          "condition_type": "modal",
+          "text": "aktom o proceni rizika utvrdi tehničke i/ili organizacione mera čija primena mora da obezbedi smanjenje izloženosti zaposlenih i pri tome je dužan da jednu ili više uzme u obzir",
+          "trigger_word": "mora",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "assertion_id": "0aa76a21-40d4-447b-99aa-bded53f80512",
+      "text": "Poslodavac je dužan da radna mesta, za koja je na osnovu procene rizika utvrđeno da postoji mogućnost da granična vrednost izloženosti veštačkom optičkom zračenju bude prekoračena, obeleži oznakama za bezbednost i zdravlje na radu, kao i da taj prostor obezbedi od pristupa svih lica koja ne rade na tim radnim mestima.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 2,
+      "start_char": 1514,
+      "end_char": 1834,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "670407d2-5986-4337-9ee7-2bd98feb7aeb",
+      "text": "Poslodavac je dužan da izloženost zaposlenih veštačkom optičkom zračenju svede na najmanju moguću vrednost, a u svakom slučaju na vrednost koja je manja od granične vrednosti izloženosti.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 3,
+      "start_char": 1834,
+      "end_char": 2022,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "78212945-b268-42c6-a66d-8df625790674",
+      "text": "Poslodavac je dužan da, ukoliko je i pored primene preventivnih mera izloženost veća od granične vrednosti izloženosti veštačkom optičkom zračenju, što je moguće pre preduzme odgovarajuće mere tako da smanji izloženost ispod granične vrednosti izloženosti, utvrdi razloge zbog kojih je došlo do prekoračenja granične vrednosti izloženosti i koriguje primenu mera sa ciljem da se spreči da se prekoračenje granične vrednosti izloženosti veštačkom optičkom zračenju ponovi.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 4,
+      "start_char": 2022,
+      "end_char": 2494,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "c086f2ad-ad84-4f02-b94f-e38029743f88",
+          "condition_type": "condition",
+          "text": "ukoliko je i pored primene preventivnih mera izloženost veća od granične vrednosti izloženosti veštačkom optičkom zračenju",
+          "trigger_word": "ukoliko",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "5d7a8a20-a44c-40d4-8e24-8d104052f711",
+      "text": "Poslodavac je dužan da prilagodi mere za bezbednost i zdravlje na radu koje se odnose na smanjenje izloženosti veštačkom optičkom zračenju zaposlenima koji su posebno osetljivi na izlaganje veštačkom optičkom zračenju.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 5,
+      "start_char": 2494,
+      "end_char": 2713,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "3f1d655c-7956-41d9-b205-d80ac07ec3f1",
+      "text": "Poslodavac je dužan da zaposlenima koji jesu izloženi veštačkom optičkom zračenju ili njihovim predstavnicima za bezbednost i zdravlje na radu obezbedi sve informacije o merama koje se preduzimaju sa ciljem ostvarenja bezbednih i zdravih uslova rada pri izlaganju veštačkom optičkom zračenju, kao i da te zaposlene u toku osposobljavanja za bezbedan i zdrav rad upozna sa svim vrstama rizika koji nastaju pri izlaganju veštačkom optičkom zračenju, a naročito u odnosu na: 1) mere koje se preduzimaju sa ciljem otklanjanja ili smanjenja na najmanju moguću meru rizika od oštećenja zdravlja usled izloženosti veštačkom optičkom zračenju u skladu sa ovim pravilnikom; 2) postojanje granične vrednosti izloženosti i rizike koji mogu da nastanu pri izlaganju; 3) rezultate procene rizika i/ili merenja uz objašnjenje njihovog značenja i mogućih opasnosti i štetnosti koji mogu nastati usled izlaganja veštačkom optičkom zračenju; 4) način za otkrivanje i prijavljivanje oštećenja zdravlja koji su posledica izloženosti; 5) okolnosti pod kojima zaposleni imaju pravo na praćenje zdravstvenog stanja; 6) bezbedne načine rada kako bi se izloženost veštačkom optičkom zračenju smanjila na najmanju moguću meru; 7) pravilno korišćenje odgovarajućih sredstava i opreme za ličnu zaštitu na radu.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 1284,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "29d28f3f-c2ab-4758-ba57-e1bf76f71825",
+          "condition_type": "condition",
+          "text": "1) mere koje se preduzimaju sa ciljem otklanjanja ili smanjenja na najmanju moguću meru rizika od oštećenja zdravlja usled izloženosti veštačkom optičkom zračenju u skladu sa ovim pravilnikom",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "63aa9d82-22c3-464d-a4f8-aa84d9f3aa96",
+      "text": "Poslodavac i zaposleni, odnosno njihovi predstavnici za bezbednost i zdravlje na radu dužni su da sarađuju u vezi sa svim pitanjima koja se odnose na primenu preventivnih mera pri izlaganju veštačkim optičkim zračenjima, u skladu sa Zakonom o bezbednosti i zdravlju na radu.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 274,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "12751c83-7019-48ec-af40-e0d3d28d246b",
+          "condition_type": "condition",
+          "text": "odnosno njihovi predstavnici za bezbednost i zdravlje na radu dužni su da sarađuju u vezi sa svim pitanjima koja se odnose na primenu preventivnih mera pri izlaganju veštačkim optičkim zračenjima, u skladu sa Zakonom o bezbednosti i zdravlju na radu",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "06049a3e-e8f6-4dbb-8794-920a52a220ad",
+      "text": "Poslodavac je dužan da, radi prevencije i ranog otkrivanja svih štetnih posledica, sprečavanja dugoročnih rizika po zdravlje i svih rizika od hroničnih bolesti koji su posledica izloženosti veštačkom optičkom zračenju, u skladu sa propisima u oblasti bezbednosti i zdravlja na radu i zdravstvene zaštite, obezbedi propisano praćenje zdravstvenog stanja za zaposlene koji rade, ili treba da rade, na radnim mestima za koja se rezultatima procene rizika, iz člana 4.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 465,
+      "entities": [
+        {
+          "entity_id": "b9bcb5c9-033d-44c8-b64a-ef862c93487c",
+          "entity_type": "LEGAL_REF",
+          "text": "člana 4",
+          "start_char": 456,
+          "end_char": 463,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "c60fb093-1bb1-4fce-87ff-2b0c99a6f4b8",
+          "condition_type": "condition",
+          "text": "sprečavanja dugoročnih rizika po zdravlje i svih rizika od hroničnih bolesti koji su posledica izloženosti veštačkom optičkom zračenju, u skladu sa propisima u oblasti bezbednosti i zdravlja na radu i zdravstvene zaštite",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "2e97b41d-dbbb-4aaf-bcbe-9209567e7088",
+          "condition_type": "modal",
+          "text": "obezbedi propisano praćenje zdravstvenog stanja za zaposlene koji rade, ili treba da rade, na radnim mestima za koja se rezultatima procene rizika",
+          "trigger_word": "treba",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "6fa9aecf-047b-4bfe-bfea-59e6836a55d4",
+      "text": "ovog pravilnika utvrdi da su radna mesta sa povećanim rizikom od nastanka oštećenja zdravlja.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 465,
+      "end_char": 559,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "2be927b3-8fcd-4715-b39a-d266f1feca77",
+      "text": "Služba medicine rada koja prati zdravstveno stanje zaposlenih iz stava 1.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 559,
+      "end_char": 633,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "c7e238b2-b245-494d-b9ed-87b2747e38d5",
+      "text": "ovog člana za svakog zaposlenog vodi podatke o njegovom zdravstvenom stanju i redovno ih ažurira na način koji omogućava kasniji uvid.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 633,
+      "end_char": 768,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "64f6c5d4-5931-4f04-9457-59bb2964b015",
+      "text": "U postupku vršenja prethodnog i periodičnog lekarskog pregleda služba medicine rada koristi podatke o faktorima rizika na radnom mestu sa povećanim rizikom, kao i podatke o posebnim zdravstvenim uslovima koje moraju ispunjavati zaposleni, iz akta poslodavca o proceni rizika.",
+      "confidence": 0.5,
+      "sentence_index": 5,
+      "start_char": 843,
+      "end_char": 1119,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "d8070151-19ec-4238-a36f-9476923f162e",
+      "text": "Rezultati praćenja zdravstvenog stanja zaposlenih čuvaju se u odgovarajućem obliku kojim se obezbeđuje mogućnost naknadnog uvida uz poštovanje obaveze o poverljivosti podataka o ličnosti.",
+      "confidence": 0.5,
+      "sentence_index": 6,
+      "start_char": 1119,
+      "end_char": 1307,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "724934c3-f33d-44af-9fed-3d22a8faf821",
+      "text": "Svakom zaposlenom potrebno je na lični zahtev obezbediti pristup njegovim podacima o zdravstvenom stanju i rezultatima praćenja zdravstvenog stanja.",
+      "confidence": 0.5,
+      "sentence_index": 7,
+      "start_char": 1307,
+      "end_char": 1456,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "c3fa8b7c-b5e3-4ab4-af39-776b3c79b94d",
+      "text": "Poslodavac je dužan da zaposlenog na radnom mestu na kome je izloženost veća od granične vrednosti izloženosti, a koje nije aktom o proceni rizika iz člana 4.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 8,
+      "start_char": 1456,
+      "end_char": 1615,
+      "entities": [
+        {
+          "entity_id": "11063ae1-4a73-4550-bff7-40c4c4f926bb",
+          "entity_type": "LEGAL_REF",
+          "text": "člana 4",
+          "start_char": 150,
+          "end_char": 157,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "a107447c-bcc3-4f10-84ff-c6f4e4f96d0a",
+      "text": "ovog pravilnika utvrđeno kao radno mesto sa povećanim rizikom, uputi na ciljani lekarski pregled.",
+      "confidence": 0.5,
+      "sentence_index": 10,
+      "start_char": 1623,
+      "end_char": 1721,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "2950f652-6a65-465e-9171-e600c9a6255c",
+      "text": "Ciljani lekarski pregledi vrše se na način, po postupku i u rokovima kao i prethodni i periodični lekarski pregledi zaposlenih na radnim mestima sa povećanim rizikom.",
+      "confidence": 0.5,
+      "sentence_index": 11,
+      "start_char": 1721,
+      "end_char": 1888,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "510b1511-2ca2-4261-8874-e4b39b8fd654",
+      "text": "Kada je izloženost veća od granične vrednosti izloženosti ili se praćenjem zdravstvenog stanja utvrdi oštećenje zdravlja zaposlenog koje je prema nalazu službe medicine rada nastalo kao posledica izlaganja veštačkom optičkom zračenju na radnom mestu, tada je: 1) služba medicine rada dužna da obavesti zaposlenog o rezultatima praćenja zdravstvenog stanja koji se odnose na njega i da zaposlenom obezbedi sve informacije i savete u vezi sa načinom praćenja zdravstvenog stanja po završetku izlaganja; 2) služba medicine rada dužna da obaveštava poslodavca o bitnim rezultatima praćenja zdravstvenog stanja zaposlenog na način kojim se ne narušava princip poverljivosti ličnih podataka; 3) poslodavac dužan da: (1) izvrši proveru procene rizika koja je sprovedena u skladu sa članom 4.",
+      "confidence": 0.5,
+      "sentence_index": 12,
+      "start_char": 1888,
+      "end_char": 2673,
+      "entities": [
+        {
+          "entity_id": "075ecd5d-9bb3-426e-974c-e3016e7692e8",
+          "entity_type": "LEGAL_REF",
+          "text": "članom 4",
+          "start_char": 775,
+          "end_char": 783,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "83ce72d5-717f-43a4-bbd3-1784987f1a87",
+          "condition_type": "condition",
+          "text": "Kada",
+          "trigger_word": "kada",
+          "confidence": 0.85
+        },
+        {
+          "condition_id": "3d93b4d0-e3a3-45d7-b21f-6a5a6b684e58",
+          "condition_type": "condition",
+          "text": "(1) izvrši proveru procene rizika koja je sprovedena u skladu sa članom 4",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "4d11a01d-abe5-4a9e-9a2e-210aa9463890",
+      "text": "ovog pravilnika, (2) proveri i izvrši korekciju preventivnih mera koje su predviđene za otklanjanje ili smanjenje rizika saglasno članu 7.",
+      "confidence": 0.5,
+      "sentence_index": 13,
+      "start_char": 2673,
+      "end_char": 2812,
+      "entities": [
+        {
+          "entity_id": "c1a49db4-29f9-4e03-8dac-d8ade2f7895a",
+          "entity_type": "LEGAL_REF",
+          "text": "članu 7",
+          "start_char": 130,
+          "end_char": 137,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "3730097a-944b-4b32-b6d5-889975a0e023",
+      "text": "ovog pravilnika, (3) uzme u obzir savet službe medicine rada pri sprovođenju preventivnih mera koje su predviđene za otklanjanje ili smanjenje rizika saglasno članu 7.",
+      "confidence": 0.5,
+      "sentence_index": 14,
+      "start_char": 2812,
+      "end_char": 2980,
+      "entities": [
+        {
+          "entity_id": "3176a8e4-d1e0-4716-a3b9-59c1112531bd",
+          "entity_type": "LEGAL_REF",
+          "text": "članu 7",
+          "start_char": 159,
+          "end_char": 166,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "b3670eb6-b66c-4182-a65b-e916b5dddc9f",
+      "text": "ovog pravilnika, (4) obezbedi praćenje zdravstvenog stanja ostalih zaposlenih koji su bili na sličan način izloženi veštačkom optičkom zračenju.",
+      "confidence": 0.5,
+      "sentence_index": 15,
+      "start_char": 2980,
+      "end_char": 3125,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "d3cdd831-4476-49c6-a044-f25d42075fac",
+      "text": "Služba medicine rada može predložiti da se izvrši lekarski pregled izloženih lica.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 16,
+      "start_char": 3125,
+      "end_char": 3208,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "90d69495-a195-4df1-9614-3681e3cdb347",
+          "condition_type": "modal",
+          "text": "može predložiti da se izvrši lekarski pregled izloženih lica",
+          "trigger_word": "može",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "0367ec5e-3342-42b2-9f57-e6cb32005537",
+      "text": "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, a primenjuje se od 1.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 126,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "9ea1db71-eeb6-46d2-9984-241b3b6317a4",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "91d9d9a0-3a8c-44bd-a57c-e7398a174c5c",
+      "text": "Lista priloga: Prilog 1 - Granične vrednosti izloženosti zračenju za nekoherentno optičko zračenje Prilog 2 - Granične vrednosti izloženosti zračenju za lasersko optičko zračenje",
+      "confidence": 0.5,
+      "sentence_index": 6,
+      "start_char": 247,
+      "end_char": 425,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:13:28.584597Z"
+}

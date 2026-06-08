@@ -1,0 +1,240 @@
+{
+  "import_run_id": "fa4b6e09-7c2c-41c7-b2e0-34807f28d0a0",
+  "document": {
+    "name": "radni_odnosi_0128_000128.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0128_000128.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:16:32.640146Z"
+  },
+  "full_text": " \n \nNa osnovu člana 4. stav 2. Uredbe o podsticanju zapošljavanja („Službeni glasnik RS”, br.\n32/11 i 34/11),\nMinistar finansija donosi\n \n \nPRAVILNIK\no obrascima zahteva za subvencionisanje poreza na zarade i doprinosa za penzijsko\ni invalidsko osiguranje\n\"Službeni glasnik RS\", br. 36 od 27. maja 2011, 74 od 21. avgusta 2013 - dr. pravilnik, 118\nod 30. decembra 2013 - dr. pravilnik\n \n \nČlan 1.\nOvim pravilnikom propisuju se obrasci zahteva za subvencionisanje poreza na zarade i\ndoprinosa za penzijsko i invalidsko osiguranje, koji se podnose Ministarstvu finansija – Poreskoj\nupravi, zajedno sa obračunom poreza i doprinosa koji poslodavac sačinjava za odgovarajući mesec.\n \nČlan 2.\nZahtevi iz člana 1. ovog pravilnika podnose se na obrascima koji su odštampani uz ovaj\npravilnik i čine njegov sastavni deo, i to:\n1) Obrazac ZSP – Zahtev za subvencionisanje poreza na zarade;\n2) Obrazac ZSD – Zahtev za subvencionisanje doprinosa za penzijsko i invalidsko osiguranje.\n \nČlan 3.\nZahtev za subvencionisanje poreza na zarade poslodavac podnosi Poreskoj upravi na Obrascu\nZSP, kao prilog uz poresku prijavu o obračunatom i plaćenom porezu na zarade (Obrazac PP OPJ),\nprilikom svake isplate zarade za određeni mesec, pri čemu, u Obrascu PP OPJ, pored ostalog,\niskazuje u koloni 3 pod red. br. I – podatak o broju zaposlenih/angažovanih lica, a pod red. br. 8.\nne iskazuje podatke za lica za koja koristi pravo na subvenciju poreza prema Uredbi o podsticanju\nzapošljavanja.\nZahtev za subvencionisanje doprinosa za penzijsko i invalidsko osiguranje poslodavac\npodnosi Poreskoj upravi na Obrascu ZSD, kao prilog uz poresku prijavu o obračunatim i plaćenim\ndoprinosima za obavezno socijalno osiguranje na zarade (Obrazac PP OD), prilikom svake isplate\nzarade za određeni mesec, pri čemu, u Obrascu PP OD, pored ostalog, iskazuje pod red. br. 2. –\npodatak o broju zaposlenih, a pod red. br. 2.2. ne iskazuje podatke za lica za koja koristi pravo na\nsubvenciju doprinosa za penzijsko i invalidsko osiguranje prema Uredbi o podsticanju\nzapošljavanja.\n \nČlan 4.\nOvaj pravilnik stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n \n \nBroj 110-00-206/2011-04\nU Beogradu, 20. maja 2011. godine\nMinistar finansija,\ndr Mirko Cvetković, s.r.\n \nPrilozi\n \nNAPOMENA IZDAVAČA: Za isplate prihoda na koje se plaćaju porezi po odbitku, koje su\nobuhvaćene Pravilnikom o poreskoj prijavi za porez po odbitku (\"Službeni glasnik RS\", br.\n74/2013, 118/2013) i koje se vrše počev od 1. marta 2014. godine, umesto Obrasca ZSD i Obrasca\nZSP, podnose se obrasci propisani Pravilnikom o poreskoj prijavi za porez po odbitku (\"Službeni\nglasnik RS\", br. 74/2013, 118/2013) (vidi član 22. Pravilnika - 74/2013-3 i član 12. Pravilnika –\n118/2013-76).\n \nObrazac ZSP – Zahtev za subvencionisanje poreza na zarade;\nObrazac ZSD – Zahtev za subvencionisanje doprinosa za penzijsko i invalidsko osiguranje.\n \n ",
+  "legal_units_count": 4,
+  "document_entities": [
+    {
+      "entity_id": "ab11cafb-3f9d-4370-a8aa-baf8a0ec57a4",
+      "entity_type": "DATE",
+      "text": "27. maja 2011",
+      "start_char": 283,
+      "end_char": 296,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "58233f66-9ed5-4c4f-a401-d5aa58de2779",
+      "entity_type": "DATE",
+      "text": "21. avgusta 2013",
+      "start_char": 304,
+      "end_char": 320,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "29d29f5a-9db6-4f38-84df-4062eeab749b",
+      "entity_type": "DATE",
+      "text": "20. maja 2011",
+      "start_char": 2187,
+      "end_char": 2200,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "5bd5f4b6-e0aa-46c1-9951-ad741e1c6953",
+      "entity_type": "DATE",
+      "text": "1. marta 2014",
+      "start_char": 2481,
+      "end_char": 2494,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "a05a37ae-0143-49e4-80a8-8f1605b5b0ab",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 4",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "16b9c375-8391-46ea-b547-21a22b8c1677",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 381,
+      "end_char": 387,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "37d11d93-a47f-41f3-9765-683a77302543",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 670,
+      "end_char": 676,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "7dae391a-ff59-46e0-93de-6138850cbf22",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 1",
+      "start_char": 689,
+      "end_char": 696,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "82ad4188-f60c-47cc-9cc5-a843f5e00ec8",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 964,
+      "end_char": 970,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "c822c47a-8bd8-4f54-9bfc-3208d0d20706",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 2034,
+      "end_char": 2040,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "a966ee2f-00d4-4b73-a01b-8bdc582b03ed",
+      "entity_type": "LEGAL_REF",
+      "text": "član 22",
+      "start_char": 2671,
+      "end_char": 2678,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "70c9b8a3-8443-4662-8a3c-492e77f2c2dc",
+      "entity_type": "LEGAL_REF",
+      "text": "član 12",
+      "start_char": 2705,
+      "end_char": 2712,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "d7aa8d9e-7f3d-497d-b6cf-57e7af005b15",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no obrascima zahteva za subvencionisanje poreza na zarade i doprinosa za penzijsko\ni invalidsko osiguranje",
+      "start_char": 134,
+      "end_char": 249,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "1dd4c920-10a3-4e84-8a58-e870f22b3c3b",
+      "text": "Ovim pravilnikom propisuju se obrasci zahteva za subvencionisanje poreza na zarade i doprinosa za penzijsko i invalidsko osiguranje, koji se podnose Ministarstvu finansija – Poreskoj upravi, zajedno sa obračunom poreza i doprinosa koji poslodavac sačinjava za odgovarajući mesec.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 279,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "4432dc9f-a654-4ee5-89d1-18203cf006a0",
+      "text": "ovog pravilnika podnose se na obrascima koji su odštampani uz ovaj pravilnik i čine njegov sastavni deo, i to: 1) Obrazac ZSP – Zahtev za subvencionisanje poreza na zarade; 2) Obrazac ZSD – Zahtev za subvencionisanje doprinosa za penzijsko i invalidsko osiguranje.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 20,
+      "end_char": 284,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "fbfcb5c9-7950-4318-be5f-3dc6e4d43e08",
+      "text": "Zahtev za subvencionisanje poreza na zarade poslodavac podnosi Poreskoj upravi na Obrascu ZSP, kao prilog uz poresku prijavu o obračunatom i plaćenom porezu na zarade (Obrazac PP OPJ), prilikom svake isplate zarade za određeni mesec, pri čemu, u Obrascu PP OPJ, pored ostalog, iskazuje u koloni 3 pod red.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 306,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "f40e759d-c5e1-409e-af03-b60bc73fb701",
+      "text": "I – podatak o broju zaposlenih/angažovanih lica, a pod red.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 310,
+      "end_char": 370,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "4da852e4-bfdc-47db-9ae8-9840c26d4994",
+      "text": "ne iskazuje podatke za lica za koja koristi pravo na subvenciju poreza prema Uredbi o podsticanju zapošljavanja.",
+      "confidence": 0.5,
+      "sentence_index": 5,
+      "start_char": 377,
+      "end_char": 490,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "b8b13926-c8c1-4910-aaf9-de978e9ff629",
+      "text": "Zahtev za subvencionisanje doprinosa za penzijsko i invalidsko osiguranje poslodavac podnosi Poreskoj upravi na Obrascu ZSD, kao prilog uz poresku prijavu o obračunatim i plaćenim doprinosima za obavezno socijalno osiguranje na zarade (Obrazac PP OD), prilikom svake isplate zarade za određeni mesec, pri čemu, u Obrascu PP OD, pored ostalog, iskazuje pod red.",
+      "confidence": 0.5,
+      "sentence_index": 6,
+      "start_char": 490,
+      "end_char": 851,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "614b7d65-e016-4cb4-a8cf-45cad4357752",
+      "text": "ne iskazuje podatke za lica za koja koristi pravo na subvenciju doprinosa za penzijsko i invalidsko osiguranje prema Uredbi o podsticanju zapošljavanja.",
+      "confidence": 0.5,
+      "sentence_index": 12,
+      "start_char": 908,
+      "end_char": 1060,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "47548237-676f-4e5a-9b07-edb09378c49f",
+      "text": "Ovaj pravilnik stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 107,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "ccf41f08-5003-41e6-b9dd-7d04fb0f95c0",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "102330ef-bec9-439a-8e28-22a66292285a",
+      "text": "Prilozi NAPOMENA IZDAVAČA: Za isplate prihoda na koje se plaćaju porezi po odbitku, koje su obuhvaćene Pravilnikom o poreskoj prijavi za porez po odbitku (\"Službeni glasnik RS\", br.",
+      "confidence": 0.5,
+      "sentence_index": 4,
+      "start_char": 210,
+      "end_char": 392,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "7f8b1274-f99f-4208-a7d6-9e3f66a9026e",
+      "text": "godine, umesto Obrasca ZSD i Obrasca ZSP, podnose se obrasci propisani Pravilnikom o poreskoj prijavi za porez po odbitku (\"Službeni glasnik RS\", br.",
+      "confidence": 0.5,
+      "sentence_index": 7,
+      "start_char": 450,
+      "end_char": 600,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "269b1969-773d-41bf-b44c-c246955b4e25",
+      "text": "Obrazac ZSP – Zahtev za subvencionisanje poreza na zarade; Obrazac ZSD – Zahtev za subvencionisanje doprinosa za penzijsko i invalidsko osiguranje.",
+      "confidence": 0.5,
+      "sentence_index": 11,
+      "start_char": 695,
+      "end_char": 842,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:16:32.640146Z"
+}

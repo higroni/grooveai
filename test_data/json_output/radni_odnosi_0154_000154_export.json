@@ -1,0 +1,159 @@
+{
+  "import_run_id": "8a11d1b5-a0e6-46da-8edf-9be2b701e1ef",
+  "document": {
+    "name": "radni_odnosi_0154_000154.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0154_000154.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:20:12.144340Z"
+  },
+  "full_text": "Na osnovu člana 10. stav 2. Zakona o štrajku („Službeni list SRJ”, broj 29/96 i „Službeni\nglasnik RS”, broj 101/05 – dr. zakon) i člana 42. stav 1. Zakona o Vladi („Službeni glasnik\nRS”, br. 55/05 i 71/05 – ispravka)\nVlada donosi\n \n \nUREDBU\no min imumu procesa rada u Javnom preduzeću „Elektromreža Srbije”\n\"Službeni glasnik RS\", broj 116 od 29. decembra 2006.\n \n \nČlan 1.\nMinimum procesa rada u Javnom preduzeću „Elektromreža Srbije”, Beograd za vreme\nštrajka obuhvata obavljanje poslova kojima se obezbeđuje:\n1) sigurnost funkcionisanja elektroenergetskog sistema Republike Srbije i paralelan rad\nelektroeneregetskog sistema Republike Srbije i susednih elektroenergetskih sistema u\nskladu sa zakonom, pravilima rada operatora prenosnog sistema i tehničkim pravilima\n(pravila UCTE);\n2) prenos električne energije u energetskim veličinama kojima se obezbeđuje najmanje 90%\npotreba električne energije utvrđene Energetskim bilansom Republike Srbije, iskazane u\ndnevnom planu rada;\n3) operativno upravljanje prenosnim elektroenergetskim sistemom, uključujući i izrade\ndnevnih i nedeljnih planova rada elektroenergetskog sistema Republike Srbije, radi\nisporuke električne energije kojom se obezbeđuje uredno i kontinuirano snabdevanje\ntarifnih kupaca električne energije na teritoriji Republike Srbije i isporuke električne\nenergije kvalifikovanim kupcima u skladu sa zaključenim ugovorima u pogledu uslova\nograničenja isporuke, iskazano u dnevnim planovima prema nameni potrošnje električne\nenergije;\n4) merenje isporučenih količina električne energije;\n5) obustavljanje isporuke električne energije i isključenje objekata sa prenosnog\nelektroenergetskog sistema u slučajevima i pod uslovima utvrđenim zakonom i propisima o\nisporuci električne energije;\n6) izvršavanje obaveza na osnovu tekućih poslova iz spoljnotrgovinskog poslovanja u\nskladu sa uslovima iz ugovora u pogledu mogućnosti i načina prekida i obustave isporuke,\nodnosno preuzimanja i tranzita električne energije;\n7) rešavanje po prioritetnim zahtevima za pristup prenosnom elektroenergetskom sistemu\nza koje operator prenosnog sistema utvrdi da su od značaja za sigurnost i pouzdanost\nfunkcionisanja elektroenergetskog sistema;\n8) preduzimanje mera zaštite prenosnih objekata, postrojenja ili uređaja i potrebnih\nradnji radi otklanjanje kvarova, havarija i drugih tehničkih smetnji koje mogu dovesti do\nporemećaja u isporuci električne energije ili do prekida normalnog funkcionisanja\nelektroenergetskog sistema (raspad elektroenergetskog sistema);\n9) preduzimanje neophodnih mera zaštite životne sredine, protivpožarne zaštite i mera\nza zaštitu i bezbednosti života i zdravlja ljudi i imovine;\n10) izvođenje započetih planiranih remonata prenosnih objekata, postrojenja ili uređaja u\nskladu sa rokovima utvrđenim Energetskim bilansom Republike Srbije i zaključenim\nugovorima.\n \nČlan 2.\nGeneralni direktor Javnog preduzeća „Elektromreža Srbije”, Beograd bliže određuje\nnačin obezbeđivanja minimuma procesa rada i određuje zaposlene koji su dužni da rade za\nvreme štrajka u skladu sa ovom uredbom i kolektivnim ugovorom.\n \nČlan 3.\nOva uredba stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n \n05 broj 110-10947/2006\nU Vršcu, 28. decembra 2006. godine\nVlada\nPredsednik,\nVojislav Koštunica, s.r.",
+  "legal_units_count": 3,
+  "document_entities": [
+    {
+      "entity_id": "5da1f3b9-fe7a-4959-aee6-93d82e76ecef",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 10",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "912d7a4b-2c9f-4f95-bc62-2c5c5f63c5c9",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 42",
+      "start_char": 130,
+      "end_char": 138,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "b0ace4e8-222f-4659-a96b-2d138d0b0d8a",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 361,
+      "end_char": 367,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "de67b4bc-9313-4ba2-a261-792044b6e0a6",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 2838,
+      "end_char": 2844,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "3fbbd215-14f6-493f-be47-473ddf4e351f",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 3080,
+      "end_char": 3086,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "4435c98a-4560-448d-aa1a-849c59fc6258",
+      "entity_type": "LOCATION",
+      "text": "Beograd",
+      "start_char": 432,
+      "end_char": 439,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "ae9a70b1-57f0-4c4c-a5d0-6a58b13c0bc8",
+      "text": "Minimum procesa rada u Javnom preduzeću „Elektromreža Srbije”, Beograd za vreme štrajka obuhvata obavljanje poslova kojima se obezbeđuje: 1) sigurnost funkcionisanja elektroenergetskog sistema Republike Srbije i paralelan rad elektroeneregetskog sistema Republike Srbije i susednih elektroenergetskih sistema u skladu sa zakonom, pravilima rada operatora prenosnog sistema i tehničkim pravilima (pravila UCTE); 2) prenos električne energije u energetskim veličinama kojima se obezbeđuje najmanje 90% potreba električne energije utvrđene Energetskim bilansom Republike Srbije, iskazane u dnevnom planu rada; 3) operativno upravljanje prenosnim elektroenergetskim sistemom, uključujući i izrade dnevnih i nedeljnih planova rada elektroenergetskog sistema Republike Srbije, radi isporuke električne energije kojom se obezbeđuje uredno i kontinuirano snabdevanje tarifnih kupaca električne energije na teritoriji Republike Srbije i isporuke električne energije kvalifikovanim kupcima u skladu sa zaključenim ugovorima u pogledu uslova ograničenja isporuke, iskazano u dnevnim planovima prema nameni potrošnje električne energije; 4) merenje isporučenih količina električne energije; 5) obustavljanje isporuke električne energije i isključenje objekata sa prenosnog elektroenergetskog sistema u slučajevima i pod uslovima utvrđenim zakonom i propisima o isporuci električne energije; 6) izvršavanje obaveza na osnovu tekućih poslova iz spoljnotrgovinskog poslovanja u skladu sa uslovima iz ugovora u pogledu mogućnosti i načina prekida i obustave isporuke, odnosno preuzimanja i tranzita električne energije; 7) rešavanje po prioritetnim zahtevima za pristup prenosnom elektroenergetskom sistemu za koje operator prenosnog sistema utvrdi da su od značaja za sigurnost i pouzdanost funkcionisanja elektroenergetskog sistema; 8) preduzimanje mera zaštite prenosnih objekata, postrojenja ili uređaja i potrebnih radnji radi otklanjanje kvarova, havarija i drugih tehničkih smetnji koje mogu dovesti do poremećaja u isporuci električne energije ili do prekida normalnog funkcionisanja elektroenergetskog sistema (raspad elektroenergetskog sistema); 9) preduzimanje neophodnih mera zaštite životne sredine, protivpožarne zaštite i mera za zaštitu i bezbednosti života i zdravlja ljudi i imovine; 10) izvođenje započetih planiranih remonata prenosnih objekata, postrojenja ili uređaja u skladu sa rokovima utvrđenim Energetskim bilansom Republike Srbije i zaključenim ugovorima.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 2467,
+      "entities": [
+        {
+          "entity_id": "25959c6b-949d-4905-9845-66fc8e40bd63",
+          "entity_type": "LOCATION",
+          "text": "Beograd",
+          "start_char": 63,
+          "end_char": 70,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "734371d9-d06e-44fc-8958-755f0ea45e5f",
+          "condition_type": "condition",
+          "text": "1) sigurnost funkcionisanja elektroenergetskog sistema Republike Srbije i paralelan rad elektroeneregetskog sistema Republike Srbije i susednih elektroenergetskih sistema u skladu sa zakonom, pravilima rada operatora prenosnog sistema i tehničkim pravilima (pravila UCTE)",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "b2b53024-f09f-4d72-a102-13d14cb09314",
+          "condition_type": "condition",
+          "text": "u skladu sa zaključenim ugovorima u pogledu uslova ograničenja isporuke",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "647d1d6c-eb4a-4ce7-b401-580382e43067",
+          "condition_type": "condition",
+          "text": "6) izvršavanje obaveza na osnovu tekućih poslova iz spoljnotrgovinskog poslovanja u skladu sa uslovima iz ugovora u pogledu mogućnosti i načina prekida i obustave isporuke",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "6f0d8f98-525d-4d56-b07f-ea71f1827f88",
+          "condition_type": "condition",
+          "text": "postrojenja ili uređaja u skladu sa rokovima utvrđenim Energetskim bilansom Republike Srbije i zaključenim ugovorima",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "a01fba87-6fc1-418d-9628-929df8a1e0e8",
+      "text": "Generalni direktor Javnog preduzeća „Elektromreža Srbije”, Beograd bliže određuje način obezbeđivanja minimuma procesa rada i određuje zaposlene koji su dužni da rade za vreme štrajka u skladu sa ovom uredbom i kolektivnim ugovorom.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 232,
+      "entities": [
+        {
+          "entity_id": "dfd018d9-ff98-472b-a5e2-02efcb55903c",
+          "entity_type": "LOCATION",
+          "text": "Beograd",
+          "start_char": 59,
+          "end_char": 66,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "9dc74e81-d060-48b4-b293-11205cd73710",
+          "condition_type": "condition",
+          "text": "Beograd bliže određuje način obezbeđivanja minimuma procesa rada i određuje zaposlene koji su dužni da rade za vreme štrajka u skladu sa ovom uredbom i kolektivnim ugovorom",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "49a50ced-d1c0-4eeb-8a0b-d99dca7ec30b",
+      "text": "Ova uredba stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 103,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "d902e10f-7fb2-492d-9fb8-aecaa908c764",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:20:12.144340Z"
+}

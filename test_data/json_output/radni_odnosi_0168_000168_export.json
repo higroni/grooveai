@@ -1,0 +1,116 @@
+{
+  "import_run_id": "9819652a-0a9b-4021-8872-6e63da4b385d",
+  "document": {
+    "name": "radni_odnosi_0168_000168.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0168_000168.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:21.392195Z"
+  },
+  "full_text": "Na osnovu člana 247. i člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05,\n61/05, 54/09, 32/13, 75/14, 13/17 – odluka US, 113/17 i 95/18 – autentično tumačenje),\nOsnivač – Vlada, reprezentativna Sindikalna organizacija zaposlenih u Javnom preduzeću\n„Službeni glasnik”, reprezentativni Sindikat „Nezavisnost” kod poslodavca JP „Službeni\nglasnik” i Javno preduzeće „Službeni glasnik”, zaključuju\nSPORAZUM\no produženju roka važenja Kolektivnog ugovora Javnog preduzeća „Službeni glasnik”\n„Službeni glasnik RS“, broj 86 od 29. oktobra 2024.\nČlan 1.\nVaženje Kolektivnog ugovora Javnog preduzeća „Službeni glasnik” („Službeni glasnik RS”, br.\n102/21, 12/22, 2/23 i 118/23) produžava se do 6. maja 2025. godine.\nČlan 2.\nOvaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nZa Vladu\nMinistarka privrede,\nAdrijana Mesarović, s.r.\nZa Sindikalnu organizaciju zaposlenih\nu Javnom preduzeću „Službeni glasnik”\nPredsednik,\nDobrosav Janković, s.r.\nZa Sindikat „Nezavisnost”\nkod poslodavca JP „Službeni glasnik”\nGlavna poverenica,\nGordana Milosavljević Stojanović, s.r.\nZa Javno preduzeće „Službeni glasnik”\nVršilac dužnosti direktora,\nMladen Šarčević, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "77d3246c-80e2-4c0e-ad0e-37c2fcf7a962",
+      "entity_type": "DATE",
+      "text": "6. maja 2025",
+      "start_char": 699,
+      "end_char": 711,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "1a07e6df-a8fd-46ce-8c49-331a67275084",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 247",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "16eb7411-c3fc-4f4e-9702-f542020fc114",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 23,
+      "end_char": 32,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "3448d7f4-044d-497b-afa7-e619340da457",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 553,
+      "end_char": 559,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "1a0075d8-9b09-4ddd-96e2-e71fb1f225d5",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 721,
+      "end_char": 727,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "0bca78b4-6a68-453e-b504-0b96c9d5c5e0",
+      "text": "Važenje Kolektivnog ugovora Javnog preduzeća „Službeni glasnik” („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 92,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "ca2a4dcb-00d4-4ec3-935c-d9eb9f3b442b",
+      "text": "Ovaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 103,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "a40d0692-ccf5-4c1c-8ce0-7d0b347ae49d",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "f656d51f-6d12-4613-b6bd-754931a6ae7c",
+      "text": "Za Sindikalnu organizaciju zaposlenih u Javnom preduzeću „Službeni glasnik” Predsednik, Dobrosav Janković, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 158,
+      "end_char": 270,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "59fa98dd-a471-4301-a000-58b38e30746c",
+      "text": "Za Sindikat „Nezavisnost” kod poslodavca JP „Službeni glasnik” Glavna poverenica, Gordana Milosavljević Stojanović, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 270,
+      "end_char": 391,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "d190e3ed-1460-4dfd-8e7c-2c2d0df030e3",
+      "text": "Za Javno preduzeće „Službeni glasnik” Vršilac dužnosti direktora, Mladen Šarčević, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 4,
+      "start_char": 391,
+      "end_char": 478,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:21.392195Z"
+}

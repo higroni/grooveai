@@ -1,0 +1,44 @@
+{
+  "test_time": 53.993218660354614,
+  "total_documents": 2,
+  "successful": 1,
+  "failed": 1,
+  "results": [
+    {
+      "document": "radni_odnosi_0001_000001.pdf",
+      "success": false,
+      "error": "M6 failed with status 500",
+      "module_times": {
+        "M1_file_reader": 4.222219944000244,
+        "M2_normalizer": 2.0768883228302,
+        "M3_latinizer": 2.091047763824463,
+        "M4_parser": 2.053112268447876
+      },
+      "data": {},
+      "total_time": 13.763073921203613
+    },
+    {
+      "document": "radni_odnosi_0008_000008.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.07829213142395,
+        "M2_normalizer": 2.0513980388641357,
+        "M3_latinizer": 2.047780990600586,
+        "M4_parser": 2.0361785888671875,
+        "M6_assertions": 2.0826406478881836,
+        "M7_entities": 2.0663962364196777,
+        "M8_conditions": 2.049396514892578,
+        "M9_classifier": 2.057880163192749,
+        "M10_enrichment": 5.135376691818237
+      },
+      "data": {
+        "assertions": 9,
+        "entities": 4,
+        "conditions": 5,
+        "enriched": 9
+      },
+      "total_time": 21.60634183883667
+    }
+  ]
+}

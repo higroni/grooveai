@@ -1,0 +1,300 @@
+{
+  "import_run_id": "e5ee3e8e-4631-4bf6-a3e1-3dec918eec50",
+  "document": {
+    "name": "radni_odnosi_0008_000008.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0008_000008.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:10:28.199781Z"
+  },
+  "full_text": "Redakcijski prečišćen tekst\n \n \nNa osnovu člana 140. Zakona o radu („Službeni glasnik RS”, broj 24/05),\nMinistar rada, zapošljavanja i socijalne politike donosi\n \n \nPRAVILNIK\no sadržaju obrasca zahteva za ostvarivanje prava kod fonda solidarnosti\n \"Službeni glasnik RS\", br. 31 od 8. aprila 2005, 78 od 1. novembra 2019.\n \nČlan 1.\nOvim pravilnikom utvrđuje se sadržaj obrasca zahteva za ostvarivanje prava kod Fonda\nsolidarnosti (u daljem tekstu: Obrazac zahteva), kao i ostala dokumentacija koju zaposleni\ndostavlja uz Obrazac zahteva.\n \nČlan 2.\nObrazac zahteva sadrži:\n1) Lične podatke podnosioca zahteva:\n(1) ime i prezime;\n(2) dan, mesec i godina rođenja;\n(3) mesto prebivališta odnosno boravišta;\n(4) adresa stana (ulica i broj) i telefon;\n(5) registarski broj lične isprave, mesto i datum izdavanja;\n(6) jedinstveni matični broj građana (JMBG);\n(7) broj žiro odnosno tekućeg računa.\n2) Podatke o poslodavcu nad kojim je otvoren stečajni postupak (u daljem tekstu: poslodavac):\n(1) naziv, sedište i adresu poslodavca;\n(2) Brisana je (vidi član 1. Pravilnika - 78/2019-39)\n(3) Brisana je (vidi član 1. Pravilnika - 78/2019-39)\n3) Podaci o pravima koja se potražuju:\n(1) pravo na neisplaćenu zaradu za poslednjih devet meseci pre otvaranja stečajnog postupka;\n(2) pravo na neisplaćenu naknadu zarade za vreme odsutnosti sa rada zbog privremene sprečenosti\nza rad po propisima o zdravstvenom osiguranju koju je bio dužan da isplati poslodavac u skladu sa\nZakonom o radu (bolovanje do 30 dana, u poslednjih devet meseci pre otvaranja stečajnog postupka);\n(3) pravo na neisplaćenu naknadu štete za neiskorišćeni godišnji odmor, za kalendarsku godinu u\nkojoj je otvoren stečajni postupak, ako je to pravo imao pre otvaranja stečajnog postupka;\n(4) pravo na neisplaćenu otpremninu zbog odlaska u penziju u kalendarskoj godini u kojoj je otvoren\nstečajni postupak, ako je pravo na penziju ostvario pre otvaranja stečajnog postupka;\n(5) pravo na neisplaćenu naknadu štete zbog povrede na radu ili profesionalnog oboljenja, na\nosnovu odluke suda donete u kalendarskoj godini u kojoj je otvoren stečajni postupak, ako je ta\nodluka postala pravnosnažna pre otvaranja stečajnog postupka.\n*Službeni glasnik RS, broj 78/2019 \nČlan 3.\nUz Obrazac zahteva zaposleni prilaže sledeću dokumentaciju:\n1) ugovor o radu, odnosno drugi akt o zasnivanju radnog odnosa;\n2) akt kojim je prestao radni odnos za lice kome je prestao radni odnos pre otvaranja\nstečajnog postupka;\n3)   odluka kojom se utvrđuje potraživanje i njegov isplatni red, u skladu sa propisom o\nstečaju;\n4) Brisana je (vidi član 2. Pravilnika - 78/2019-39)\n5) Brisana je (vidi član 2. Pravilnika - 78/2019-39)\n4) rešenje Republičkog fonda za penzijsko i invalidsko osiguranje zaposlenih o ostvarenju\nprava zaposlenog na penziju;\n5) overen prepis pravnosnažne odluke suda kojom je utvrđeno pravo na naknadu štete zbog\npovrede na radu ili profesionalnog oboljenja;\n6) fotokopiju lične karte;\n7) fotokopiju kartice tekućeg računa;\n8) izjavu u vezi sa članom 103. stav 3. Zakona o opštem upravnom postupku („Službeni glasnik RS”,\nbr. 18/16 i 95/18 – autentično tumačenje).\n *Službeni glasnik RS, broj 78/2019 \nČlan 4.\nObrazac zahteva izrađen je od hartije bele boje formata A/4.\n \nČlan 5.\nObrazac zahteva odštampan je uz ovaj pravilnik i čini njegov sastavni deo.\n \nČlan 6.\nOvaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n \nBroj 110-00-264/2005-02\nU Beogradu, 8. aprila 2005. godine\nMinistar,\nSlobodan Lalović, s.r.\n \n ",
+  "legal_units_count": 6,
+  "document_entities": [
+    {
+      "entity_id": "bac37aee-a7c6-45cf-b370-5490a28a06a3",
+      "entity_type": "DATE",
+      "text": "8. aprila 2005",
+      "start_char": 276,
+      "end_char": 290,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e8aa7b30-df6d-4317-a828-316466a106ea",
+      "entity_type": "DATE",
+      "text": "do 30 dana",
+      "start_char": 1476,
+      "end_char": 1486,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "84018f8e-a132-46c1-ae0b-bc2a7bd4b0ac",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 140",
+      "start_char": 40,
+      "end_char": 49,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "91c0f35e-57d2-45b1-9c01-003c3f225fac",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 317,
+      "end_char": 323,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "7b24b22f-d786-43f6-8b07-51ad1d735384",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 532,
+      "end_char": 538,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "ee39d406-180d-4b51-90d4-b2fc8cf4459f",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 2208,
+      "end_char": 2214,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "dac9f1ad-ec94-4f82-9700-e6c429f2dcc8",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 103",
+      "start_char": 2986,
+      "end_char": 2996,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "5d555815-44e3-44c6-958c-54260e82842d",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 3142,
+      "end_char": 3148,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "7a39d860-c172-4b2f-8ae3-5bf3920f41a6",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 3212,
+      "end_char": 3218,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "26f926ff-27c6-40aa-bdd7-f0d658913422",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 3296,
+      "end_char": 3302,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "98d85fdd-3131-4e3c-8619-dd9b7f8907ef",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no sadržaju obrasca zahteva za ostvarivanje prava kod fonda solidarnosti",
+      "start_char": 161,
+      "end_char": 242,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "32868b1e-a59b-4ce1-bad0-1aa1003aa93d",
+      "entity_type": "DURATION",
+      "text": "30 dana",
+      "start_char": 1479,
+      "end_char": 1486,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "cef15b29-b76d-4436-a57b-077aba46dcea",
+      "text": "Ovim pravilnikom utvrđuje se sadržaj obrasca zahteva za ostvarivanje prava kod Fonda solidarnosti (u daljem tekstu: Obrazac zahteva), kao i ostala dokumentacija koju zaposleni dostavlja uz Obrazac zahteva.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 205,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "e0d6cb2a-fb4d-4098-b628-45a2a2a67d9b",
+      "text": "Obrazac zahteva sadrži: 1) Lične podatke podnosioca zahteva: (1) ime i prezime; (2) dan, mesec i godina rođenja; (3) mesto prebivališta odnosno boravišta; (4) adresa stana (ulica i broj) i telefon; (5) registarski broj lične isprave, mesto i datum izdavanja; (6) jedinstveni matični broj građana (JMBG); (7) broj žiro odnosno tekućeg računa.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 342,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "469d56dc-b2eb-4bcd-83a6-2831248fb47f",
+      "text": "2) Podatke o poslodavcu nad kojim je otvoren stečajni postupak (u daljem tekstu: poslodavac): (1) naziv, sedište i adresu poslodavca; (2) Brisana je (vidi član 1.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 342,
+      "end_char": 505,
+      "entities": [
+        {
+          "entity_id": "47a5437d-aa39-4029-8767-7469a9b80dc0",
+          "entity_type": "LEGAL_REF",
+          "text": "član 1",
+          "start_char": 155,
+          "end_char": 161,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "b7fd1d15-634c-4f42-95eb-5b950ec59b6b",
+      "text": "Pravilnika - 78/2019-39) 3) Podaci o pravima koja se potražuju: (1) pravo na neisplaćenu zaradu za poslednjih devet meseci pre otvaranja stečajnog postupka; (2) pravo na neisplaćenu naknadu zarade za vreme odsutnosti sa rada zbog privremene sprečenosti za rad po propisima o zdravstvenom osiguranju koju je bio dužan da isplati poslodavac u skladu sa Zakonom o radu (bolovanje do 30 dana, u poslednjih devet meseci pre otvaranja stečajnog postupka); (3) pravo na neisplaćenu naknadu štete za neiskorišćeni godišnji odmor, za kalendarsku godinu u kojoj je otvoren stečajni postupak, ako je to pravo imao pre otvaranja stečajnog postupka; (4) pravo na neisplaćenu otpremninu zbog odlaska u penziju u kalendarskoj godini u kojoj je otvoren stečajni postupak, ako je pravo na penziju ostvario pre otvaranja stečajnog postupka; (5) pravo na neisplaćenu naknadu štete zbog povrede na radu ili profesionalnog oboljenja, na osnovu odluke suda donete u kalendarskoj godini u kojoj je otvoren stečajni postupak, ako je ta odluka postala pravnosnažna pre otvaranja stečajnog postupka.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 559,
+      "end_char": 1633,
+      "entities": [
+        {
+          "entity_id": "b49881a7-f272-447d-baa8-b1fdda1b8954",
+          "entity_type": "DATE",
+          "text": "do 30 dana",
+          "start_char": 377,
+          "end_char": 387,
+          "confidence": 0.85
+        },
+        {
+          "entity_id": "d2d56093-0e5b-40d6-972c-5e84475ef207",
+          "entity_type": "DURATION",
+          "text": "30 dana",
+          "start_char": 380,
+          "end_char": 387,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "6d731100-de2b-4bdd-be8d-c5b5550a3602",
+          "condition_type": "condition",
+          "text": "za kalendarsku godinu u kojoj je otvoren stečajni postupak, ako je to pravo imao pre otvaranja stečajnog postupka",
+          "trigger_word": "ako",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "c5969a40-ce25-4085-87a9-671bc5bb810f",
+          "condition_type": "condition",
+          "text": "(4) pravo na neisplaćenu otpremninu zbog odlaska u penziju u kalendarskoj godini u kojoj je otvoren stečajni postupak, ako je pravo na penziju ostvario pre otvaranja stečajnog postupka",
+          "trigger_word": "ako",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "36637c9e-4ea2-4809-bd1b-f920a25d0d6c",
+          "condition_type": "condition",
+          "text": "na osnovu odluke suda donete u kalendarskoj godini u kojoj je otvoren stečajni postupak, ako je ta odluka postala pravnosnažna pre otvaranja stečajnog postupka",
+          "trigger_word": "ako",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "839f38d0-9a2b-41cf-a9a8-90813f7c79aa",
+          "condition_type": "condition",
+          "text": "(2) pravo na neisplaćenu naknadu zarade za vreme odsutnosti sa rada zbog privremene sprečenosti za rad po propisima o zdravstvenom osiguranju koju je bio dužan da isplati poslodavac u skladu sa Zakonom o radu (bolovanje do 30 dana",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "af54a0b3-1461-45b9-8c2c-b5e55af42f12",
+          "condition_type": "temporal",
+          "text": "do 30 dana, u poslednjih devet meseci pre otvaranja stečajnog postupka)",
+          "trigger_word": "do",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "assertion_id": "8511b6b7-b387-4c55-b0b3-6c6c3cf5cc95",
+      "text": "Uz Obrazac zahteva zaposleni prilaže sledeću dokumentaciju: 1) ugovor o radu, odnosno drugi akt o zasnivanju radnog odnosa; 2) akt kojim je prestao radni odnos za lice kome je prestao radni odnos pre otvaranja stečajnog postupka; 3) odluka kojom se utvrđuje potraživanje i njegov isplatni red, u skladu sa propisom o stečaju; 4) Brisana je (vidi član 2.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 354,
+      "entities": [
+        {
+          "entity_id": "a0294f78-245b-41ba-807f-cbd089bd279e",
+          "entity_type": "LEGAL_REF",
+          "text": "član 2",
+          "start_char": 346,
+          "end_char": 352,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "87a8bf3c-bf62-4e51-9a6f-76fee7794d3f",
+          "condition_type": "condition",
+          "text": "3) odluka kojom se utvrđuje potraživanje i njegov isplatni red, u skladu sa propisom o stečaju",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "d988e35f-bcb4-4c55-93b8-ffbe2d817dbd",
+      "text": "Pravilnika - 78/2019-39) 4) rešenje Republičkog fonda za penzijsko i invalidsko osiguranje zaposlenih o ostvarenju prava zaposlenog na penziju; 5) overen prepis pravnosnažne odluke suda kojom je utvrđeno pravo na naknadu štete zbog povrede na radu ili profesionalnog oboljenja; 6) fotokopiju lične karte; 7) fotokopiju kartice tekućeg računa; 8) izjavu u vezi sa članom 103.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 407,
+      "end_char": 782,
+      "entities": [
+        {
+          "entity_id": "bb02c2d3-3f3f-4fbf-ab80-90a531594610",
+          "entity_type": "LEGAL_REF",
+          "text": "članom 103",
+          "start_char": 363,
+          "end_char": 373,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "d0bbb972-1262-4c6a-9213-4816c0b04e96",
+      "text": "Obrazac zahteva izrađen je od hartije bele boje formata A/4.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 60,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "0c8a99a2-38ab-44cc-aacf-92c985b5c492",
+      "text": "Obrazac zahteva odštampan je uz ovaj pravilnik i čini njegov sastavni deo.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 74,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "02ee5e96-0966-44da-beaa-8d6717d076fa",
+      "text": "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 104,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "ed11cb1b-4b3c-4003-bcd0-81b0f2943d58",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:10:28.199781Z"
+}

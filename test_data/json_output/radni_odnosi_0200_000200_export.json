@@ -1,0 +1,116 @@
+{
+  "import_run_id": "ad9e2826-dd72-48aa-a4f6-0eeeba28a81e",
+  "document": {
+    "name": "radni_odnosi_0200_000200.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0200_000200.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:52.732177Z"
+  },
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US i 113/17),\nReprezentativni sindikati u oblasti prosvete na nivou Republike Srbije: Sindikat\nobrazovanja Srbije, Granski sindikat prosvetnih radnika Srbije „Nezavisnost ˮ  i Vlada, 23.\ndecembra 2019. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za zaposlene u ustanovama\nstudentskog standarda čiji je osnivač Republika Srbija\n\"Službeni glasnik RS\", broj 94 od 27. decembra 2019.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za zaposlene u ustanovama studentskog standarda čiji je\nosnivač Republika Srbija („Službeni glasnik RS”, broj 1/19) produžava se do 12. januara\n2023. godine.\nČlan 2.\nOvaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije ˮ .\nZa Sindikat obrazovanja Srbije\nOdbor delatnosti učeničkog\ni studentskog standarda\nPredsednik,\nDanijel Đorđević, s.r.\nZa Granski sindikat prosvetnih\nradnika Srbije „Nezavisnost ˮ\nOdbor delatnosti učeničkog\ni studentskog standarda\nPredsednik,\nSrđan Slović, s.r.\nZa Vladu\nMinistar prosvete,\nnauke i tehnološkog razvoja,\nMladen Šarčević, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "f4a95894-6139-486b-99bd-6dbcd6adae68",
+      "entity_type": "DATE",
+      "text": "12. januara\n2023",
+      "start_char": 709,
+      "end_char": 725,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "b752fc60-7c03-4999-9fd0-ffcc1f1c60ef",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "7b7c5a03-4bd3-48f5-bb8a-d17a62ae6c12",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 532,
+      "end_char": 538,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "8a886126-e4da-42c5-9f5e-3fb255b90404",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 735,
+      "end_char": 741,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "3c27d4bc-3e6f-4afa-bc8f-5e5adf063888",
+      "text": "Važenje Posebnog kolektivnog ugovora za zaposlene u ustanovama studentskog standarda čiji je osnivač Republika Srbija („Službeni glasnik RS”, broj 1/19) produžava se do 12.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 173,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "fa679a0c-ef94-41b4-9120-1b4b55f7e5e4",
+          "condition_type": "temporal",
+          "text": "broj 1/19) produžava se do 12",
+          "trigger_word": "do",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "assertion_id": "82be0682-4a49-4673-a685-2768c3c6715f",
+      "text": "Ovaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije ˮ .",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 105,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "078b9d80-5af5-4a7f-a702-5f2b80124975",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije ˮ",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "01b18724-2aa3-45f5-bded-d6b3b2bdb3b5",
+      "text": "Za Sindikat obrazovanja Srbije Odbor delatnosti učeničkog i studentskog standarda Predsednik, Danijel Đorđević, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 105,
+      "end_char": 222,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "7446875c-41fe-4c27-929f-fa71c7bf5d9f",
+      "text": "Za Granski sindikat prosvetnih radnika Srbije „Nezavisnost ˮ Odbor delatnosti učeničkog i studentskog standarda Predsednik, Srđan Slović, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 222,
+      "end_char": 365,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "6ba9fa46-c403-45fc-aa10-36b64107c098",
+      "text": "Za Vladu Ministar prosvete, nauke i tehnološkog razvoja, Mladen Šarčević, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 365,
+      "end_char": 443,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:52.732177Z"
+}

@@ -1,0 +1,138 @@
+{
+  "import_run_id": "4e91b4ba-3abc-4105-8543-c145382cf0b9",
+  "document": {
+    "name": "radni_odnosi_0127_000127.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0127_000127.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:16:32.109176Z"
+  },
+  "full_text": " \nNa osnovu člana 123. tačka 3. Ustava Republike Srbije,\nVlada donosi\n \nUREDBU\no prestanku važenja Uredbe o podsticanju zapošljavanja\n\"Službeni glasnik RS\", broj 65 od 27. juna 2014.\n \nČlan 1.\nUredba o podsticanju zapošljavanja („Službeni glasnik RS”, br. 32/11 i 34/11) prestaje da\nvaži danom stupanja na snagu ove uredbe.\nČlan 2.\nLice koje je do dana početka primene ove uredbe steklo pravo na podsticaj iz Uredbe o\npodsticanju zapošljavanja („Službeni glasnik RS”, br. 32/11 i 34/11), nastavlja da ostvaruje\nto pravo u skladu sa tom uredbom.\nČlan 3.\nOva uredba stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”, a primenjuje se od 1. jula 2014. godine.\n \n05 broj 110-6264/2014\nU Beogradu, 26. juna 2014. godine\nVlada\nPredsednik,\nAleksandar Vučić, s.r.",
+  "legal_units_count": 3,
+  "document_entities": [
+    {
+      "entity_id": "317b1d6e-3ad0-4fc8-8770-1cd1f3e35424",
+      "entity_type": "DATE",
+      "text": "27. juna 2014",
+      "start_char": 165,
+      "end_char": 178,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "809aee8f-475c-436d-a4d8-a8799ca8e1c2",
+      "entity_type": "DATE",
+      "text": "1. jula 2014",
+      "start_char": 671,
+      "end_char": 683,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "3316c73d-0289-463f-bd26-9fe9712f700d",
+      "entity_type": "DATE",
+      "text": "26. juna 2014",
+      "start_char": 728,
+      "end_char": 741,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "b2050d17-9c79-4db8-9d1b-7c314931fe32",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 123",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "badff145-8c25-4402-8125-0f99f67ca6ae",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 181,
+      "end_char": 187,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "f14b0b22-68f6-47e0-b296-7426252738ee",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 320,
+      "end_char": 326,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "366c371c-d7c2-40c7-90c4-9beabd687c13",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 541,
+      "end_char": 547,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "effae3f8-0ae7-4ff5-b1ef-d68cf4531de9",
+      "entity_type": "LEGAL_REF",
+      "text": "Uredba o podsticanju zapošljavanja",
+      "start_char": 189,
+      "end_char": 223,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "a99a6a4a-6980-4bac-9dd5-494dc2ba9393",
+      "text": "32/11 i 34/11) prestaje da važi danom stupanja na snagu ove uredbe.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 63,
+      "end_char": 130,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "8dc442fe-24fa-4fe8-ac62-d6b11595e057",
+      "text": "Lice koje je do dana početka primene ove uredbe steklo pravo na podsticaj iz Uredbe o podsticanju zapošljavanja („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 140,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "acbc03f2-3f1f-4649-aeba-78166c2febc7",
+      "text": "32/11 i 34/11), nastavlja da ostvaruje to pravo u skladu sa tom uredbom.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 140,
+      "end_char": 212,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "378452dd-66f3-4833-b1b9-9b2b1a8ea493",
+          "condition_type": "condition",
+          "text": "nastavlja da ostvaruje to pravo u skladu sa tom uredbom",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "4b6e9d83-5e67-4597-b242-ab40ef5ade5f",
+      "text": "Ova uredba stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, a primenjuje se od 1.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 125,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "6e2dc93c-59a8-444b-bed0-b419ec4f523b",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:16:32.109176Z"
+}

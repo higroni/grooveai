@@ -1,0 +1,544 @@
+{
+  "results": [
+    {
+      "document": "radni_odnosi_0001_000001.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 4.2180469036102295,
+        "M2_normalizer": 2.0549492835998535,
+        "M3_latinizer": 2.0893795490264893,
+        "M4_parser": 2.0775861740112305,
+        "M6_assertions": 2.210407257080078,
+        "M7_entities": 2.2082769870758057,
+        "M8_conditions": 2.501447916030884,
+        "M9_classifier": 2.6775963306427,
+        "M10_enrichment": 17.947839736938477
+      },
+      "data": {
+        "assertions": 818,
+        "entities": 188,
+        "conditions": 385,
+        "enriched": 818
+      },
+      "total_time": 39.05040121078491
+    },
+    {
+      "document": "radni_odnosi_0002_000002.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.092576742172241,
+        "M2_normalizer": 2.0721774101257324,
+        "M3_latinizer": 2.0599730014801025,
+        "M4_parser": 2.0541486740112305,
+        "M6_assertions": 2.0704452991485596
+      },
+      "data": {
+        "assertions": 0
+      },
+      "total_time": 10.349321126937866
+    },
+    {
+      "document": "radni_odnosi_0003_000003.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.075881242752075,
+        "M2_normalizer": 2.072139024734497,
+        "M3_latinizer": 2.054826498031616,
+        "M4_parser": 2.0762476921081543,
+        "M6_assertions": 2.056934356689453
+      },
+      "data": {
+        "assertions": 0
+      },
+      "total_time": 10.336028814315796
+    },
+    {
+      "document": "radni_odnosi_0004_000004.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.103412628173828,
+        "M2_normalizer": 2.0561513900756836,
+        "M3_latinizer": 2.0735650062561035,
+        "M4_parser": 2.0732178688049316,
+        "M6_assertions": 2.0537679195404053
+      },
+      "data": {
+        "assertions": 0
+      },
+      "total_time": 10.360114812850952
+    },
+    {
+      "document": "radni_odnosi_0005_000005.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.1277339458465576,
+        "M2_normalizer": 2.073866367340088,
+        "M3_latinizer": 2.071439504623413,
+        "M4_parser": 2.0715434551239014,
+        "M6_assertions": 2.0589866638183594,
+        "M7_entities": 2.0744504928588867,
+        "M8_conditions": 2.0644142627716064,
+        "M9_classifier": 2.0810108184814453,
+        "M10_enrichment": 2.4310460090637207
+      },
+      "data": {
+        "assertions": 20,
+        "entities": 8,
+        "conditions": 5,
+        "enriched": 20
+      },
+      "total_time": 19.05449151992798
+    },
+    {
+      "document": "radni_odnosi_0006_000006.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.1510982513427734,
+        "M2_normalizer": 2.08744478225708,
+        "M3_latinizer": 2.0713024139404297,
+        "M4_parser": 2.075309991836548,
+        "M6_assertions": 2.0724854469299316,
+        "M7_entities": 2.074343681335449,
+        "M8_conditions": 2.0546910762786865,
+        "M9_classifier": 2.0750203132629395,
+        "M10_enrichment": 2.513672351837158
+      },
+      "data": {
+        "assertions": 11,
+        "entities": 2,
+        "conditions": 7,
+        "enriched": 11
+      },
+      "total_time": 19.175368309020996
+    },
+    {
+      "document": "radni_odnosi_0007_000007.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.1465182304382324,
+        "M2_normalizer": 2.0582098960876465,
+        "M3_latinizer": 2.0521483421325684,
+        "M4_parser": 2.0506062507629395,
+        "M6_assertions": 2.069305896759033,
+        "M7_entities": 2.070343494415283,
+        "M8_conditions": 2.087601661682129,
+        "M9_classifier": 2.0869674682617188,
+        "M10_enrichment": 2.638946056365967
+      },
+      "data": {
+        "assertions": 31,
+        "entities": 14,
+        "conditions": 21,
+        "enriched": 31
+      },
+      "total_time": 19.260647296905518
+    },
+    {
+      "document": "radni_odnosi_0008_000008.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.1173923015594482,
+        "M2_normalizer": 2.0586917400360107,
+        "M3_latinizer": 2.0730338096618652,
+        "M4_parser": 2.0727427005767822,
+        "M6_assertions": 2.0428082942962646,
+        "M7_entities": 2.07503080368042,
+        "M8_conditions": 2.063291311264038,
+        "M9_classifier": 2.0687296390533447,
+        "M10_enrichment": 2.3399600982666016
+      },
+      "data": {
+        "assertions": 9,
+        "entities": 4,
+        "conditions": 5,
+        "enriched": 9
+      },
+      "total_time": 18.911680698394775
+    },
+    {
+      "document": "radni_odnosi_0009_000009.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.137077808380127,
+        "M2_normalizer": 2.0713231563568115,
+        "M3_latinizer": 2.0585274696350098,
+        "M4_parser": 2.0719997882843018,
+        "M6_assertions": 2.067936420440674,
+        "M7_entities": 2.065462350845337,
+        "M8_conditions": 2.0731709003448486,
+        "M9_classifier": 2.0859367847442627,
+        "M10_enrichment": 2.5152454376220703
+      },
+      "data": {
+        "assertions": 29,
+        "entities": 9,
+        "conditions": 17,
+        "enriched": 29
+      },
+      "total_time": 19.146680116653442
+    },
+    {
+      "document": "radni_odnosi_0010_000010.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.1392788887023926,
+        "M2_normalizer": 2.054673433303833,
+        "M3_latinizer": 2.0722734928131104,
+        "M4_parser": 2.076026439666748,
+        "M6_assertions": 2.0730605125427246
+      },
+      "data": {
+        "assertions": 0
+      },
+      "total_time": 10.415312767028809
+    },
+    {
+      "document": "radni_odnosi_0011_000011.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.0810751914978027,
+        "M2_normalizer": 2.047027826309204,
+        "M3_latinizer": 2.0605645179748535,
+        "M4_parser": 2.0729970932006836,
+        "M6_assertions": 2.0725224018096924,
+        "M7_entities": 2.0734848976135254,
+        "M8_conditions": 2.058234214782715,
+        "M9_classifier": 2.0595223903656006,
+        "M10_enrichment": 2.2094554901123047
+      },
+      "data": {
+        "assertions": 8,
+        "entities": 0,
+        "conditions": 0,
+        "enriched": 8
+      },
+      "total_time": 18.734884023666382
+    },
+    {
+      "document": "radni_odnosi_0012_000012.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.078277587890625,
+        "M2_normalizer": 2.057874917984009,
+        "M3_latinizer": 2.0457656383514404,
+        "M4_parser": 2.072244167327881,
+        "M6_assertions": 2.0568430423736572
+      },
+      "data": {
+        "assertions": 0
+      },
+      "total_time": 10.325549125671387
+    },
+    {
+      "document": "radni_odnosi_0013_000013.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 3.5942697525024414,
+        "M2_normalizer": 2.074079990386963,
+        "M3_latinizer": 2.073746919631958,
+        "M4_parser": 2.064894914627075,
+        "M6_assertions": 2.115384101867676,
+        "M7_entities": 2.158371686935425,
+        "M8_conditions": 2.305777072906494,
+        "M9_classifier": 2.3386893272399902,
+        "M10_enrichment": 10.820510387420654
+      },
+      "data": {
+        "assertions": 374,
+        "entities": 117,
+        "conditions": 199,
+        "enriched": 374
+      },
+      "total_time": 29.550695657730103
+    },
+    {
+      "document": "radni_odnosi_0014_000014.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.3274898529052734,
+        "M2_normalizer": 2.0593111515045166,
+        "M3_latinizer": 2.078012466430664,
+        "M4_parser": 2.0565195083618164,
+        "M6_assertions": 2.0691514015197754,
+        "M7_entities": 2.0624701976776123,
+        "M8_conditions": 2.105581045150757,
+        "M9_classifier": 2.116358757019043,
+        "M10_enrichment": 3.5955007076263428
+      },
+      "data": {
+        "assertions": 76,
+        "entities": 13,
+        "conditions": 27,
+        "enriched": 76
+      },
+      "total_time": 20.4703950881958
+    },
+    {
+      "document": "radni_odnosi_0015_000015.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.103466510772705,
+        "M2_normalizer": 2.0663790702819824,
+        "M3_latinizer": 2.0384442806243896,
+        "M4_parser": 2.064868211746216,
+        "M6_assertions": 2.0702760219573975,
+        "M7_entities": 2.088569402694702,
+        "M8_conditions": 2.0573415756225586,
+        "M9_classifier": 2.0565316677093506,
+        "M10_enrichment": 2.264422655105591
+      },
+      "data": {
+        "assertions": 8,
+        "entities": 0,
+        "conditions": 0,
+        "enriched": 8
+      },
+      "total_time": 18.810299396514893
+    },
+    {
+      "document": "radni_odnosi_0016_000016.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.300316095352173,
+        "M2_normalizer": 2.073965311050415,
+        "M3_latinizer": 2.077821969985962,
+        "M4_parser": 2.042694330215454,
+        "M6_assertions": 2.0546875,
+        "M7_entities": 2.0907373428344727,
+        "M8_conditions": 2.10013747215271,
+        "M9_classifier": 2.0941219329833984,
+        "M10_enrichment": 3.3387603759765625
+      },
+      "data": {
+        "assertions": 42,
+        "entities": 10,
+        "conditions": 14,
+        "enriched": 42
+      },
+      "total_time": 20.174986839294434
+    },
+    {
+      "document": "radni_odnosi_0017_000017.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.1702098846435547,
+        "M2_normalizer": 2.0437986850738525,
+        "M3_latinizer": 2.060558319091797,
+        "M4_parser": 2.0605709552764893,
+        "M6_assertions": 2.078204393386841,
+        "M7_entities": 2.058025598526001,
+        "M8_conditions": 2.079488515853882,
+        "M9_classifier": 2.089812994003296,
+        "M10_enrichment": 2.7349958419799805
+      },
+      "data": {
+        "assertions": 32,
+        "entities": 2,
+        "conditions": 11,
+        "enriched": 32
+      },
+      "total_time": 19.375665187835693
+    },
+    {
+      "document": "radni_odnosi_0018_000018.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.169344186782837,
+        "M2_normalizer": 2.059720993041992,
+        "M3_latinizer": 2.0741183757781982,
+        "M4_parser": 2.0604493618011475,
+        "M6_assertions": 2.062446355819702,
+        "M7_entities": 2.0600063800811768,
+        "M8_conditions": 2.0620310306549072,
+        "M9_classifier": 2.091916084289551,
+        "M10_enrichment": 2.670846939086914
+      },
+      "data": {
+        "assertions": 18,
+        "entities": 1,
+        "conditions": 10,
+        "enriched": 18
+      },
+      "total_time": 19.310879707336426
+    },
+    {
+      "document": "radni_odnosi_0019_000019.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.1213035583496094,
+        "M2_normalizer": 2.0425498485565186,
+        "M3_latinizer": 2.069662094116211,
+        "M4_parser": 2.0563199520111084,
+        "M6_assertions": 2.0546910762786865,
+        "M7_entities": 2.057023286819458,
+        "M8_conditions": 2.056459426879883,
+        "M9_classifier": 2.0865142345428467,
+        "M10_enrichment": 2.401888847351074
+      },
+      "data": {
+        "assertions": 20,
+        "entities": 0,
+        "conditions": 2,
+        "enriched": 20
+      },
+      "total_time": 18.946412324905396
+    },
+    {
+      "document": "radni_odnosi_0020_000020.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.3605544567108154,
+        "M2_normalizer": 2.053586721420288,
+        "M3_latinizer": 2.077542543411255,
+        "M4_parser": 2.0702168941497803,
+        "M6_assertions": 2.0873260498046875,
+        "M7_entities": 2.069944381713867,
+        "M8_conditions": 2.103410482406616,
+        "M9_classifier": 2.1235413551330566,
+        "M10_enrichment": 3.343128204345703
+      },
+      "data": {
+        "assertions": 65,
+        "entities": 6,
+        "conditions": 13,
+        "enriched": 65
+      },
+      "total_time": 20.28925108909607
+    },
+    {
+      "document": "radni_odnosi_0021_000021.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.2731926441192627,
+        "M2_normalizer": 2.0508737564086914,
+        "M3_latinizer": 2.0663881301879883,
+        "M4_parser": 2.0744121074676514,
+        "M6_assertions": 2.0725245475769043,
+        "M7_entities": 2.0764341354370117,
+        "M8_conditions": 2.1024553775787354,
+        "M9_classifier": 2.1032862663269043,
+        "M10_enrichment": 3.0814249515533447
+      },
+      "data": {
+        "assertions": 46,
+        "entities": 7,
+        "conditions": 10,
+        "enriched": 46
+      },
+      "total_time": 19.900991916656494
+    },
+    {
+      "document": "radni_odnosi_0022_000022.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.342259407043457,
+        "M2_normalizer": 2.0729012489318848,
+        "M3_latinizer": 2.058742046356201,
+        "M4_parser": 2.0758583545684814,
+        "M6_assertions": 2.090407133102417,
+        "M7_entities": 2.071972131729126,
+        "M8_conditions": 2.1065175533294678,
+        "M9_classifier": 2.107330560684204,
+        "M10_enrichment": 3.8186190128326416
+      },
+      "data": {
+        "assertions": 61,
+        "entities": 4,
+        "conditions": 20,
+        "enriched": 61
+      },
+      "total_time": 20.74460744857788
+    },
+    {
+      "document": "radni_odnosi_0023_000023.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.3739237785339355,
+        "M2_normalizer": 2.0404791831970215,
+        "M3_latinizer": 2.0672802925109863,
+        "M4_parser": 2.0610432624816895,
+        "M6_assertions": 2.0662169456481934,
+        "M7_entities": 2.0606279373168945,
+        "M8_conditions": 2.1388742923736572,
+        "M9_classifier": 2.1229686737060547,
+        "M10_enrichment": 4.037464618682861
+      },
+      "data": {
+        "assertions": 79,
+        "entities": 5,
+        "conditions": 30,
+        "enriched": 79
+      },
+      "total_time": 20.968878984451294
+    },
+    {
+      "document": "radni_odnosi_0024_000024.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.216432571411133,
+        "M2_normalizer": 2.09147047996521,
+        "M3_latinizer": 2.0711817741394043,
+        "M4_parser": 2.0733203887939453,
+        "M6_assertions": 2.09106707572937,
+        "M7_entities": 2.067441463470459,
+        "M8_conditions": 2.062863826751709,
+        "M9_classifier": 2.1089272499084473,
+        "M10_enrichment": 2.9257822036743164
+      },
+      "data": {
+        "assertions": 25,
+        "entities": 10,
+        "conditions": 5,
+        "enriched": 25
+      },
+      "total_time": 19.708487033843994
+    },
+    {
+      "document": "radni_odnosi_0025_000025.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.2555198669433594,
+        "M2_normalizer": 2.069150924682617,
+        "M3_latinizer": 2.0718042850494385,
+        "M4_parser": 2.061208963394165,
+        "M6_assertions": 2.0584423542022705,
+        "M7_entities": 2.0867984294891357,
+        "M8_conditions": 2.0924510955810547,
+        "M9_classifier": 2.104275703430176,
+        "M10_enrichment": 3.141650676727295
+      },
+      "data": {
+        "assertions": 45,
+        "entities": 24,
+        "conditions": 27,
+        "enriched": 45
+      },
+      "total_time": 19.94130229949951
+    }
+  ]
+}

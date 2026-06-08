@@ -1,0 +1,10 @@
+{
+  "total_documents": 234,
+  "successful": 0,
+  "failed": 0,
+  "success_rate": 0.0,
+  "total_time_seconds": 32.83352851867676,
+  "average_time_per_document": 0.14031422443878958,
+  "documents_per_second": 7.12686118602493,
+  "failed_documents": []
+}

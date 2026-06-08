@@ -1,0 +1,128 @@
+[
+  {
+    "test_name": "Zakon o radu",
+    "result": {
+      "document": {
+        "document_type": "zakon",
+        "hierarchy_level": 2,
+        "issuing_authority": "Narodna skupština",
+        "legal_basis": [
+          "9"
+        ],
+        "official_gazette": null,
+        "can_override": [
+          "uredba",
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav"
+        ],
+        "confidence": 0.9
+      },
+      "title": "ZAKON O RADU",
+      "detected_patterns": [
+        "ZAKON\\s+o\\s+[a-zšđčćž\\s]+",
+        "ZAKON\\s+o\\s+[a-zšđčćž\\s]+",
+        "Zakon\\s+o\\s+[a-zšđčćž\\s]+",
+        "Zakon\\s+o\\s+[a-zšđčćž\\s]+",
+        "u\\s+smislu\\s+ovog\\s+zakona"
+      ],
+      "processing_time": 0.0
+    }
+  },
+  {
+    "test_name": "Pravilnik o bezbednosti",
+    "result": {
+      "document": {
+        "document_type": "pravilnik",
+        "hierarchy_level": 4,
+        "issuing_authority": "Ministarstvo",
+        "legal_basis": [
+          "1"
+        ],
+        "official_gazette": null,
+        "can_override": [
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba"
+        ],
+        "confidence": 0.8
+      },
+      "title": "PRAVILNIK O BEZBEDNOSTI I ZDRAVLJU NA RADU",
+      "detected_patterns": [
+        "PRAVILNIK\\s+o\\s+[a-zšđčćž\\s]+",
+        "Pravilnik\\s+o\\s+[a-zšđčćž\\s]+",
+        "u\\s+smislu\\s+ovog\\s+pravilnika"
+      ],
+      "processing_time": 0.0
+    }
+  },
+  {
+    "test_name": "Uredba Vlade",
+    "result": {
+      "document": {
+        "document_type": "uredba",
+        "hierarchy_level": 3,
+        "issuing_authority": "Vlada Republike Srbije",
+        "legal_basis": [
+          "4"
+        ],
+        "official_gazette": null,
+        "can_override": [
+          "pravilnik",
+          "odluka",
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon"
+        ],
+        "confidence": 0.9
+      },
+      "title": "UREDBA O NAKNADAMA TROŠKOVA",
+      "detected_patterns": [
+        "UREDBA\\s+o\\s+[a-zšđčćž\\s]+",
+        "Uredba\\s+o\\s+[a-zšđčćž\\s]+",
+        "Vlada\\s+donosi\\s+UREDBU",
+        "ova\\s+uredba"
+      ],
+      "processing_time": 0.0
+    }
+  },
+  {
+    "test_name": "Odluka o organizaciji",
+    "result": {
+      "document": {
+        "document_type": "odluka",
+        "hierarchy_level": 5,
+        "issuing_authority": null,
+        "legal_basis": [],
+        "official_gazette": null,
+        "can_override": [
+          "naređenje"
+        ],
+        "cannot_override": [
+          "ustav",
+          "zakon",
+          "uredba",
+          "pravilnik"
+        ],
+        "confidence": 0.9
+      },
+      "title": "ODLUKA O ORGANIZACIJI RADA\n\nDirektor donosi\n\nODLUKU",
+      "detected_patterns": [
+        "ODLUKA\\s+o\\s+[a-zšđčćž\\s]+",
+        "Odluka\\s+o\\s+[a-zšđčćž\\s]+",
+        "ova\\s+odluka",
+        "donosi\\s+ODLUKU"
+      ],
+      "processing_time": 0.0
+    }
+  }
+]

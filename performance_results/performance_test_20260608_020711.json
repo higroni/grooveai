@@ -1,0 +1,44 @@
+{
+  "test_time": 51.222705602645874,
+  "total_documents": 2,
+  "successful": 1,
+  "failed": 1,
+  "results": [
+    {
+      "document": "radni_odnosi_0001_000001.pdf",
+      "success": false,
+      "error": "M6 failed with status 500: {\"detail\":\"(sqlite3.IntegrityError) UNIQUE constraint failed: extraction_jobs.job_id\\n[SQL: INSERT INTO extraction_jobs (job_id, legal_unit_id, input_content, output_assertions, total_assertions, processing_time_ms, created_at) VALUES (?, ?, ?, ?, ?, ?, ?)]\\n[parameters: ('7a5d502d-ab29-4b3b-a53e-ebb31224e33f_d691a249-33e5-5c66-9cab-736944ecb046', 'd691a249-33e5-5c66-9cab-736944ecb046', 'Ništavost odredaba ugovora o radu utvrđuje se pred nadležnim sudom. Pravo da se zahteva utvrđivanje ništavosti ne zastareva.', '[{\\\"assertion_id\\\": \\\"a5a71590-4a49-4321-8abe-80754d3c653c\\\", \\\"text\\\": \\\"Zaposlena žena koja je započela korišćenje porodiljskog odsustva u skladu sa člano ... (286 characters truncated) ... vo i odsustvo sa rada radi nege deteta u skladu sa odredbama tog člana.\\\", \\\"confidence\\\": 0.5, \\\"sentence_index\\\": 1, \\\"start_char\\\": 88, \\\"end_char\\\": 298}]', 2, 0.0, '2026-06-08 00:06:33.719455')]\\n(Background on this error at: https://sqlalche.me/e/20/gkpj)\"}",
+      "module_times": {
+        "M1_file_reader": 4.2143003940582275,
+        "M2_normalizer": 2.0836493968963623,
+        "M3_latinizer": 2.0851173400878906,
+        "M4_parser": 2.0988962650299072
+      },
+      "data": {},
+      "total_time": 13.729474782943726
+    },
+    {
+      "document": "radni_odnosi_0008_000008.pdf",
+      "success": true,
+      "error": null,
+      "module_times": {
+        "M1_file_reader": 2.0840392112731934,
+        "M2_normalizer": 2.050431966781616,
+        "M3_latinizer": 2.044187068939209,
+        "M4_parser": 2.071535587310791,
+        "M6_assertions": 2.0614256858825684,
+        "M7_entities": 2.068460702896118,
+        "M8_conditions": 2.049452781677246,
+        "M9_classifier": 2.0570778846740723,
+        "M10_enrichment": 2.3077287673950195
+      },
+      "data": {
+        "assertions": 9,
+        "entities": 4,
+        "conditions": 5,
+        "enriched": 9
+      },
+      "total_time": 18.797406911849976
+    }
+  ]
+}

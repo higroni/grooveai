@@ -1,0 +1,89 @@
+{
+  "import_run_id": "f1b42570-dbcd-4155-856a-998c57dcf4df",
+  "document": {
+    "name": "radni_odnosi_0089_000089.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0089_000089.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:16:00.779838Z"
+  },
+  "full_text": "Redakcijski prečišćen tekst\n \n \nNa osnovu člana 43. stav 1. Zakona o Vladi („Službeni glasnik RS”, br. 55/05, 71/05 –\nispravka, 101/07, 65/08, 16/11, 68/12 – US, 72/12, 7/14 – US i 44/14), člana 117. i člana 118.\nstav 1. Zakona o zaposlenima u autonomnim pokrajinama i jedinicama lokalne samouprave\n(„Službeni glasnik PC”, broj 21/16),\nVlada donosi\n \nODLUKU\no obrazovanju Saveta za stručno usavršavanje zaposlenih u jedinicama lokalne samouprave\n\"Službeni glasnik RS\", br. 105 od 26. decembra 2016, 17 od 28. februara 2020, 5 od 22.\njanuara 2021, 83 od 27. avgusta 2021.\n \n1. Obrazuje se Savet za stručno usavršavanje zaposlenih u jedinicama lokalne samouprave (u\ndaljem tekstu: Savet).\n2. U Savet se imenuju:\n– za predsednika,\nMaja Mačužić Puzić, državni sekretar u Ministarstvu državne uprave i lokalne samouprave.\n– za članove:\n1) Saša Mogić, pomoćnik ministra državne uprave i lokalne samouprave;\n2) dr Jasmina Benmansur, pomoćnik ministra državne uprave i lokalne samouprave,\n3) Dragana Kostić, samostalni savetnik u Agenciji za energetiku Republike Srbije,\n4) Ivan Milivojević, pomoćnik generalnog sekretara Stalne konferencije gradova i opština,\n5) Nikola Tarbuk, pomoćnik generalnog sekretara Stalne konferencije gradova i opština,\n6) Sandra Pantelić, načelnik Gradske uprave grada Beograda,\n7) Marija Ušumović Davčik, načelnik Gradske uprave grada Subotica.\n*Službeni glasnik RS, broj 17/2020\n**Službeni glasnik RS, broj 5/2021\n***Službeni glasnik RS, broj 83/2021\n3. Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n \n05 broj 02-10442/2016\nU Beogradu, 23. decembra 2016. godine\nVlada\nPredsednik,\nAleksandar Vučić, s.r.",
+  "legal_units_count": 0,
+  "document_entities": [
+    {
+      "entity_id": "9467a1a3-a887-428a-9b5a-5bbb3ebd6206",
+      "entity_type": "DATE",
+      "text": "28. februara 2020",
+      "start_char": 502,
+      "end_char": 519,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "1e5e49a5-455d-420a-b8f8-dad53b017733",
+      "entity_type": "DATE",
+      "text": "22.\njanuara 2021",
+      "start_char": 526,
+      "end_char": 542,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "82f79be2-ea28-4221-83f2-05a471c33ec4",
+      "entity_type": "DATE",
+      "text": "27. avgusta 2021",
+      "start_char": 550,
+      "end_char": 566,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "f224b8ec-f78e-416b-bb57-5155a607fb0d",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 43",
+      "start_char": 40,
+      "end_char": 48,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "a26275fa-211e-4f9f-a8a3-2e54d3261d8d",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 117",
+      "start_char": 187,
+      "end_char": 196,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "de3b4a68-0853-4660-9edc-1d12258535e5",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 118",
+      "start_char": 200,
+      "end_char": 209,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "cb38dff7-d804-4b58-803c-03b391070efd",
+      "entity_type": "LOCATION",
+      "text": "Subotica",
+      "start_char": 1353,
+      "end_char": 1361,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e7f56480-537e-4e5d-9e3c-6d55a9ebe77b",
+      "entity_type": "LOCATION",
+      "text": "grada Beograda",
+      "start_char": 1280,
+      "end_char": 1294,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "345708dc-4f87-48d3-b30e-e0cb24309292",
+      "entity_type": "LOCATION",
+      "text": "grada Subotica",
+      "start_char": 1347,
+      "end_char": 1361,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [],
+  "export_timestamp": "2026-06-08T17:16:00.779838Z"
+}

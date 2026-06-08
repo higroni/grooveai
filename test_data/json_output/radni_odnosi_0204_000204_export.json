@@ -1,0 +1,122 @@
+{
+  "import_run_id": "f9e59ed7-b547-44de-b189-43ea73d8a4d1",
+  "document": {
+    "name": "radni_odnosi_0204_000204.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0204_000204.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:56.170142Z"
+  },
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US i 113/17)\nReprezentativni sindikati u oblasti prosvete na nivou Republike Srbije: Sindikat\nobrazovanja Srbije, Granski sindikat prosvetnih radnika Srbije Nezavisnost, Unija sindikata\nprosvetnih radnika Srbije i Sindikat radnika u prosveti Srbije i Vlada, 2. marta 2018.\ngodine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za zaposlene u osnovnim i srednjim\nškolama i domovima učenika\n\"Službeni glasnik RS\", broj 16 od 5. marta 2018.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za zaposlene u osnovnim i srednjim školama i\ndomovima učenika („Službeni glasnik RS”, broj 21/15) produžava se do 5. marta 2019. godine.\nČlan 2.\nOvaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nZa Sindikat obrazovanja Srbije\nValentina Ilić, s.r.\nZa Granski sindikat prosvetnih radnika\nSrbije Nezavisnost\nTomislav Živanović, s.r.\nZa Uniju sindikata prosvetnih radnika Srbije\nJasna Janković, s.r.\nZa Sindikat radnika u prosveti Srbije\nSlobodan Brajković, s.r.\nZa Vladu\nMinistar prosvete, nauke i tehnološkog razvoja\nMladen Šarčević, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "4ece83f9-82b9-4804-ac91-861258315854",
+      "entity_type": "DATE",
+      "text": "2. marta 2018",
+      "start_char": 372,
+      "end_char": 385,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "baff950a-466d-446f-99bd-5e165ce5ee15",
+      "entity_type": "DATE",
+      "text": "5. marta 2018",
+      "start_char": 566,
+      "end_char": 579,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "a1119fb7-f08f-4feb-9297-34893a47e1c7",
+      "entity_type": "DATE",
+      "text": "5. marta 2019",
+      "start_char": 740,
+      "end_char": 753,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "d91c4f37-8283-4dec-b5f1-857ee921969d",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "380ee6dc-7499-4923-8e6c-544246f8feab",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 581,
+      "end_char": 587,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "13e5dec8-a37d-4ad0-a765-e3670f1ab63c",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 763,
+      "end_char": 769,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "d7455677-01d6-4daa-b4ce-d349a749173e",
+      "text": "Važenje Posebnog kolektivnog ugovora za zaposlene u osnovnim i srednjim školama i domovima učenika („Službeni glasnik RS”, broj 21/15) produžava se do 5.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 154,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "5e12a4f5-0853-4e9d-b5a3-fb687131b9a5",
+          "condition_type": "temporal",
+          "text": "broj 21/15) produžava se do 5",
+          "trigger_word": "do",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "assertion_id": "86f05fce-18ed-4171-8146-8999427dd273",
+      "text": "Ovaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 106,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "166f445c-b21f-4d72-9a95-0b2b72d0f818",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "0c756a31-da7e-4785-adcb-9aa1f4dff463",
+      "text": "Za Granski sindikat prosvetnih radnika Srbije Nezavisnost Tomislav Živanović, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 158,
+      "end_char": 241,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "1bfc3ee1-a4d5-4ed1-a87c-513da5fc0196",
+      "text": "Za Vladu Ministar prosvete, nauke i tehnološkog razvoja Mladen Šarčević, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 5,
+      "start_char": 370,
+      "end_char": 447,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:56.170142Z"
+}

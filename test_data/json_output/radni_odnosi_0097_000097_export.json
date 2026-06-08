@@ -1,0 +1,73 @@
+{
+  "import_run_id": "3e02a8af-2bf9-45c0-a16c-b007d7b74fd9",
+  "document": {
+    "name": "radni_odnosi_0097_000097.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0097_000097.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:16:06.788063Z"
+  },
+  "full_text": " \nRedakcijski prečišćen tekst\n \n \nNa osnovu člana 20. Zakona o socijalnom preduzetništvu („Službeni glasnik RS”, broj 14/22)\ni člana 17. stav 1. i člana 43. stav 1. Zakona o Vladi („Službeni glasnik RS”, br. 55/05, 71/05\n– ispravka, 101/07, 65/08, 16/11, 68/12 – US, 72/12, 7/14 – US, 44/14 i 30/18 – dr. zakon)\nVlada donosi\nODLUKU\no osnivanju Saveta za socijalno preduzetništvo\n\"Službeni glasnik RS\", br. 59 od 20. maja 2022, 34 od 28. aprila 2023, 55 od 7. jula 2023, 77\nod 20. septembra 2024.\n1. Osniva se Savet za socijalno preduzetništvo (u daljem tekstu: Savet).\n2. Savet čine predsednik i članovi Saveta, a tehničku podršku Savetu pružaju sekretar i\nzamenik sekretara.\n3. Savet čini jednak broj predstavnika javnog i privatnog sektora.\n4. Mandat predsednika Saveta, članova, sekretara i zamenika sekretara Saveta traje četiri\ngodine i mogu ponovo biti imenovani.\n5. U Savet se imenuju:\n1) za predsednika iz javnog sektora:\nNemanja Starović, ministar za rad, zapošljavanje, boračka i socijalna pitanja;\n2) za članove iz reda javnog sektora:\n– Zoran Martinović, Ministarstvo za rad, zapošljavanje, boračka i socijalna pitanja,\n– Vukašin Grozdić, Ministarstvo nauke, tehnološkog razvoja i inovacija,\n– Slavoljub Arsenijević, Pokrajinski sekretarijat za privredu i turizam, AP Vojvodina,\nPokrajinska Vlada,\n– Sanja Gavranović, Ministarstvo za rad, zapošljavanje, boračka i socijalna pitanja,\n– Ivana Gajić, Ministarstvo za ljudska i manjinska prava i društveni dijalog,\n– Slavica Ninković, Ministarstvo privrede;\n3) za članove iz reda privatnog sektora:\n– Anica Spasov, subjekt socijalnog preduzetništva,\n– Violeta Jovanović, udruženje,\n– Dina Rakin, stručnjak iz oblasti socijalnog preduzetništva,\n– Neven Marinović, stručnjak iz oblasti socijalnog preduzetništva,\n– Đorđe Vukotić, stručnjak iz oblasti socijalnog preduzetništva,\n– Danijela Maletić, udruženje,\n– Siniša Tešić, stručnjak iz oblasti socijalnog preduzetništva.\n*Službeni glasnik RS, broj 34/2023\n**Službeni glasnik RS, broj 77/2024\n6. Za tehničku podršku imenuju se:\n1) Katarina Denčić, Ministarstvo za rad, zapošljavanje, boračka i socijalna pitanja, za\nsekretara iz reda javnog sektora;\n2) Stefanos Jokić, za zamenika sekretara iz reda privatnog sektora.\n*Službeni glasnik RS, broj 77/2024\n7. Predsednik rukovodi radom Saveta i saziva i vodi sednice Saveta.\n8. Savet se sastaje po potrebi, a najmanje jedanput mesečno.\n9. U funkciji unapređenja pojedinih pitanja iz oblasti razvoja socijalnog preduzetništva,\nsednicama Saveta u skladu sa zakonom, po pozivu i bez prava odlučivanja i bez prava na\nnaknadu za svoj rad, mogu prisustvovati predstavnici drugih organa vlasti, privrede i\ncivilnog sektora, kao i stručnjaci iz oblasti socijalnog preduzetništva.\n10. Savet može tražiti podatke, analize, obaveštenja i izveštaje od nadležnih državnih\norgana i ustanova, u vezi sa pitanjima zbog kojih je osnovan.\n11. Savet u svom radu može ostvarivati stručnu saradnju u vidu međunarodnih projekata.\n12. Savet o svom radu podnosi izveštaj Vladi najmanje jednom godišnje.\n13. Predsednik i članovi Saveta, kao i sekretar i zamenik sekretara imaju pravo na naknadu\nza rad u Savetu.\n14. Naknada za rad predsednika i članova Saveta, kao i sekretara i zamenika sekretara\nSaveta utvrđuje se u neto iznosu od 20% (dvadeset procenata) isplaćene prosečne mesečne\nzarade bez poreza i doprinosa, prema poslednjem objavljenom podatku organa nadležnog za\nposlove statistike u trenutku ostvarivanja prava.\n15. Naknada za rad iz tačke 14. ove odluke obračunava se i isplaćuje mesečno.\n16. Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n05 broj 02-3832/2022\nU Beogradu, 19. maja 2022. godine\nVlada\nPredsednik,\nAna Brnabić, s.r.",
+  "legal_units_count": 0,
+  "document_entities": [
+    {
+      "entity_id": "cf797568-6991-439a-a14d-957a4d95a586",
+      "entity_type": "DATE",
+      "text": "20. maja 2022",
+      "start_char": 408,
+      "end_char": 421,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "b0b4751f-4cbf-4a19-9af5-e894292ec424",
+      "entity_type": "DATE",
+      "text": "28. aprila 2023",
+      "start_char": 429,
+      "end_char": 444,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "87432804-2c7c-4d08-857b-6821d5d20e3b",
+      "entity_type": "DATE",
+      "text": "7. jula 2023",
+      "start_char": 452,
+      "end_char": 464,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "1279357b-d7cb-45a4-a51a-5acf9eb7c276",
+      "entity_type": "DATE",
+      "text": "19. maja 2022",
+      "start_char": 3663,
+      "end_char": 3676,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "43f9ed0a-1f1b-477b-8473-2319b3929b8f",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 20",
+      "start_char": 40,
+      "end_char": 48,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "71aab2bc-d523-49b6-897c-2097ff283de7",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 17",
+      "start_char": 123,
+      "end_char": 131,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "31ec44d1-3423-4211-b854-15ba546fe7e7",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 43",
+      "start_char": 143,
+      "end_char": 151,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [],
+  "export_timestamp": "2026-06-08T17:16:06.788063Z"
+}

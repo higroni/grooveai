@@ -1,0 +1,167 @@
+{
+  "import_run_id": "fe63dfb9-4748-424f-b7fb-a14e21d2c31c",
+  "document": {
+    "name": "radni_odnosi_0156_000156.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0156_000156.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:20:13.244365Z"
+  },
+  "full_text": "Na osnovu člana 10. stav 2. Zakona o štrajku („Službeni list SRJ'', broj 29/96),\nVlada Republike Srbije donosi\n \n \nUREDBU\no min imumu procesa rada za vreme štrajka u Javnom preduzeću „Jat Airways\"  \n\"Službeni glasnik RS\", broj 119 od 4. decembra 2003.\n \n \nČlan 1.\nMinimum procesa rada za vreme štrajka u Javnom preduzeću „Jat Airways” obuhvata poslove\nkojima se obezbeđuje pružanje usluga u prevozu putnika i stvari, prema planu odvijanja\nmeđunarodnog i domaćeg saobraćaja, i to:\n1) U punom obimu obavljaju se sledeći poslovi:\n– međunarodni (redovni) saobraćaj, sa članovima posade vazduhoplova prema planu i\nrotaciji posada potrebnih za izvršenje obima rada;\n– čarter saobraćaja;\n– saobraćajnog centra;\n– tehničkog održavanja vazduhoplova;\n– prihvata i otpreme vazduhoplova, putnika i stvari;\n– rezervacionog sistema (buking);\n– predstavništava Javnog preduzeća „ Jat Airways \" u inostranstvu i poslovnica u zemlji;\n– finansijski poslovi (blagajne);\n– medicinske službe, službe za obezbeđenje ljudi, objekata i opreme tog javnog preduzeća i\nprotivpožarno obezbeđenje, shodno Zakonu o vazdušnom saobraćaju („Službeni list SRJ\", br.\n12/98, 5/99, 38/99, 44/99, 73/2000 i 70/2001).\n2) Domaći saobraćaj se mora obavljati sa najmanje 30% planiranog obima.\n \nČlan 2.\nMinimum procesa rada iz člana 1. ove uredbe mora se obavljati sa punim radnim vremenom\nkoje je utvrđeno u tim organizacionim delovima Javnog preduzeća „ Jat Airways \".\n \nČlan 3.\nGeneralni direktor Javnog preduzeća „ Jat Airways \" odrediće način obezbeđivanja\nminimuma procesa rada iz člana 1. ove uredbe, radna mesta i broj izvršilaca koji su dužni\nda rade i druga pitanja u skladu sa zakonom i kolektivnim ugovorom.\n \nČlan 4.\nOva uredba stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije''.\n \n05 broj 130-7559/2003-2\nU Beogradu, 27. novembra 2003. godine\nVlada Republike Srbije\nPotpredsednik,\ndr Žarko Korać, s.r.",
+  "legal_units_count": 4,
+  "document_entities": [
+    {
+      "entity_id": "85d3d2c9-b8d9-4800-a63d-bc490be07823",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 10",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e9f3952e-2f0b-4770-842c-2e2ecef8d85c",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 250,
+      "end_char": 256,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "bdb92620-2b19-483f-82a0-11b594665afb",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 1246,
+      "end_char": 1252,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "5a5f5db7-50c2-418f-9d3f-542e35f8e67a",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 1",
+      "start_char": 1278,
+      "end_char": 1285,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "0791bfe6-3140-4675-93ec-2cca9c5baf92",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1423,
+      "end_char": 1429,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "287410cb-fbdf-4e6f-a842-1add43965069",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 1671,
+      "end_char": 1677,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "f760fe7f-88e0-4022-8295-19be46a6fd2e",
+      "text": "Minimum procesa rada za vreme štrajka u Javnom preduzeću „Jat Airways” obuhvata poslove kojima se obezbeđuje pružanje usluga u prevozu putnika i stvari, prema planu odvijanja međunarodnog i domaćeg saobraćaja, i to: 1) U punom obimu obavljaju se sledeći poslovi: – međunarodni (redovni) saobraćaj, sa članovima posade vazduhoplova prema planu i rotaciji posada potrebnih za izvršenje obima rada; – čarter saobraćaja; – saobraćajnog centra; – tehničkog održavanja vazduhoplova; – prihvata i otpreme vazduhoplova, putnika i stvari; – rezervacionog sistema (buking); – predstavništava Javnog preduzeća „ Jat Airways \" u inostranstvu i poslovnica u zemlji; – finansijski poslovi (blagajne); – medicinske službe, službe za obezbeđenje ljudi, objekata i opreme tog javnog preduzeća i protivpožarno obezbeđenje, shodno Zakonu o vazdušnom saobraćaju („Službeni list SRJ\", br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 868,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "60dd3f68-6547-4e32-ab0a-21cb98a94c35",
+      "text": "2) Domaći saobraćaj se mora obavljati sa najmanje 30% planiranog obima.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 2,
+      "start_char": 915,
+      "end_char": 986,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "7567de82-883c-4695-9eaa-f12a79c44958",
+          "condition_type": "modal",
+          "text": "mora obavljati sa najmanje 30% planiranog obima",
+          "trigger_word": "mora",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "assertion_id": "416d6547-7805-4af6-b54c-0f3eb8812e44",
+      "text": "ove uredbe mora se obavljati sa punim radnim vremenom koje je utvrđeno u tim organizacionim delovima Javnog preduzeća „ Jat Airways \".",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 1,
+      "start_char": 33,
+      "end_char": 167,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "3612030e-6f0a-4ecb-9f99-7e5851e1acc5",
+          "condition_type": "modal",
+          "text": "mora se obavljati sa punim radnim vremenom koje je utvrđeno u tim organizacionim delovima Javnog preduzeća „ Jat Airways \"",
+          "trigger_word": "mora",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "assertion_id": "70b57e72-8f39-476e-a120-25fb2beb6552",
+      "text": "Generalni direktor Javnog preduzeća „ Jat Airways \" odrediće način obezbeđivanja minimuma procesa rada iz člana 1.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 115,
+      "entities": [
+        {
+          "entity_id": "7cd1402b-f1b4-4d84-a91d-7f34672df640",
+          "entity_type": "LEGAL_REF",
+          "text": "člana 1",
+          "start_char": 106,
+          "end_char": 113,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "eaaa7236-5a83-4a7e-8bb1-8c634648341a",
+      "text": "ove uredbe, radna mesta i broj izvršilaca koji su dužni da rade i druga pitanja u skladu sa zakonom i kolektivnim ugovorom.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 115,
+      "end_char": 238,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "fe46bc28-877a-4242-8894-e8a74af51325",
+          "condition_type": "condition",
+          "text": "radna mesta i broj izvršilaca koji su dužni da rade i druga pitanja u skladu sa zakonom i kolektivnim ugovorom",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "e9384ec6-bb05-4a4a-b2db-6e73e9d8a380",
+      "text": "Ova uredba stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije''.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 101,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "f104cd54-bb00-4e91-a011-714e9150fb33",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije''",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:20:13.244365Z"
+}

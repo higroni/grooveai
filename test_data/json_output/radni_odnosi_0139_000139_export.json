@@ -1,0 +1,340 @@
+{
+  "import_run_id": "9d06b5e9-7f45-438a-8bfc-e2cb743f1c3c",
+  "document": {
+    "name": "radni_odnosi_0139_000139.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0139_000139.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:16:42.659954Z"
+  },
+  "full_text": "Na osnovu člana 8. stav 3. Zakona o utvrđivanju maksimalne zarade u javnom sektoru\n(„Službeni glasnik RS”, broj 93/12),\nMinistar finansija i privrede donosi\n \nPRAVILNIK\no izveštavanju o isplaćenim zaradama u javnom sektoru\n\"Službeni glasnik RS\", broj 100 od 19. oktobra 2012.\n \nČlan 1.\nOvim pravilnikom uređuje se oblik i sadržina obrasca na kojem isplatilac zarada u javnom\nsektoru dostavlja izveštaj ministarstvu nadležnom za poslove finansija o isplaćenim\nzaradama za određeni mesec, koje su obračunate u skladu sa Zakonom o utvrđivanju maksimalne\nzarade u javnom sektoru (u daljem tekstu: Zakon).\nČlan 2.\nIzveštaj o isplaćenim zaradama za određeni mesec iz člana 1. ovog pravilnika, isplatilac\nzarada u javnom sektoru dostavlja u roku od 10 dana od dana konačne isplate zarada za taj\nmesec, na Obrascu izveštaja o isplaćenim zaradama, koji se daje u prilogu ovog pravilnika i\nčini njegov sastavni deo.\nPrvi izveštaj o isplaćenim zaradama u skladu sa Zakonom isplatilac zarada u javnom sektoru\ndostavlja za oktobar mesec 2012. godine, kao mesec početka primene Zakona, a na način\nutvrđen stavom 1. ovog člana.\nIstovremeno sa izveštajem o isplaćenim zaradama iz stava 2. ovog člana isplatilac zarada\ndostavlja na obrascu iz stava 1. ovog člana i izveštaj o zaradama za septembar mesec 2012.\ngodine, kao mesec koji prethodi mesecu početka primene zakona kojim se određuje maksimalna\nzarada u javnom sektoru.\nČlan 3.\nU Obrascu izveštaja o isplaćenim zaradama iskazuju se sledeći podaci:\n– u koloni 4 – JMBG, jedinstveni matični broj građana, a za strane državljane broj pasoša\nili drugog identifikacionog dokumenta;\n– u koloni 5 – Radno mesto zaposlenog, šifra zanimanja iz Klasifikacije zanimanja\nRepubličkog zavoda za statistiku;\n– u koloni 6 – Stručna sprema zaposlenog, stepen stručne spreme zaposlenog;\n– u koloni 7 – Zarada, iznosi zarada utvrđeni u skladu sa članom 2. stav 2. i članom 3. stav 2.\nZakona;\n– u koloni 8 – Uvećana zarada, iznosi uvećane zarade obračunati i isplaćeni u skladu sa\nZakonom;\n– u koloni 9 – Varijabilni deo, iznosi zarade utvrđeni u skladu sa članom 6. Zakona;\n– u koloni 10 – Ukupna neto zarada, zbir iznosa iz kolona 7, 8 i 9;\n– u koloni 11 – Ukupna bruto zarada, iznosi neto zarada sa pripadajućim porezom i\ndoprinosima koji se plaćaju iz zarade (Bruto 1).\nČlan 4.\nOvaj pravilnik stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n \nBroj 110-13/2012-001-007-1\nU Beogradu, 15. oktobra 2012. godine\nMinistar,\nMlađan Dinkić, s.r.\n \n \n ",
+  "legal_units_count": 4,
+  "document_entities": [
+    {
+      "entity_id": "9c3e50e1-e193-4b68-a6dd-3d886aecf32b",
+      "entity_type": "DATE",
+      "text": "u roku od 10 dana",
+      "start_char": 730,
+      "end_char": 747,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "ae086495-0890-479d-9647-6684ea0fc34f",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 8",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "177b9856-0abf-4caf-9ef6-145fbdab6f3c",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 276,
+      "end_char": 282,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e50806da-4662-4c5b-858c-7303db64a0fb",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 599,
+      "end_char": 605,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "d39ee4fa-e227-4ab3-aa98-b2550b7e28f6",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 1",
+      "start_char": 659,
+      "end_char": 666,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "3edbaa57-ad17-4371-b6ef-44a436f0d394",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1407,
+      "end_char": 1413,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e9896a89-56b0-4348-b51c-17afccc65d7f",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 2",
+      "start_char": 1864,
+      "end_char": 1872,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "7e51bcae-8395-4bb8-a257-29f4f6ee8932",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 3",
+      "start_char": 1884,
+      "end_char": 1892,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "29937572-a153-4744-bd72-6ea5896266d8",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 6",
+      "start_char": 2074,
+      "end_char": 2082,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "7648df1d-689f-4c83-8669-18fed1da63fa",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 2291,
+      "end_char": 2297,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "53d78f29-01e3-4f54-807a-4a9616cbfc00",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no izveštavanju o isplaćenim zaradama u javnom sektoru",
+      "start_char": 158,
+      "end_char": 221,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "078c595d-0767-4371-8a12-3057ee32774a",
+      "entity_type": "DURATION",
+      "text": "10 dana",
+      "start_char": 740,
+      "end_char": 747,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "5491d9b7-9038-44ed-ad37-11af205329b6",
+      "text": "Ovim pravilnikom uređuje se oblik i sadržina obrasca na kojem isplatilac zarada u javnom sektoru dostavlja izveštaj ministarstvu nadležnom za poslove finansija o isplaćenim zaradama za određeni mesec, koje su obračunate u skladu sa Zakonom o utvrđivanju maksimalne zarade u javnom sektoru (u daljem tekstu: Zakon).",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 314,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "051bd163-458d-44bf-a29c-1fc148cbe86b",
+          "condition_type": "condition",
+          "text": "koje su obračunate u skladu sa Zakonom o utvrđivanju maksimalne zarade u javnom sektoru (u daljem tekstu",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "9f548d81-9983-4e00-a634-694f98109602",
+      "text": "Izveštaj o isplaćenim zaradama za određeni mesec iz člana 1.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 61,
+      "entities": [
+        {
+          "entity_id": "922f571e-75f9-4677-a88e-5605b4eb3f79",
+          "entity_type": "LEGAL_REF",
+          "text": "člana 1",
+          "start_char": 52,
+          "end_char": 59,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "5ab455c9-23b5-40ff-bf56-975653b699de",
+      "text": "ovog pravilnika, isplatilac zarada u javnom sektoru dostavlja u roku od 10 dana od dana konačne isplate zarada za taj mesec, na Obrascu izveštaja o isplaćenim zaradama, koji se daje u prilogu ovog pravilnika i čini njegov sastavni deo.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 61,
+      "end_char": 297,
+      "entities": [
+        {
+          "entity_id": "178093c9-f383-43ce-80b7-c57fafa25c41",
+          "entity_type": "DATE",
+          "text": "u roku od 10 dana",
+          "start_char": 62,
+          "end_char": 79,
+          "confidence": 0.85
+        },
+        {
+          "entity_id": "24f984d1-c481-4416-83a1-fbfe87d092df",
+          "entity_type": "DURATION",
+          "text": "10 dana",
+          "start_char": 72,
+          "end_char": 79,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "aefddec9-74d4-44ba-9a1d-6d48b38fa0d6",
+          "condition_type": "temporal",
+          "text": "isplatilac zarada u javnom sektoru dostavlja u roku od 10 dana od dana konačne isplate zarada za taj mesec",
+          "trigger_word": "u roku od",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "f6ec7cc9-3c7f-4b21-9ddb-604ff21f42cb",
+          "condition_type": "temporal",
+          "text": "isplatilac zarada u javnom sektoru dostavlja u roku od 10 dana od dana konačne isplate zarada za taj mesec",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "863c3d9e-a6b9-4232-a937-0c56f38ab819",
+      "text": "Prvi izveštaj o isplaćenim zaradama u skladu sa Zakonom isplatilac zarada u javnom sektoru dostavlja za oktobar mesec 2012.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 297,
+      "end_char": 421,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "9e65b9ab-baa5-40d3-8ec4-2f915a009214",
+          "condition_type": "condition",
+          "text": "u skladu sa Zakonom isplatilac zarada u javnom sektoru dostavlja za oktobar mesec 2012",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "7accaa00-abba-4d30-982f-bc744ff3bc9b",
+      "text": "godine, kao mesec početka primene Zakona, a na način utvrđen stavom 1.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 421,
+      "end_char": 492,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "4f20c831-deaa-4b90-8603-d196bcdc2849",
+      "text": "ovog člana isplatilac zarada dostavlja na obrascu iz stava 1.",
+      "confidence": 0.5,
+      "sentence_index": 6,
+      "start_char": 564,
+      "end_char": 626,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "b4706ed4-4f7c-40de-9786-a811fc3973c4",
+      "text": "ovog člana i izveštaj o zaradama za septembar mesec 2012.",
+      "confidence": 0.5,
+      "sentence_index": 7,
+      "start_char": 626,
+      "end_char": 684,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "33ef1298-46db-4fc5-be39-525f72b4e042",
+      "text": "godine, kao mesec koji prethodi mesecu početka primene zakona kojim se određuje maksimalna zarada u javnom sektoru.",
+      "confidence": 0.5,
+      "sentence_index": 8,
+      "start_char": 684,
+      "end_char": 799,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "0c0e7aff-a241-48a5-8cb9-321d5bb8b74a",
+      "text": "U Obrascu izveštaja o isplaćenim zaradama iskazuju se sledeći podaci: – u koloni 4 – JMBG, jedinstveni matični broj građana, a za strane državljane broj pasoša ili drugog identifikacionog dokumenta; – u koloni 5 – Radno mesto zaposlenog, šifra zanimanja iz Klasifikacije zanimanja Republičkog zavoda za statistiku; – u koloni 6 – Stručna sprema zaposlenog, stepen stručne spreme zaposlenog; – u koloni 7 – Zarada, iznosi zarada utvrđeni u skladu sa članom 2.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 459,
+      "entities": [
+        {
+          "entity_id": "1293e82c-01b9-4294-b682-491f4d014c28",
+          "entity_type": "LEGAL_REF",
+          "text": "članom 2",
+          "start_char": 449,
+          "end_char": 457,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "7552135f-13c7-4e15-980c-dadc02c5e3b5",
+          "condition_type": "condition",
+          "text": "iznosi zarada utvrđeni u skladu sa članom 2",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "099959b2-d3a1-44e5-b836-a675fc6a1708",
+      "text": "Zakona; – u koloni 8 – Uvećana zarada, iznosi uvećane zarade obračunati i isplaćeni u skladu sa Zakonom; – u koloni 9 – Varijabilni deo, iznosi zarade utvrđeni u skladu sa članom 6.",
+      "confidence": 0.5,
+      "sentence_index": 4,
+      "start_char": 487,
+      "end_char": 669,
+      "entities": [
+        {
+          "entity_id": "98fd09a8-9885-498e-bda7-7a7ad4e95ff8",
+          "entity_type": "LEGAL_REF",
+          "text": "članom 6",
+          "start_char": 172,
+          "end_char": 180,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "adf773a9-b68a-4874-a130-353cc0c26c9b",
+          "condition_type": "condition",
+          "text": "iznosi uvećane zarade obračunati i isplaćeni u skladu sa Zakonom",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "0bdc14d5-9871-4352-aaf1-fa73079f9ddf",
+          "condition_type": "condition",
+          "text": "iznosi zarade utvrđeni u skladu sa članom 6",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "2944beac-aee7-4d8d-ad27-525a1610d2da",
+      "text": "Zakona; – u koloni 10 – Ukupna neto zarada, zbir iznosa iz kolona 7, 8 i 9; – u koloni 11 – Ukupna bruto zarada, iznosi neto zarada sa pripadajućim porezom i doprinosima koji se plaćaju iz zarade (Bruto 1).",
+      "confidence": 0.5,
+      "sentence_index": 5,
+      "start_char": 669,
+      "end_char": 875,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "a4214bba-852b-404a-9dc5-ebd1c0fdd68e",
+      "text": "Ovaj pravilnik stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 107,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "6b655870-d65f-48d1-9e07-edc3031937df",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:16:42.659954Z"
+}

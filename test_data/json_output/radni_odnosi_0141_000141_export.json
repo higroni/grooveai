@@ -1,0 +1,112 @@
+{
+  "import_run_id": "30a673bf-f167-4a95-bc82-ef2618e70cf1",
+  "document": {
+    "name": "radni_odnosi_0141_000141.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0141_000141.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:16:44.700582Z"
+  },
+  "full_text": "Redakcijski prečišćen tekst\n \n \nNa osnovu člana 47. stav 2. Zakona o platama državnih službenika i nameštenika („Službeni\nglasnik RS”, br. 62/06, 63/06 – ispravka, 115/06 – ispravka, 101/07, 99/10, 108/13, 99/14,\n95/18, 14/22 i 19/25) i člana 42. stav 1. Zakona o Vladi („Službeni glasnik RS”, br. 55/05,\n71/05 – ispravka, 101/07, 65/08, 16/11, 68/12 – US, 72/12, 7/14 – US, 44/14 i 30/18 – dr.\nzakon),\nVlada donosi\nUREDBU\no tržišnom dodatku\n\"Službeni glasnik RS\", br. 4 od 16. januara 2026, 40 od 30. aprila 2026.\nČlan 1.\nOvom uredbom uređuje se tržišni dodatak za nameštenike čiji poslovi neposredno utiču na\nbezbednost vazdušnog saobraćaja.\nČlan 2.\nTržišni dodatak na osnovnu platu nameštenika čiji poslovi neposredno utiču na bezbednost\nvazdušnog saobraćaja određuje se u visini proizvoda osnovne plate nameštenika i\nkoeficijenta tržišnog dodatka koji iznosi:\nRedni\nbrojRadno mestoKoeficijent tržišnog\ndodatka\n1.Kapetan na jednom tipu aviona do završetka\nkompanijske prelazne obuke (I grupa)3,98\n2. Kapetan na jednom tipu aviona (IV grupa) 7,73\n3. Kapetan na dva tipa aviona (I vrsta) 5,14\n4. Kapetan instruktor (I grupa) 5,14\n5. Načelnik letačke operative (I grupa) 5,14\n5aAnalitičar vazduhoplovne bezbednosti Odeljenja\ntehničke operative (IV grupa)4,54\n6. Kopilot na jednom tipu – ATPL (I grupa) 2,63\nRedni\nbrojRadno mestoKoeficijent tržišnog\ndodatka\n7. Domaćica aviona – stjuardesa (IV grupa) 2,32\n8. Šef Odseka tehničke operative (I grupa) 2,74\n9. CAMO manager (I grupa) 2,74\n10. Vazduhoplovni inženjer (I grupa) 2,74\n11. Rukovodilac kvaliteta (I grupa) 2,74\n12. Mlađi vazduhoplovni inženjer (III grupa) 2,86\n13. Vođa eksploatacije vazduhoplova (IV grupa) 3,43\n14.Vodeći vazduhoplovni tehničar – kategorije B1\n(IV grupa)2,69\n15.Vodeći vazduhoplovni tehničar – kategorije B2\n(IV grupa)2,69\n16. Vazduhoplovni tehničar – kategorije B1 (IV grupa) 2,15\n17. Vazduhoplovni tehničar – kategorije B2 (IV grupa) 2,15\n18.Inženjer za pripremu leta – vazduhoplovni dispečer\n(I grupa)1,25\n19. Menadžer za obezbeđivanje u vazduhoplovstvu (I grupa)1,54\n20. Obezbeđenje vazduhoplova i objekata (IV grupa) 1,06\n*Službeni glasnik RS, broj 40/2026\nČlan 3.\nOva uredba stupa na snagu osmog dana od dana objavljivanja u ,,Službenom glasniku Republike\nSrbije”, a primenjuje se od obračuna plate za februar 2026. godine.\n05 broj 110-14908/2025\nU Beogradu, 30. decembra 2025. godine\nVlada\nPredsednik,\nprof. dr Đuro Macut, s.r.",
+  "legal_units_count": 3,
+  "document_entities": [
+    {
+      "entity_id": "4af1116a-81bb-4f12-a839-30c1c0f065af",
+      "entity_type": "DATE",
+      "text": "16. januara 2026",
+      "start_char": 472,
+      "end_char": 488,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "f6c1ad9a-3757-4262-9fea-c5698c73b288",
+      "entity_type": "DATE",
+      "text": "30. aprila 2026",
+      "start_char": 496,
+      "end_char": 511,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "ce27b96b-fdd1-4298-9f0a-6a0dfe9dc38e",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 47",
+      "start_char": 40,
+      "end_char": 48,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "0c4d8b70-f473-4601-aaa1-1affedbbae36",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 42",
+      "start_char": 235,
+      "end_char": 243,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "6f70cb69-69d7-49e6-b25c-631bda27a2f0",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 513,
+      "end_char": 519,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "92487ea7-3374-444c-8241-9b7b8e27cae8",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 642,
+      "end_char": 648,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e398f5ec-49af-41ce-8421-4bbff0890252",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 2134,
+      "end_char": 2140,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "39fd4e2c-e9c4-4edb-bf3f-496d71953d88",
+      "text": "Ovom uredbom uređuje se tržišni dodatak za nameštenike čiji poslovi neposredno utiču na bezbednost vazdušnog saobraćaja.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 120,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "a0e33ead-d3a8-48c4-91c3-910217081de9",
+      "text": "Tržišni dodatak na osnovnu platu nameštenika čiji poslovi neposredno utiču na bezbednost vazdušnog saobraćaja određuje se u visini proizvoda osnovne plate nameštenika i koeficijenta tržišnog dodatka koji iznosi: Redni brojRadno mestoKoeficijent tržišnog dodatka 1.Kapetan na jednom tipu aviona do završetka kompanijske prelazne obuke (I grupa)3,98",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 347,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "4e647da4-98f6-4d30-907c-5f37b6773325",
+      "text": "Ova uredba stupa na snagu osmog dana od dana objavljivanja u ,,Službenom glasniku Republike Srbije”, a primenjuje se od obračuna plate za februar 2026.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 152,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "69a232b9-aa5f-49c2-bf58-8b83b66f484a",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:16:44.700582Z"
+}

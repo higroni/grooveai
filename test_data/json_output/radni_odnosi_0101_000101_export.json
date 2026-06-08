@@ -1,0 +1,281 @@
+{
+  "import_run_id": "3df60da5-f7af-40ae-b35c-5ca194590c3a",
+  "document": {
+    "name": "radni_odnosi_0101_000101.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0101_000101.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:16:10.535645Z"
+  },
+  "full_text": "Na osnovu člana 20. stav 3. Zakona o pojednostavljenom radnom angažovanju na sezonskim\nposlovima u određenim delatnostima („Službeni glasnik RS”, broj 50/18),\nMinistar finansija donosi\nPRAVILNIK\no evidencionoj prijavi i odjavi sezonskih radnika\n\"Službeni glasnik RS\", broj 3 od 18. januara 2019.\nČlan 1.\nOvim pravilnikom propisuju se postupak i način podnošenja podataka za izradu evidencione\nprijave i odjave sezonskih radnika.\nČlan 2.\nEvidencionu prijavu iz člana 1. ovog pravilnika poslodavac podnosi na Prijavi EP-SR –\nEvidenciona prijava i odjava sezonskih radnika (u daljem tekstu: Prijava EP-SR).\nPrijava EP-SR podnosi se isključivo u elektronskom obliku kao jedinstveni zapis iskazan u\nXML/XLSX formatu, preko portala Poreske uprave – Sezonski radnici (u daljem tekstu: Portal\nSR) ili popunjavanjem Prijave EP-SR u okviru korisničke aplikacije preko Portala SR.\nČlan 3.\nPrijava EP-SR sastoji se iz dva dela, i to:\nl. Podaci o poslodavcu;\n2. Podaci o sezonskom radniku.\nU Prijavu EP-SR, Deo 1. Podaci o poslodavcu, unosi se:\n1) PIB/JMBG – u zavisnosti od tipa poslodavca unosi se poreski identifikacioni broj ili\njedinstveni matični broj građana;\n2) Matični broj – matični broj dobijen od agencije koja vodi privredne registre;\n3) Naziv/Ime i prezime – naziv poslodavca, odnosno ime i prezime fizičkog lica\nposlodavca;\n4) Država;\n5) Sedište/Prebivalište – podatak o šifri opštine sedišta ili prebivališta poslodavca,\npropisane pravilnikom kojim se uređuju uslovi i način vođenja računa za uplatu javnih\nprihoda;\n6) Mesto;\n7) Ulica i broj – podatak o adresi poslodavca;\n8) Elektronska pošta – podatak o elektronskoj adresi poslodavca;\n9) Telefon poslodavca – podatak o broju mobilnog telefona poslodavca.\nU Prijavu EP-SR, Deo 2. Podaci o sezonskom radniku, unosi se:\n1) JMBG/EBS radnika – jedinstveni matični broj građana (JMBG) ili evidencioni broj za\nstrance (EBS);\n2) Ime radnika;\n3) Prezime radnika;\n4) Srednje ime radnika;\n5) Opština – podatak o šifri opštine prebivališta, odnosno boravišta sezonskog radnika,\npropisane pravilnikom kojim se uređuju uslovi i način vođenja računa za uplatu javnih\nprihoda;\n6) Državljanstvo radnika;\n7) Broj telefona – podatak o broju mobilnog telefona sezonskog radnika;\n8) Vrsta posla – podatak o vrsti sezonskog posla za koji je radnik angažovan;\n9) Period angažovanja – podatak o datumu početka i završetka angažovanja sezonskog radnika\nu toku kalendarskog meseca;\n10) Smena – podatak o smeni u kojoj je sezonski radnik angažovan. Smena može da bude\nprepodnevna i poslepodnevna.\nČlan 4.\nPoslednjeg dana u mesecu, na osnovu podataka iz svake evidencione prijave koju je poslodavac\npodneo za angažovane sezonske radnike za taj kalendarski mesec, sistem Poreske uprave\nautomatskom procedurom formira zaduženje o obračunatom porezu i doprinosima za obavezno\nsocijalno osiguranje (u daljem tekstu: doprinosi).\nČlan 5.\nNa osnovu zaduženja o ukupnom iznosu poreza i doprinosa iz člana 4. ovog pravilnika, koji\nposlodavac treba da plati za sezonske radnike, sastavlja se nalog za plaćanje.\nNalog za plaćanje Poreska uprava dostavlja poslodavcu elektronskim putem na adresu\nelektronske pošte koja je uneta prilikom registracije poslodavca.\nNalog za plaćanje prikazuje se i na Portalu SR, a dostupan je takođe i iz mobilne aplikacije.\nČlan 6.\nPoslodavac ostvaruje uvid u podatke na Portalu SR, koji se odnose na visinu obaveze koju\ntreba da plati po osnovu poreza i doprinosa.\nČlan 7.\nOvaj pravilnik stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nBroj l10-00-20/2019-04\nU Beogradu, 16. januara 2019. godine\nMinistar,\nSiniša Mali, s.r.",
+  "legal_units_count": 7,
+  "document_entities": [
+    {
+      "entity_id": "440ac917-c366-4cbb-8540-1bc73ec10388",
+      "entity_type": "DATE",
+      "text": "18. januara 2019",
+      "start_char": 278,
+      "end_char": 294,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "8b6a9c9f-5de4-4b2e-9bdd-1dcc91a88178",
+      "entity_type": "DATE",
+      "text": "16. januara 2019",
+      "start_char": 3564,
+      "end_char": 3580,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "94e8f434-6a05-4197-978f-958062606c22",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 20",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e48baad7-545b-4664-a311-e620f09860dd",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 296,
+      "end_char": 302,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "86eed8fb-06ab-4867-b7ce-b30c6a362e0b",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 429,
+      "end_char": 435,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "b409bafc-b47a-4ad5-8a8b-2cae7d7f8dc9",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 1",
+      "start_char": 460,
+      "end_char": 467,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "b24bc74d-787b-4713-a6ee-adce5b761db1",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 870,
+      "end_char": 876,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "21d89d08-6db3-4dee-b438-2648687d5069",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 2526,
+      "end_char": 2532,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "8f538846-befc-4200-8df6-99ffe543f3b6",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 2852,
+      "end_char": 2858,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "548673dd-db80-4746-8049-11d4fa7bd35e",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 4",
+      "start_char": 2919,
+      "end_char": 2926,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "db3e68b6-ca04-4957-9b2a-a1bf8707f608",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 3272,
+      "end_char": 3278,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "a775d2b0-364b-4d4a-990f-9f364ce18a33",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 7",
+      "start_char": 3414,
+      "end_char": 3420,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "aca00b9c-8d3d-40f0-8c3e-ab3a6b57d54a",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no evidencionoj prijavi i odjavi sezonskih radnika",
+      "start_char": 185,
+      "end_char": 244,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "d001f3f8-f8b4-4662-9e4b-8dee9c4a03bf",
+      "entity_type": "LOCATION",
+      "text": "opštine sedišta",
+      "start_char": 1379,
+      "end_char": 1394,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "cea8e6e0-f7b4-4843-9fda-41d7ab9c0531",
+      "entity_type": "LOCATION",
+      "text": "opštine prebivališta",
+      "start_char": 1963,
+      "end_char": 1983,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "37b45d21-749d-4924-bb75-91ae0d8ff7b9",
+      "text": "Ovim pravilnikom propisuju se postupak i način podnošenja podataka za izradu evidencione prijave i odjave sezonskih radnika.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 124,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "d21d32f9-9dc8-4736-830e-bf261aacb009",
+      "text": "ovog pravilnika poslodavac podnosi na Prijavi EP-SR – Evidenciona prijava i odjava sezonskih radnika (u daljem tekstu: Prijava EP-SR).",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 32,
+      "end_char": 167,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "7a47c772-3fdc-4f22-bbc6-c1a526fb0e40",
+      "text": "Prijava EP-SR podnosi se isključivo u elektronskom obliku kao jedinstveni zapis iskazan u XML/XLSX formatu, preko portala Poreske uprave – Sezonski radnici (u daljem tekstu: Portal SR) ili popunjavanjem Prijave EP-SR u okviru korisničke aplikacije preko Portala SR.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 167,
+      "end_char": 432,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "0812c084-e421-4b36-ac2b-8e91b9eb7fc4",
+      "text": "Prijava EP-SR sastoji se iz dva dela, i to: l.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 47,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "42878fe7-bca7-4a82-806e-c3bd339c3cd7",
+      "text": "Poslednjeg dana u mesecu, na osnovu podataka iz svake evidencione prijave koju je poslodavac podneo za angažovane sezonske radnike za taj kalendarski mesec, sistem Poreske uprave automatskom procedurom formira zaduženje o obračunatom porezu i doprinosima za obavezno socijalno osiguranje (u daljem tekstu: doprinosi).",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 317,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "1f61f927-b402-41d3-82e3-2f9881eb8902",
+      "text": "Na osnovu zaduženja o ukupnom iznosu poreza i doprinosa iz člana 4.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 68,
+      "entities": [
+        {
+          "entity_id": "519fd898-ad84-44aa-a608-7090bd0f25e6",
+          "entity_type": "LEGAL_REF",
+          "text": "člana 4",
+          "start_char": 59,
+          "end_char": 66,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "2b11ace7-5d91-481e-8e50-0a0e91dcc80a",
+      "text": "ovog pravilnika, koji poslodavac treba da plati za sezonske radnike, sastavlja se nalog za plaćanje.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 1,
+      "start_char": 68,
+      "end_char": 169,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "263284d3-fa6e-4384-b9c8-3868f9c15d37",
+          "condition_type": "modal",
+          "text": "koji poslodavac treba da plati za sezonske radnike",
+          "trigger_word": "treba",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "39000122-40e5-4e19-a29e-bf647a8b1e99",
+      "text": "Nalog za plaćanje Poreska uprava dostavlja poslodavcu elektronskim putem na adresu elektronske pošte koja je uneta prilikom registracije poslodavca.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 169,
+      "end_char": 318,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "a506b8c8-2471-4608-993f-a923f5a3b78d",
+      "text": "Nalog za plaćanje prikazuje se i na Portalu SR, a dostupan je takođe i iz mobilne aplikacije.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 318,
+      "end_char": 411,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "bb0c0739-62f9-4243-910c-b3663a66ef22",
+      "text": "Poslodavac ostvaruje uvid u podatke na Portalu SR, koji se odnose na visinu obaveze koju treba da plati po osnovu poreza i doprinosa.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 133,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "4d39de69-97cc-4d66-abde-9c6634bea3c9",
+          "condition_type": "modal",
+          "text": "koji se odnose na visinu obaveze koju treba da plati po osnovu poreza i doprinosa",
+          "trigger_word": "treba",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "9421af19-555a-46dc-8353-219658bff8b5",
+      "text": "Ovaj pravilnik stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 107,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "fd6ab56d-a6d1-425e-806c-a9274571acba",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:16:10.535645Z"
+}

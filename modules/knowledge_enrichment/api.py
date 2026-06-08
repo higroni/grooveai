@@ -23,6 +23,19 @@ from shared.monitoring import (
 )
 
 
+def cleanup_gpu_memory():
+    """Release GPU memory after batch processing to prevent memory leaks."""
+    try:
+        import torch
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
+            torch.cuda.synchronize()
+    except ImportError:
+        pass
+    except Exception:
+        pass
+
+
 def create_app(service: KnowledgeEnrichmentService) -> FastAPI:
     """Create FastAPI application"""
     
@@ -161,6 +174,7 @@ def create_app(service: KnowledgeEnrichmentService) -> FastAPI:
         - Graceful error handling (partial success supported)
         - Detailed performance statistics
         - Ontology matching, reference resolution, and definition extraction
+        - GPU memory cleanup after processing to prevent leaks
         
         Args:
             request: Batch enrichment request with assertions
@@ -267,6 +281,9 @@ def create_app(service: KnowledgeEnrichmentService) -> FastAPI:
         except Exception as e:
             logger.error(f"Error in batch enrichment: {e}")
             raise HTTPException(status_code=500, detail=str(e))
+        finally:
+            # Always cleanup GPU memory after batch processing
+            cleanup_gpu_memory()
     
     @app.post("/ontology/match", response_model=OntologyMatchResponse)
     async def match_ontology(request: OntologyMatchRequest) -> OntologyMatchResponse:

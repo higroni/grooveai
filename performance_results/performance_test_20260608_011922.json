@@ -1,0 +1,34 @@
+{
+  "test_time": 22.872904300689697,
+  "total_documents": 2,
+  "successful": 0,
+  "failed": 2,
+  "results": [
+    {
+      "document": "radni_odnosi_0001_000001.pdf",
+      "success": false,
+      "error": "M6 failed with status 422",
+      "module_times": {
+        "M1_file_reader": 4.267520189285278,
+        "M2_normalizer": 2.063671350479126,
+        "M3_latinizer": 2.092758893966675,
+        "M4_parser": 2.05532169342041
+      },
+      "data": {},
+      "total_time": 12.56474232673645
+    },
+    {
+      "document": "radni_odnosi_0008_000008.pdf",
+      "success": false,
+      "error": "M6 failed with status 422",
+      "module_times": {
+        "M1_file_reader": 2.1155409812927246,
+        "M2_normalizer": 2.0385186672210693,
+        "M3_latinizer": 2.0485496520996094,
+        "M4_parser": 2.0413050651550293
+      },
+      "data": {},
+      "total_time": 10.307162046432495
+    }
+  ]
+}

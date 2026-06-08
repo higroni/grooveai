@@ -1,0 +1,49 @@
+{
+  "import_run_id": "443a4ac3-4adc-41ef-950a-ba82bff334a5",
+  "document": {
+    "name": "radni_odnosi_0219_000219.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0219_000219.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:27:42.664648Z"
+  },
+  "full_text": "Na osnovu člana 257. stav 1. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje) i člana 43. stav 1. Zakona o\nVladi („Službeni glasnik RS”, br. 55/05, 71/05 – ispravka, 101/07, 65/08, 16/11, 68/12 – US,\n72/12, 7/14 – US, 44/14 i 30/18 – dr. zakon),\nVlada donosi\nODLUKU\n\"Službeni glasnik RS\", broj 56 od 4. juna 2021.\n1. Poseban kolektivni ugovor za delatnost putne privrede Republike Srbije („Službeni\nglasnik PC”, br. 14/18, 46/18 i 17/21) primenjuje se i na poslodavce koji nisu članovi\nudruženja poslodavaca – učesnika kolektivnog ugovora, a koji obavljaju pretežnu delatnost u\noblasti putne privrede (šifra delatnosti: 42.11), osim na javna preduzeća čiji je osnivač\nRepublika Srbija, autonomna pokrajina ili jedinica lokalne samouprave.\n2. Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n05 broj 11-5207/2021-1\nU Beogradu, 3. juna 2021. godine\nVlada\nPredsednik,\nAna Brnabić, s.r.",
+  "legal_units_count": 0,
+  "document_entities": [
+    {
+      "entity_id": "2f820edc-e30a-4bfa-b279-ef3f8266909b",
+      "entity_type": "DATE",
+      "text": "4. juna 2021",
+      "start_char": 379,
+      "end_char": 391,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "5362b42c-1511-4d7b-8099-a3338a7da037",
+      "entity_type": "DATE",
+      "text": "3. juna 2021",
+      "start_char": 956,
+      "end_char": 968,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "b0d9eb1d-c300-4923-bd59-ffe9375e251e",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 257",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "bf6fd4b3-4e63-4cc9-b19b-01b135095635",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 43",
+      "start_char": 159,
+      "end_char": 167,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [],
+  "export_timestamp": "2026-06-08T17:27:42.664648Z"
+}

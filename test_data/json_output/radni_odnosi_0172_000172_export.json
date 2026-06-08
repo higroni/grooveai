@@ -1,0 +1,142 @@
+{
+  "import_run_id": "e312c77f-40f5-4c3e-a34b-f6271edd8afe",
+  "document": {
+    "name": "radni_odnosi_0172_000172.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0172_000172.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:26.730987Z"
+  },
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje),\nReprezentativni sindikati u oblasti prosvete na nivou Republike Srbije: Samostalni\nsindikat predškolskog vaspitanja i obrazovanja Srbije, Sindikat obrazovanja Srbije i\nGranski sindikat prosvetnih radnika Srbije „Nezavisnost” i Vlada, 3. jula 2023. godine,\nzaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za zaposlene u ustanovama\npredškolskog vaspitanja i obrazovanja čiji je osnivač Republika Srbija, autonomna pokrajina\ni jedinica lokalne samouprave\n\"Službeni glasnik RS\", broj 55 od 7. jula 2023.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za zaposlene u ustanovama predškolskog vaspitanja i\nobrazovanja čiji je osnivač Republika Srbija, autonomna pokrajina i jedinica lokalne\nsamouprave („Službeni glasnik RS”, br. 97/20 i 6/23) produžava se do 15. jula 2026. godine.\nČlan 2.\nOvaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nZa Vladu\nPo Odluci predsednika Vlade\nda vrši ovlašćenja ministra prosvete\n01 broj 035-00-9/2023\nod 30. maja 2023. godine\nMinistar bez portfelja\nzadužen za koordinaciju aktivnosti i mera\nu oblasti odnosa Republike Srbije sa dijasporom,\nĐorđe Milićević, s.r.\nZa Samostalni sindikat\npredškolskog vaspitanja\ni obrazovanja Srbije\nPredsednik,\nBosiljka Jovanović, s.r.\nZa Sindikat obrazovanja Srbije\nPredsednik,\nmr Valentina Ilić, s.r.\nZa Granski sindikat prosvetnih radnika\nSrbije „Nezavisnost”\nPredsednik,\nSrđan Slović, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "cada03b0-50c8-4a23-9e7c-18f2be287793",
+      "entity_type": "DATE",
+      "text": "3. jula 2023",
+      "start_char": 392,
+      "end_char": 404,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "b9a843ed-f8f7-4e70-b69c-5a1c7acfc3ad",
+      "entity_type": "DATE",
+      "text": "7. jula 2023",
+      "start_char": 671,
+      "end_char": 683,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "d0d6fc55-5d5e-4e06-b8c3-04469ec67d93",
+      "entity_type": "DATE",
+      "text": "15. jula 2026",
+      "start_char": 936,
+      "end_char": 949,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "72e816c1-2b3c-4f90-8b2f-440774d063fa",
+      "entity_type": "DATE",
+      "text": "30. maja 2023",
+      "start_char": 1172,
+      "end_char": 1185,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "17aea548-8bb6-4048-aaee-5d7439c1ec97",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "2fcaef4b-ce99-45ab-a565-e09b29203cc4",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 685,
+      "end_char": 691,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "3e9e7e7b-4e15-4c22-b742-5dd53b337461",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 959,
+      "end_char": 965,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "a5ce0cfc-c7ac-4528-8a18-e9ce47de588f",
+      "text": "Važenje Posebnog kolektivnog ugovora za zaposlene u ustanovama predškolskog vaspitanja i obrazovanja čiji je osnivač Republika Srbija, autonomna pokrajina i jedinica lokalne samouprave („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 213,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "088a0538-2426-4091-9af6-eb4f52edf833",
+      "text": "Ovaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 106,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "c07b86b0-8793-44cc-ab83-3e9c84cfcbf6",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "4017ee48-9888-41ea-bb9d-2a5ee3739e0d",
+      "text": "Za Vladu Po Odluci predsednika Vlade da vrši ovlašćenja ministra prosvete 01 broj 035-00-9/2023 od 30.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 106,
+      "end_char": 209,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "9e23ea5b-aa25-4458-a9a0-a191bb60a5d1",
+      "text": "godine Ministar bez portfelja zadužen za koordinaciju aktivnosti i mera u oblasti odnosa Republike Srbije sa dijasporom, Đorđe Milićević, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 220,
+      "end_char": 363,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "607901f6-3cb5-4ffb-81f3-33ae169022de",
+      "text": "Za Samostalni sindikat predškolskog vaspitanja i obrazovanja Srbije Predsednik, Bosiljka Jovanović, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 4,
+      "start_char": 363,
+      "end_char": 468,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "d6f2b3ab-f4b5-4d85-bfdb-5c295dc37608",
+      "text": "Za Granski sindikat prosvetnih radnika Srbije „Nezavisnost” Predsednik, Srđan Slović, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 6,
+      "start_char": 535,
+      "end_char": 625,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:26.730987Z"
+}

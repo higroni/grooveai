@@ -1,0 +1,292 @@
+[
+  {
+    "test_name": "Postupak za izdavanje dozvole",
+    "result": {
+      "content": {
+        "steps": [
+          {
+            "step_number": 1,
+            "action": "Podnosilac podnosi zahtev nadležnom organu u roku od 30 dana.",
+            "actor": "organ",
+            "deadline": "u roku od 30 dana",
+            "context": "1) Podnosilac podnosi zahtev nadležnom organu u roku od 30 dana.",
+            "line_number": 6
+          },
+          {
+            "step_number": 2,
+            "action": "Organ vrši proveru dokumentacije u roku od 15 dana.",
+            "actor": "Organ",
+            "deadline": "u roku od 15 dana",
+            "context": "2) Organ vrši proveru dokumentacije u roku od 15 dana.",
+            "line_number": 7
+          },
+          {
+            "step_number": null,
+            "action": "Podnosilac podnosi zahtev nadležnom organu u roku od 30 dana.",
+            "actor": "organ",
+            "deadline": "u roku od 30 dana",
+            "context": "Podnosilac podnosi zahtev nadležnom organu u roku od 30 dana.",
+            "line_number": 6
+          },
+          {
+            "step_number": null,
+            "action": "donosi rešenje u roku od 8 dana.",
+            "actor": null,
+            "deadline": "u roku od 8 dana",
+            "context": "donosi rešenje u roku od 8 dana.",
+            "line_number": 8
+          },
+          {
+            "step_number": null,
+            "action": "vrši proveru dokumentacije u roku od 15 dana.",
+            "actor": null,
+            "deadline": "u roku od 15 dana",
+            "context": "vrši proveru dokumentacije u roku od 15 dana.",
+            "line_number": 7
+          },
+          {
+            "step_number": null,
+            "action": "podnosi zahtev nadležnom organu u roku od 30 dana.",
+            "actor": "organ",
+            "deadline": "u roku od 30 dana",
+            "context": "podnosi zahtev nadležnom organu u roku od 30 dana.",
+            "line_number": 6
+          }
+        ],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "organ",
+            "role": null,
+            "responsibilities": [
+              "organu u roku od 30 dana.",
+              "Organ vrši proveru dokumentacije u roku od 15 dana.",
+              "organ donosi rešenje u roku od 8 dana."
+            ],
+            "context": "organu u roku od 30 dana.",
+            "line_number": 6
+          }
+        ],
+        "dependencies": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 7
+    }
+  },
+  {
+    "test_name": "Obaveze poslodavca",
+    "result": {
+      "content": {
+        "steps": [
+          {
+            "step_number": null,
+            "action": "Dostavlja izveštaj inspektoru najkasnije 10 dana pre roka.",
+            "actor": "inspektor",
+            "deadline": "najkasnije 10 dana",
+            "context": "Dostavlja izveštaj inspektoru najkasnije 10 dana pre roka.",
+            "line_number": 7
+          },
+          {
+            "step_number": null,
+            "action": "Obaveštava zaposlenog o promenama u roku od 5 dana.",
+            "actor": null,
+            "deadline": "u roku od 5 dana",
+            "context": "Obaveštava zaposlenog o promenama u roku od 5 dana.",
+            "line_number": 6
+          },
+          {
+            "step_number": null,
+            "action": "Sastavlja evidenciju o radnom vremenu.",
+            "actor": null,
+            "deadline": null,
+            "context": "Sastavlja evidenciju o radnom vremenu.",
+            "line_number": 8
+          }
+        ],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "inspektor",
+            "role": null,
+            "responsibilities": [
+              "inspektoru najkasnije 10 dana pre roka."
+            ],
+            "context": "inspektoru najkasnije 10 dana pre roka.",
+            "line_number": 7
+          }
+        ],
+        "dependencies": []
+      },
+      "processing_time": 0.0009944438934326172,
+      "total_elements": 4
+    }
+  },
+  {
+    "test_name": "Postupak žalbe",
+    "result": {
+      "content": {
+        "steps": [
+          {
+            "step_number": null,
+            "action": "podnosi žalbu direktoru u roku od 15 dana.",
+            "actor": "direktor",
+            "deadline": "u roku od 15 dana",
+            "context": "podnosi žalbu direktoru u roku od 15 dana.",
+            "line_number": 4
+          },
+          {
+            "step_number": null,
+            "action": "donosi odluku u roku od 30 dana.",
+            "actor": null,
+            "deadline": "u roku od 30 dana",
+            "context": "donosi odluku u roku od 30 dana.",
+            "line_number": 6
+          },
+          {
+            "step_number": null,
+            "action": "donese odluku,",
+            "actor": null,
+            "deadline": null,
+            "context": "donese odluku,",
+            "line_number": 8
+          }
+        ],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "Zaposleni",
+            "role": null,
+            "responsibilities": [
+              "Zaposleni podnosi žalbu direktoru u roku od 15 dana."
+            ],
+            "context": "Zaposleni podnosi žalbu direktoru u roku od 15 dana.",
+            "line_number": 4
+          },
+          {
+            "name": "direktor",
+            "role": null,
+            "responsibilities": [
+              "direktoru u roku od 15 dana.",
+              "Direktor razmatra žalbu i donosi odluku u roku od 30 dana.",
+              "direktor saslušava zaposlenog."
+            ],
+            "context": "direktoru u roku od 15 dana.",
+            "line_number": 4
+          }
+        ],
+        "dependencies": [
+          {
+            "step_from": "unknown",
+            "step_to": "unknown",
+            "dependency_type": "prerequisite",
+            "context": "Pre nego što donese odluku,"
+          }
+        ]
+      },
+      "processing_time": 0.0,
+      "total_elements": 6
+    }
+  },
+  {
+    "test_name": "Inspekcijski nadzor",
+    "result": {
+      "content": {
+        "steps": [
+          {
+            "step_number": null,
+            "action": "dostavlja traženu dokumentaciju inspektoru.",
+            "actor": "inspektor",
+            "deadline": null,
+            "context": "dostavlja traženu dokumentaciju inspektoru.",
+            "line_number": 6
+          },
+          {
+            "step_number": null,
+            "action": "sastavlja zapisnik.",
+            "actor": null,
+            "deadline": null,
+            "context": "sastavlja zapisnik.",
+            "line_number": 8
+          },
+          {
+            "step_number": null,
+            "action": "vrši nadzor nad primenom propisa.",
+            "actor": null,
+            "deadline": null,
+            "context": "vrši nadzor nad primenom propisa.",
+            "line_number": 4
+          }
+        ],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "Poslodavac",
+            "role": null,
+            "responsibilities": [
+              "Poslodavac dostavlja traženu dokumentaciju inspektoru."
+            ],
+            "context": "Poslodavac dostavlja traženu dokumentaciju inspektoru.",
+            "line_number": 6
+          },
+          {
+            "name": "Inspektor",
+            "role": null,
+            "responsibilities": [
+              "Inspektor vrši nadzor nad primenom propisa.",
+              "inspektoru.",
+              "inspektor sastavlja zapisnik."
+            ],
+            "context": "Inspektor vrši nadzor nad primenom propisa.",
+            "line_number": 4
+          }
+        ],
+        "dependencies": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 5
+    }
+  },
+  {
+    "test_name": "Sekvencijalni postupak",
+    "result": {
+      "content": {
+        "steps": [
+          {
+            "step_number": null,
+            "action": "dostavlja izveštaj ministru.",
+            "actor": null,
+            "deadline": null,
+            "context": "dostavlja izveštaj ministru.",
+            "line_number": 10
+          },
+          {
+            "step_number": null,
+            "action": "sastavlja izveštaj.",
+            "actor": null,
+            "deadline": null,
+            "context": "sastavlja izveštaj.",
+            "line_number": 8
+          }
+        ],
+        "sequences": [],
+        "actors": [
+          {
+            "name": "komisija",
+            "role": null,
+            "responsibilities": [
+              "komisija prikuplja potrebne podatke.",
+              "komisija analizira prikupljene podatke.",
+              "komisija sastavlja izveštaj.",
+              "komisija dostavlja izveštaj ministru."
+            ],
+            "context": "komisija prikuplja potrebne podatke.",
+            "line_number": 4
+          }
+        ],
+        "dependencies": []
+      },
+      "processing_time": 0.0,
+      "total_elements": 3
+    }
+  }
+]

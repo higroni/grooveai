@@ -1,0 +1,94 @@
+{
+  "import_run_id": "2afb27dd-5514-4152-bbff-3e3ed7182c19",
+  "document": {
+    "name": "radni_odnosi_0199_000199.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0199_000199.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:52.200906Z"
+  },
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US i 113/17),\nReprezentativni sindikati u oblasti prosvete na nivou Republike Srbije: Sindikat\nobrazovanja Srbije, Granski sindikat prosvetnih radnika Srbije „Nezavisnost ˮ  i Vlada, 5.\njanuara 2023. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za zaposlene u ustanovama\nstudentskog standarda čiji je osnivač Republika Srbija\n\"Službeni glasnik RS\", broj 7 od 31. januara 2023.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za zaposlene u ustanovama studentskog standarda čiji je\nosnivač Republika Srbija („Službeni glasnik RS”, br. 1/19 i 92/20) produžava se do 12.\njanuara 2025. godine.\nČlan 2.\nOvaj sporazum stupa na snagu danom potpisivanja.\nZa Sindikat obrazovanja Srbije\nPredsednica,\nmr Valentina Ilić, s.r.\nZa Granski sindikat prosvetnih radnika\nSrbije „Nezavisnost ˮ\nPredsednik,\nSrđan Slović, s.r.\nZa Vladu\nMinistar prosvete,\nBranko Ružić, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "e3ed7bc7-0602-49a7-b764-6a4b043d17fe",
+      "entity_type": "DATE",
+      "text": "5.\njanuara 2023",
+      "start_char": 296,
+      "end_char": 311,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "d4e8cad1-48c4-4fef-822b-3ec1ec925a35",
+      "entity_type": "DATE",
+      "text": "31. januara 2023",
+      "start_char": 510,
+      "end_char": 526,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "cb0d5445-21cf-4139-80b3-fa7924f5125e",
+      "entity_type": "DATE",
+      "text": "12.\njanuara 2025",
+      "start_char": 712,
+      "end_char": 728,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "9f66d413-ac21-49d4-a0df-020861556931",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "cb184d40-a232-4e4a-85e4-8bdac8104d5d",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 528,
+      "end_char": 534,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "1659971a-ef32-4368-a78a-ca09dfc29af2",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 738,
+      "end_char": 744,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e9a94b7b-cfb1-4cc3-8f4f-1b75f171a433",
+      "entity_type": "DATE",
+      "text": "12. januara 2025",
+      "start_char": 176,
+      "end_char": 192,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "e1adb3d9-44c1-45a1-8006-a89a5c41b2e7",
+      "text": "Važenje Posebnog kolektivnog ugovora za zaposlene u ustanovama studentskog standarda čiji je osnivač Republika Srbija („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 146,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "b928cfcd-d709-454c-9b3d-c776da71a98d",
+      "text": "Za Granski sindikat prosvetnih radnika Srbije „Nezavisnost ˮ Predsednik, Srđan Slović, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 117,
+      "end_char": 209,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:52.200906Z"
+}

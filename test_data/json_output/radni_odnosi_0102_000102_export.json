@@ -1,0 +1,182 @@
+{
+  "import_run_id": "27e44848-ce7a-4a20-88fc-78823daf65d7",
+  "document": {
+    "name": "radni_odnosi_0102_000102.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0102_000102.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:16:11.009340Z"
+  },
+  "full_text": "Na osnovu člana 5. stav 5. Zakona o pojednostavljenom radnom angažovanju na sezonskim\nposlovima u određenim delatnostima („Službeni glasnik RS”, broj 50/18),\nMinistar nadležan za poslove rada donosi\nPRAVILNIK\no sadržini potvrde o radnom angažovanju sezonskog radnika\n\"Službeni glasnik RS\", broj 67 od 31. avgusta 2018.\nČlan 1.\nOvim pravilnikom propisuju se bliža sadržina i izgled potvrde o radnom angažovanju\nsezonskih radnika.\nČlan 2.\nPotvrda o radnom angažovanju sezonskog radnika (Obrazac) obavezno sadrži podatke utvrđene\nu članu 5. st. 1. i 4. Zakona o pojednostavljenom radnom angažovanju na sezonskim poslovima u\nodređenim delatnostima, kao i izmene ugovorenih uslova rada, a može da sadrži i druge\npodatke o ugovorenim uslovima rada u skladu sa zakonom.\nSvaka potvrda o radnom angažovanju sezonskog radnika popunjava se najmanje u dva primerka\nod kojih se jedan primerak predaje sezonskom radniku, a drugi zadržava poslodavac.\nObrazac je odštampan uz ovaj pravilnik i čini njegov sastavni deo.\nČlan 3.\nOvaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”, a primenjuje se od 7. januara 2019. godine.\nBroj 110-00-638/2018-05\nU Beogradu, 23. avgusta 2018. godine\nMinistar,\nZoran Đorđević, s.r.\nPrilog\nObrazac - Potvrda o radnom angažovanju sezonskog radnika",
+  "legal_units_count": 3,
+  "document_entities": [
+    {
+      "entity_id": "6c1dffd8-2175-495f-bdb9-5c578d3f1535",
+      "entity_type": "DATE",
+      "text": "31. avgusta 2018",
+      "start_char": 301,
+      "end_char": 317,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "8c9f314b-5a58-48ae-b164-382e3aaa3cdc",
+      "entity_type": "DATE",
+      "text": "7. januara 2019",
+      "start_char": 1134,
+      "end_char": 1149,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e9242faf-cf12-4b71-84a9-5a3783a94063",
+      "entity_type": "DATE",
+      "text": "23. avgusta 2018",
+      "start_char": 1195,
+      "end_char": 1211,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "033ae896-c8d9-41ca-bb93-3c8ce30df361",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 5",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "fb4dcd54-8410-4cf4-b37c-c3d8a78fb375",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 319,
+      "end_char": 325,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "387c2a10-8133-4baa-a3a3-b219c0692a1b",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 429,
+      "end_char": 435,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e279561d-cd43-4d5d-be6c-12a640784b1c",
+      "entity_type": "LEGAL_REF",
+      "text": "članu 5",
+      "start_char": 529,
+      "end_char": 536,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "f3540e59-5819-4d8c-a8bb-2aa3e6a765a8",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1003,
+      "end_char": 1009,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "283cd341-df06-4dfe-845e-154ac1451c03",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no sadržini potvrde o radnom angažovanju sezonskog radnika",
+      "start_char": 199,
+      "end_char": 266,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "60f56f2d-7df7-43a7-8bdc-ecf300ab3a27",
+      "text": "Ovim pravilnikom propisuju se bliža sadržina i izgled potvrde o radnom angažovanju sezonskih radnika.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 101,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "64c2a256-5395-4433-a31f-e7fcab7dee5d",
+      "text": "Potvrda o radnom angažovanju sezonskog radnika (Obrazac) obavezno sadrži podatke utvrđene u članu 5.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 101,
+      "entities": [
+        {
+          "entity_id": "c29c719c-2fe1-4cb6-9fa2-cb90de4eef40",
+          "entity_type": "LEGAL_REF",
+          "text": "članu 5",
+          "start_char": 92,
+          "end_char": 99,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "0ee0820d-847b-4076-9f2d-79bb7889ca7c",
+      "text": "Zakona o pojednostavljenom radnom angažovanju na sezonskim poslovima u određenim delatnostima, kao i izmene ugovorenih uslova rada, a može da sadrži i druge podatke o ugovorenim uslovima rada u skladu sa zakonom.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 4,
+      "start_char": 113,
+      "end_char": 326,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "9fb706d5-e4f5-421e-a0bc-67f1f4c6517c",
+          "condition_type": "condition",
+          "text": "a može da sadrži i druge podatke o ugovorenim uslovima rada u skladu sa zakonom",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "3101d7ad-e0dc-4b34-9374-cb8b4810d5bf",
+          "condition_type": "modal",
+          "text": "kao i izmene ugovorenih uslova rada, a može da sadrži i druge podatke o ugovorenim uslovima rada u skladu sa zakonom",
+          "trigger_word": "može",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "99946f3f-947b-4386-b457-bb4c2f099f04",
+      "text": "Svaka potvrda o radnom angažovanju sezonskog radnika popunjava se najmanje u dva primerka od kojih se jedan primerak predaje sezonskom radniku, a drugi zadržava poslodavac.",
+      "confidence": 0.5,
+      "sentence_index": 5,
+      "start_char": 326,
+      "end_char": 499,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "1ab717b2-00a0-493f-b9a7-f54c324d5290",
+      "text": "Obrazac je odštampan uz ovaj pravilnik i čini njegov sastavni deo.",
+      "confidence": 0.5,
+      "sentence_index": 6,
+      "start_char": 499,
+      "end_char": 565,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "8a4236d2-5720-4f41-8a17-00295076f569",
+      "text": "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”, a primenjuje se od 7.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 126,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "10d36f3f-63eb-4b9d-b433-e7c9556187c4",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:16:11.009340Z"
+}

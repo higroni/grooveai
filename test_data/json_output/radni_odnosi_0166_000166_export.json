@@ -1,0 +1,184 @@
+{
+  "import_run_id": "bd4a134d-73f6-49b4-b2a1-323645cc1d3c",
+  "document": {
+    "name": "radni_odnosi_0166_000166.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0166_000166.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:20.330727Z"
+  },
+  "full_text": "Na osnovu člana 247. i člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05,\n61/05, 54/09, 32/13, 75/14, 13/17 – odluka US, 113/17 i 95/18 – autentično tumačenje),\nOsnivač – Vlada, reprezentativna Sindikalna organizacija zaposlenih u Javnom preduzeću\n„Službeni glasnik” i reprezentativni Sindikat „Nezavisnost” – „Službeni glasnik” d.o.o. i\nposlodavac „Službeni glasnik” društvo s ograničenom odgovornošću Beograd, zaključuju\nSPORAZUM\no produženju roka važenja Kolektivnog ugovora Javnog preduzeća „Službeni glasnik”\n\"Službeni glasnik RS\", broj 40 od 30. aprila 2026.\nČlan 1.\nVaženje Kolektivnog ugovora Javnog preduzeća „Službeni glasnik” („Službeni glasnik RS”, br.\n102/21, 12/22, 2/23, 118/23, 86/24 i 107/24) produžava se do 6. maja 2027. godine.\nČlan 2.\nU naslovu i u čl. 1, 10. i 98. Kolektivnog ugovora Javnog preduzeća „Službeni glasnik” reči:\n„Javno preduzeće „Službeni glasnik” u određenom padežu zamenjuju se rečima: „privredno\ndruštvo „Službeni glasnik” društvo s ograničenom odgovornošću Beograd” u odgovarajućem\npadežu.\nU članu 61. stav 1. tačka 6) briše se reč: „Preduzeća”.\nČlan 3.\nOvaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nZa Vladu\nMinistar privrede,\nAdrijana Mesarović, s.r.\nZa Sindikalnu organizaciju zaposlenih\nu Javnom preduzeću „Službeni glasnik”\nPredsednik,\nIvan Špica, s.r.\nZa Sindikat „Nezavisnost” – „Službeni glasnik” d.o.o.\nGlavna poverenica,\nGordana Milosavljević Stojanović, s.r.\nZa „Službeni glasnik” društvo s ograničenom odgovornošću Beograd\nVršilac dužnosti direktora,\nMladen Šarčević, s.r.",
+  "legal_units_count": 3,
+  "document_entities": [
+    {
+      "entity_id": "7a139beb-b53a-477f-bfb4-dcfbe5e88311",
+      "entity_type": "DATE",
+      "text": "30. aprila 2026",
+      "start_char": 565,
+      "end_char": 580,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "176fe4fd-7489-498a-a174-27520c437421",
+      "entity_type": "DATE",
+      "text": "6. maja 2027",
+      "start_char": 743,
+      "end_char": 755,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "cbc9dc3e-eeb3-4a2b-8e1d-ebe7d85b3b8c",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 247",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "830fe7a9-2c13-4e1b-9099-cb9e2a4024b5",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 23,
+      "end_char": 32,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "b31f2ebd-9c68-45f1-99b3-98e4a3cc0ed4",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 582,
+      "end_char": 588,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "c256f28e-f754-47ff-9cac-bb7db13fca0e",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 765,
+      "end_char": 771,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "459d6c8d-e4b2-4aa2-ba25-07c7044c0152",
+      "entity_type": "LEGAL_REF",
+      "text": "članu 61",
+      "start_char": 1050,
+      "end_char": 1058,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "bc4e6878-be39-440d-a80a-4f4d2363adee",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1104,
+      "end_char": 1110,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "ceece1d6-e820-43d5-b0ac-2c25ae3d5606",
+      "entity_type": "LOCATION",
+      "text": "Beograd",
+      "start_char": 420,
+      "end_char": 427,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "8dd4b094-98cd-4c6f-841e-9f95fcc6def5",
+      "text": "Važenje Kolektivnog ugovora Javnog preduzeća „Službeni glasnik” („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 92,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "ea9e4656-50a7-4637-9a71-0e9ed204c939",
+      "text": "102/21, 12/22, 2/23, 118/23, 86/24 i 107/24) produžava se do 6.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 92,
+      "end_char": 156,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "c9a19c4c-3b1f-45e9-84b2-d8b54ed7ded3",
+          "condition_type": "temporal",
+          "text": "86/24 i 107/24) produžava se do 6",
+          "trigger_word": "do",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "assertion_id": "5005109b-df8c-4141-8008-54eaff61ce64",
+      "text": "Kolektivnog ugovora Javnog preduzeća „Službeni glasnik” reči: „Javno preduzeće „Službeni glasnik” u određenom padežu zamenjuju se rečima: „privredno društvo „Službeni glasnik” društvo s ograničenom odgovornošću Beograd” u odgovarajućem padežu.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 31,
+      "end_char": 275,
+      "entities": [
+        {
+          "entity_id": "13666400-41a9-4b3e-9723-ceb23d62aa22",
+          "entity_type": "LOCATION",
+          "text": "Beograd",
+          "start_char": 211,
+          "end_char": 218,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "6ae9bbf9-134f-4573-a4a4-9167af0d3d50",
+      "text": "Ovaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 103,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "13c84f21-0375-4440-8525-34da802378d3",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "6e2039f1-c040-4f91-a346-532d266c23fa",
+      "text": "Za Sindikalnu organizaciju zaposlenih u Javnom preduzeću „Službeni glasnik” Predsednik, Ivan Špica, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 156,
+      "end_char": 261,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "63208914-fc31-4d73-83f2-b546073c1e9a",
+      "text": "Za „Službeni glasnik” društvo s ograničenom odgovornošću Beograd Vršilac dužnosti direktora, Mladen Šarčević, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 5,
+      "start_char": 373,
+      "end_char": 487,
+      "entities": [
+        {
+          "entity_id": "b1a78df7-6b6e-4940-a8a3-83f59f3a64f5",
+          "entity_type": "LOCATION",
+          "text": "Beograd",
+          "start_char": 57,
+          "end_char": 64,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:20.330727Z"
+}

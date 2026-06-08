@@ -1,0 +1,49 @@
+{
+  "import_run_id": "1fea2bf2-5e78-463b-9fba-2c73d99f08ca",
+  "document": {
+    "name": "radni_odnosi_0209_000209.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0209_000209.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:24:04.053190Z"
+  },
+  "full_text": "Ha osnovu člana 257. stav 1. Zakona o radu („Službeni glasnik PC”, br. 24/05, 61/05, 54/98,\n32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje) i člana 17. stav 1. i člana\n43. stav 1. Zakona o Vladi („Službeni glasnik RS”, br. 55/05, 71/05 – ispravka, 101/07, 65/08,\n16/11, 68/12 – US, 72/12, 7/14 – US, 44/14 i 30/18 – dr. zakon),\nVlada donosi\nODLUKU\n\"Službeni glasnik RS\", broj 37 od 30. aprila 2024.\nI\nPoseban kolektivni ugovor za radno angažovanje estradno-muzičkih umetnika i izvođača u\nugostiteljstvu („Službeni glasnik PC”, broj 119/23) primenjuje se i na poslodavce koji nisu\nčlanovi Unije poslodavaca Srbije i koji nisu učestvovali u njegovom zaključivanju.\nII\nOva odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike\nSrbije”.\n05 broj 11-3562/2024\nU Beogradu, 30. aprila 2024. godine\nVlada\nPrvi potpredsednik Vlade,\nIvica Dačić, s.r.",
+  "legal_units_count": 0,
+  "document_entities": [
+    {
+      "entity_id": "d986875d-e0fd-4e92-853a-4656543b3edd",
+      "entity_type": "DATE",
+      "text": "30. aprila 2024",
+      "start_char": 399,
+      "end_char": 414,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "0bbdcde2-2163-4dd1-a247-add896601d60",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 257",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "520ebc19-4d10-4a98-9e40-03d4797de6bb",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 17",
+      "start_char": 159,
+      "end_char": 167,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "9f14193b-d178-4ef7-8d2e-bc9a653b968a",
+      "entity_type": "LEGAL_REF",
+      "text": "člana\n43",
+      "start_char": 179,
+      "end_char": 187,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [],
+  "export_timestamp": "2026-06-08T17:24:04.053190Z"
+}

@@ -1,0 +1,130 @@
+{
+  "import_run_id": "188ce67a-2554-4590-86e0-33c078fab175",
+  "document": {
+    "name": "radni_odnosi_0221_000221.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0221_000221.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:27:43.557944Z"
+  },
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – odluka US, 113/17 i 95/18 – autentično tumačenje),\nReprezentativni sindikat Samostalni sindikat putara Srbije i reprezentativno Udruženje\nposlodavaca putne privrede Republike Srbije „PUTAR” u Beogradu 7. februara 2024. godine\nzaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za delatnost putne privrede\nRepublike Srbije\n\"Službeni glasnik RS\", broj 17 od 6. marta 2024.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za delatnost putne privrede Republike Srbije\n(„Službeni glasnik RS”, broj 14 od 23. februara 2018. godine i „Službeni glasnik RS”, broj\n17 od 26. februara 2021. godine) produžava se za period od tri godine.\nČlan 2.\nOvaj sporazum je sačinjen u 6 (šest) istovetnih primeraka, od kojih svaka strana zadržava po\njedan primerak, a četiri primerka se dostavljaju nadležnom ministarstvu radi objavljivanja\nu „Službenom glasniku Republike Srbije”.\nČlan 3.\nOvaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nU Beogradu, 7. februara 2024. godine\nUdruženje poslodavaca putne privrede Republike Srbije „PUTAR”,\nZvonimir Marković, s.r.\nSamostalni sindikat putara Srbije,\nDuško Bošković, s.r.",
+  "legal_units_count": 3,
+  "document_entities": [
+    {
+      "entity_id": "7bd85d51-a1b7-48a1-ad43-6130505ce041",
+      "entity_type": "DATE",
+      "text": "7. februara 2024",
+      "start_char": 315,
+      "end_char": 331,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "86dea1ce-7dbf-45bb-8c6e-4d55b77b9bc5",
+      "entity_type": "DATE",
+      "text": "6. marta 2024",
+      "start_char": 494,
+      "end_char": 507,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "8000be95-6213-4ab1-a14e-1665f5277a09",
+      "entity_type": "DATE",
+      "text": "23. februara 2018",
+      "start_char": 634,
+      "end_char": 651,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e1bc19c2-c007-4133-a6e0-2ceb9ff44d0a",
+      "entity_type": "DATE",
+      "text": "26. februara 2021",
+      "start_char": 696,
+      "end_char": 713,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "8a415ffa-a09d-4ffa-bced-c215eeb32d4b",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "01f84979-eb0e-4bd1-982b-58b72497b01e",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 509,
+      "end_char": 515,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "2fa83e3e-f786-4b29-ad5c-def69365ba82",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 761,
+      "end_char": 767,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "d59ebbbe-41f0-43d9-af05-f7b85c39af61",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 994,
+      "end_char": 1000,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "ea08b257-3a91-4825-b4d8-3d8ca62e210c",
+      "text": "Važenje Posebnog kolektivnog ugovora za delatnost putne privrede Republike Srbije („Službeni glasnik RS”, broj 14 od 23.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 121,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "aa36905b-6d5e-4973-bb6c-24f3a7c76740",
+      "text": "Ovaj sporazum je sačinjen u 6 (šest) istovetnih primeraka, od kojih svaka strana zadržava po jedan primerak, a četiri primerka se dostavljaju nadležnom ministarstvu radi objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 224,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "998cf165-f651-465e-803e-e269f18b3015",
+      "text": "Ovaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 103,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "9a4e9044-789b-497c-9f04-b432235e2d69",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "b412c9e3-2536-452b-b36a-552f214616bd",
+      "text": "godine Udruženje poslodavaca putne privrede Republike Srbije „PUTAR”, Zvonimir Marković, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 133,
+      "end_char": 227,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:27:43.557944Z"
+}

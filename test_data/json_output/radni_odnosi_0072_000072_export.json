@@ -1,0 +1,178 @@
+{
+  "import_run_id": "386d1ca5-af52-4e71-b81d-e64cddd128b7",
+  "document": {
+    "name": "radni_odnosi_0072_000072.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0072_000072.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:15:42.282271Z"
+  },
+  "full_text": "Na osnovu člana 53a stav 2. Zakona o mirnom rešavanju radnih sporova („Službeni glasnik\nRS”, br. 125/04, 104/09 i 50/18),\nMinistar za rad, zapošljavanje, boračka i socijalna pitanja donosi\nPRAVILNIK\no izdavanju identifikacionog dokumenta miritelja i arbitara\n\"Službeni glasnik RS\", broj 1 od 11. januara 2019.\nČlan 1.\nOvim pravilnikom propisuje se obrazac i sadržaj identifikacionog dokumenta miritelja i\narbitara Republičke Agencije za mirno rešavanje radnih sporova (u daljem tekstu:\nidentifikacioni dokument).\nČlan 2.\nMiritelji i arbitri Republičke agencije za mirno rešavanje radnih sporova (u daljem tekstu:\nAgencija), prilikom obavljanja službenih poslova propisanih Zakonom o mirnom rešavanju\nradnih sporova (u daljem tekstu: Zakon), svoj identitet i svojstvo dokazuju identifikacionim\ndokumentom.\nČlan 3.\nIdentifikacioni dokument sadrži sledeće podatke:\n1) na prednjoj strani sadrži:\n(1) grb Republike Srbije,\n(2) naziv „Republika Srbija ˮ ,\n(3) naziv Agencije,\n(4) naziv „Identifikacioni dokument ˮ ,\n(5) fotografiju imaoca identifikacionog dokumenta,\n(6) ime i prezime imaoca identifikacionog dokumenta,\n(7) potpis imaoca identifikacionog dokumenta,\n2) na poleđini sadrži:\n(1) serijski broj izdatog identifikacionog dokumenta,\n(2) datum izdavanja identifikacionog dokumenta,\n(3) rok važenja identifikacionog dokumenta,\n(4) potpis ovlašćenog lica za izdavanje identifikacionog dokumenta.\nČlan 4.\nObrazac identifikacionog dokumenta je pravougaonog oblika, u vidu višeslojne kartice,\nveličine 85,6 x 54 mm i izrađen je u potpunosti od polikarbonatnog materijala sa ugrađenim\ndualinterfejs čipom, koji ima minimum EAL5+ sertifikat, plavih i crvenih tonova na\nprednjoj i zadnjoj strani obrasca.\nObrazac identifikacionog dokumenta izrađen je u formatu ID-1, u skladu sa važećim\nstandardima: ISO/IEC 7810 i ISO/IEC 10373.\nČlan 5.\nZaštitni elementi na obrascu identifikacionog dokumenta su: mikroštampa, UV niti,\nsigurnosna nevidljiva boja koja pod UV svetlom fluorescira, aplikacija sigurnosnog\ndifrakcionog optički varijabilnog elementa jedinstvene originacije sa elementima\ndržavnosti Republike Srbije.\nObrazac identifikacionog dokumenta odštampan je uz ovaj pravilnik i čini njegov sastavni\ndeo.\nČlan 6.\nOvaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nBroj 110-00-00753/2018-05\nU Beogradu, 24. decembra 2018. godine\nMinistar,\nZoran Đorđević, s.r.",
+  "legal_units_count": 6,
+  "document_entities": [
+    {
+      "entity_id": "42395474-2dde-4125-b95a-3f9c6231f889",
+      "entity_type": "DATE",
+      "text": "11. januara 2019",
+      "start_char": 292,
+      "end_char": 308,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "4d551502-0b02-479b-bb08-cd1422925f3d",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 310,
+      "end_char": 316,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "ea6ff0bb-da22-4432-879d-b1fcefd6dc87",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 513,
+      "end_char": 519,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "5d2b7e87-3f8a-4c57-8f81-2b9b457e0df0",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 805,
+      "end_char": 811,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "2166ec19-f747-4c6b-9a60-872c4fda5676",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 1397,
+      "end_char": 1403,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "162f11f3-3c55-4867-8f9d-f82ca3a7921e",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 1825,
+      "end_char": 1831,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "cbf822c0-a378-477b-b557-bf1f6ae9b612",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 2202,
+      "end_char": 2208,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e7a2d0c9-6846-4b59-8dfc-192ef7c915aa",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no izdavanju identifikacionog dokumenta miritelja i arbitara",
+      "start_char": 189,
+      "end_char": 258,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "df6d5c0c-cbdf-44cb-8ff3-2c0806dc4824",
+      "text": "Ovim pravilnikom propisuje se obrazac i sadržaj identifikacionog dokumenta miritelja i arbitara Republičke Agencije za mirno rešavanje radnih sporova (u daljem tekstu: identifikacioni dokument).",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 194,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "8c14102c-0f5b-4927-aea1-48a0d781f927",
+      "text": "Miritelji i arbitri Republičke agencije za mirno rešavanje radnih sporova (u daljem tekstu: Agencija), prilikom obavljanja službenih poslova propisanih Zakonom o mirnom rešavanju radnih sporova (u daljem tekstu: Zakon), svoj identitet i svojstvo dokazuju identifikacionim dokumentom.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 283,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "a92595cf-244b-4cf2-bc9d-a6333be31dde",
+      "text": "Identifikacioni dokument sadrži sledeće podatke: 1) na prednjoj strani sadrži: (1) grb Republike Srbije, (2) naziv „Republika Srbija ˮ , (3) naziv Agencije, (4) naziv „Identifikacioni dokument ˮ , (5) fotografiju imaoca identifikacionog dokumenta, (6) ime i prezime imaoca identifikacionog dokumenta, (7) potpis imaoca identifikacionog dokumenta, 2) na poleđini sadrži: (1) serijski broj izdatog identifikacionog dokumenta, (2) datum izdavanja identifikacionog dokumenta, (3) rok važenja identifikacionog dokumenta, (4) potpis ovlašćenog lica za izdavanje identifikacionog dokumenta.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 583,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "1162fb73-b5a7-4738-b737-bd506f2c0c7c",
+      "text": "Obrazac identifikacionog dokumenta je pravougaonog oblika, u vidu višeslojne kartice, veličine 85,6 x 54 mm i izrađen je u potpunosti od polikarbonatnog materijala sa ugrađenim dualinterfejs čipom, koji ima minimum EAL5+ sertifikat, plavih i crvenih tonova na prednjoj i zadnjoj strani obrasca.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 295,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "6035d5b6-4e5f-4b64-b1d2-ed4b14eeb155",
+      "text": "Obrazac identifikacionog dokumenta izrađen je u formatu ID-1, u skladu sa važećim standardima: ISO/IEC 7810 i ISO/IEC 10373.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 295,
+      "end_char": 419,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "fa81cfc6-692c-47fc-a1fd-51353046a14b",
+          "condition_type": "condition",
+          "text": "u skladu sa važećim standardima",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "9a2791d6-41c1-4dd2-b050-7ed3b8e63554",
+      "text": "Zaštitni elementi na obrascu identifikacionog dokumenta su: mikroštampa, UV niti, sigurnosna nevidljiva boja koja pod UV svetlom fluorescira, aplikacija sigurnosnog difrakcionog optički varijabilnog elementa jedinstvene originacije sa elementima državnosti Republike Srbije.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 275,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "67baa6a6-af07-4e9f-aea3-9d04d15a2e68",
+      "text": "Obrazac identifikacionog dokumenta odštampan je uz ovaj pravilnik i čini njegov sastavni deo.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 275,
+      "end_char": 368,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "7dbda233-0a16-427a-ac60-af990d7e12a9",
+      "text": "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 104,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "a7b8fb2f-a84c-46a6-b004-cfb5cc46db65",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:15:42.282271Z"
+}

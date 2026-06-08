@@ -1,0 +1,1686 @@
+{
+  "total_documents": 224,
+  "documents_processed": 224,
+  "documents_with_normative": 139,
+  "total_extractions": 6624,
+  "by_type": {
+    "obligations": 2581,
+    "prohibitions": 1043,
+    "permissions": 2779,
+    "definitions": 196,
+    "transfers": 19,
+    "assignments": 6
+  },
+  "by_document": [
+    {
+      "filename": "radni_odnosi_0001_000001_export.json",
+      "text_length": 170416,
+      "total_extractions": 371,
+      "by_type": {
+        "obligations": 89,
+        "prohibitions": 53,
+        "permissions": 217,
+        "definitions": 12
+      }
+    },
+    {
+      "filename": "radni_odnosi_0004_000004_export.json",
+      "text_length": 1461,
+      "total_extractions": 1,
+      "by_type": {
+        "permissions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0006_000006_export.json",
+      "text_length": 6236,
+      "total_extractions": 3,
+      "by_type": {
+        "obligations": 3
+      }
+    },
+    {
+      "filename": "radni_odnosi_0007_000007_export.json",
+      "text_length": 7391,
+      "total_extractions": 2,
+      "by_type": {
+        "definitions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0008_000008_export.json",
+      "text_length": 3519,
+      "total_extractions": 1,
+      "by_type": {
+        "obligations": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0009_000009_export.json",
+      "text_length": 5707,
+      "total_extractions": 1,
+      "by_type": {
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0013_000013_export.json",
+      "text_length": 133821,
+      "total_extractions": 155,
+      "by_type": {
+        "obligations": 85,
+        "prohibitions": 12,
+        "permissions": 54,
+        "definitions": 4
+      }
+    },
+    {
+      "filename": "radni_odnosi_0014_000014_export.json",
+      "text_length": 22479,
+      "total_extractions": 39,
+      "by_type": {
+        "obligations": 27,
+        "prohibitions": 4,
+        "permissions": 8
+      }
+    },
+    {
+      "filename": "radni_odnosi_0016_000016_export.json",
+      "text_length": 18466,
+      "total_extractions": 5,
+      "by_type": {
+        "obligations": 5
+      }
+    },
+    {
+      "filename": "radni_odnosi_0017_000017_export.json",
+      "text_length": 8297,
+      "total_extractions": 11,
+      "by_type": {
+        "obligations": 11
+      }
+    },
+    {
+      "filename": "radni_odnosi_0018_000018_export.json",
+      "text_length": 9462,
+      "total_extractions": 3,
+      "by_type": {
+        "obligations": 3
+      }
+    },
+    {
+      "filename": "radni_odnosi_0019_000019_export.json",
+      "text_length": 3895,
+      "total_extractions": 1,
+      "by_type": {
+        "permissions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0020_000020_export.json",
+      "text_length": 19607,
+      "total_extractions": 9,
+      "by_type": {
+        "obligations": 1,
+        "prohibitions": 3,
+        "permissions": 5
+      }
+    },
+    {
+      "filename": "radni_odnosi_0021_000021_export.json",
+      "text_length": 16334,
+      "total_extractions": 6,
+      "by_type": {
+        "obligations": 2,
+        "permissions": 4
+      }
+    },
+    {
+      "filename": "radni_odnosi_0022_000022_export.json",
+      "text_length": 25026,
+      "total_extractions": 4,
+      "by_type": {
+        "obligations": 2,
+        "permissions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0023_000023_export.json",
+      "text_length": 26394,
+      "total_extractions": 11,
+      "by_type": {
+        "obligations": 3,
+        "permissions": 7,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0024_000024_export.json",
+      "text_length": 12286,
+      "total_extractions": 10,
+      "by_type": {
+        "obligations": 2,
+        "prohibitions": 1,
+        "permissions": 5,
+        "definitions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0025_000025_export.json",
+      "text_length": 13646,
+      "total_extractions": 11,
+      "by_type": {
+        "obligations": 8,
+        "prohibitions": 1,
+        "permissions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0027_000027_export.json",
+      "text_length": 10831,
+      "total_extractions": 13,
+      "by_type": {
+        "obligations": 5,
+        "prohibitions": 3,
+        "permissions": 5
+      }
+    },
+    {
+      "filename": "radni_odnosi_0028_000028_export.json",
+      "text_length": 16798,
+      "total_extractions": 32,
+      "by_type": {
+        "obligations": 22,
+        "permissions": 8,
+        "definitions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0029_000029_export.json",
+      "text_length": 36850,
+      "total_extractions": 91,
+      "by_type": {
+        "obligations": 80,
+        "prohibitions": 3,
+        "permissions": 8
+      }
+    },
+    {
+      "filename": "radni_odnosi_0030_000030_export.json",
+      "text_length": 44803,
+      "total_extractions": 83,
+      "by_type": {
+        "obligations": 61,
+        "prohibitions": 6,
+        "permissions": 16
+      }
+    },
+    {
+      "filename": "radni_odnosi_0031_000031_export.json",
+      "text_length": 49641,
+      "total_extractions": 121,
+      "by_type": {
+        "obligations": 93,
+        "prohibitions": 5,
+        "permissions": 23
+      }
+    },
+    {
+      "filename": "radni_odnosi_0032_000032_export.json",
+      "text_length": 24202,
+      "total_extractions": 15,
+      "by_type": {
+        "obligations": 12,
+        "prohibitions": 1,
+        "permissions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0033_000033_export.json",
+      "text_length": 17502,
+      "total_extractions": 9,
+      "by_type": {
+        "obligations": 2,
+        "prohibitions": 1,
+        "permissions": 6
+      }
+    },
+    {
+      "filename": "radni_odnosi_0034_000034_export.json",
+      "text_length": 7014,
+      "total_extractions": 5,
+      "by_type": {
+        "obligations": 5
+      }
+    },
+    {
+      "filename": "radni_odnosi_0035_000035_export.json",
+      "text_length": 5390,
+      "total_extractions": 2,
+      "by_type": {
+        "obligations": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0036_000036_export.json",
+      "text_length": 8218,
+      "total_extractions": 20,
+      "by_type": {
+        "obligations": 18,
+        "prohibitions": 1,
+        "permissions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0037_000037_export.json",
+      "text_length": 7317,
+      "total_extractions": 8,
+      "by_type": {
+        "obligations": 3,
+        "prohibitions": 2,
+        "permissions": 1,
+        "definitions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0038_000038_export.json",
+      "text_length": 7100,
+      "total_extractions": 8,
+      "by_type": {
+        "obligations": 6,
+        "prohibitions": 1,
+        "permissions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0042_000042_export.json",
+      "text_length": 15021,
+      "total_extractions": 16,
+      "by_type": {
+        "obligations": 12,
+        "permissions": 4
+      }
+    },
+    {
+      "filename": "radni_odnosi_0043_000043_export.json",
+      "text_length": 19407,
+      "total_extractions": 28,
+      "by_type": {
+        "obligations": 24,
+        "prohibitions": 1,
+        "permissions": 3
+      }
+    },
+    {
+      "filename": "radni_odnosi_0045_000045_export.json",
+      "text_length": 22642,
+      "total_extractions": 43,
+      "by_type": {
+        "obligations": 27,
+        "prohibitions": 2,
+        "permissions": 11,
+        "definitions": 3
+      }
+    },
+    {
+      "filename": "radni_odnosi_0046_000046_export.json",
+      "text_length": 25034,
+      "total_extractions": 30,
+      "by_type": {
+        "obligations": 21,
+        "prohibitions": 2,
+        "permissions": 6,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0047_000047_export.json",
+      "text_length": 25940,
+      "total_extractions": 52,
+      "by_type": {
+        "obligations": 38,
+        "prohibitions": 3,
+        "permissions": 8,
+        "definitions": 3
+      }
+    },
+    {
+      "filename": "radni_odnosi_0048_000048_export.json",
+      "text_length": 8626,
+      "total_extractions": 9,
+      "by_type": {
+        "obligations": 5,
+        "prohibitions": 2,
+        "permissions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0049_000049_export.json",
+      "text_length": 12073,
+      "total_extractions": 27,
+      "by_type": {
+        "obligations": 21,
+        "prohibitions": 2,
+        "permissions": 4
+      }
+    },
+    {
+      "filename": "radni_odnosi_0050_000050_export.json",
+      "text_length": 8754,
+      "total_extractions": 14,
+      "by_type": {
+        "obligations": 12,
+        "permissions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0051_000051_export.json",
+      "text_length": 33438,
+      "total_extractions": 47,
+      "by_type": {
+        "obligations": 24,
+        "prohibitions": 12,
+        "permissions": 10,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0052_000052_export.json",
+      "text_length": 19282,
+      "total_extractions": 24,
+      "by_type": {
+        "obligations": 20,
+        "permissions": 2,
+        "definitions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0053_000053_export.json",
+      "text_length": 7997,
+      "total_extractions": 3,
+      "by_type": {
+        "obligations": 1,
+        "permissions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0054_000054_export.json",
+      "text_length": 19550,
+      "total_extractions": 4,
+      "by_type": {
+        "obligations": 4
+      }
+    },
+    {
+      "filename": "radni_odnosi_0057_000057_export.json",
+      "text_length": 200503,
+      "total_extractions": 349,
+      "by_type": {
+        "obligations": 127,
+        "prohibitions": 107,
+        "permissions": 101,
+        "definitions": 8,
+        "transfers": 6
+      }
+    },
+    {
+      "filename": "radni_odnosi_0058_000058_export.json",
+      "text_length": 56887,
+      "total_extractions": 63,
+      "by_type": {
+        "obligations": 13,
+        "prohibitions": 18,
+        "permissions": 30,
+        "definitions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0059_000059_export.json",
+      "text_length": 18575,
+      "total_extractions": 46,
+      "by_type": {
+        "obligations": 17,
+        "prohibitions": 17,
+        "permissions": 11,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0060_000060_export.json",
+      "text_length": 26824,
+      "total_extractions": 56,
+      "by_type": {
+        "obligations": 15,
+        "prohibitions": 19,
+        "permissions": 21,
+        "transfers": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0061_000061_export.json",
+      "text_length": 89430,
+      "total_extractions": 178,
+      "by_type": {
+        "obligations": 88,
+        "prohibitions": 64,
+        "permissions": 24,
+        "definitions": 1,
+        "transfers": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0062_000062_export.json",
+      "text_length": 45972,
+      "total_extractions": 64,
+      "by_type": {
+        "obligations": 25,
+        "prohibitions": 15,
+        "permissions": 22,
+        "definitions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0063_000063_export.json",
+      "text_length": 17554,
+      "total_extractions": 26,
+      "by_type": {
+        "obligations": 5,
+        "prohibitions": 9,
+        "permissions": 12
+      }
+    },
+    {
+      "filename": "radni_odnosi_0064_000064_export.json",
+      "text_length": 192153,
+      "total_extractions": 483,
+      "by_type": {
+        "obligations": 259,
+        "prohibitions": 119,
+        "permissions": 100,
+        "definitions": 4,
+        "transfers": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0065_000065_export.json",
+      "text_length": 42110,
+      "total_extractions": 84,
+      "by_type": {
+        "obligations": 59,
+        "prohibitions": 16,
+        "permissions": 9
+      }
+    },
+    {
+      "filename": "radni_odnosi_0066_000066_export.json",
+      "text_length": 7400,
+      "total_extractions": 2,
+      "by_type": {
+        "prohibitions": 1,
+        "permissions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0067_000067_export.json",
+      "text_length": 114587,
+      "total_extractions": 254,
+      "by_type": {
+        "obligations": 154,
+        "prohibitions": 59,
+        "permissions": 41
+      }
+    },
+    {
+      "filename": "radni_odnosi_0068_000068_export.json",
+      "text_length": 21311,
+      "total_extractions": 48,
+      "by_type": {
+        "obligations": 6,
+        "prohibitions": 7,
+        "permissions": 26,
+        "definitions": 9
+      }
+    },
+    {
+      "filename": "radni_odnosi_0069_000069_export.json",
+      "text_length": 21655,
+      "total_extractions": 34,
+      "by_type": {
+        "obligations": 13,
+        "prohibitions": 3,
+        "permissions": 10,
+        "definitions": 8
+      }
+    },
+    {
+      "filename": "radni_odnosi_0070_000070_export.json",
+      "text_length": 25822,
+      "total_extractions": 22,
+      "by_type": {
+        "obligations": 5,
+        "permissions": 16,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0071_000071_export.json",
+      "text_length": 3388,
+      "total_extractions": 3,
+      "by_type": {
+        "permissions": 3
+      }
+    },
+    {
+      "filename": "radni_odnosi_0073_000073_export.json",
+      "text_length": 5831,
+      "total_extractions": 5,
+      "by_type": {
+        "obligations": 1,
+        "prohibitions": 1,
+        "permissions": 3
+      }
+    },
+    {
+      "filename": "radni_odnosi_0075_000075_export.json",
+      "text_length": 10196,
+      "total_extractions": 4,
+      "by_type": {
+        "permissions": 4
+      }
+    },
+    {
+      "filename": "radni_odnosi_0076_000076_export.json",
+      "text_length": 3153,
+      "total_extractions": 2,
+      "by_type": {
+        "obligations": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0081_000081_export.json",
+      "text_length": 163829,
+      "total_extractions": 199,
+      "by_type": {
+        "obligations": 51,
+        "prohibitions": 24,
+        "permissions": 117,
+        "definitions": 6,
+        "transfers": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0083_000083_export.json",
+      "text_length": 87110,
+      "total_extractions": 40,
+      "by_type": {
+        "obligations": 7,
+        "prohibitions": 3,
+        "permissions": 23,
+        "definitions": 3,
+        "transfers": 4
+      }
+    },
+    {
+      "filename": "radni_odnosi_0084_000084_export.json",
+      "text_length": 28171,
+      "total_extractions": 7,
+      "by_type": {
+        "obligations": 4,
+        "permissions": 1,
+        "transfers": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0085_000085_export.json",
+      "text_length": 19256,
+      "total_extractions": 11,
+      "by_type": {
+        "obligations": 1,
+        "prohibitions": 3,
+        "permissions": 7
+      }
+    },
+    {
+      "filename": "radni_odnosi_0086_000086_export.json",
+      "text_length": 42099,
+      "total_extractions": 13,
+      "by_type": {
+        "obligations": 1,
+        "prohibitions": 1,
+        "permissions": 9,
+        "definitions": 1,
+        "transfers": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0087_000087_export.json",
+      "text_length": 9662,
+      "total_extractions": 4,
+      "by_type": {
+        "permissions": 4
+      }
+    },
+    {
+      "filename": "radni_odnosi_0091_000091_export.json",
+      "text_length": 6418,
+      "total_extractions": 5,
+      "by_type": {
+        "obligations": 2,
+        "prohibitions": 1,
+        "permissions": 1,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0093_000093_export.json",
+      "text_length": 44572,
+      "total_extractions": 72,
+      "by_type": {
+        "obligations": 8,
+        "prohibitions": 11,
+        "permissions": 53
+      }
+    },
+    {
+      "filename": "radni_odnosi_0094_000094_export.json",
+      "text_length": 3766,
+      "total_extractions": 5,
+      "by_type": {
+        "obligations": 2,
+        "permissions": 3
+      }
+    },
+    {
+      "filename": "radni_odnosi_0095_000095_export.json",
+      "text_length": 25738,
+      "total_extractions": 17,
+      "by_type": {
+        "obligations": 4,
+        "prohibitions": 2,
+        "permissions": 9,
+        "definitions": 1,
+        "transfers": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0096_000096_export.json",
+      "text_length": 8353,
+      "total_extractions": 11,
+      "by_type": {
+        "obligations": 1,
+        "prohibitions": 4,
+        "permissions": 6
+      }
+    },
+    {
+      "filename": "radni_odnosi_0097_000097_export.json",
+      "text_length": 3724,
+      "total_extractions": 2,
+      "by_type": {
+        "permissions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0098_000098_export.json",
+      "text_length": 36275,
+      "total_extractions": 65,
+      "by_type": {
+        "obligations": 18,
+        "prohibitions": 18,
+        "permissions": 25,
+        "assignments": 4
+      }
+    },
+    {
+      "filename": "radni_odnosi_0099_000099_export.json",
+      "text_length": 12849,
+      "total_extractions": 10,
+      "by_type": {
+        "obligations": 1,
+        "prohibitions": 3,
+        "permissions": 6
+      }
+    },
+    {
+      "filename": "radni_odnosi_0100_000100_export.json",
+      "text_length": 17190,
+      "total_extractions": 27,
+      "by_type": {
+        "obligations": 14,
+        "prohibitions": 3,
+        "permissions": 10
+      }
+    },
+    {
+      "filename": "radni_odnosi_0101_000101_export.json",
+      "text_length": 3616,
+      "total_extractions": 3,
+      "by_type": {
+        "obligations": 2,
+        "permissions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0103_000103_export.json",
+      "text_length": 19926,
+      "total_extractions": 32,
+      "by_type": {
+        "obligations": 13,
+        "prohibitions": 4,
+        "permissions": 14,
+        "assignments": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0104_000104_export.json",
+      "text_length": 37572,
+      "total_extractions": 33,
+      "by_type": {
+        "obligations": 8,
+        "prohibitions": 6,
+        "permissions": 17,
+        "definitions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0105_000105_export.json",
+      "text_length": 33272,
+      "total_extractions": 18,
+      "by_type": {
+        "obligations": 3,
+        "prohibitions": 2,
+        "permissions": 13
+      }
+    },
+    {
+      "filename": "radni_odnosi_0106_000106_export.json",
+      "text_length": 18850,
+      "total_extractions": 4,
+      "by_type": {
+        "obligations": 4
+      }
+    },
+    {
+      "filename": "radni_odnosi_0107_000107_export.json",
+      "text_length": 13429,
+      "total_extractions": 7,
+      "by_type": {
+        "prohibitions": 1,
+        "permissions": 6
+      }
+    },
+    {
+      "filename": "radni_odnosi_0108_000108_export.json",
+      "text_length": 13615,
+      "total_extractions": 6,
+      "by_type": {
+        "obligations": 3,
+        "permissions": 2,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0109_000109_export.json",
+      "text_length": 4920,
+      "total_extractions": 2,
+      "by_type": {
+        "prohibitions": 1,
+        "permissions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0110_000110_export.json",
+      "text_length": 64121,
+      "total_extractions": 55,
+      "by_type": {
+        "obligations": 7,
+        "prohibitions": 4,
+        "permissions": 38,
+        "definitions": 6
+      }
+    },
+    {
+      "filename": "radni_odnosi_0111_000111_export.json",
+      "text_length": 6153,
+      "total_extractions": 6,
+      "by_type": {
+        "obligations": 1,
+        "prohibitions": 1,
+        "permissions": 4
+      }
+    },
+    {
+      "filename": "radni_odnosi_0112_000112_export.json",
+      "text_length": 5572,
+      "total_extractions": 2,
+      "by_type": {
+        "permissions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0114_000114_export.json",
+      "text_length": 23920,
+      "total_extractions": 12,
+      "by_type": {
+        "obligations": 3,
+        "prohibitions": 3,
+        "permissions": 6
+      }
+    },
+    {
+      "filename": "radni_odnosi_0115_000115_export.json",
+      "text_length": 10825,
+      "total_extractions": 5,
+      "by_type": {
+        "obligations": 1,
+        "permissions": 4
+      }
+    },
+    {
+      "filename": "radni_odnosi_0116_000116_export.json",
+      "text_length": 7269,
+      "total_extractions": 11,
+      "by_type": {
+        "prohibitions": 1,
+        "permissions": 9,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0117_000117_export.json",
+      "text_length": 19659,
+      "total_extractions": 1,
+      "by_type": {
+        "obligations": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0120_000120_export.json",
+      "text_length": 20850,
+      "total_extractions": 20,
+      "by_type": {
+        "obligations": 1,
+        "permissions": 18,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0121_000121_export.json",
+      "text_length": 92751,
+      "total_extractions": 71,
+      "by_type": {
+        "obligations": 6,
+        "prohibitions": 10,
+        "permissions": 51,
+        "definitions": 4
+      }
+    },
+    {
+      "filename": "radni_odnosi_0123_000123_export.json",
+      "text_length": 2735,
+      "total_extractions": 1,
+      "by_type": {
+        "permissions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0129_000129_export.json",
+      "text_length": 215765,
+      "total_extractions": 64,
+      "by_type": {
+        "obligations": 21,
+        "prohibitions": 2,
+        "permissions": 11,
+        "definitions": 30
+      }
+    },
+    {
+      "filename": "radni_odnosi_0131_000131_export.json",
+      "text_length": 51970,
+      "total_extractions": 12,
+      "by_type": {
+        "obligations": 4,
+        "permissions": 8
+      }
+    },
+    {
+      "filename": "radni_odnosi_0132_000132_export.json",
+      "text_length": 68990,
+      "total_extractions": 39,
+      "by_type": {
+        "obligations": 22,
+        "permissions": 7,
+        "definitions": 10
+      }
+    },
+    {
+      "filename": "radni_odnosi_0133_000133_export.json",
+      "text_length": 12859,
+      "total_extractions": 7,
+      "by_type": {
+        "obligations": 2,
+        "prohibitions": 1,
+        "permissions": 3,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0137_000137_export.json",
+      "text_length": 5842,
+      "total_extractions": 6,
+      "by_type": {
+        "obligations": 2,
+        "prohibitions": 1,
+        "permissions": 3
+      }
+    },
+    {
+      "filename": "radni_odnosi_0138_000138_export.json",
+      "text_length": 3170,
+      "total_extractions": 1,
+      "by_type": {
+        "permissions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0140_000140_export.json",
+      "text_length": 32429,
+      "total_extractions": 34,
+      "by_type": {
+        "obligations": 4,
+        "prohibitions": 2,
+        "permissions": 26,
+        "definitions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0142_000142_export.json",
+      "text_length": 31070,
+      "total_extractions": 26,
+      "by_type": {
+        "obligations": 4,
+        "prohibitions": 6,
+        "permissions": 15,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0144_000144_export.json",
+      "text_length": 15175,
+      "total_extractions": 5,
+      "by_type": {
+        "prohibitions": 4,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0145_000145_export.json",
+      "text_length": 7557,
+      "total_extractions": 11,
+      "by_type": {
+        "prohibitions": 2,
+        "permissions": 9
+      }
+    },
+    {
+      "filename": "radni_odnosi_0146_000146_export.json",
+      "text_length": 30234,
+      "total_extractions": 13,
+      "by_type": {
+        "prohibitions": 2,
+        "permissions": 2,
+        "definitions": 9
+      }
+    },
+    {
+      "filename": "radni_odnosi_0147_000147_export.json",
+      "text_length": 5996,
+      "total_extractions": 6,
+      "by_type": {
+        "obligations": 1,
+        "prohibitions": 4,
+        "permissions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0148_000148_export.json",
+      "text_length": 11227,
+      "total_extractions": 5,
+      "by_type": {
+        "prohibitions": 2,
+        "permissions": 3
+      }
+    },
+    {
+      "filename": "radni_odnosi_0150_000150_export.json",
+      "text_length": 10125,
+      "total_extractions": 7,
+      "by_type": {
+        "prohibitions": 1,
+        "permissions": 6
+      }
+    },
+    {
+      "filename": "radni_odnosi_0152_000152_export.json",
+      "text_length": 11742,
+      "total_extractions": 18,
+      "by_type": {
+        "obligations": 4,
+        "prohibitions": 4,
+        "permissions": 9,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0156_000156_export.json",
+      "text_length": 1911,
+      "total_extractions": 2,
+      "by_type": {
+        "obligations": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0157_000157_export.json",
+      "text_length": 1293,
+      "total_extractions": 1,
+      "by_type": {
+        "obligations": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0161_000161_export.json",
+      "text_length": 4938,
+      "total_extractions": 4,
+      "by_type": {
+        "obligations": 2,
+        "prohibitions": 1,
+        "permissions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0162_000162_export.json",
+      "text_length": 83569,
+      "total_extractions": 112,
+      "by_type": {
+        "obligations": 28,
+        "prohibitions": 10,
+        "permissions": 74
+      }
+    },
+    {
+      "filename": "radni_odnosi_0165_000165_export.json",
+      "text_length": 82571,
+      "total_extractions": 187,
+      "by_type": {
+        "obligations": 40,
+        "prohibitions": 39,
+        "permissions": 106,
+        "definitions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0169_000169_export.json",
+      "text_length": 50196,
+      "total_extractions": 93,
+      "by_type": {
+        "obligations": 30,
+        "prohibitions": 9,
+        "permissions": 53,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0171_000171_export.json",
+      "text_length": 59881,
+      "total_extractions": 127,
+      "by_type": {
+        "obligations": 44,
+        "prohibitions": 18,
+        "permissions": 63,
+        "definitions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0173_000173_export.json",
+      "text_length": 94528,
+      "total_extractions": 215,
+      "by_type": {
+        "obligations": 75,
+        "prohibitions": 27,
+        "permissions": 107,
+        "definitions": 4,
+        "transfers": 1,
+        "assignments": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0176_000176_export.json",
+      "text_length": 41755,
+      "total_extractions": 79,
+      "by_type": {
+        "obligations": 30,
+        "prohibitions": 14,
+        "permissions": 33,
+        "definitions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0180_000180_export.json",
+      "text_length": 44264,
+      "total_extractions": 67,
+      "by_type": {
+        "obligations": 21,
+        "prohibitions": 6,
+        "permissions": 39,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0186_000186_export.json",
+      "text_length": 60727,
+      "total_extractions": 97,
+      "by_type": {
+        "obligations": 32,
+        "prohibitions": 8,
+        "permissions": 57
+      }
+    },
+    {
+      "filename": "radni_odnosi_0190_000190_export.json",
+      "text_length": 68828,
+      "total_extractions": 90,
+      "by_type": {
+        "obligations": 24,
+        "prohibitions": 7,
+        "permissions": 59
+      }
+    },
+    {
+      "filename": "radni_odnosi_0193_000193_export.json",
+      "text_length": 58685,
+      "total_extractions": 120,
+      "by_type": {
+        "obligations": 44,
+        "prohibitions": 13,
+        "permissions": 63
+      }
+    },
+    {
+      "filename": "radni_odnosi_0197_000197_export.json",
+      "text_length": 43625,
+      "total_extractions": 75,
+      "by_type": {
+        "obligations": 23,
+        "prohibitions": 13,
+        "permissions": 36,
+        "definitions": 3
+      }
+    },
+    {
+      "filename": "radni_odnosi_0201_000201_export.json",
+      "text_length": 55422,
+      "total_extractions": 80,
+      "by_type": {
+        "obligations": 32,
+        "prohibitions": 9,
+        "permissions": 36,
+        "definitions": 3
+      }
+    },
+    {
+      "filename": "radni_odnosi_0205_000205_export.json",
+      "text_length": 99632,
+      "total_extractions": 207,
+      "by_type": {
+        "obligations": 66,
+        "prohibitions": 32,
+        "permissions": 103,
+        "definitions": 6
+      }
+    },
+    {
+      "filename": "radni_odnosi_0206_000206_export.json",
+      "text_length": 42990,
+      "total_extractions": 73,
+      "by_type": {
+        "obligations": 22,
+        "prohibitions": 9,
+        "permissions": 40,
+        "definitions": 2
+      }
+    },
+    {
+      "filename": "radni_odnosi_0207_000207_export.json",
+      "text_length": 45401,
+      "total_extractions": 82,
+      "by_type": {
+        "obligations": 20,
+        "prohibitions": 11,
+        "permissions": 50,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0208_000208_export.json",
+      "text_length": 21543,
+      "total_extractions": 23,
+      "by_type": {
+        "obligations": 13,
+        "prohibitions": 1,
+        "permissions": 9
+      }
+    },
+    {
+      "filename": "radni_odnosi_0210_000210_export.json",
+      "text_length": 83238,
+      "total_extractions": 178,
+      "by_type": {
+        "obligations": 66,
+        "prohibitions": 20,
+        "permissions": 87,
+        "definitions": 5
+      }
+    },
+    {
+      "filename": "radni_odnosi_0212_000212_export.json",
+      "text_length": 48440,
+      "total_extractions": 100,
+      "by_type": {
+        "obligations": 41,
+        "prohibitions": 7,
+        "permissions": 52
+      }
+    },
+    {
+      "filename": "radni_odnosi_0216_000216_export.json",
+      "text_length": 55020,
+      "total_extractions": 104,
+      "by_type": {
+        "obligations": 25,
+        "prohibitions": 15,
+        "permissions": 60,
+        "definitions": 4
+      }
+    },
+    {
+      "filename": "radni_odnosi_0217_000217_export.json",
+      "text_length": 40843,
+      "total_extractions": 72,
+      "by_type": {
+        "obligations": 17,
+        "prohibitions": 10,
+        "permissions": 42,
+        "definitions": 3
+      }
+    },
+    {
+      "filename": "radni_odnosi_0223_000223_export.json",
+      "text_length": 76713,
+      "total_extractions": 160,
+      "by_type": {
+        "obligations": 49,
+        "prohibitions": 25,
+        "permissions": 85,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0224_000224_export.json",
+      "text_length": 58029,
+      "total_extractions": 110,
+      "by_type": {
+        "obligations": 34,
+        "prohibitions": 13,
+        "permissions": 62,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0228_000228_export.json",
+      "text_length": 20805,
+      "total_extractions": 38,
+      "by_type": {
+        "obligations": 11,
+        "prohibitions": 8,
+        "permissions": 18,
+        "definitions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0230_000230_export.json",
+      "text_length": 3608,
+      "total_extractions": 2,
+      "by_type": {
+        "obligations": 1,
+        "permissions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0231_000231_export.json",
+      "text_length": 3608,
+      "total_extractions": 2,
+      "by_type": {
+        "obligations": 1,
+        "permissions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0232_000232_export.json",
+      "text_length": 7941,
+      "total_extractions": 5,
+      "by_type": {
+        "prohibitions": 2,
+        "permissions": 3
+      }
+    },
+    {
+      "filename": "radni_odnosi_0233_000233_export.json",
+      "text_length": 1961,
+      "total_extractions": 6,
+      "by_type": {
+        "obligations": 5,
+        "permissions": 1
+      }
+    },
+    {
+      "filename": "radni_odnosi_0234_000234_export.json",
+      "text_length": 33647,
+      "total_extractions": 11,
+      "by_type": {
+        "obligations": 2,
+        "prohibitions": 3,
+        "permissions": 6
+      }
+    }
+  ],
+  "pattern_matches": {},
+  "examples": {
+    "obligations": [
+      {
+        "text": "poslodavac je dužan da pravilnik o radu dostavi\nreprezentativnom sindikatu u roku od sedam dana od dana njegovog stupanja na snagu.",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0001_000001_export.json"
+      },
+      {
+        "text": "Poslodavac je dužan da pre zaključivanja ugovora o radu kandidata obavesti o poslu,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0001_000001_export.json"
+      },
+      {
+        "text": "Ugovor o radu ne mora da sadrži elemente iz stava 1.",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0001_000001_export.json"
+      },
+      {
+        "text": "koje je poslodavac dužan da obračuna i uplati u ime i u korist\nzaposlenog (doprinosi iz zarade),",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0006_000006_export.json"
+      },
+      {
+        "text": "koje je poslodavac dužan da obračuna i uplati u svoje ime,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0006_000006_export.json"
+      },
+      {
+        "text": "odnosno naknade zarade ne mora da sadrži podatke iz tač.",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0006_000006_export.json"
+      },
+      {
+        "text": "pravo na neisplaćenu naknadu zarade za vreme odsutnosti sa rada zbog privremene sprečenosti\nza rad po propisima o zdravstvenom osiguranju koju je bio dužan da isplati poslodavac u skladu sa\nZakonom o ",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0008_000008_export.json"
+      },
+      {
+        "text": "Poslodavac je dužan da obezbedi i sprovodi preventivne mere bezbednosti i zdravlja na radu\nu skladu sa ovim zakonom i propisima donetim na osnovu ovog zakona.",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0013_000013_export.json"
+      },
+      {
+        "text": "Poslodavac je dužan da obezbedi bezbednost i zdravlje zaposlenom u svim aktivnostima\nposlodavca i na svim nivoima organizovanja rada i radnog procesa.",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0013_000013_export.json"
+      },
+      {
+        "text": "Poslodavac je dužan da se pri planiranju i uvođenju novih tehnologija konsultuje sa\nzaposlenima i/ili predstavnicima zaposlenih po pitanjima izbora opreme za rad,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0013_000013_export.json"
+      }
+    ],
+    "prohibitions": [
+      {
+        "text": "ovog člana ne može\nbiti pozvan na odgovornost,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0001_000001_export.json"
+      },
+      {
+        "text": "Poslodavac ne može od kandidata da zahteva podatke o porodičnom,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0001_000001_export.json"
+      },
+      {
+        "text": "Poslodavac ne može da uslovljava zasnivanje radnog odnosa testom trudnoće,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0001_000001_export.json"
+      },
+      {
+        "text": "Poslodavac ne sme zahtevati od zaposlenih da se vrate na radno mesto u radnoj sredini u kojoj\ni dalje postoji ozbiljna,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0013_000013_export.json"
+      },
+      {
+        "text": "Poslodavac ne može početi obavljanje delatnosti bez dobijanja rešenja o ispunjenosti uslova\nza početak rada.",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0013_000013_export.json"
+      },
+      {
+        "text": "Ako za poslove bezbednosti i zdravlja na radu ne može da odredi nekog od svojih zaposlenih\nkoji ispunjava uslove iz člana 48,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0013_000013_export.json"
+      },
+      {
+        "text": "Izloženost ne sme preći graničnu vrednost za karcinogenu,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0014_000014_export.json"
+      },
+      {
+        "text": "ili u slučaju da izloženost ne može da se izbegne drugim\nsredstvima,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0014_000014_export.json"
+      },
+      {
+        "text": "izloženost ne sme biti trajna i mora biti ograničena\nna najkraće potrebno vreme za svakog zaposlenog;",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0014_000014_export.json"
+      },
+      {
+        "text": "koji ne može biti\nduži od tri meseca od dana prijema prijave.",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0020_000020_export.json"
+      }
+    ],
+    "permissions": [
+      {
+        "text": "ne može pravilnikom o radu da uredi prava i\nobaveze iz radnog odnosa.",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0001_000001_export.json"
+      },
+      {
+        "text": "ovog člana ne može\nbiti pozvan na odgovornost,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0001_000001_export.json"
+      },
+      {
+        "text": "modeli i literaturaSudska praksa\nUgovorom o radu ili odlukom poslodavca može se utvrditi učešće zaposlenog u dobiti\nostvarenoj u poslovnoj godini,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0001_000001_export.json"
+      },
+      {
+        "text": "radna nedelja može se organizovati i na drugi\nnačin.",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0004_000004_export.json"
+      },
+      {
+        "text": "opasnost jeste okolnost ili stanje koje može ugroziti zdravlje ili izazvati povredu\nzaposlenog;",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0013_000013_export.json"
+      },
+      {
+        "text": "štetnost jeste osobina ili svojstvo koje može ugroziti zdravlje zaposlenog;",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0013_000013_export.json"
+      },
+      {
+        "text": "ne može biti isključena odnosno\nograničena;",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0013_000013_export.json"
+      },
+      {
+        "text": "ili u slučaju da izloženost ne može da se izbegne drugim\nsredstvima,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0014_000014_export.json"
+      },
+      {
+        "text": "slučaju nepredviđenog događaja ili nesreće zbog kojih može doći do neuobičajene\nizloženosti zaposlenih,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0014_000014_export.json"
+      },
+      {
+        "text": "Kod određenih poslova kao što je održavanje za koje se može predvideti značajno povećanje\nizloženosti zaposlenih i gde su već primenjene tehničke preventivne mere za smanjenje\nizloženosti zaposlenih,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0014_000014_export.json"
+      }
+    ],
+    "definitions": [
+      {
+        "text": "čime se smatra da je rešenje\nuručeno zaposlenima.",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0001_000001_export.json"
+      },
+      {
+        "text": "zaposleni se smatra viškom u smislu člana 179.",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0001_000001_export.json"
+      },
+      {
+        "text": "Sindikat se smatra reprezentativnim:\n1) ako je osnovan i deluje na načelima slobode sindikalnog organizovanja i delovanja;",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0001_000001_export.json"
+      },
+      {
+        "text": "Ko se smatra licem ovlašćenim za zastupanje i predstavljanje utvrđuje se na\nosnovu akta sindikata ili sin dikata osnovanog za teritoriju Republike za sindikat\nkoji je član tog sindikata,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0007_000007_export.json"
+      },
+      {
+        "text": "Zahtev za upis se smatra urednim i blagovremenim ako podnosilac zahteva otkloni\nnedostatke u roku od 15 dana od dana dostavljanja obaveštenja iz stava 1.",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0007_000007_export.json"
+      },
+      {
+        "text": "Zahtev za upis se smatra urednim i blagovremenim ako podnosilac zahteva otkloni\nnedostatke u roku od 15 dana od dana dostavljanja obaveštenja iz stava 1.",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0009_000009_export.json"
+      },
+      {
+        "text": "jeste lice izabrano ili imenovano da predstavlja zaposlene u oblasti\nbezbednosti i zdravlja na radu kod poslodavca;",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0013_000013_export.json"
+      },
+      {
+        "text": "zaustavi svaku vrstu rada koji predstavlja ozbiljnu,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0013_000013_export.json"
+      },
+      {
+        "text": "odnosno potreba za usaglašavanjem sa propisanim merama bezbednosti i\nzdravlja na radu predstavlja nedostatak za čije su otklanjanje potrebna veća investiciona\nulaganja,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0013_000013_export.json"
+      },
+      {
+        "text": "tehnološke linije i druga kombinovana oprema za rad koja predstavlja funkcionalnu\ntehnološku celinu,",
+        "confidence": 0.8,
+        "document": "radni_odnosi_0023_000023_export.json"
+      }
+    ],
+    "transfers": [
+      {
+        "text": "Oplata se postavlja tako da prihvata zemljane pritiske sa strana iskopa i prenosi ih\nna unutrašnje elemente podgrade koji ove sile međusobno raspodeljuju i uravnotežavaju.",
+        "confidence": 0.75,
+        "document": "radni_odnosi_0057_000057_export.json"
+      },
+      {
+        "text": "Čvrstom podlogom smatra se podloga čije su deformacije pod opterećenjem koje se na nju\nprenosi u procesu rada zanemarljivih veličina i nemaju značaja za stabilnost na nju\noslonjenih konstrukcija ili u",
+        "confidence": 0.75,
+        "document": "radni_odnosi_0057_000057_export.json"
+      },
+      {
+        "text": "prenos montažnog elementa ne sme započeti dok:\n1) se do mesta postavljanja elementa na objektu ne obezbedi siguran prilaz;",
+        "confidence": 0.75,
+        "document": "radni_odnosi_0057_000057_export.json"
+      },
+      {
+        "text": "prenos trupaca i drugih drvnih sortimenata mogu se koristiti\nsamo šumske žičare koje su projektovane i izgrađene u skladu sa propisima o zaštiti na radu\ni jugoslovenskim standardima.",
+        "confidence": 0.75,
+        "document": "radni_odnosi_0060_000060_export.json"
+      },
+      {
+        "text": "prenos traka sa jednog na drugi valjački stan;",
+        "confidence": 0.75,
+        "document": "radni_odnosi_0061_000061_export.json"
+      },
+      {
+        "text": "prenos eksplozije ili požara na susedni opasni objekt,",
+        "confidence": 0.75,
+        "document": "radni_odnosi_0064_000064_export.json"
+      },
+      {
+        "text": "prenos upravljačkih prava u privrednom subjektu na drugo lice primenjuju se propisi\nkojima se uređuje sprečavanje sukoba interesa pri vršenju javnih funkcija.",
+        "confidence": 0.75,
+        "document": "radni_odnosi_0081_000081_export.json"
+      },
+      {
+        "text": "ne\nprebacuje krivicu na\nokolnosti ili druge osobe\nali navodi samo manje\ngreške.",
+        "confidence": 0.75,
+        "document": "radni_odnosi_0083_000083_export.json"
+      },
+      {
+        "text": "uspešno radi pod\nstresom i ne prenosi\nga na saradnike,",
+        "confidence": 0.75,
+        "document": "radni_odnosi_0083_000083_export.json"
+      },
+      {
+        "text": "ne\nprebacuje je na\ndruge.",
+        "confidence": 0.75,
+        "document": "radni_odnosi_0083_000083_export.json"
+      }
+    ],
+    "assignments": [
+      {
+        "text": "koje se ustupa poslodavcu korisniku radi\nprivremenog obavljanja poslova pod njegovim nadzorom i rukovođenjem,",
+        "confidence": 0.75,
+        "document": "radni_odnosi_0098_000098_export.json"
+      },
+      {
+        "text": "odnosno naziv i sedište poslodavca korisnika kod koga se zaposleni ustupa\ni podatke o osobi koja je ovlašćena za zastupanje poslodavca korisnika prema ustupljenim\nzaposlenima;",
+        "confidence": 0.75,
+        "document": "radni_odnosi_0098_000098_export.json"
+      },
+      {
+        "text": "osim u slučaju kada je zaključen ugovor na određeno vreme koje je\njednako vremenu na koje se zaposleni ustupa poslodavcu korisniku i koji sadrži elemente iz\nčlana 9.",
+        "confidence": 0.75,
+        "document": "radni_odnosi_0098_000098_export.json"
+      },
+      {
+        "text": "godina života na privremeni rad u inostranstvo ili ako\nustupa zaposlenog drugom stranom licu,",
+        "confidence": 0.75,
+        "document": "radni_odnosi_0103_000103_export.json"
+      },
+      {
+        "text": "Lice koje ima uvid u personalni dosije zaposlenog ne sme trećem licu da ustupa\ndokumentaciju i saopštava podatke iz personalnog dosijea koji se odnosi na zaposlenog,",
+        "confidence": 0.75,
+        "document": "radni_odnosi_0173_000173_export.json"
+      }
+    ]
+  }
+}

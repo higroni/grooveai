@@ -1,0 +1,122 @@
+{
+  "import_run_id": "c55c3af1-2848-46da-81fc-d6f7ecfbceda",
+  "document": {
+    "name": "radni_odnosi_0192_000192.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0192_000192.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:45.780679Z"
+  },
+  "full_text": "Na osnovu člana 4. stav 2. Zakona o državnim službenicima („Službeni glasnik RS”, br.\n79/05, 81/05 – ispravka, 83/05 – ispravka, 64/07, 67/07 – ispravka, 116/08, 104/09, 99/14,\n94/17, 95/18 i 157/20), a u vezi sa članom 263. stav 2. Zakona o radu („Službeni glasnik RS”,\nbr. 24/05, 61/05, 54/09, 32/13, 75/14, 13/17 – US, 113/17 i 95/18 – drugi propis),\nVlada i reprezentativni sindikati koji su osnovani za teritoriju Republike Srbije −\nSindikat uprave Srbije, Sindikat zaposlenih u pravosudnim organima Republike Srbije i\nSindikat organizacija pravosudnih organa Srbije, 26. aprila 2022. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za državne organe\n\"Službeni glasnik RS\", broj 51 od 29. aprila 2022.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za državne organe („Službeni glasnik RS”, br. 38/19\ni 55/20) produžava se do 31. maja 2023. godine.\nČlan 2.\nOvaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nZa Sindikat uprave Srbije\nSlađan Bobić, s.r.\nZa Sindikat zaposlenih u pravosudnim\norganima Republike Srbije\nSlađanka Milošević, s.r.\nZa Sindikat organizacija pravosudnih organa Srbije\nVioleta Marković, s.r.\nZa Vladu\nMinistar državne uprave i lokalne samouprave,\nMarija Obradović, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "388a2817-4d33-4539-b3b2-ba621bca4514",
+      "entity_type": "DATE",
+      "text": "26. aprila 2022",
+      "start_char": 573,
+      "end_char": 588,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "6312d160-cd00-4ebd-8fb1-8d8a1e580be5",
+      "entity_type": "DATE",
+      "text": "29. aprila 2022",
+      "start_char": 725,
+      "end_char": 740,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "eb93efe8-f765-4bc8-99ab-df80bb59f52d",
+      "entity_type": "DATE",
+      "text": "31. maja 2023",
+      "start_char": 864,
+      "end_char": 877,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "f43b8c3d-205e-4899-a643-b51855dc874e",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 4",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "bdd20cc0-29c5-4740-9017-90c8c1bb8972",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 263",
+      "start_char": 213,
+      "end_char": 223,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "8a95e697-efaf-4087-b304-456ca4990229",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 742,
+      "end_char": 748,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "9555d99d-d936-4237-b5c2-f165ec42b102",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 887,
+      "end_char": 893,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "d9470ecc-94a6-49bb-939f-cc9be6c4b585",
+      "text": "Važenje Posebnog kolektivnog ugovora za državne organe („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 83,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "54135178-f127-4fc1-b5bc-4829c4c616de",
+      "text": "Ovaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 103,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "fa680638-777b-4005-ac70-16bb4d6309cb",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "4dd535ae-a07a-44a7-a0e3-a74fd1ba7793",
+      "text": "Za Sindikat zaposlenih u pravosudnim organima Republike Srbije Slađanka Milošević, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 148,
+      "end_char": 236,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "bfce6406-9dcf-49ef-84a0-711db7916401",
+      "text": "Za Vladu Ministar državne uprave i lokalne samouprave, Marija Obradović, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 4,
+      "start_char": 310,
+      "end_char": 387,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:45.780679Z"
+}

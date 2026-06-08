@@ -1,0 +1,120 @@
+{
+  "import_run_id": "5b3b393f-9805-48ac-b86f-6507335ab2ec",
+  "document": {
+    "name": "radni_odnosi_0153_000153.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0153_000153.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:20:11.551344Z"
+  },
+  "full_text": "Na osnovu člana 10. stav 2. Zakona o štrajku („Službeni list SRJ”, broj 29/96 i „Službeni\nglasnik RS”, br. 101/05 – dr. zakon i 103/12 – US) i člana 42. stav 1. Zakona o Vladi\n(„Službeni glasnik RS”, br. 55/05, 71/05 – ispravka, 101/07, 65/08, 16/11, 68/12 – US, 72/12,\n7/14 – US, 44/14 i 30/18 – dr. zakon),\nVlada donosi\nUREDBU\no minimumu procesa rada u Republičkom geodetskom zavodu\n\"Službeni glasnik RS\", broj 26 od 5. aprila 2019.\nČlan 1.\nMinimum procesa rada u Republičkom geodetskom zavodu, za vreme štrajka obuhvata obavljanje\nposlova kojima se obezbeđuje:\n1) prijem zahteva u službama za katastar nepokretnosti i u sedištu Zavoda;\n2) uslovi za omogućavanje svim strankama da podnesu zahtev za upis, izdavanje podataka,\nizdavanje lista nepokretnosti, posedovnog lista, kopije plana i uverenja;\n3) poslovi u vezi sa premerom i kopijom planova od značaja za bezbednost zemlje;\n4) omogućavanje geodetskim organizacijama da mogu da podnose zahteve za izdavanje podataka;\n5) rad Komisija za izlaganje na javni uvid podataka o nepokretnostima i stvarnim pravima na\nnjima.\nČlan 2.\nDirektor Republičkog geodetskog zavoda određuje način obezbeđivanja minimuma procesa\nrada, kao i poslove i broj izvršilaca koji su dužni da rade za vreme štrajka, u skladu sa\novom uredbom, odmah po stupanju na snagu ove uredbe.\nČlan 3.\nOva uredba stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike\nSrbije”.\n05 broj 110-3452/2019\nU Beogradu, 4. aprila 2019. godine\nVlada\nPredsednik,\nAna Brnabić, s.r.",
+  "legal_units_count": 3,
+  "document_entities": [
+    {
+      "entity_id": "498e02b3-ee8a-4d25-8506-0c8c0a29e0bb",
+      "entity_type": "DATE",
+      "text": "5. aprila 2019",
+      "start_char": 419,
+      "end_char": 433,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "8f9d34ab-0728-4ef5-972a-2500592a8284",
+      "entity_type": "DATE",
+      "text": "4. aprila 2019",
+      "start_char": 1451,
+      "end_char": 1465,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "c3e1f3e6-b439-4b79-9330-6e0f22aae734",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 10",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "63449894-b718-4e9d-9a06-572744cb6dbc",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 42",
+      "start_char": 143,
+      "end_char": 151,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "12a1d267-abeb-43df-a9a5-e0128acf0469",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 435,
+      "end_char": 441,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "cdff75d3-02a0-4c67-9120-adfa2f1e4f59",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 1073,
+      "end_char": 1079,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "882b236d-c74b-4856-8945-842acff6b337",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1309,
+      "end_char": 1315,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "ea0802ea-6ac2-4cd8-a1dc-1b2784ca1448",
+      "text": "Minimum procesa rada u Republičkom geodetskom zavodu, za vreme štrajka obuhvata obavljanje poslova kojima se obezbeđuje: 1) prijem zahteva u službama za katastar nepokretnosti i u sedištu Zavoda; 2) uslovi za omogućavanje svim strankama da podnesu zahtev za upis, izdavanje podataka, izdavanje lista nepokretnosti, posedovnog lista, kopije plana i uverenja; 3) poslovi u vezi sa premerom i kopijom planova od značaja za bezbednost zemlje; 4) omogućavanje geodetskim organizacijama da mogu da podnose zahteve za izdavanje podataka; 5) rad Komisija za izlaganje na javni uvid podataka o nepokretnostima i stvarnim pravima na njima.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 629,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "a4551e0d-2442-45b1-aeea-e47240888f9e",
+      "text": "Direktor Republičkog geodetskog zavoda određuje način obezbeđivanja minimuma procesa rada, kao i poslove i broj izvršilaca koji su dužni da rade za vreme štrajka, u skladu sa ovom uredbom, odmah po stupanju na snagu ove uredbe.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 227,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "25debd85-8d24-436d-9d0b-e5000222a438",
+          "condition_type": "condition",
+          "text": "kao i poslove i broj izvršilaca koji su dužni da rade za vreme štrajka, u skladu sa ovom uredbom",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "29c39b4e-3e78-4b95-8f32-18bcdc3f8f31",
+      "text": "Ova uredba stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 100,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "29309a7b-2c6a-47f6-9499-282234b0a4c6",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:20:11.551344Z"
+}

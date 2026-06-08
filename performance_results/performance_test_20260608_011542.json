@@ -1,0 +1,32 @@
+{
+  "test_time": 18.794955492019653,
+  "total_documents": 2,
+  "successful": 0,
+  "failed": 2,
+  "results": [
+    {
+      "document": "radni_odnosi_0001_000001.pdf",
+      "success": false,
+      "error": "'units'",
+      "module_times": {
+        "M1_file_reader": 4.287074565887451,
+        "M2_normalizer": 2.0937209129333496,
+        "M3_latinizer": 2.06783127784729
+      },
+      "data": {},
+      "total_time": 10.539002656936646
+    },
+    {
+      "document": "radni_odnosi_0008_000008.pdf",
+      "success": false,
+      "error": "'units'",
+      "module_times": {
+        "M1_file_reader": 2.099661350250244,
+        "M2_normalizer": 2.0646018981933594,
+        "M3_latinizer": 2.0358850955963135
+      },
+      "data": {},
+      "total_time": 8.255952835083008
+    }
+  ]
+}

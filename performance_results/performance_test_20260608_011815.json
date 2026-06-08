@@ -1,0 +1,34 @@
+{
+  "test_time": 22.830340147018433,
+  "total_documents": 2,
+  "successful": 0,
+  "failed": 2,
+  "results": [
+    {
+      "document": "radni_odnosi_0001_000001.pdf",
+      "success": false,
+      "error": "M6 failed with status 404",
+      "module_times": {
+        "M1_file_reader": 4.271411657333374,
+        "M2_normalizer": 2.065971612930298,
+        "M3_latinizer": 2.0582008361816406,
+        "M4_parser": 2.0601806640625
+      },
+      "data": {},
+      "total_time": 12.481076955795288
+    },
+    {
+      "document": "radni_odnosi_0008_000008.pdf",
+      "success": false,
+      "error": "M6 failed with status 404",
+      "module_times": {
+        "M1_file_reader": 2.118884325027466,
+        "M2_normalizer": 2.062195301055908,
+        "M3_latinizer": 2.059220552444458,
+        "M4_parser": 2.0434749126434326
+      },
+      "data": {},
+      "total_time": 10.349263191223145
+    }
+  ]
+}

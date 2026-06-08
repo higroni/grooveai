@@ -1,0 +1,222 @@
+{
+  "import_run_id": "bb9079ce-c3ca-453f-a955-d58dc3c3bf25",
+  "document": {
+    "name": "radni_odnosi_0092_000092.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0092_000092.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:16:02.538307Z"
+  },
+  "full_text": "Na osnovu člana 121. stav 4. Zakona o zaposlenima u autonomnim pokrajinama i jedinicama\nlokalne samouprave („Službeni glasnik RS”, broj 21/16),\nMinistar državne uprave i lokalne samouprave donosi\nPRAVILNIK\no utvrđivanju obaveznih elemenata programa opšteg i posebnog stručnog usavršavanja\nslužbenika u jedinicama lokalne samouprave\n\"Službeni glasnik RS\", broj 49 od 22. maja 2017.\nPredmet Pravilnika\nČlan 1.\nOvim pravilnikom utvrđuju se obavezni elementi programa opšteg i posebnog stručnog\nusavršavanja službenika u jedinicama lokalne samouprave, organima gradskih opština, kao i\nu službama i organizacijama koje osniva nadležni organ jedinice lokalne samouprave i\ngradske opštine, prema posebnom zakonu (u daljem tekstu: službenici u jedinicama lokalne\nsamouprave).\nObavezni elementi programa stručnog usavršavanja\nČlan 2.\nObavezni elementi opštih i posebnih programa stručnog usavršavanja službenika u\njedinicama lokalne samouprave obezbeđuju metodološku celovitost programa, planirane\nefekte realizacije programa, aktuelnost programa u odnosu na propise, utvrđuju planirani\nbroj, strukturu korisnika programa i neophodne kadrovske i tehničke uslove za realizaciju\nprograma.\nMetodološka celovitost programa\nČlan 3.\nMetodološka celovitost programa obezbeđuje se:\n1) navođenjem cilja sprovođenja programa koji sadrži osnovne razloge za donošenje programa,\na zasnovan je na analizi potreba za stručnim usavršavanjem službenika u jedinicama\nlokalnih samouprava;\n2) navođenjem oblasti stručnog usavršavanja na koju se program odnosi (nadležnost lokalne\nsamouprave, povereni posao ili vrsta ličnih veština koja zahteva stručno usavršavanje);\n3) prikazom sadržinske celovitosti programa, kojim se potvrđuje da su programom stručnog\nusavršavanja obrađena sva pitanja od značaja za postizanje planiranih rezultata i da je\nodabran adekvatan oblik sprovođenja stručnog usavršavanja (obuka, obuka na daljinu,\nseminar, studijska poseta, savetovanje, naučno-stručni skup, okrugli sto, mentorstvo, koučing\ni drugo) i da planirani broj korisnika odgovara cilju sprovođenja programa.\nPlanirani efekti realizacije programa\nČlan 4.\nPlanirani efekti realizacije programa dokazuju se:\n1) uspostavljanjem pokazatelja uspešnosti sprovođenja programa (ocena stepena zadovoljstva\npolaznika kroz evaluacione upitnike, način procene stepena primenljivosti usvojenih znanja\ni veština);\n2) opisom načina praćenja sprovođenja programa;\n3) opisom načina registrovanja i obrade podataka o planiranom i sprovedenom programu\ninterpretacije rezultata sprovođenja programa.\nAktuelnost programa u odnosu na propise\nČlan 5.\nAktuelnost programa u odnosu na propise obezbeđuje se:\n1) navođenjem činjenica, koje dokazuju potrebu organizovanja programa a odnose se na\nplanirane ili usvojene nove propise ili izmene postojećih propisa, koji zahtevaju da\nslužbenici u jedinicama lokalne samouprave steknu nova stručna znanja o načinu primene\ntih propisa;\n2) navođenjem nezadovoljavajućih rezultata inspekcijskog nadzora, upravne ili sudske\nkontrole zakonitosti akata, koje donosi organ lokalne samouprave ili podatka o\nneizvršavanju odnosno kašnjenju organa lokalne samouprave sa izvršavanjem utvrđenih\nobaveza ili postupanjem u utvrđenim rokovima, koji zahtevaju da službenici u jedinicama\nlokalne samouprave unaprede postojeća stručna znanja i veštine.\nBroj i struktura korisnika programa\nČlan 6.\nU programu se obavezno navodi:\n1) profesionalna struktura korisnika programa (zvanja, radna mesta, iskustvo,\nkvalifikacije ili vrsta poslova, koje budući polaznici obavljaju);\n2) očekivani broj polaznika, za koji je planiran program i za koji su obezbeđena sredstva za\nsprovođenje;\n3) najveći i najmanji broj prijavljenih polaznika za program;\n4) obezbeđena sredstva koja se utvrđuju za svaki program.\nKadrovski i tehnički uslovi za realizaciju programa\nČlan 7.\nKadrovski i tehnički uslovi za realizaciju programa moraju da budu u vezi sa sadržinom i\npredmetom programa kao i sa predviđenim oblikom stručnog usavršavanja.\nKadrovski uslovi za realizaciju programa podrazumevaju određivanje neophodnog broja lica,\nkoja će biti zadužena za stručno-tehničku pripremu i sprovođenje programa (mentora,\ntrenera, predavača, kouča) kao i navođenje njihovih kompetencija i stručnog iskustva.\nTehnički uslovi u pogledu realizacije odnose se na:\n1) veličinu i zahtevanu tehničku opremljenost prostora namenjenog programskim sadržajima;\n2) tehničke i informaciono-komunikacione kriterijume za sprovođenje obuka na daljinu;\n3) posebne tehničke uslove za programske sadržaje namenjene specifičnim vrstama\nkorisnika.\nStupanje na snagu\nČlan 8.\nOvaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nBroj 110-00-00091/2017-13\nU Beogradu, 18. maja 2017. godine\nMinistar,\nAna Brnabić, s.r.",
+  "legal_units_count": 8,
+  "document_entities": [
+    {
+      "entity_id": "bbdcd721-7d37-47b2-9a1e-bb1ea2531eb4",
+      "entity_type": "DATE",
+      "text": "22. maja 2017",
+      "start_char": 366,
+      "end_char": 379,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "f55c8ed6-415a-40db-bb18-d746485367f3",
+      "entity_type": "DATE",
+      "text": "18. maja 2017",
+      "start_char": 4727,
+      "end_char": 4740,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "9500fd40-f39d-408e-a7b3-629b1af0c7d8",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 121",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "a6f240a0-2605-44c5-b5c6-0a529f9b1bc5",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 400,
+      "end_char": 406,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "dfed9b4d-fddc-41eb-a12f-e8976c02c73d",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 817,
+      "end_char": 823,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "50ddd8cd-a766-4351-8be3-dcfeb3b83f34",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1210,
+      "end_char": 1216,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "6c0cda6d-dfe5-4417-af88-cb8a0cd52ecb",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 2108,
+      "end_char": 2114,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "08d8ad9c-0474-47ef-bb2c-421e764c037f",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 2581,
+      "end_char": 2587,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "a32b37d6-737f-4307-bfea-012ce5df0060",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 3350,
+      "end_char": 3356,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "d25527b4-feb7-4f11-afe9-168d9ca0afec",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 7",
+      "start_char": 3812,
+      "end_char": 3818,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "0baadc13-d9e1-4303-a13e-19461aceadb4",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 8",
+      "start_char": 4577,
+      "end_char": 4583,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "198fd40a-fbc1-4b8a-a33c-af73b6983b87",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no utvrđivanju obaveznih elemenata programa opšteg i posebnog stručnog usavršavanja\nslužbenika u jedinicama lokalne samouprave",
+      "start_char": 196,
+      "end_char": 331,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "e06dd902-08b7-4aa3-a92d-7289b524595d",
+      "text": "Ovim pravilnikom utvrđuju se obavezni elementi programa opšteg i posebnog stručnog usavršavanja službenika u jedinicama lokalne samouprave, organima gradskih opština, kao i u službama i organizacijama koje osniva nadležni organ jedinice lokalne samouprave i gradske opštine, prema posebnom zakonu (u daljem tekstu: službenici u jedinicama lokalne samouprave).",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 360,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "f0b2b682-05ce-48c1-937b-049b59f89428",
+      "text": "Obavezni elementi opštih i posebnih programa stručnog usavršavanja službenika u jedinicama lokalne samouprave obezbeđuju metodološku celovitost programa, planirane efekte realizacije programa, aktuelnost programa u odnosu na propise, utvrđuju planirani broj, strukturu korisnika programa i neophodne kadrovske i tehničke uslove za realizaciju programa.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 353,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "60c96120-b3d9-4dd2-b1d8-f9382362a75b",
+      "text": "Metodološka celovitost programa obezbeđuje se: 1) navođenjem cilja sprovođenja programa koji sadrži osnovne razloge za donošenje programa, a zasnovan je na analizi potreba za stručnim usavršavanjem službenika u jedinicama lokalnih samouprava; 2) navođenjem oblasti stručnog usavršavanja na koju se program odnosi (nadležnost lokalne samouprave, povereni posao ili vrsta ličnih veština koja zahteva stručno usavršavanje); 3) prikazom sadržinske celovitosti programa, kojim se potvrđuje da su programom stručnog usavršavanja obrađena sva pitanja od značaja za postizanje planiranih rezultata i da je odabran adekvatan oblik sprovođenja stručnog usavršavanja (obuka, obuka na daljinu, seminar, studijska poseta, savetovanje, naučno-stručni skup, okrugli sto, mentorstvo, koučing i drugo) i da planirani broj korisnika odgovara cilju sprovođenja programa.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 852,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "c83cd4a6-0559-410f-be6c-a9f708520d21",
+      "text": "Planirani efekti realizacije programa dokazuju se: 1) uspostavljanjem pokazatelja uspešnosti sprovođenja programa (ocena stepena zadovoljstva polaznika kroz evaluacione upitnike, način procene stepena primenljivosti usvojenih znanja i veština); 2) opisom načina praćenja sprovođenja programa; 3) opisom načina registrovanja i obrade podataka o planiranom i sprovedenom programu interpretacije rezultata sprovođenja programa.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 425,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "72595c01-40bc-4835-9b47-994a1098afa7",
+      "text": "Aktuelnost programa u odnosu na propise obezbeđuje se: 1) navođenjem činjenica, koje dokazuju potrebu organizovanja programa a odnose se na planirane ili usvojene nove propise ili izmene postojećih propisa, koji zahtevaju da službenici u jedinicama lokalne samouprave steknu nova stručna znanja o načinu primene tih propisa; 2) navođenjem nezadovoljavajućih rezultata inspekcijskog nadzora, upravne ili sudske kontrole zakonitosti akata, koje donosi organ lokalne samouprave ili podatka o neizvršavanju odnosno kašnjenju organa lokalne samouprave sa izvršavanjem utvrđenih obaveza ili postupanjem u utvrđenim rokovima, koji zahtevaju da službenici u jedinicama lokalne samouprave unaprede postojeća stručna znanja i veštine.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 725,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "860eeaa4-d1ff-4871-8ede-8d4764204d0e",
+      "text": "U programu se obavezno navodi: 1) profesionalna struktura korisnika programa (zvanja, radna mesta, iskustvo, kvalifikacije ili vrsta poslova, koje budući polaznici obavljaju); 2) očekivani broj polaznika, za koji je planiran program i za koji su obezbeđena sredstva za sprovođenje; 3) najveći i najmanji broj prijavljenih polaznika za program; 4) obezbeđena sredstva koja se utvrđuju za svaki program.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 402,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "dc961d4a-4f23-43f8-a3e3-842e4c7dc7d7",
+      "text": "Kadrovski i tehnički uslovi za realizaciju programa moraju da budu u vezi sa sadržinom i predmetom programa kao i sa predviđenim oblikom stručnog usavršavanja.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 160,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "059842f4-9159-4586-9236-c51beb47e7c6",
+      "text": "Kadrovski uslovi za realizaciju programa podrazumevaju određivanje neophodnog broja lica, koja će biti zadužena za stručno-tehničku pripremu i sprovođenje programa (mentora, trenera, predavača, kouča) kao i navođenje njihovih kompetencija i stručnog iskustva.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 160,
+      "end_char": 420,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "c4fefbd2-c31a-4cd4-9dc8-56224574aa03",
+      "text": "Tehnički uslovi u pogledu realizacije odnose se na: 1) veličinu i zahtevanu tehničku opremljenost prostora namenjenog programskim sadržajima; 2) tehničke i informaciono-komunikacione kriterijume za sprovođenje obuka na daljinu; 3) posebne tehničke uslove za programske sadržaje namenjene specifičnim vrstama korisnika.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 420,
+      "end_char": 739,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "a43a105a-a3ce-4177-ad04-34416e0c50ca",
+      "text": "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 104,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "a00ae2d6-993d-4efe-9d1a-7f0465085445",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:16:02.538307Z"
+}

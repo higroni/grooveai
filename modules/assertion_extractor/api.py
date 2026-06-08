@@ -101,6 +101,7 @@ async def extract_assertions_batch(request: BatchExtractionRequest):
     
     This endpoint processes multiple legal units efficiently by:
     - Processing units in batches to optimize memory usage
+    - Enforcing batch size limits to prevent memory exhaustion
     - Tracking detailed timing metrics for performance analysis
     - Handling errors gracefully per unit
     
@@ -110,11 +111,21 @@ async def extract_assertions_batch(request: BatchExtractionRequest):
     Returns:
         BatchExtractionResponse with results for each unit and detailed timing
     """
+    # Automatic chunking for large batches to prevent memory exhaustion
+    CHUNK_SIZE = 50  # Process in chunks of 50 units
+    WARN_BATCH_SIZE = 100
+    
     metrics = get_metrics_collector()
     batch_start = time.time()
     
     try:
-        logger.info(f"Starting batch extraction for {len(request.legal_units)} legal units")
+        num_units = len(request.legal_units)
+        logger.info(f"Starting batch extraction for {num_units} legal units")
+        
+        # Warn if batch is large (will be auto-chunked)
+        if num_units > WARN_BATCH_SIZE:
+            num_chunks = (num_units + CHUNK_SIZE - 1) // CHUNK_SIZE
+            logger.warning(f"Large batch detected: {num_units} units will be processed in {num_chunks} chunks of {CHUNK_SIZE}")
         
         # Generate batch job ID
         job_id = str(uuid.uuid4())
@@ -123,70 +134,104 @@ async def extract_assertions_batch(request: BatchExtractionRequest):
         timings = {
             "total_ms": 0,
             "per_unit_ms": [],
+            "per_chunk_ms": [],
             "db_save_ms": 0,
-            "processing_ms": 0
+            "processing_ms": 0,
+            "num_chunks": 0
         }
         
         results = []
         successful = 0
         failed = 0
         
-        # Process each legal unit
+        # Process in chunks to manage memory
         processing_start = time.time()
-        for unit in request.legal_units:
-            unit_start = time.time()
+        for chunk_idx in range(0, num_units, CHUNK_SIZE):
+            chunk_start = time.time()
+            chunk_end = min(chunk_idx + CHUNK_SIZE, num_units)
+            chunk_units = request.legal_units[chunk_idx:chunk_end]
+            chunk_num = (chunk_idx // CHUNK_SIZE) + 1
+            total_chunks = (num_units + CHUNK_SIZE - 1) // CHUNK_SIZE
             
-            try:
-                # Extract assertions for this unit
-                output = service.extract_assertions(
-                    content=unit.content,
-                    min_confidence=request.min_confidence
-                )
+            logger.info(f"Processing chunk {chunk_num}/{total_chunks} ({len(chunk_units)} units)")
+            
+            # Process each unit in this chunk
+            for unit in chunk_units:
+                unit_start = time.time()
                 
-                unit_time_ms = (time.time() - unit_start) * 1000
-                timings["per_unit_ms"].append({
-                    "unit_id": unit.unit_id,
-                    "time_ms": unit_time_ms
-                })
-                
-                results.append(BatchExtractionResult(
-                    legal_unit_id=unit.unit_id,
-                    status="success",
-                    output=output,
-                    error=None,
-                    processing_time_ms=unit_time_ms
-                ))
-                
-                successful += 1
-                logger.debug(f"Processed unit {unit.unit_id} in {unit_time_ms:.2f}ms")
-                
-            except Exception as e:
-                unit_time_ms = (time.time() - unit_start) * 1000
-                timings["per_unit_ms"].append({
-                    "unit_id": unit.unit_id,
-                    "time_ms": unit_time_ms,
-                    "error": str(e)
-                })
-                
-                results.append(BatchExtractionResult(
-                    legal_unit_id=unit.unit_id,
-                    status="error",
-                    output=None,
-                    error=str(e),
-                    processing_time_ms=unit_time_ms
-                ))
-                
-                failed += 1
-                logger.error(f"Error processing unit {unit.unit_id}: {str(e)}")
+                try:
+                    # Extract assertions for this unit
+                    output = service.extract_assertions(
+                        content=unit.content,
+                        min_confidence=request.min_confidence
+                    )
+                    
+                    unit_time_ms = (time.time() - unit_start) * 1000
+                    timings["per_unit_ms"].append({
+                        "unit_id": unit.unit_id,
+                        "time_ms": unit_time_ms
+                    })
+                    
+                    results.append(BatchExtractionResult(
+                        legal_unit_id=unit.unit_id,
+                        status="success",
+                        output=output,
+                        error=None,
+                        processing_time_ms=unit_time_ms
+                    ))
+                    
+                    successful += 1
+                    logger.debug(f"Processed unit {unit.unit_id} in {unit_time_ms:.2f}ms")
+                    
+                    # Record success metrics
+                    metrics.record("extraction_duration_ms", unit_time_ms,
+                                 {"endpoint": "/extract/batch", "status": "success"})
+                    
+                except Exception as e:
+                    unit_time_ms = (time.time() - unit_start) * 1000
+                    timings["per_unit_ms"].append({
+                        "unit_id": unit.unit_id,
+                        "time_ms": unit_time_ms,
+                        "error": str(e)
+                    })
+                    
+                    results.append(BatchExtractionResult(
+                        legal_unit_id=unit.unit_id,
+                        status="error",
+                        output=None,
+                        error=str(e),
+                        processing_time_ms=unit_time_ms
+                    ))
+                    
+                    failed += 1
+                    logger.error(f"Error processing unit {unit.unit_id}: {str(e)}")
+                    
+                    # Record error metrics
+                    metrics.record("extraction_duration_ms", unit_time_ms,
+                                 {"endpoint": "/extract/batch", "status": "error"})
+            
+            # Record chunk timing
+            chunk_time_ms = (time.time() - chunk_start) * 1000
+            timings["per_chunk_ms"].append({
+                "chunk": chunk_num,
+                "units": len(chunk_units),
+                "time_ms": chunk_time_ms
+            })
+            timings["num_chunks"] = chunk_num
+            
+            logger.info(f"Chunk {chunk_num}/{total_chunks} completed in {chunk_time_ms:.2f}ms")
         
         timings["processing_ms"] = (time.time() - processing_start) * 1000
         
         # Save batch job to database
         db_start = time.time()
-        for result in results:
+        for idx, result in enumerate(results):
             if result.status == "success" and result.output:
+                # Generate unique job_id for each unit to avoid UNIQUE constraint violations
+                unique_job_id = str(uuid.uuid4())
+                
                 job = ExtractionJob(
-                    job_id=f"{job_id}_{result.legal_unit_id}",
+                    job_id=unique_job_id,
                     legal_unit_id=result.legal_unit_id,
                     input_content=next(u.content for u in request.legal_units if u.unit_id == result.legal_unit_id),
                     output_assertions=json.dumps([a.dict() for a in result.output.assertions], ensure_ascii=False),

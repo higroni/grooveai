@@ -1,0 +1,156 @@
+{
+  "import_run_id": "60e620d5-1f3a-43b6-92a5-ba65a0218846",
+  "document": {
+    "name": "radni_odnosi_0136_000136.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0136_000136.pdf",
+    "title": "ZAKON o prestanku važenja Zakona o privremenom uređivanju osnovica za obračun i isplatu plata,",
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:16:40.866447Z"
+  },
+  "full_text": "ZAKON\no prestanku važenja Zakona o privremenom uređivanju osnovica za obračun i isplatu plata,\nodnosno zarada i drugih stalnih primanja kod korisnika javnih sredstava\n\"Službeni glasnik RS\", broj 86 od 6. decembra 2019.\nČlan 1.\nDanom stupanja na snagu ovog zakona prestaje da važi Zakon o privremenom uređivanju\nosnovica za obračun i isplatu plata odnosno zarada i drugih stalnih primanja kod korisnika\njavnih sredstava („Službeni glasnik RS”, br. 116/14 i 95/18) – u daljem tekstu: Zakon.\nČlan 2.\nOsnovica, odnosno vrednost radnog časa, vrednost boda i vrednost osnovne zarade (u daljem\ntekstu: osnovica), za obračun i isplatu plata, odnosno zarada kod korisnika javnih sredstava\niz člana 2. stav 1. tač. 1)–3) Zakona primenjivaće se u visini koja je utvrđena u skladu sa\nzakonom u trenutku stupanja na snagu ovog zakona.\nOsnovica za obračun i isplatu plata, odnosno zarada kod korisnika javnih sredstava iz člana\n2. stav 1. tač. 4)–6) Zakona primenjivaće se u visini koja je bila utvrđena do dana stupanja na\nsnagu Zakona.\nČlan 3.\nOvaj zakon stupa na snagu 1. januara 2020. godine.",
+  "legal_units_count": 3,
+  "document_entities": [
+    {
+      "entity_id": "3464e41c-03c7-4606-a083-a043d0518a2f",
+      "entity_type": "DATE",
+      "text": "1. januara 2020",
+      "start_char": 1058,
+      "end_char": 1073,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "6eeda144-7a8a-4300-b3a5-5170adc09a4f",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 219,
+      "end_char": 225,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "60ab845e-661d-4e5f-96d0-ac3edca4e0b4",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 489,
+      "end_char": 495,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "a6c01060-9562-49e4-a9a0-4292f51b3510",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 2",
+      "start_char": 683,
+      "end_char": 690,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "c77e0832-3003-44cf-aaf4-7166ed72231d",
+      "entity_type": "LEGAL_REF",
+      "text": "člana\n2",
+      "start_char": 908,
+      "end_char": 915,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "60c45f36-b32b-484f-88dc-e0a4a5ebbcbf",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1024,
+      "end_char": 1030,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "07157905-759d-4bb4-b60b-3caaa69a050f",
+      "entity_type": "LEGAL_REF",
+      "text": "ZAKON\no prestanku važenja Zakona o privremenom uređivanju osnovica za obračun i isplatu plata",
+      "start_char": 0,
+      "end_char": 93,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "0364b8ca-8807-45e2-8c15-7520142b55c9",
+      "entity_type": "LEGAL_REF",
+      "text": "Zakon o privremenom uređivanju\nosnovica za obračun i isplatu plata odnosno zarada i drugih stalnih primanja kod korisnika\njavnih sredstava",
+      "start_char": 280,
+      "end_char": 418,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "17107a25-5393-4960-8aba-61498263de7a",
+      "entity_type": "LEGAL_REF",
+      "text": "Zakon o privremenom uređivanju osnovica za obračun i isplatu plata odnosno zarada i drugih stalnih primanja kod korisnika javnih sredstava",
+      "start_char": 53,
+      "end_char": 191,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "2fd98a41-6d7f-4259-ad51-8dbc8d4b4b1f",
+      "text": "Danom stupanja na snagu ovog zakona prestaje da važi Zakon o privremenom uređivanju osnovica za obračun i isplatu plata odnosno zarada i drugih stalnih primanja kod korisnika javnih sredstava („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 220,
+      "entities": [
+        {
+          "entity_id": "e77b15da-5b49-4602-a185-3201d5a09d1d",
+          "entity_type": "LEGAL_REF",
+          "text": "Zakon o privremenom uređivanju osnovica za obračun i isplatu plata odnosno zarada i drugih stalnih primanja kod korisnika javnih sredstava",
+          "start_char": 53,
+          "end_char": 191,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "d4fdc116-a594-457f-a329-f3467e1c63a1",
+      "text": "Osnovica, odnosno vrednost radnog časa, vrednost boda i vrednost osnovne zarade (u daljem tekstu: osnovica), za obračun i isplatu plata, odnosno zarada kod korisnika javnih sredstava iz člana 2.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 195,
+      "entities": [
+        {
+          "entity_id": "f3670d19-959c-4759-8aff-71e5624b75eb",
+          "entity_type": "LEGAL_REF",
+          "text": "člana 2",
+          "start_char": 186,
+          "end_char": 193,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "19484900-c58a-43a8-b3e6-58955493ab88",
+      "text": "1)–3) Zakona primenjivaće se u visini koja je utvrđena u skladu sa zakonom u trenutku stupanja na snagu ovog zakona.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 208,
+      "end_char": 325,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "dec379b2-8dd2-4c35-a2f6-3dcf4661ba10",
+          "condition_type": "condition",
+          "text": "u skladu sa zakonom u trenutku stupanja na snagu ovog zakona",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "ce390225-ccd2-4463-843f-8404967f7a40",
+      "text": "Osnovica za obračun i isplatu plata, odnosno zarada kod korisnika javnih sredstava iz člana",
+      "confidence": 0.5,
+      "sentence_index": 4,
+      "start_char": 325,
+      "end_char": 416,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:16:40.866447Z"
+}

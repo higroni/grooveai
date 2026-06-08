@@ -1,0 +1,106 @@
+{
+  "import_run_id": "03363ff1-1c85-4d0f-a2f4-441fee69e974",
+  "document": {
+    "name": "radni_odnosi_0164_000164.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0164_000164.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:14.376943Z"
+  },
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 ‒ US, 113/17 i 95/18 ‒ dr. propis),\nVlada Republike Srbije i reprezentativni sindikati: Samostalni sindikat kulture Srbije i\nGranski sindikat kulture, umetnosti i medija „Nezavisnost”, 30. decembra 2024. godine,\nzaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za ustanove kulture čiji je osnivač\nRepublika Srbija, autonomna pokrajina i jedinica lokalne samouprave\n\"Službeni glasnik RS\", broj 108 od 31. decembra 2024.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za ustanove kulture čiji je osnivač Republika Srbija,\nautonomna pokrajina i jedinica lokalne samouprave („Službeni glasnik RS”, br. 3/22 i\n114/23), produžava se do 12. januara 2028. godine.\nČlan 2.\nOvaj sporazum sačinjen je u 6 (šest) istovetnih primeraka, od kojih svaki od učesnika\nzadržava po 2 (dva) primerka i smatra se zaključenim kada ga potpišu ovlašćeni\npredstavnici učesnika.\nČlan 3.\nOvaj sporazum stupa na snagu osmog dana od objavljivanja u „Službenom glasniku Republike\nSrbije”.\nZa Vladu,\nMinistar kulture,\nNikola Selaković, s.r.\nZa Samostalni sindikat kulture Srbije,\nPredsednik,\nDragana Đorđević, s.r.\nZa Granski sindikat kulture, umetnosti\ni medija „Nezavisnost”,\npo Ovlašćenju – Odluka Izvršnog odbora\nGranskog sindikata kulture,\numetnosti i medija „Nezavisnost”,\nbroj 52 od 27. decembra 2024. godine\nTatjana Brebanović, s.r.",
+  "legal_units_count": 3,
+  "document_entities": [
+    {
+      "entity_id": "ce0b8e29-a39f-4287-b1c9-b933bafd026d",
+      "entity_type": "DATE",
+      "text": "12. januara 2028",
+      "start_char": 766,
+      "end_char": 782,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "ec543c10-e502-4295-9df4-e2f76eb17219",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "c228e45c-78a5-4e33-b834-9fe8429f85b5",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 557,
+      "end_char": 563,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "a88b348c-a58c-4961-9a6e-9b2057c6eaad",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 792,
+      "end_char": 798,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "4202c19d-db9b-4ec9-8dd2-0652594bce63",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 988,
+      "end_char": 994,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "f9bf29d9-6f6e-45bf-bce5-04c984cde638",
+      "text": "Važenje Posebnog kolektivnog ugovora za ustanove kulture čiji je osnivač Republika Srbija, autonomna pokrajina i jedinica lokalne samouprave („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 169,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "358cc458-863e-43ef-bb64-0187fe0b8628",
+      "text": "Ovaj sporazum sačinjen je u 6 (šest) istovetnih primeraka, od kojih svaki od učesnika zadržava po 2 (dva) primerka i smatra se zaključenim kada ga potpišu ovlašćeni predstavnici učesnika.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 187,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "bac91ecd-ff91-4d71-8d08-e46bb26f9396",
+          "condition_type": "condition",
+          "text": "od kojih svaki od učesnika zadržava po 2 (dva) primerka i smatra se zaključenim kada ga potpišu ovlašćeni predstavnici učesnika",
+          "trigger_word": "kada",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "90719b01-c9e4-42db-a7e2-a1e610b1da74",
+      "text": "Ovaj sporazum stupa na snagu osmog dana od objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 98,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "08a36f0e-fd75-4ce0-a993-81c6101fe8b5",
+      "text": "Za Granski sindikat kulture, umetnosti i medija „Nezavisnost”, po Ovlašćenju – Odluka Izvršnog odbora Granskog sindikata kulture, umetnosti i medija „Nezavisnost”, broj 52 od 27.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 223,
+      "end_char": 402,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:14.376943Z"
+}

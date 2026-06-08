@@ -1,0 +1,305 @@
+{
+  "import_run_id": "e43d6673-200a-4d35-9b6c-41c5433eb39b",
+  "document": {
+    "name": "radni_odnosi_0126_000126.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0126_000126.pdf",
+    "title": "ZAKON o određivanju poslova i radnih zadataka za obavezno zapošljavanje slepih",
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:16:31.542260Z"
+  },
+  "full_text": " \n \n \nZAKON\no određivanju poslova i radnih zadataka za obavezno zapošljavanje slepih\ninvalida rada i drugih slepih lica\n„Službeni glasnik SRS”, br. 50 od 9. decembra 1978, 24 od 6. jula 1985 - dr. zakon, 6 od\n25. februara 1989 - dr. zakon, \"Službeni glasnik RS\", broj 67 od 30. avgusta 1993 - dr. zakon\n \n \nČlan 1.\nOsnovne organizacije udruženog rada i druge samoupravne organizacije i zajednice (u\ndaljem tekstu: organizacije), dužne su da za obavljanje poslova i radnih zadataka (u daljem\ntekstu: poslovi) telefonista kućnih telefonskih centrala, kapaciteta najmanje četiri\nlinije za poštansko-telefonsku mrežu, zapošljavaju slepe invalide rada i druga slepa lica\nkoja su osposobljena za obavljanje takvih poslova.\nObavezno zapošljavanje iz stava 1. ovog člana, odnosi se na slučajeve potrebe povećanja\nbroja radnika za obavljanje tih poslova, kao i na slučajeve prestanka rada radnika koji su\nobavljali te poslove.\n \nČlan 2.\nOrganizacije koje za obavljanje redovne delatnosti zapošljavaju nastavnike, odnosno\nprofesore, koji izvode predmetnu nastavu dužne su da, pod jednakim uslovima za prijem na\nrad, zaposle slepo lice koje za te poslove ispunjava uslove utvrđene zakonom i samoupravnim\nopštim aktom.\nOrganizacije koje u okviru redovne delatnosti za obavljanje medicinskih usluga\nzapošljavaju fizioterapeute na poslovima masaže i primene pasivnih vežbi dužne su da za\nte poslove zapošljavaju slepa lica koja imaju odgovarajuću stručnu spremu.\nOrganizacije koje u okviru redovne delatnosti obavljaju poslove na izradi predmeta od\nplastičnih masa, kartonske i papirne ambalaže, obrade metala i pakovanje dužne su da za te\nposlove zapošljavaju slepa lica koja imaju odgovarajuću stručnu spremu.\nOrganizacije iz stava 3. ovog člana samoupravnim opštim aktima utvrđuju poslove i\nzadatke na kojima se zapošljavaju slepa lica.\nZa poslove iz st. 2. i 4. ovog člana organizacije zapošljavaju slepa lica prema\npotrebama za radnicima, a najmanje jedno slepo lice na pet radnika koji obavljaju te poslove.\n \nČlan 3.Redakcijski prečišćen tekst\nOrganizacije su dužne da usklade svoje samoupravne opšte akte sa odredbama ovog\nzakona u roku od šest meseci od dana njegovog stupanja na snagu.\n \nČlan 4.\nNovčanom kaznom do 350.000.000* dinara kazniće se za prekršaj organizacija, ako ne\nzaposli slepog invalida rada ili drugo slepo lice u skladu sa odredbama ovog zakona.\nZa prekršaj iz stava 1. ovog člana kazniće se i odgovorni radnik u organizaciji\nnovčanom kaznom do 70.000.000* dinara.\n \n*Službeni glasnik RS, b roj 67/1993\n \nČlan 5.\nStupanjem na snagu ovog zakona prestaje da važi Zakon o određivanju radnih mesta za\nzapošljavanje slepih invalida rada i drugih slepih lica („Službeni glasnik SRS”, br. 10/70\ni 4/75).\n \nČlan 6.\nOvaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nSocijalističke Republike Srbije”.\n ",
+  "legal_units_count": 5,
+  "document_entities": [
+    {
+      "entity_id": "50258c4d-11ea-4888-a6d2-26617e4c102f",
+      "entity_type": "DATE",
+      "text": "6. jula 1985",
+      "start_char": 172,
+      "end_char": 184,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "4a3ff571-c3f1-40b2-b408-88fe28a54355",
+      "entity_type": "DATE",
+      "text": "25. februara 1989",
+      "start_char": 203,
+      "end_char": 220,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "bcc4a58f-c516-4df3-9915-61b9842abe2b",
+      "entity_type": "DATE",
+      "text": "30. avgusta 1993",
+      "start_char": 268,
+      "end_char": 284,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "67187427-0a2a-47ca-9430-c279bd317059",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 299,
+      "end_char": 305,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "7b280c8f-50e5-4fde-a1aa-3348686294ce",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 911,
+      "end_char": 917,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "933dfc53-d955-4520-8f11-616966318546",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1992,
+      "end_char": 1998,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "29a3a760-28cc-4569-8ab5-6a9ca0c46e1a",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 2173,
+      "end_char": 2179,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "7bbd3edd-91d5-4787-8463-29126eb79be5",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 2506,
+      "end_char": 2512,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "3c101d31-6d86-4c83-afe3-4301c3e47e19",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 2699,
+      "end_char": 2705,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "eb5992ac-253f-49be-9d86-0990f3521f10",
+      "entity_type": "LEGAL_REF",
+      "text": "ZAKON\no određivanju poslova i radnih zadataka za obavezno zapošljavanje slepih\ninvalida rada i drugih slepih lica",
+      "start_char": 0,
+      "end_char": 113,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "5e046b10-b7ec-4411-ba79-8ee598bdb3e7",
+      "entity_type": "LEGAL_REF",
+      "text": "Zakon o određivanju radnih mesta za\nzapošljavanje slepih invalida rada i drugih slepih lica",
+      "start_char": 2562,
+      "end_char": 2653,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "a6f90d44-9a21-4b52-87ab-21a62dbac111",
+      "entity_type": "LEGAL_REF",
+      "text": "Zakon o određivanju radnih mesta za zapošljavanje slepih invalida rada i drugih slepih lica",
+      "start_char": 48,
+      "end_char": 139,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "3645a260-a1de-4e73-a268-ec4e7b565b83",
+      "text": "Osnovne organizacije udruženog rada i druge samoupravne organizacije i zajednice (u daljem tekstu: organizacije), dužne su da za obavljanje poslova i radnih zadataka (u daljem tekstu: poslovi) telefonista kućnih telefonskih centrala, kapaciteta najmanje četiri linije za poštansko-telefonsku mrežu, zapošljavaju slepe invalide rada i druga slepa lica koja su osposobljena za obavljanje takvih poslova.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 402,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "8cae8dee-bcab-4910-ac69-15e68ea695fa",
+      "text": "ovog člana, odnosi se na slučajeve potrebe povećanja broja radnika za obavljanje tih poslova, kao i na slučajeve prestanka rada radnika koji su obavljali te poslove.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 437,
+      "end_char": 602,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "7a0480d7-1863-4ce2-b97f-0e681b206058",
+      "text": "Organizacije koje za obavljanje redovne delatnosti zapošljavaju nastavnike, odnosno profesore, koji izvode predmetnu nastavu dužne su da, pod jednakim uslovima za prijem na rad, zaposle slepo lice koje za te poslove ispunjava uslove utvrđene zakonom i samoupravnim opštim aktom.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 279,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "daf899ee-e7eb-4807-86db-bd80ddb0b226",
+      "text": "Organizacije koje u okviru redovne delatnosti za obavljanje medicinskih usluga zapošljavaju fizioterapeute na poslovima masaže i primene pasivnih vežbi dužne su da za te poslove zapošljavaju slepa lica koja imaju odgovarajuću stručnu spremu.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 279,
+      "end_char": 521,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "aef560be-3b63-4315-861b-c16b8c97152f",
+      "text": "Organizacije koje u okviru redovne delatnosti obavljaju poslove na izradi predmeta od plastičnih masa, kartonske i papirne ambalaže, obrade metala i pakovanje dužne su da za te poslove zapošljavaju slepa lica koja imaju odgovarajuću stručnu spremu.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 521,
+      "end_char": 770,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "6f06b819-1b6a-46f5-9dba-4e6c2dfa217c",
+      "text": "ovog člana samoupravnim opštim aktima utvrđuju poslove i zadatke na kojima se zapošljavaju slepa lica.",
+      "confidence": 0.5,
+      "sentence_index": 4,
+      "start_char": 795,
+      "end_char": 898,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "1e11de12-fc46-41f3-837c-c1e43660ceee",
+      "text": "ovog člana organizacije zapošljavaju slepa lica prema potrebama za radnicima, a najmanje jedno slepo lice na pet radnika koji obavljaju te poslove.",
+      "confidence": 0.5,
+      "sentence_index": 8,
+      "start_char": 924,
+      "end_char": 1072,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "775abdca-326f-4e07-b73b-b7c67db42202",
+      "text": "Član 3.Redakcijski prečišćen tekst Organizacije su dužne da usklade svoje samoupravne opšte akte sa odredbama ovog zakona u roku od šest meseci od dana njegovog stupanja na snagu.",
+      "confidence": 0.5,
+      "sentence_index": 9,
+      "start_char": 1072,
+      "end_char": 1251,
+      "entities": [
+        {
+          "entity_id": "f5f4cc0a-c5af-4f2a-8f40-648bcd8315c5",
+          "entity_type": "LEGAL_REF",
+          "text": "Član 3",
+          "start_char": 0,
+          "end_char": 6,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "6d7a6feb-de5c-43f2-8f13-da38ecc2a5c0",
+          "condition_type": "temporal",
+          "text": "Redakcijski prečišćen tekst Organizacije su dužne da usklade svoje samoupravne opšte akte sa odredbama ovog zakona u roku od šest meseci od dana njegovog stupanja na snagu",
+          "trigger_word": "u roku od",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "f76114b3-e4d5-4a17-9552-2e8533cd86a5",
+          "condition_type": "temporal",
+          "text": "Redakcijski prečišćen tekst Organizacije su dužne da usklade svoje samoupravne opšte akte sa odredbama ovog zakona u roku od šest meseci od dana njegovog stupanja na snagu",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "ba9c646d-ec8f-41b9-b743-6dfc5e30112f",
+      "text": "Novčanom kaznom do 350.000.000* dinara kazniće se za prekršaj organizacija, ako ne zaposli slepog invalida rada ili drugo slepo lice u skladu sa odredbama ovog zakona.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 168,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "452f4e52-16e8-4214-a5ed-d85075583f45",
+          "condition_type": "condition",
+          "text": "000* dinara kazniće se za prekršaj organizacija, ako ne zaposli slepog invalida rada ili drugo slepo lice u skladu sa odredbama ovog zakona",
+          "trigger_word": "ako",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "dcbab49c-e129-4062-8197-0d307a2b9068",
+          "condition_type": "condition",
+          "text": "ako ne zaposli slepog invalida rada ili drugo slepo lice u skladu sa odredbama ovog zakona",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "e0795088-8d11-4f61-90e8-9fb19319557c",
+          "condition_type": "temporal",
+          "text": "do 350",
+          "trigger_word": "do",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "assertion_id": "2dc624ac-41b1-4877-84c9-b18e5a769009",
+      "text": "ovog člana kazniće se i odgovorni radnik u organizaciji novčanom kaznom do 70.000.000* dinara.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 192,
+      "end_char": 287,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "2720cd20-cd1d-4aff-8cd1-760327388241",
+          "condition_type": "temporal",
+          "text": "do 70",
+          "trigger_word": "do",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "assertion_id": "f5df6038-54c2-447f-86ae-6c30c893cbb8",
+      "text": "Stupanjem na snagu ovog zakona prestaje da važi Zakon o određivanju radnih mesta za zapošljavanje slepih invalida rada i drugih slepih lica („Službeni glasnik SRS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 169,
+      "entities": [
+        {
+          "entity_id": "34968561-b648-4830-b40d-0ebae01d789e",
+          "entity_type": "LEGAL_REF",
+          "text": "Zakon o određivanju radnih mesta za zapošljavanje slepih invalida rada i drugih slepih lica",
+          "start_char": 48,
+          "end_char": 139,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "caade382-177f-4bda-bef5-43c6cc5a6c1a",
+      "text": "Ovaj zakon stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Socijalističke Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 114,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "ff02af07-7399-4a8c-9ced-0ea68a264292",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Socijalističke Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:16:31.542260Z"
+}

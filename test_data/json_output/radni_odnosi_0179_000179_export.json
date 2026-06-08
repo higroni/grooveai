@@ -1,0 +1,80 @@
+{
+  "import_run_id": "ba99905a-4b40-4934-94b8-0c1e93f91676",
+  "document": {
+    "name": "radni_odnosi_0179_000179.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0179_000179.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:34.244611Z"
+  },
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje),\nReprezentativni sindikati u oblasti visokog obrazovanja: Sindikat obrazovanja Srbije i\nSindikat visokog obrazovanja Srbije i Vlada, 23. novembra 2020. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za visoko obrazovanje\n\"Službeni glasnik RS\", broj 152 od 18. decembra 2020.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za visoko obrazovanje („Službeni glasnik RS”, br.\n86/19 i 93/20) produžava se do 14. decembra 2022. godine.\nČlan 2.\nOvaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nBroj 110-00-493/2020-02\nU Beogradu, 10. decembra 2020. godine\nZa Vladu\nMinistar prosvete, nauke i tehnološkog razvoja,\nBranko Ružić, s.r.\nZa Sindikat obrazovanja Srbije,\nmr Valentina Ilić, s.r.\nZa Sindikat visokog obrazovanja Srbije,\ndr Dragana Latković, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "8ff2f008-5143-44e3-9ab8-f99cb28f540f",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "694875e7-cbac-4ce7-a791-f4c648971c90",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 468,
+      "end_char": 474,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "4e14f4e9-5dab-402d-a3e4-49029dbd5800",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 621,
+      "end_char": 627,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "061ded04-8bfd-4bf1-8da4-7d024496e941",
+      "text": "Važenje Posebnog kolektivnog ugovora za visoko obrazovanje („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 87,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "d000b4e6-b984-4699-9c2e-e1e9cbd5d87d",
+      "text": "Ovaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 103,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "4401dfc8-7398-4f7a-9241-1508c5167ee8",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "610b280a-050e-4653-8d9d-96d5bc94ebb4",
+      "text": "godine Za Vladu Ministar prosvete, nauke i tehnološkog razvoja, Branko Ružić, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 158,
+      "end_char": 241,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:34.244611Z"
+}

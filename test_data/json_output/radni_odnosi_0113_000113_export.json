@@ -1,0 +1,65 @@
+{
+  "import_run_id": "ea2efbbb-58ff-4345-9a0f-9ffbf1f115d7",
+  "document": {
+    "name": "radni_odnosi_0113_000113.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0113_000113.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:16:21.221536Z"
+  },
+  "full_text": "Na osnovu člana 33. st. 2. i 3, člana 17. stav 1. i člana 43. stav 1. Zakona o Vladi („Službeni\nglasnik RS”, br. 55/05, 71/05 – ispravka, 101/07, 65/08, 16/11, 68/12 – US, 72/12, 7/14 – US,\n44/14 i 30/18 – dr. zakon) i člana 7. Uredbe o Programu podsticanja zapošljavanja mladih\n„Moja prva plata” („Službeni glasnik RS”, broj 107/20),\nVlada donosi\nODLUKU\no obrazovanju Radne grupe za praćenje sprovođenja Programa podsticanja zapošljavanja mladih\n„Moja prva plata”\n\"Službeni glasnik RS\", broj 122 od 9. oktobra 2020.\n1. Obrazuje se Radna grupa za praćenje sprovođenja Programa podsticanja zapošljavanja\nmladih „Moja prva plata” (u daljem tekstu: Radna grupa).\n2. U Radnu grupu se imenuju:\n1) za predsednika:\n– Vukašin Grozdić, Kabinet predsednika Vlade;\n2) za članove:\n– Ljiljana Manojlović, Ministarstvo finansija,\n– Dragica Ivanović, Ministarstvo za rad, zapošljavanje, boračka i socijalna pitanja,\n– Boško Latković, Ministarstva za rad, zapošljavanje, boračka i socijalna pitanja,\n– Snežana Klašnja, Ministarstvo omladine i sporta,\n– Neda Milanović, Nacionalna služba za zapošljavanje,\n– Ilija Knežević, Nacionalna služba za zapošljavanje,\n– Mirjana Kovačević, Privredna komora Srbije.\n3. Zadatak Radne grupe je da prati sprovođenje Programa podsticanja zapošljavanja mladih\n„Moja prva plata” i razmatra pitanja, daje predloge, mišljenja i stručna obrazloženja o\npitanjima od značaja za sprovođenje Programa.\n4. Članovi Radne grupe nemaju pravo na naknadu za rad.\n5. Stručnu i administrativno-tehničku potporu Radnoj grupi pruža ministarstvo nadležno za\nposlove zapošljavanja.\n6. Radna grupa je dužna da izveštaj o radu dostavlja nadležnom odboru Vlade najmanje svakih\n60 dana, a Vladi najmanje svakih 90 dana.\n7. Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n05 broj 02-7828/2020-3\nU Beogradu, 8. oktobra 2020. godine\nVlada\nPredsednik,\nAna Brnabić, s.r.",
+  "legal_units_count": 0,
+  "document_entities": [
+    {
+      "entity_id": "d4a51183-7695-4eb2-8021-2d3959be30a3",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 33",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "93c51353-81d1-4d47-b46e-3f3d552cd2de",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 17",
+      "start_char": 32,
+      "end_char": 40,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e6e73e49-062c-44d9-81ae-9ac7bcc80f28",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 43",
+      "start_char": 52,
+      "end_char": 60,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "642cfef1-2817-4c8b-9b19-740eb6105a11",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 7",
+      "start_char": 219,
+      "end_char": 226,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "a44aaa8c-89da-40a8-a0ab-e67cc7c9657a",
+      "entity_type": "DURATION",
+      "text": "60 dana",
+      "start_char": 1672,
+      "end_char": 1679,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "d69b6696-2637-45f1-a6a3-b12f49e964a0",
+      "entity_type": "DURATION",
+      "text": "90 dana",
+      "start_char": 1705,
+      "end_char": 1712,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [],
+  "export_timestamp": "2026-06-08T17:16:21.221536Z"
+}

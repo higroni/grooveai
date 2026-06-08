@@ -1,66 +1,54 @@
-"""
-Script to check the unified database structure and contents.
-"""
 import sqlite3
-import os
 from pathlib import Path
-import sys
 
-# Set UTF-8 encoding for Windows console
-if sys.platform == 'win32':
-    sys.stdout.reconfigure(encoding='utf-8')
+db_path = Path("data/databases/grooveai_unified.db")
 
-def check_unified_database():
-    """Check the unified database structure."""
-    db_path = Path("data/databases/grooveai_unified.db")
-    
-    if not db_path.exists():
-        print(f"[X] Unified database not found at: {db_path}")
-        print("\nExpected location: data/databases/grooveai_unified.db")
-        return
-    
-    print(f"[OK] Unified database found at: {db_path}")
-    print(f"     Size: {db_path.stat().st_size / 1024:.2f} KB\n")
-    
-    # Connect to database
-    conn = sqlite3.connect(db_path)
-    cursor = conn.cursor()
-    
-    # Get all tables
-    cursor.execute("SELECT name FROM sqlite_master WHERE type='table' ORDER BY name")
-    tables = cursor.fetchall()
-    
-    print(f"[INFO] Found {len(tables)} tables:\n")
-    
-    for (table_name,) in tables:
-        # Get row count
-        cursor.execute(f"SELECT COUNT(*) FROM {table_name}")
-        count = cursor.fetchone()[0]
-        
-        # Get table schema
-        cursor.execute(f"PRAGMA table_info({table_name})")
-        columns = cursor.fetchall()
-        
-        print(f"  TABLE: {table_name}")
-        print(f"     Rows: {count}")
-        print(f"     Columns: {len(columns)}")
-        
-        # Show column details
-        for col in columns:
-            col_id, col_name, col_type, not_null, default_val, pk = col
-            pk_marker = " [PK]" if pk else ""
-            not_null_marker = " NOT NULL" if not_null else ""
-            print(f"       - {col_name}: {col_type}{pk_marker}{not_null_marker}")
-        
-        print()
-    
-    conn.close()
-    
-    print("\n" + "="*60)
-    print("Database check complete!")
-    print("="*60)
+if not db_path.exists():
+    print(f"ERROR: Unified database does not exist: {db_path}")
+    exit(1)
 
-if __name__ == "__main__":
-    check_unified_database()
+conn = sqlite3.connect(db_path)
+cursor = conn.cursor()
+
+# Get all tables
+cursor.execute("SELECT name FROM sqlite_master WHERE type='table'")
+tables = [t[0] for t in cursor.fetchall()]
+
+print(f"Unified DB has {len(tables)} tables:")
+for table in tables:
+    cursor.execute(f"SELECT COUNT(*) FROM {table}")
+    count = cursor.fetchone()[0]
+    print(f"  {table}: {count} rows")
+
+print("\n" + "="*60)
+print("CHECKING MODULE DATABASE CONFIGURATIONS")
+print("="*60)
+
+# Check which modules are configured to use unified DB
+modules_to_check = [
+    "file_reader",
+    "text_normalizer", 
+    "latinizer",
+    "legal_parser",
+    "assertion_extractor",
+    "entity_recognizer",
+    "condition_extractor",
+    "assertion_classifier",
+    "embedding_generator",
+    "vector_store"
+]
+
+for module in modules_to_check:
+    db_file = Path(f"modules/{module}/database.py")
+    if db_file.exists():
+        content = db_file.read_text(encoding='utf-8')
+        if "grooveai_unified.db" in content:
+            print(f"[OK] {module}: USING unified DB")
+        else:
+            print(f"[X] {module}: NOT using unified DB")
+    else:
+        print(f"? {module}: database.py not found")
+
+conn.close()
 
 # Made with Bob

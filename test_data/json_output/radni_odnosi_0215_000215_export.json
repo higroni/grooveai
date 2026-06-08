@@ -1,0 +1,189 @@
+{
+  "import_run_id": "d59bdea3-c09d-42fa-9f50-687b88b294e7",
+  "document": {
+    "name": "radni_odnosi_0215_000215.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0215_000215.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:27:34.615137Z"
+  },
+  "full_text": "Na osnovu člana 246. stav 1. i člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br.\n24/05, 61/05, 54/09, 32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje),\nGrad Subotica i Savez samostalnih sindikata grada Subotice – Sindikat zaposlenih u\nkomunalno-stambenoj delatnosti grada Subotice 25. novembra 2024. godine, zaključili su\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za javna i javno komunalna preduzeća\ngrada Subotice\n\"Službeni glasnik RS\", broj 97 od 6. decembra 2024.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za javna i javno komunalna preduzeća grada Subotice\n(„Službeni glasnik RS”, broj 127/21) produžava se do 31. decembra 2027. godine.\nČlan 2.\nOvaj sporazum sačinjen je u 6 (šest) istovetnih primeraka od kojih grad Subotica zadržava 4\n(četiri) primerka, a Sindikat zaposlenih u komunalno-stambenoj delatnosti grada Subotice 2\n(dva) primerka i smatra se zaključenim kada ga potpišu ovlašćeni predstavnici učesnika\nkolektivnog ugovora.\nČlan 3.\nOvaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nZa sindikat\nPredsednik Sindikata zaposlenih\nu komunalno-stambenoj delatnosti grada Subotice,\nDolora Stojanović, s.r.\nZa osnivača\nGradonačelnik grada Subotice,\nStevan Bakić, s.r.",
+  "legal_units_count": 3,
+  "document_entities": [
+    {
+      "entity_id": "574d075b-c036-4887-8ebf-601ddaa8937d",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 246",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "9b1ceb07-f1f2-42ae-9b01-d1aaaf3b291d",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 31,
+      "end_char": 40,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e52a1f59-f519-4e61-8a63-e12c96deee29",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 517,
+      "end_char": 523,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "8cf0171c-015e-4aa8-91d0-3c7f9f0fa76f",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 694,
+      "end_char": 700,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "22879602-3ed0-4799-967e-d31d15fa839d",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 993,
+      "end_char": 999,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "431ee172-4c83-4a69-b172-8a33803bdf91",
+      "entity_type": "LOCATION",
+      "text": "Subotica",
+      "start_char": 184,
+      "end_char": 192,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "840f2ae9-e446-4deb-a505-5e959a8ab815",
+      "entity_type": "LOCATION",
+      "text": "Grad Subotica",
+      "start_char": 179,
+      "end_char": 192,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "360486a9-019e-473a-a24f-24b35148734b",
+      "entity_type": "LOCATION",
+      "text": "grada Subotice",
+      "start_char": 223,
+      "end_char": 237,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "5b634db4-df25-4c96-a32a-14ca401e1e36",
+      "text": "Važenje Posebnog kolektivnog ugovora za javna i javno komunalna preduzeća grada Subotice („Službeni glasnik RS”, broj 127/21) produžava se do 31.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 146,
+      "entities": [
+        {
+          "entity_id": "44d445c8-2dc5-4bd3-82ce-26ecbbab1d3c",
+          "entity_type": "LOCATION",
+          "text": "grada Subotice",
+          "start_char": 74,
+          "end_char": 88,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "3d49059c-514c-42ee-97dc-2f835b0c48b0",
+          "condition_type": "temporal",
+          "text": "broj 127/21) produžava se do 31",
+          "trigger_word": "do",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "assertion_id": "5d0de16b-ad39-4c9e-b808-9859d0db879a",
+      "text": "Ovaj sporazum sačinjen je u 6 (šest) istovetnih primeraka od kojih grad Subotica zadržava 4 (četiri) primerka, a Sindikat zaposlenih u komunalno-stambenoj delatnosti grada Subotice 2 (dva) primerka i smatra se zaključenim kada ga potpišu ovlašćeni predstavnici učesnika kolektivnog ugovora.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 290,
+      "entities": [
+        {
+          "entity_id": "618bba16-be2d-48fb-aca1-c606149a2cfd",
+          "entity_type": "LOCATION",
+          "text": "Subotica",
+          "start_char": 72,
+          "end_char": 80,
+          "confidence": 0.85
+        },
+        {
+          "entity_id": "ca6fd149-b0c3-483f-8f7e-0774522ca767",
+          "entity_type": "LOCATION",
+          "text": "grad Subotica",
+          "start_char": 67,
+          "end_char": 80,
+          "confidence": 0.85
+        },
+        {
+          "entity_id": "615ad4a9-6f0b-4bde-a073-8646b0daa717",
+          "entity_type": "LOCATION",
+          "text": "grada Subotice",
+          "start_char": 166,
+          "end_char": 180,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "e8d9b04d-8c4b-448d-8cdd-49360e9e17a3",
+          "condition_type": "condition",
+          "text": "a Sindikat zaposlenih u komunalno-stambenoj delatnosti grada Subotice 2 (dva) primerka i smatra se zaključenim kada ga potpišu ovlašćeni predstavnici učesnika kolektivnog ugovora",
+          "trigger_word": "kada",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "7ba901af-f916-4949-af4e-e2e6ad1c205c",
+      "text": "Ovaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 103,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "93dc3cdd-6bbe-41f1-a7eb-987511c81a17",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "72ca3391-1128-486e-b5fe-2f2985c37239",
+      "text": "Za sindikat Predsednik Sindikata zaposlenih u komunalno-stambenoj delatnosti grada Subotice, Dolora Stojanović, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 103,
+      "end_char": 220,
+      "entities": [
+        {
+          "entity_id": "11af10c6-17fb-449d-9d13-709e8a6a9b61",
+          "entity_type": "LOCATION",
+          "text": "grada Subotice",
+          "start_char": 77,
+          "end_char": 91,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:27:34.615137Z"
+}

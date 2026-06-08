@@ -1,0 +1,114 @@
+{
+  "import_run_id": "bcd97d9b-87b7-4c5a-b91d-7eb6f5bad135",
+  "document": {
+    "name": "radni_odnosi_0191_000191.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0191_000191.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:45.101594Z"
+  },
+  "full_text": "Na osnovu člana 4. stav 2. Zakona o državnim službenicima („Službeni glasnik RS”, br.\n79/05, 81/05 – ispravka, 83/05 – ispravka, 64/07, 67/07 – ispravka, 116/08, 104/09, 99/14,\n94/17, 95/18, 157/20 i 142/22), a u vezi sa članom 263. stav 2. Zakona o radu („Službeni\nglasnik RS”, br. 24/05, 61/05, 54/09, 32/13, 75/14, 13/17 – US, 113/17 i 95/18 – dr. propis),\nVlada i reprezentativni sindikati koji su osnovani za teritoriju Republike Srbije:\nSindikat uprave Srbije, Sindikat zaposlenih u pravosudnim organima Republike Srbije i\nSindikat organizacija pravosudnih organa Srbije, 29. maja 2023. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za državne organe\n\"Službeni glasnik RS\", broj 44 od 31. maja 2023.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za državne organe („Službeni glasnik RS”, br. 38/19,\n55/20, 51/22 – dr. propis i 44/23) produžava se do 31. maja 2026. godine.\nČlan 2.\nOvaj sporazum stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”.\nZa Vladu\nMinistar državne uprave i lokalne samouprave,\ndr Aleksandar Martinović, s.r.\nZa Sindikat uprave Srbije\nSlađan Bobić, s.r.\nZa Sindikat zaposlenih\nu pravosudnim organima Republike Srbije\nSlađanka Milošević, s.r.\nZa Sindikat organizacija pravosudnih organa Srbije\nVioleta Marković, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "a7b6e3cb-df91-4829-9cef-fcc4747b8960",
+      "entity_type": "DATE",
+      "text": "29. maja 2023",
+      "start_char": 578,
+      "end_char": 591,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "aa813250-87e2-4667-b907-c82db3b4ffd0",
+      "entity_type": "DATE",
+      "text": "31. maja 2023",
+      "start_char": 728,
+      "end_char": 741,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "ff3b645f-1566-45a1-8b06-cce7ee4a70e4",
+      "entity_type": "DATE",
+      "text": "31. maja 2026",
+      "start_char": 892,
+      "end_char": 905,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "916cbaa1-c143-458c-b69b-313b3df718e9",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 4",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "76bb46b9-58ed-4a09-93ea-790fb9cd138c",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 263",
+      "start_char": 221,
+      "end_char": 231,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "4d2d38e5-5a1f-4f91-9093-bbe04e98349a",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 743,
+      "end_char": 749,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "3b1e38ed-4ff6-4dc9-ad4a-1515c480cea7",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 915,
+      "end_char": 921,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "d568b9fa-41db-46a2-ae90-b959b722c699",
+      "text": "Važenje Posebnog kolektivnog ugovora za državne organe („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 83,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "f68d7bef-f055-4be9-a493-e1df2f4dcacc",
+      "text": "Ovaj sporazum stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 90,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "8233c11b-45a5-436c-b5ba-3efc96a8f7c8",
+      "text": "Za Vladu Ministar državne uprave i lokalne samouprave, dr Aleksandar Martinović, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 90,
+      "end_char": 176,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "5b350ea5-c316-4845-9c06-016f15e44777",
+      "text": "Za Sindikat zaposlenih u pravosudnim organima Republike Srbije Slađanka Milošević, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 221,
+      "end_char": 309,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:45.101594Z"
+}

@@ -1,0 +1,258 @@
+{
+  "import_run_id": "dee05ea0-8055-47c4-9ac5-57e009615923",
+  "document": {
+    "name": "radni_odnosi_0235_000235.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0235_000235.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:27:56.788581Z"
+  },
+  "full_text": " \nNa osnovu člana 13. stav 3. Zakona o uslovima za obavljanje psihološke delatnosti\n(„Službeni glasnik Republike Srbije”, broj 25/96),\nMinistar za rad, boračka i socijalna pitanja donosi\n \n \nPRAVILNIK\no organizaciji i n ačinu obavljanja nadzora nad stručnim r adom psihologa\n„Službeni glasnik RS”, broj 30 od 25. avgusta 1998.\n \n \nČlan 1.\nOvim pravilnikom bliže se uređuje organizacija i način obavljanja nadzora nad\nstručnim radom psihologa.\n \nČlan 2.\nNadzor nad stručnim radom psihologa obavlja, u skladu sa zakonom, psiholog koji je\npoložio stručni ispit, ima odgovarajuću specijalizaciju i najmanje isti stepen stručnosti\nkao i psiholog nad čijim radom se obavlja nadzor.\n \nČlan 3.\nUstanova ili druga organizacija u kojoj je psiholog zaposlen, odnosno preduzetnik koji\nobavlja psihološku delatnost, nad čijim stručnim radom treba izvršiti nadzor, pismeno se\nobaveštavaju najmanje tri dana ranije o vremenu vršenja nadzora.\n \nČlan 4.\nLice koje obavlja stručni nadzor (u daljem tekstu: nadzornik) u toku vršenja nadzora\nnad stručnim radom psihologa daje usmene ocene stručnog rada, ukazuje na nedostatke u radu i\nneposredno pruža odgovarajuću stručnu pomoć radi otklanjanja uočenih nedostataka.\n \nČlan 5.\nNadzornik sačinjava izveštaj o izvršenom nadzoru nad stručnim radom psihologa.\nIzveštaj sadrži naročito:\n1)naziv i sedište ustanove, odnosno druge organizacije u kojoj je psiholog zaposlen,\nlično ime, adresu i opis poslova psihologa, odnosno lično ime, adresu i opis poslova\npreduzetnika koji obavlja psihološku delatnost;\n2) datum i mesto izvršenog nadzora;\n3)lično ime nadzornika, sa podacima o vrsti i stepenu stručne spreme;\n4)utvrđeno činjenično stanje o stručnom radu, ocenu toga stanja i kvaliteta rada,\nuočene nedostatke, mere i rokove za otklanjanje utvrđenih nedostataka.\n \nČlan 6.\nIzveštaj o obavljenom nadzoru nad stručnim radom psihologa dostavlja se ustanovi ili\ndrugoj organizaciji u kojoj je psiholog zaposlen, odnosno preduzetniku, u skladu sa zakonom, i\nto u roku od 30 dana od izvršenog nadzora.\n \nČlan 7.\nOvaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n \nBroj 011-00-36/98-10\nU Beogradu, 11. avgusta 1998. godine\n Ministar,\nTomisl av Milenković, s.r.\n ",
+  "legal_units_count": 7,
+  "document_entities": [
+    {
+      "entity_id": "a6978a08-61ca-47ab-986d-c7fc53d5ab6a",
+      "entity_type": "DATE",
+      "text": "25. avgusta 1998",
+      "start_char": 305,
+      "end_char": 321,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "b4bd03cc-7770-47d1-a1cd-3f47c3529f43",
+      "entity_type": "DATE",
+      "text": "11. avgusta 1998",
+      "start_char": 2158,
+      "end_char": 2174,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "00797e8c-fd85-497b-a57e-a6c2af0c0150",
+      "entity_type": "DATE",
+      "text": "u roku od 30 dana",
+      "start_char": 1971,
+      "end_char": 1988,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "ffe9a7c6-75b0-4e8e-8804-d4af27a9d4d9",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 13",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "a63fb1c1-5e3b-4cf2-816a-f970bbe20ae3",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 325,
+      "end_char": 331,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "48b68a87-3b9a-4f10-87c6-dce9b7f1a822",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 438,
+      "end_char": 444,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "3f601576-0669-489c-900b-92121c0c6049",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 670,
+      "end_char": 676,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "0943614e-1468-456e-b82c-4f72943c4f9d",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 920,
+      "end_char": 926,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "06ff1db5-112f-4bcc-b4fe-256157f9c4d8",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 1189,
+      "end_char": 1195,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "d2755621-8e9c-45a1-9128-5cd8d9baab50",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 1780,
+      "end_char": 1786,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "ad3c1528-0225-4652-bec9-2364b2a97ee3",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 7",
+      "start_char": 2012,
+      "end_char": 2018,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "b6acffb6-fe5a-4b80-ad70-7f73730a4ae1",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no organizaciji i n ačinu obavljanja nadzora nad stručnim r adom psihologa",
+      "start_char": 187,
+      "end_char": 270,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "a23f14c5-e4b2-46ec-bb86-cb400f881121",
+      "entity_type": "DURATION",
+      "text": "30 dana",
+      "start_char": 1981,
+      "end_char": 1988,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "b58c1ebb-7b15-4861-a978-8ffb2bd10efd",
+      "text": "Ovim pravilnikom bliže se uređuje organizacija i način obavljanja nadzora nad stručnim radom psihologa.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 103,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "0a03728c-cc1e-451a-b5d9-0607e8ceabe7",
+      "text": "Nadzor nad stručnim radom psihologa obavlja, u skladu sa zakonom, psiholog koji je položio stručni ispit, ima odgovarajuću specijalizaciju i najmanje isti stepen stručnosti kao i psiholog nad čijim radom se obavlja nadzor.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 222,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "13fdd5a8-c677-4a79-83f0-dad112554755",
+          "condition_type": "condition",
+          "text": "u skladu sa zakonom, psiholog koji je položio stručni ispit",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "580a1fbd-e91a-48c7-9eac-1214bd2cc951",
+      "text": "Ustanova ili druga organizacija u kojoj je psiholog zaposlen, odnosno preduzetnik koji obavlja psihološku delatnost, nad čijim stručnim radom treba izvršiti nadzor, pismeno se obaveštavaju najmanje tri dana ranije o vremenu vršenja nadzora.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 240,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "502af0ff-bd3a-48e7-8b27-bed9ef6847c6",
+          "condition_type": "modal",
+          "text": "nad čijim stručnim radom treba izvršiti nadzor",
+          "trigger_word": "treba",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "a256d8e1-7765-4031-b65a-7691c0a8f960",
+      "text": "Lice koje obavlja stručni nadzor (u daljem tekstu: nadzornik) u toku vršenja nadzora nad stručnim radom psihologa daje usmene ocene stručnog rada, ukazuje na nedostatke u radu i neposredno pruža odgovarajuću stručnu pomoć radi otklanjanja uočenih nedostataka.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 259,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "570daf04-f465-4abc-8cd6-a4b0d15aa02c",
+      "text": "Nadzornik sačinjava izveštaj o izvršenom nadzoru nad stručnim radom psihologa.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 79,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "55f017ee-7a7e-488a-aaac-94ce2a0e733f",
+      "text": "Izveštaj sadrži naročito: 1)naziv i sedište ustanove, odnosno druge organizacije u kojoj je psiholog zaposlen, lično ime, adresu i opis poslova psihologa, odnosno lično ime, adresu i opis poslova preduzetnika koji obavlja psihološku delatnost; 2) datum i mesto izvršenog nadzora; 3)lično ime nadzornika, sa podacima o vrsti i stepenu stručne spreme; 4)utvrđeno činjenično stanje o stručnom radu, ocenu toga stanja i kvaliteta rada, uočene nedostatke, mere i rokove za otklanjanje utvrđenih nedostataka.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 79,
+      "end_char": 581,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "e0fdd4b1-c47d-4047-ba8e-bbb30d358ebc",
+      "text": "Izveštaj o obavljenom nadzoru nad stručnim radom psihologa dostavlja se ustanovi ili drugoj organizaciji u kojoj je psiholog zaposlen, odnosno preduzetniku, u skladu sa zakonom, i to u roku od 30 dana od izvršenog nadzora.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 222,
+      "entities": [
+        {
+          "entity_id": "253a4e7c-8876-49db-b032-17e2e24defb9",
+          "entity_type": "DATE",
+          "text": "u roku od 30 dana",
+          "start_char": 183,
+          "end_char": 200,
+          "confidence": 0.85
+        },
+        {
+          "entity_id": "0fa966da-d1d9-4c7a-8e5a-3efa2b30248e",
+          "entity_type": "DURATION",
+          "text": "30 dana",
+          "start_char": 193,
+          "end_char": 200,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "b65e9651-4c24-4a3a-ba7d-f3fc6f369d30",
+          "condition_type": "condition",
+          "text": "odnosno preduzetniku, u skladu sa zakonom, i to u roku od 30 dana od izvršenog nadzora",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "39bea64b-0126-4979-8362-e603d8fe822b",
+          "condition_type": "temporal",
+          "text": "u skladu sa zakonom, i to u roku od 30 dana od izvršenog nadzora",
+          "trigger_word": "u roku od",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "0764717b-c0f2-424d-a168-273e91896c0b",
+      "text": "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 104,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "3bb4ba4d-9a9d-4bed-9dcd-9118553164ff",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:27:56.788581Z"
+}

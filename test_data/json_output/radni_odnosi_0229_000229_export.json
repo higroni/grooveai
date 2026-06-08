@@ -1,0 +1,317 @@
+{
+  "import_run_id": "bc59744c-b299-478b-bfe7-df68da8c9935",
+  "document": {
+    "name": "radni_odnosi_0229_000229.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0229_000229.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:27:52.780744Z"
+  },
+  "full_text": "Redakcijski prečišćen tekst\n \n \nHa osnovu člana 29. stav 4. Zakona o volontiranju („Službeni glasnik PC”, broj 36/10),\nMinistar rada i socijalne politike donosi\nPRAVILNIK\no načinu vođenja evidencije o organizatorima volontiranja\n\"Službeni glasnik RS\", broj 92 od 5. decembra 2010, 44 od 8. juna 2018 - dr. zakon\nČlan 1.\nOvim pravilnikom propisuje se sadržina prijave i način upisa i brisanja organizatora\nvolontiranja iz evidencije o organizatorima volontiranja (u daljem tekstu: Evidencija).\nČlan 2.\nMinistarstvo nadležno za rad (u daljem tekstu: ministarstvo) vodi evidenciju o\norganizatorima volontiranja na osnovu prijave za upis u Evidenciju (u daljem tekstu:\nprijava).\nČlan 3.\nPrijava se podnosi prilikom prvog organizovanja volontiranja u skladu sa zakonom kojim se\nuređuje volontiranje.\nPrijava sadrži podatke o organizatoru volontiranja: naziv i sedište, broj telefona, šifra\ndelatnosti, broj i datum registracije kod nadležnog organa, vrsta organizatora volontiranja\n(organ/organizacija Republike Srbije, teritorijalne autonomije, odnosno lokalne\nsamouprave, privredno društvo/javno preduzeće i broj saglasnosti ministarstva na program\nvolontiranja, udruženje ili druga nedobitna organizacija) i podatke o programu\nvolontiranja: oblast u kojoj se organizuje program volontiranja (mediji i komunikacije,\nkultura, sport, zaštita životne sredine, socijalna zaštita, humanitarni rad ili drugo),\nopis programa volontiranja i period njegovog organizovanja.\nPrijava za upis u Evidenciju o organizatorima volontiranja (Obrazac EOV) odštampana je uz\novaj pravilnik i čini njegov sastavni deo.\nNedobitna pravna lica uz prijavu podnose izjavu odgovornog lica da je pravno lice\nregistrovano kao lice čiji osnovni cilj nije sticanje dobiti.\nČlan 4.\nU Evidenciju se upisuju podaci iz prijave, redni broj i datum upisa.\nMinistarstvo dostavlja obaveštenje organizatoru volontiranja o izvršenom upisu.\nČlan 5.\nSvaka izmena podataka iz prijave prijavljuje se u roku od 15 dana od dana nastupanja promene,\nradi upisa u Evidenciju.\nUz prijavu iz stava 1. podnose se i dokazi o nastaloj promeni.\nO izvršenoj promeni upisa u Evidenciji, ministarstvo obaveštava podnosioca prijave.\nČlan 6.\nMinistarstvo, na osnovu prijave organizatora volontiranja, vrši brisanje podnosioca\nprijave iz Evidencije i obaveštava ga o izvršenom brisanju.\nČlan 7.\nOvaj pravilnik stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n \nBroj 110-00-1129/2010-02\nU Beogradu, 1. decembra 2010. godine\nMinistar,\nRasim Ljajić, s.r.\n \nNAPOMENA IZDAVAČA: Prestaju da važe odredbe Pravilnika u obrascu, u delu u kom se\nustanovljava obaveza upotrebe pečata u poslovanju društava i preduzetnika, danom početka\nprimene člana 160. Zakona o izmenama i dopunama Zakona o privrednim društvima\n(„Službeni glasnik RS“, broj 44/2018), odnosno 1. oktobra 2018. godine (vidi član 160.\nZakona – 44/2018-27).",
+  "legal_units_count": 7,
+  "document_entities": [
+    {
+      "entity_id": "d2e5693c-b02f-4344-b1ea-e4a59a669797",
+      "entity_type": "DATE",
+      "text": "8. juna 2018",
+      "start_char": 285,
+      "end_char": 297,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "277f34ed-968e-46bf-bd4e-ac1496d43946",
+      "entity_type": "DATE",
+      "text": "u roku od 15 dana",
+      "start_char": 1949,
+      "end_char": 1966,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "f3907423-207b-4825-9bc8-470b30411d55",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 29",
+      "start_char": 40,
+      "end_char": 48,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "0214efc9-ec4f-4cd4-946a-58f4dabef930",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 310,
+      "end_char": 316,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "4f416a3c-34bf-446a-9e89-eaaf708b9b55",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 491,
+      "end_char": 497,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "4485dfe5-9e81-439a-a3db-2b69331eef72",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 673,
+      "end_char": 679,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "2f123880-23ae-4b42-90c3-d4d6b9d50a33",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 1736,
+      "end_char": 1742,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "f23613d0-d0de-4815-9970-4e28814487e5",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 1893,
+      "end_char": 1899,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "34dbf6cb-ea2d-4899-bf9d-47f0a0ebf521",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 2167,
+      "end_char": 2173,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "218f0944-cea2-4058-acf1-c9c27e778118",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 7",
+      "start_char": 2319,
+      "end_char": 2325,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "1c3c65ab-0894-4c94-b312-73db19f850f6",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 160",
+      "start_char": 2706,
+      "end_char": 2715,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "3bff7624-a026-40ef-885f-0b21b5680c6f",
+      "entity_type": "LEGAL_REF",
+      "text": "član 160",
+      "start_char": 2853,
+      "end_char": 2861,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "4c04d2d5-9c47-4b92-9d3a-51e2b34e5583",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no načinu vođenja evidencije o organizatorima volontiranja",
+      "start_char": 159,
+      "end_char": 226,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "c7b173b6-1352-40dc-b968-b46bc3c6bfd5",
+      "entity_type": "DURATION",
+      "text": "15 dana",
+      "start_char": 1959,
+      "end_char": 1966,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "23dd2efe-f950-4ed3-ace7-84c7fefff135",
+      "text": "Ovim pravilnikom propisuje se sadržina prijave i način upisa i brisanja organizatora volontiranja iz evidencije o organizatorima volontiranja (u daljem tekstu: Evidencija).",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 172,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "0f2e788c-d4b1-4df9-b829-f8da723c6a49",
+      "text": "Ministarstvo nadležno za rad (u daljem tekstu: ministarstvo) vodi evidenciju o organizatorima volontiranja na osnovu prijave za upis u Evidenciju (u daljem tekstu: prijava).",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 173,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "6358aa17-cfbe-4bb1-a95a-a20fb5644865",
+      "text": "Prijava se podnosi prilikom prvog organizovanja volontiranja u skladu sa zakonom kojim se uređuje volontiranje.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 112,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "34451bb9-949a-46bb-897d-a78a97883f1f",
+          "condition_type": "condition",
+          "text": "u skladu sa zakonom kojim se uređuje volontiranje",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "1ddf1a34-3ca3-4db5-a05f-39b9fa68489c",
+      "text": "Prijava sadrži podatke o organizatoru volontiranja: naziv i sedište, broj telefona, šifra delatnosti, broj i datum registracije kod nadležnog organa, vrsta organizatora volontiranja (organ/organizacija Republike Srbije, teritorijalne autonomije, odnosno lokalne samouprave, privredno društvo/javno preduzeće i broj saglasnosti ministarstva na program volontiranja, udruženje ili druga nedobitna organizacija) i podatke o programu volontiranja: oblast u kojoj se organizuje program volontiranja (mediji i komunikacije, kultura, sport, zaštita životne sredine, socijalna zaštita, humanitarni rad ili drugo), opis programa volontiranja i period njegovog organizovanja.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 112,
+      "end_char": 778,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "ec4c65db-4652-4a8c-b2de-bc566f367661",
+      "text": "Prijava za upis u Evidenciju o organizatorima volontiranja (Obrazac EOV) odštampana je uz ovaj pravilnik i čini njegov sastavni deo.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 778,
+      "end_char": 911,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "777af5e0-f0a7-419d-a076-a6dc5f9ad809",
+      "text": "Nedobitna pravna lica uz prijavu podnose izjavu odgovornog lica da je pravno lice registrovano kao lice čiji osnovni cilj nije sticanje dobiti.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 911,
+      "end_char": 1054,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "88967db0-1a8b-48b2-a174-f089ec150e93",
+      "text": "U Evidenciju se upisuju podaci iz prijave, redni broj i datum upisa.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 69,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "e14dfab5-a691-4151-b40e-f1b1d565086f",
+      "text": "Svaka izmena podataka iz prijave prijavljuje se u roku od 15 dana od dana nastupanja promene, radi upisa u Evidenciju.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 119,
+      "entities": [
+        {
+          "entity_id": "2d05dd51-b22c-448c-9f19-c9de277e79b4",
+          "entity_type": "DATE",
+          "text": "u roku od 15 dana",
+          "start_char": 48,
+          "end_char": 65,
+          "confidence": 0.85
+        },
+        {
+          "entity_id": "823c2b37-431b-48ea-b0bb-cf9355d89a46",
+          "entity_type": "DURATION",
+          "text": "15 dana",
+          "start_char": 58,
+          "end_char": 65,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "1f14ac4e-4110-4f96-bf88-b2eaf873d29f",
+          "condition_type": "temporal",
+          "text": "u roku od 15 dana od dana nastupanja promene",
+          "trigger_word": "u roku od",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "ca9064e1-9527-4fcd-b42e-dd0d0b76791e",
+          "condition_type": "temporal",
+          "text": "od dana nastupanja promene",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "dfd95d9b-5d9a-4165-adc5-59211d570936",
+      "text": "O izvršenoj promeni upisa u Evidenciji, ministarstvo obaveštava podnosioca prijave.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 182,
+      "end_char": 265,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "aaa5c13b-b4dc-48a4-8dfe-86ec9860dd3e",
+      "text": "Ministarstvo, na osnovu prijave organizatora volontiranja, vrši brisanje podnosioca prijave iz Evidencije i obaveštava ga o izvršenom brisanju.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 143,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "b492a5c1-335a-42fa-9d7d-ce211b4a5230",
+      "text": "Ovaj pravilnik stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 107,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "d593230c-2f72-494b-8f69-ae1f74472b2c",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "599f5136-b7c7-4c54-a23d-c15f87af1621",
+      "text": "NAPOMENA IZDAVAČA: Prestaju da važe odredbe Pravilnika u obrascu, u delu u kom se ustanovljava obaveza upotrebe pečata u poslovanju društava i preduzetnika, danom početka primene člana 160.",
+      "confidence": 0.5,
+      "sentence_index": 4,
+      "start_char": 198,
+      "end_char": 388,
+      "entities": [
+        {
+          "entity_id": "3b951066-8895-4168-8bfc-776f1433a15f",
+          "entity_type": "LEGAL_REF",
+          "text": "člana 160",
+          "start_char": 179,
+          "end_char": 188,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "c8fd9624-d038-4660-af8c-06e1bf5488c4",
+      "text": "Zakona o izmenama i dopunama Zakona o privrednim društvima („Službeni glasnik RS“, broj 44/2018), odnosno 1.",
+      "confidence": 0.5,
+      "sentence_index": 5,
+      "start_char": 388,
+      "end_char": 497,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:27:52.780744Z"
+}

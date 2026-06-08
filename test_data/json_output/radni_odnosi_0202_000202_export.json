@@ -1,0 +1,122 @@
+{
+  "import_run_id": "893ce5e2-3a5a-40ba-ae7f-a9eb1425a39c",
+  "document": {
+    "name": "radni_odnosi_0202_000202.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0202_000202.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:55.226018Z"
+  },
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US i 113/17),\nReprezentativni sindikati u oblasti prosvete na nivou Republike Srbije: Sindikat\nobrazovanja Srbije, Granski sindikat prosvetnih radnika Srbije „Nezavisnost”, Unija\nsindikata prosvetnih radnika Srbije i Sindikat radnika u prosveti Srbije i Vlada, 14.\nfebruara 2022. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za zaposlene u osnovnim i srednjim\nškolama i domovima učenika\n\"Službeni glasnik RS\", broj 27 od 25. februara 2022.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za zaposlene u osnovnim i srednjim školama i\ndomovima učenika („Službeni glasnik RS”, br. 21/15, 16/18, 8/19 i 92/20) produžava se do 5.\nmarta 2025. godine.\nČlan 2.\nOvaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nZa Vladu\nMinistar prosvete, nauke i tehnološkog razvoja,\nBranko Ružić, s.r.\nZa Sindikat obrazovanja Srbije,\nValentina Ilić, s.r.\nZa Granski sindikat prosvetnih\nradnika Srbije „Nezavisnost”,\nSrđan Slović, s.r.\nZa Uniju sindikata prosvetnih radnika Srbije,\nJasna Janković, s.r.\nZa Sindikat radnika u prosveti Srbije,\nSlobodan Brajković, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "f06a1cd0-68b6-4f4e-a095-e3fecdad4c66",
+      "entity_type": "DATE",
+      "text": "14.\nfebruara 2022",
+      "start_char": 375,
+      "end_char": 392,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "bf637b47-019c-4b1c-97a8-c85b5ce915d6",
+      "entity_type": "DATE",
+      "text": "25. februara 2022",
+      "start_char": 573,
+      "end_char": 590,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "ab451a72-1ad7-485c-992e-32add8512cdc",
+      "entity_type": "DATE",
+      "text": "5.\nmarta 2025",
+      "start_char": 771,
+      "end_char": 784,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "0f56ad6e-21d4-4a52-9110-74cde7a79e02",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "20fe0c54-4932-41d7-b7ad-526c52dd4c67",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 592,
+      "end_char": 598,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "03d4a31e-a294-439c-867b-f164df1ad2f5",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 794,
+      "end_char": 800,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "54438e4a-341d-4684-ad99-cca1335cd8b8",
+      "entity_type": "DATE",
+      "text": "5. marta 2025",
+      "start_char": 171,
+      "end_char": 184,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "cdfc9edb-d36e-4730-ab2e-f3fa08251559",
+      "text": "Važenje Posebnog kolektivnog ugovora za zaposlene u osnovnim i srednjim školama i domovima učenika („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 127,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "58a987f6-c09f-42af-9285-a4b5a1657a63",
+      "text": "Ovaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 103,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "4f4bbe6f-514f-4891-8781-8889ddd87594",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "efd39c70-7620-4f13-a142-395683b23c73",
+      "text": "Za Vladu Ministar prosvete, nauke i tehnološkog razvoja, Branko Ružić, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 103,
+      "end_char": 179,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "11e84ac9-411d-409b-a7b5-e22efa69b0c7",
+      "text": "Za Granski sindikat prosvetnih radnika Srbije „Nezavisnost”, Srđan Slović, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 232,
+      "end_char": 312,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:55.226018Z"
+}

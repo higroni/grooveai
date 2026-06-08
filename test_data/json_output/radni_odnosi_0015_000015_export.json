@@ -1,0 +1,178 @@
+{
+  "import_run_id": "8f6027c6-5e43-4191-abab-549672cf2be3",
+  "document": {
+    "name": "radni_odnosi_0015_000015.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0015_000015.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:10:35.321804Z"
+  },
+  "full_text": "Na osnovu člana 97. stav 7, a u vezi sa stavom 6. Zakona o bezbednosti i zdravlju na radu\n(„Službeni glasnik RS”, broj 35/23),\nMinistar za rad, zapošljavanje, boračka i socijalna pitanja, donosi\nPRAVILNIK\no sadržini i izgledu oznake zabrane rada na privremenim ili pokretnim gradilištima\n\"Službeni glasnik RS\", broj 10 od 31. januara 2025.\nČlan 1.\nOvim pravilnikom bliže se propisuje sadržina i izgled oznake zabrane rada na privremenim\nili pokretnim gradilištima zbog okolnosti koje dovode do ugrožavanja bezbednosti i\nzdravlja na radu zaposlenog.\nČlan 2.\nOznaka „ZABRANjEN RAD NA GRADILIŠTU” ima oblik pravougaonika, veličine 300 x 400 mm\nna materijalu sa samolepljivom pozadinom koji je postojan na vremenske uslove, a obavezni\ngrafički i tekstualni prikaz oznake, odštampan je uz ovaj pravilnik i čini njegov sastavni\ndeo.\nTekst u gornjem delu oznake sadrži reči: „ZABRANjEN RAD NA GRADILIŠTU” koji je uokviren\n(veličina okvira: 150 x 200 mm).\nTekst koji se ispisuje između gornjeg i donjeg dela oznake sadrži reči: „Ko skine ili povredi\nslužbeni pečat ili znak koji je ovlašćeno lice stavilo radi osiguranja predmeta ili\nprostora ili ko, bez skidanja ili povrede pečata ili znaka, uđe u takvu prostoriju ili otvori\npredmet na koji je bio stavljen službeni pečat ili znak, kazniće se novčanom kaznom ili\nzatvorom do jedne godine. Za pokušaj će se kazniti (član 327. Krivičnog zakonika „Službeni\nglasnik RS”, br. 85/05, 88/05, 107/05, 72/09, 111/09, 121/12, 104/13, 108/14, 94/16, 35/19 i\n94/24).”\nTekst u donjem delu oznake (ispod okvira) sadrži reči: „Republika Srbija”, a ispod reči:\n„Republika Srbija” ispisane su reči: „Ministarstvo za rad, zapošljavanje, boračka i\nsocijalna pitanja”, a ispod reči: „Ministarstvo za rad, zapošljavanje, boračka i socijalna\npitanja” ispisane su reči: „INSPEKTORAT ZA RAD”.\nOznaka „ZABRANjEN RAD NA GRADILIŠTU” izrađuje se na beloj podlozi, a svi slovni prikazi i\nokvir slovnog prikaza izrađuju se u crvenoj boji.\nČlan 3.\nPored postavljanja oznake zabrane rada na privremenim ili pokretnim gradilištima iz člana\n2. ovog pravilnika, gradilište na kojem je zabranjen rad se obeležava i postavljanjem\nposebne trake.\nPosebna traka za obeležavanje zatvorenog gradilišta izrađuje se od PVC folije širine 150\nmm i sadrži reči: „ZABRANjEN RAD NA GRADILIŠTU” i „INSPEKTORAT ZA RAD” (veličina\nslova: visina 90 mm, širina 40 mm) na propisanom razmaku između reči „ZABRANjEN RAD NA\nGRADILIŠTU” i „INSPEKTORAT ZA RAD” od 900 mm.\nPosebna traka izrađuje se u crvenoj boji kao osnovi sa crnim slovima.\nČlan 4.\nOvaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nBroj 110-00-00008/2024-01\nU Beogradu, 31. decembra 2024. godine\nMinistar,\nNemanja Starović, s.r.",
+  "legal_units_count": 4,
+  "document_entities": [
+    {
+      "entity_id": "18924bc1-c2f9-48df-8c2b-2dc283873bc7",
+      "entity_type": "DATE",
+      "text": "31. januara 2025",
+      "start_char": 322,
+      "end_char": 338,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "ef346b9b-f0f3-4308-a729-5d860357ed1b",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 97",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e23402dd-1987-4d9a-9ad9-cce957d3eaa6",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 340,
+      "end_char": 346,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e0b63f97-38ba-43c7-9bd5-5aa4e947accb",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 549,
+      "end_char": 555,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "32e64a96-fe77-42f7-b613-2de934575087",
+      "entity_type": "LEGAL_REF",
+      "text": "član 327",
+      "start_char": 1360,
+      "end_char": 1368,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "d4517e57-6e2a-4e91-9289-9ebc9f5d5bff",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1954,
+      "end_char": 1960,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "ae77a72b-4cc2-4906-8f36-74b43405485e",
+      "entity_type": "LEGAL_REF",
+      "text": "člana\n2",
+      "start_char": 2046,
+      "end_char": 2053,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "5b7ee8f8-af60-482e-8830-c2cadbe7788f",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 2526,
+      "end_char": 2532,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "2484b278-3110-444a-bbcb-02108d368472",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no sadržini i izgledu oznake zabrane rada na privremenim ili pokretnim gradilištima",
+      "start_char": 195,
+      "end_char": 287,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "8d5f1d0a-7418-42a4-af44-a777f62a11cd",
+      "text": "Ovim pravilnikom bliže se propisuje sadržina i izgled oznake zabrane rada na privremenim ili pokretnim gradilištima zbog okolnosti koje dovode do ugrožavanja bezbednosti i zdravlja na radu zaposlenog.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 200,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "a917f2a0-c50c-46d1-b2ac-fc1594831190",
+      "text": "Oznaka „ZABRANjEN RAD NA GRADILIŠTU” ima oblik pravougaonika, veličine 300 x 400 mm na materijalu sa samolepljivom pozadinom koji je postojan na vremenske uslove, a obavezni grafički i tekstualni prikaz oznake, odštampan je uz ovaj pravilnik i čini njegov sastavni deo.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 270,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "94db9584-f6f0-416b-969f-1c52b1315e65",
+      "text": "Tekst u gornjem delu oznake sadrži reči: „ZABRANjEN RAD NA GRADILIŠTU” koji je uokviren (veličina okvira: 150 x 200 mm).",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 270,
+      "end_char": 391,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "c84b119a-6cbc-4c93-a165-1959720ae250",
+      "text": "Tekst koji se ispisuje između gornjeg i donjeg dela oznake sadrži reči: „Ko skine ili povredi službeni pečat ili znak koji je ovlašćeno lice stavilo radi osiguranja predmeta ili prostora ili ko, bez skidanja ili povrede pečata ili znaka, uđe u takvu prostoriju ili otvori predmet na koji je bio stavljen službeni pečat ili znak, kazniće se novčanom kaznom ili zatvorom do jedne godine.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 391,
+      "end_char": 777,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "7afa408d-786c-4651-9268-a79091b45e71",
+      "text": "85/05, 88/05, 107/05, 72/09, 111/09, 121/12, 104/13, 108/14, 94/16, 35/19 i 94/24).” Tekst u donjem delu oznake (ispod okvira) sadrži reči: „Republika Srbija”, a ispod reči: „Republika Srbija” ispisane su reči: „Ministarstvo za rad, zapošljavanje, boračka i socijalna pitanja”, a ispod reči: „Ministarstvo za rad, zapošljavanje, boračka i socijalna pitanja” ispisane su reči: „INSPEKTORAT ZA RAD”.",
+      "confidence": 0.5,
+      "sentence_index": 5,
+      "start_char": 859,
+      "end_char": 1257,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "eb6561e4-fcb3-45c5-921f-a25dc87c24df",
+      "text": "Oznaka „ZABRANjEN RAD NA GRADILIŠTU” izrađuje se na beloj podlozi, a svi slovni prikazi i okvir slovnog prikaza izrađuju se u crvenoj boji.",
+      "confidence": 0.5,
+      "sentence_index": 6,
+      "start_char": 1257,
+      "end_char": 1396,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "819c9272-34f4-4c9b-9808-7bdd044e299e",
+      "text": "Pored postavljanja oznake zabrane rada na privremenim ili pokretnim gradilištima iz člana",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 89,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "ecf2e9ec-ce25-45ba-b997-15e76299a165",
+      "text": "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 104,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "307d4243-3cea-428a-b9d6-0fd66f07a205",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:10:35.321804Z"
+}

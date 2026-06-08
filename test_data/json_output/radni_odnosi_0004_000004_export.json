@@ -1,0 +1,49 @@
+{
+  "import_run_id": "7f4ad30d-d8f1-45ab-8bde-032a9fd5aff0",
+  "document": {
+    "name": "radni_odnosi_0004_000004.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0004_000004.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:10:25.957029Z"
+  },
+  "full_text": " \nNa osnovu člana 43. stav 1. Zakona o Vladi („Službeni glasnik RS”, br. 55/05, 71/05 –\nispravka, 101/07, 65/08, 16/11, 68/12 – US, 72/12, 74/12 – US i 44/14), a u vezi sa članom 55.\nstav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09 i 32/13),\nVlada donosi\n   \nODLUKU\no rasporedu radnog vremena u ministarstvima, posebnim organizacijama i službama Vlade,\nRepubličkom javnom pravobranilaštvu i javnim agencijama\n\"Službeni glasnik RS\", broj 47 od 1. maja 2014.\n   \n1. U ministarstvima, posebnim organizacijama i službama Vlade, Republičkom javnom\npravobranilaštvu i javnim agencijama (u daljem tekstu: organi) radno vreme počinje u 7,30\nčasova i završava se u 15,30 časova.\n2. Izuzetno od tačke 1. ove odluke, kod organa u kojima se obavlja rad u smenama, noću ili kad\npriroda posla i organizacija rada to zahteva, radna nedelja može se organizovati i na drugi\nnačin.\nNa akt o rasporedu radnog vremena u slučaju iz stava 1. ove tačke, saglasnost daje Vlada.\n3. Danom stupanja na snagu ove odluke prestaje da važi Odluka o rasporedu radnog vremena u\nslužbama Vlade Republike Srbije, ministarstvima, posebnim organizacijama, Republičkom\njavnom pravobranilaštvu i organima za prekršaje („Službeni glasnik RS”, br. 112/03,\n127/03, 83/04 i 27/14).\n4. Ova odluka stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n05 broj 130-3472/2014\nU Beogradu, 1. maja 2014. godine\nVlada\nPredsednik,\nAleksandar Vučić, s.r.",
+  "legal_units_count": 0,
+  "document_entities": [
+    {
+      "entity_id": "2f464af7-ccb2-4076-af1c-e4256a578b1b",
+      "entity_type": "DATE",
+      "text": "1. maja 2014",
+      "start_char": 459,
+      "end_char": 471,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "49212192-141f-446f-81ea-68065dc597a2",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 43",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "3c0fde1d-ba04-49dc-953a-f4a4d67af8dd",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 55",
+      "start_char": 170,
+      "end_char": 179,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "3cfc66bb-2418-4bf6-9fa9-6e38e0b2331e",
+      "entity_type": "LEGAL_REF",
+      "text": "Odluka o rasporedu radnog vremena u\nslužbama Vlade Republike Srbije",
+      "start_char": 1022,
+      "end_char": 1089,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [],
+  "export_timestamp": "2026-06-08T17:10:25.957029Z"
+}

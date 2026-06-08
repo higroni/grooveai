@@ -1,0 +1,48 @@
+{
+  "test_info": {
+    "start_time": "2026-06-08T01:12:08.412205",
+    "end_time": "2026-06-08T01:12:12.568131",
+    "total_duration_seconds": 4.16,
+    "total_duration_minutes": 0.07
+  },
+  "documents": {
+    "total": 2,
+    "successful": 0,
+    "failed": 2,
+    "success_rate": 0.0
+  },
+  "throughput": {
+    "documents_per_second": 0.0,
+    "documents_per_minute": 0.0,
+    "documents_per_hour": 0.0
+  },
+  "latency": {
+    "avg_document_time_seconds": 2.08,
+    "min_document_time_seconds": 2.05,
+    "max_document_time_seconds": 2.1,
+    "median_document_time_seconds": 2.08,
+    "stdev_document_time_seconds": 0.04
+  },
+  "module_performance": {},
+  "data_extracted": {
+    "total_assertions": 0,
+    "total_entities": 0,
+    "total_conditions": 0,
+    "enriched_assertions": 0
+  },
+  "errors": {
+    "count": 2,
+    "details": [
+      {
+        "document": "radni_odnosi_0001_000001.pdf",
+        "error": "M1 failed: 500",
+        "timestamp": "2026-06-08T01:12:10.516534"
+      },
+      {
+        "document": "radni_odnosi_0008_000008.pdf",
+        "error": "M1 failed: 500",
+        "timestamp": "2026-06-08T01:12:12.568131"
+      }
+    ]
+  }
+}

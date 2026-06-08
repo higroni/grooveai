@@ -10,6 +10,7 @@ This module provides a standardized logging configuration that:
 """
 
 import logging
+import os
 import sys
 from pathlib import Path
 from typing import Optional
@@ -87,7 +88,11 @@ class ModuleLogger:
         self.logger.addHandler(file_handler)
     
     def _add_console_handler(self):
-        """Add console handler for real-time logging."""
+        """Add console handler for real-time logging (unless in batch mode)."""
+        # Skip console logging if in batch processing mode
+        if os.environ.get('GROOVE_BATCH_MODE') == '1':
+            return
+        
         console_handler = logging.StreamHandler(sys.stdout)
         console_handler.setLevel(self.log_level)
         console_handler.setFormatter(self.console_formatter)

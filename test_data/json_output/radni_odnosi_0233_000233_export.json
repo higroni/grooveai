@@ -1,0 +1,252 @@
+{
+  "import_run_id": "ac19bf23-7afe-445c-a31b-56787bf5d5b0",
+  "document": {
+    "name": "radni_odnosi_0233_000233.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0233_000233.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:27:55.207772Z"
+  },
+  "full_text": "Na osnovu člana 9. stav 2. Zakona o uslovima za obavljanje psihološke delatnosti\n(„Službeni glasnik Republike Srbije”, broj 25/96),\nMinistar za rad, boračka i socijalna pitanja, ministar prosvete i ministar za zdravlje\nsporazumno donose\n \n \nPRAVILNIK\no bližim uslovima za obavljanje psihološke delatnosti preduzetnika\n„Službeni glasnik RS”, broj 30 od 25. avgusta 1998.\n \n \nČlan 1.\nOvim pravilnikom bliže se propisuju uslovi za obavljanje psihološke delatnosti\npreduzetnika.\n \nČlan 2.\nPreduzetnik može početi s radom i obavljati psihološku delatnost ako ima obezbeđenu\nprostoriju za rad s ispitanikom, zvučno i termički izolovanu, sa obezbeđenim grejanjem,\nelektričnim osvetljenjem, direktnom telefonskom linijom i sa obezbeđenim korišćenjem\nsanitarnog čvora sa tekućom toplom i hladnom vodom.\nProstorija iz stava 1. ovog člana treba da ima površinu od najmanje 9 m2, a ako\npreduzetnik obavlja grupno ispitivanje ili grupni savetodavni i terapeutski rad, površinu\nod najmanje 25 m2.\nU prostoriji iz stava 1. ovog člana treba da bude najmanje četiri stolice, a ako\npreduzetnik obavlja grupna ispitivanja ili grupni savetodavni i terapeutski rad i po jednu\nstolicu za svakog člana grupe.\nProzori u prostoriji iz stava 1. ovog člana treba da imaju zavese, odnosno druge\nzastore.\n \nČlan 3.\nKad je psihološka delatnost preduzetnika vezana za korišćenje mernih instrumenata,\nprostorija za ispitanika treba da ima orman obezbeđen ključem sa policom za odlaganje\npsiholoških mernih instrumenata i dokumetnacije, a ako se dokumentacija o ispitanicima\nvodi kompjuterski treba da bude na odgovarajući način zaštićena.\n \nČlan 4.\nOvaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n \nBroj 011-00-35/98-10\nU Beogradu, 10. avgusta 1998. godine\n \nMinistar\nza zdravlje,\ndr Leposava Milićević, s. r.\n \nMinistar prosvete,\nprof. dr Jovo Todorović, s. r.\n \nMinistar\nza rad, boračka\ni socijalna pitanja,\nTomisl av Milenković, s. r.",
+  "legal_units_count": 4,
+  "document_entities": [
+    {
+      "entity_id": "f847bf30-3289-4ffc-a04f-a5ede7e6a0b6",
+      "entity_type": "DATE",
+      "text": "25. avgusta 1998",
+      "start_char": 350,
+      "end_char": 366,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "0b293c54-6390-43c5-bc37-62efbb58e5d3",
+      "entity_type": "DATE",
+      "text": "10. avgusta 1998",
+      "start_char": 1748,
+      "end_char": 1764,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "83a5f49c-2281-4987-b871-0ed93d87f971",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 9",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "2d653756-6441-4661-9048-c58e3a651a38",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 370,
+      "end_char": 376,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "9da24e60-59e3-494f-a9a9-5d1899104030",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 472,
+      "end_char": 478,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "5080f905-35b2-4dab-b473-e2eb92025963",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1272,
+      "end_char": 1278,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "7b102119-615f-45f2-9332-0af723caeca8",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 1602,
+      "end_char": 1608,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "2ac7b4ac-cd79-4be5-8b43-c7f0d57299f2",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no bližim uslovima za obavljanje psihološke delatnosti preduzetnika",
+      "start_char": 239,
+      "end_char": 315,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "d59a0eb4-55a0-48b5-91e7-70f4fed6985f",
+      "text": "Ovim pravilnikom bliže se propisuju uslovi za obavljanje psihološke delatnosti preduzetnika.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 92,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "e41be2af-509f-4041-9d44-548355e1f70d",
+      "text": "Preduzetnik može početi s radom i obavljati psihološku delatnost ako ima obezbeđenu prostoriju za rad s ispitanikom, zvučno i termički izolovanu, sa obezbeđenim grejanjem, električnim osvetljenjem, direktnom telefonskom linijom i sa obezbeđenim korišćenjem sanitarnog čvora sa tekućom toplom i hladnom vodom.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 309,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "76586f67-9a0d-4186-904a-2c736118c029",
+          "condition_type": "condition",
+          "text": "ako ima obezbeđenu prostoriju za rad s ispitanikom",
+          "trigger_word": "ako",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "55423978-2f7e-4cde-af05-62fe7b193569",
+          "condition_type": "modal",
+          "text": "može početi s radom i obavljati psihološku delatnost ako ima obezbeđenu prostoriju za rad s ispitanikom",
+          "trigger_word": "može",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "9486331b-f323-4c7d-bba1-228a69d033e1",
+      "text": "ovog člana treba da ima površinu od najmanje 9 m2, a ako preduzetnik obavlja grupno ispitivanje ili grupni savetodavni i terapeutski rad, površinu od najmanje 25 m2.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 2,
+      "start_char": 332,
+      "end_char": 498,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "97679c22-f2e7-45f7-ad2d-c30a329dd2a3",
+          "condition_type": "condition",
+          "text": "ako preduzetnik obavlja grupno ispitivanje ili grupni savetodavni i terapeutski rad",
+          "trigger_word": "ako",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "f54ed99e-cc7a-46f4-aeeb-337f1b7b7a9b",
+          "condition_type": "modal",
+          "text": "treba da ima površinu od najmanje 9 m2",
+          "trigger_word": "treba",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "ad2259cd-00ea-40f2-acf3-ed68ace75c4d",
+      "text": "ovog člana treba da bude najmanje četiri stolice, a ako preduzetnik obavlja grupna ispitivanja ili grupni savetodavni i terapeutski rad i po jednu stolicu za svakog člana grupe.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 4,
+      "start_char": 523,
+      "end_char": 701,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "0a65cfe0-e9ef-4a4e-87d5-0bb4a2b3c335",
+          "condition_type": "condition",
+          "text": "ako preduzetnik obavlja grupna ispitivanja ili grupni savetodavni i terapeutski rad i po jednu stolicu za svakog člana grupe",
+          "trigger_word": "ako",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "069a9419-a52f-428e-8843-e1c0213d6282",
+          "condition_type": "modal",
+          "text": "treba da bude najmanje četiri stolice",
+          "trigger_word": "treba",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "17960de9-5a64-464e-acc2-1e8406392252",
+      "text": "ovog člana treba da imaju zavese, odnosno druge zastore.",
+      "confidence": 0.7,
+      "sentence_index": 6,
+      "start_char": 734,
+      "end_char": 790,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "a33b1bdb-e92c-4500-adea-64e1159fdf77",
+          "condition_type": "modal",
+          "text": "treba da imaju zavese",
+          "trigger_word": "treba",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "aa2ae51d-0e3b-4e51-8202-4da74bdf34a2",
+      "text": "Kad je psihološka delatnost preduzetnika vezana za korišćenje mernih instrumenata, prostorija za ispitanika treba da ima orman obezbeđen ključem sa policom za odlaganje psiholoških mernih instrumenata i dokumetnacije, a ako se dokumentacija o ispitanicima vodi kompjuterski treba da bude na odgovarajući način zaštićena.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 320,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "1a602186-a7fa-48ae-b533-9324df3fb0df",
+          "condition_type": "condition",
+          "text": "prostorija za ispitanika treba da ima orman obezbeđen ključem sa policom za odlaganje psiholoških mernih instrumenata i dokumetnacije, a ako se dokumentacija o ispitanicima vodi kompjuterski treba da bude na odgovarajući način zaštićena",
+          "trigger_word": "ako",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "37ea09c3-f092-47e2-a9a5-86aa55290b56",
+          "condition_type": "condition",
+          "text": "Kad je psihološka delatnost preduzetnika vezana za korišćenje mernih instrumenata",
+          "trigger_word": "kad",
+          "confidence": 0.8
+        },
+        {
+          "condition_id": "c7249b12-b229-44ef-a595-84945bc5523b",
+          "condition_type": "modal",
+          "text": "prostorija za ispitanika treba da ima orman obezbeđen ključem sa policom za odlaganje psiholoških mernih instrumenata i dokumetnacije",
+          "trigger_word": "treba",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "9db015e2-10f5-4d25-909c-0ff6b9cd7307",
+          "condition_type": "modal",
+          "text": "a ako se dokumentacija o ispitanicima vodi kompjuterski treba da bude na odgovarajući način zaštićena",
+          "trigger_word": "treba",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "7d79a9f4-ccf4-44da-bcc4-e150636331f2",
+      "text": "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 104,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "741d81c3-94db-49f7-86e4-48f6bcaf341c",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "45aecfd8-7426-429e-97c5-f112a4ebe1cb",
+      "text": "Ministar za rad, boračka i socijalna pitanja, Tomisl av Milenković, s.",
+      "confidence": 0.5,
+      "sentence_index": 8,
+      "start_char": 263,
+      "end_char": 334,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:27:55.207772Z"
+}

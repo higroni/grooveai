@@ -1,0 +1,469 @@
+{
+  "import_run_id": "1f3813e3-d177-4fa9-8bde-fc30f400e452",
+  "document": {
+    "name": "radni_odnosi_0071_000071.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0071_000071.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:15:41.808945Z"
+  },
+  "full_text": " \nNa osnovu člana 52. stav 2. Zakona o mirnom rešavanju radnih sporova („Službeni glasnik\nRS”, broj 125/04),\nVlada Republike Srbije donosi\n \n \nUREDBA\no visin i nagrade i naknade troškova mir itelja i arbitara za mir no rešavanje\nsporova\n\"Službeni glasnik RS\", br. 11 od 4. februara 2005, 83 od 30. septembra 2005.\n \n \nČlan 1.\nOvom uredbom uređuje se visina nagrade miritelja za rad u kolektivnom radnom sporu i\narbitra za rad u individualnom radnom sporu, naknada njihovih troškova nastalih u postupku\nmirenja, odnosno u postupku pred arbitrom, kao i uslovi za ostvarivanje ovih prava.\n \nČlan 2.\nMiritelj i arbitar imaju, u skladu sa zakonom, pravo na nagradu za svoj rad.\nMiritelj, odnosno arbitar ostvaruje pravo na nagradu za rad pod uslovom da obavi poslove\nutvrđene u članu 3. ove uredbe.\n \nČlan 3.\nMiritelj, odnosno arbitar ima pravo na nagradu za rad, i to:\n1) na ime pripreme za vođenje postupka mirnog rešavanja radnog spora (proučavanje\nmaterijala, zakazivanje rasprave i dr.) – u iznosu od 2.000 dinara, po jednom sporu;\n2) za učešće u kolektivnom pregovaranju, odnosno za rad u postupku – u iznosu od 4.000\ndinara, po jednom učešću, odnosno raspravi, kao i za postupak mirenja neposrednim\nkontaktom sa stranama u sporu;\n3) za donošenje odgovarajućeg akta (preporuka, rešenje) – u iznosu od 5.000 dinara, po jednom\naktu.\nU slučaju kada je doneta odluka o združivanju predloga za pokretanje postupka\nmirnog rešavanja individualnog radnog spora i vođenju jedinstvenog postupka,\nnagrada arbitra iz stava 1. tač. 1) i 2) ovog člana uvećava se za 30% za drugu i sv aku\nsledeću stranku.*\nNagrada za jedan mesec, po svim osnovima iz st. 1. i 2. ovog člana, ne može da iznosi\nviše od 30.000 dinara za arbitra, a za mir itelja – ne može da iznosi više od 50.000\ndinara.*Redakcijski prečišćen tekst\n \n*Službeni glasnik RS, broj 83/2005\n \nČlan 4.\nObračun i isplatu nagrade miriteljima i arbitrima vrši Republička agencija za mirno\nrešavanje radnih sporova, prema raspoloživim podacima o obavljenom radu u proteklom\nmesecu.\n \nČlan 5.\nMiritelju, odnosno arbitru pripada naknada troškova koje je imao u postupku mirnog\nrešavanja radnih sporova, i to:\n1) za putne troškove – u visini stvarnih izdataka za putovanje sredstvima javnog saobraćaja,\nodnosno u visin i 10% od propisane cene pogonskog goriva, po pređenom kilometru,\nza putovanje sopstvenim v ozilom;*\n2) za noćenje – u visini stvarnih troškova noćenja u hotelu, osim za noćenje u hotelu koji je\nkategorizovan sa četiri i više zvezdica;\n3) za dnevnicu – u visini od 5% od prosečne mesečne zarade po zaposlenom u privredi\nRepublike Srbije, prema poslednjem objavljenom podatku republičkog organa nadležnog za\nposlove statistike;\n4) za ostale troškove (rezervacije, prevoz prtljaga, gradski prevoz, službeni telefonski\nrazgovori i sl.) – u visini stvarnih troškova.\n5) brisana je (vidi član 2. Uredbe - 83/2005-5)\n \n*Službeni glasnik RS, broj 83/2005\n \nČlan 6.\nObračun i isplatu naknade troškova miriteljima i arbitrima vrši Republička agencija za\nmirno rešavanje radnih sporova, po pravilu, na dan dostavljanja dokaza o nastalim\ntroškovima, a najkasnije u roku od tri dana od dana dostavljanja dokaza.\n \nČlan 7.\nOva uredba stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike\nSrbije”.\n \n \n05 broj 110-527/2005-1\nU Beogradu, 3. februara 2005. godine\nVlada Republike Srbije\nPotpredsednik,\nMiroljub Labus, s.r.",
+  "legal_units_count": 7,
+  "document_entities": [
+    {
+      "entity_id": "6abbb858-009d-45f8-8623-449cdecd012c",
+      "entity_type": "DATE",
+      "text": "4. februara 2005",
+      "start_char": 266,
+      "end_char": 282,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "db1fde9f-08d9-4eb1-934b-1d08bd2ef0b5",
+      "entity_type": "DATE",
+      "text": "3. februara 2005",
+      "start_char": 3289,
+      "end_char": 3305,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "5380e21a-45d3-482b-a01b-8cfbd02f9a75",
+      "entity_type": "MONEY",
+      "text": "2.000 dinara",
+      "start_char": 993,
+      "end_char": 1005,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "308a4452-dbc0-4b77-959f-97067a20d49e",
+      "entity_type": "MONEY",
+      "text": "4.000\ndinara",
+      "start_char": 1105,
+      "end_char": 1117,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "9f3fee1f-3f40-4c0e-841d-771684edf11c",
+      "entity_type": "MONEY",
+      "text": "5.000 dinara",
+      "start_char": 1294,
+      "end_char": 1306,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "792a7dd4-3631-4cd1-8f7a-351af9f0580d",
+      "entity_type": "MONEY",
+      "text": "30.000 dinara",
+      "start_char": 1679,
+      "end_char": 1692,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "cce4ead2-027d-497f-929b-ecf944b6f210",
+      "entity_type": "MONEY",
+      "text": "50.000\ndinara",
+      "start_char": 1749,
+      "end_char": 1762,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "9c7d7d9d-6cf0-413d-b2f7-a44f06e33bf4",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 52",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "8b1f7d81-bfdd-4a9c-a73b-778e3c94d097",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 312,
+      "end_char": 318,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "54067dd3-e62a-4183-b6d5-09e360c4a938",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 581,
+      "end_char": 587,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "9136a287-9dec-4f41-996f-7e93c743ce48",
+      "entity_type": "LEGAL_REF",
+      "text": "članu 3",
+      "start_char": 766,
+      "end_char": 773,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "89a18b78-b7e4-4eda-9f60-0d128d39e899",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 788,
+      "end_char": 794,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "14968239-5404-4382-aac6-66f88cd2eacd",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 1829,
+      "end_char": 1835,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "dc56ba1c-903c-4714-b5b4-0169617661c1",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 2014,
+      "end_char": 2020,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "49c3d094-2045-40a9-b3c8-4dac9e9d98e6",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 2893,
+      "end_char": 2899,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "8ed0ef21-63e2-4a27-a817-b024aee41375",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 7",
+      "start_char": 3144,
+      "end_char": 3150,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "8ccc86d0-473f-422a-af4d-c4adc789aa8f",
+      "entity_type": "LEGAL_REF",
+      "text": "UREDBA\no visin i nagrade i naknade troškova mir itelja i arbitara za mir no rešavanje\nsporova",
+      "start_char": 139,
+      "end_char": 232,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "6ab5fcd8-aed6-40fb-8b69-1a326e4526fd",
+      "entity_type": "LEGAL_REF",
+      "text": "odluka o združivanju predloga za pokretanje postupka\nmirnog rešavanja individualnog radnog spora i vođenju jedinstvenog postupka",
+      "start_char": 1349,
+      "end_char": 1477,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "605e76d6-7737-488e-a60f-bc0d6165eb38",
+      "entity_type": "MONEY",
+      "text": "4.000 dinara",
+      "start_char": 309,
+      "end_char": 321,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "1d614a22-5b1c-405c-9714-de989bb5829b",
+      "entity_type": "MONEY",
+      "text": "50.000 dinara",
+      "start_char": 953,
+      "end_char": 966,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "edf73358-2649-4fd3-997b-f575436d4e17",
+      "entity_type": "LEGAL_REF",
+      "text": "odluka o združivanju predloga za pokretanje postupka mirnog rešavanja individualnog radnog spora i vođenju jedinstvenog postupka",
+      "start_char": 553,
+      "end_char": 681,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "aa517e01-1ca6-4d8d-8e21-d5b882abc553",
+      "text": "Ovom uredbom uređuje se visina nagrade miritelja za rad u kolektivnom radnom sporu i arbitra za rad u individualnom radnom sporu, naknada njihovih troškova nastalih u postupku mirenja, odnosno u postupku pred arbitrom, kao i uslovi za ostvarivanje ovih prava.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 259,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "f9e1a707-8f3e-4123-a700-b8401710cbde",
+      "text": "Miritelj i arbitar imaju, u skladu sa zakonom, pravo na nagradu za svoj rad.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 77,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "64227c58-4540-4991-a9b6-15beb77ca920",
+          "condition_type": "condition",
+          "text": "u skladu sa zakonom, pravo na nagradu za svoj rad",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "5c0ee4ea-5767-4919-bdd8-666ee0bd1811",
+      "text": "Miritelj, odnosno arbitar ostvaruje pravo na nagradu za rad pod uslovom da obavi poslove utvrđene u članu 3.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 77,
+      "end_char": 186,
+      "entities": [
+        {
+          "entity_id": "8e79183c-07b5-403e-ba4d-5dc35f2a08a5",
+          "entity_type": "LEGAL_REF",
+          "text": "članu 3",
+          "start_char": 100,
+          "end_char": 107,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "46d75a43-c5dd-47d4-afd7-5e26b4c431eb",
+          "condition_type": "condition",
+          "text": "odnosno arbitar ostvaruje pravo na nagradu za rad pod uslovom da obavi poslove utvrđene u članu 3",
+          "trigger_word": "pod uslovom da",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "07a93180-1a9c-4bfd-92da-6094bcbaadee",
+      "text": "Miritelj, odnosno arbitar ima pravo na nagradu za rad, i to: 1) na ime pripreme za vođenje postupka mirnog rešavanja radnog spora (proučavanje materijala, zakazivanje rasprave i dr.) – u iznosu od 2.000 dinara, po jednom sporu; 2) za učešće u kolektivnom pregovaranju, odnosno za rad u postupku – u iznosu od 4.000 dinara, po jednom učešću, odnosno raspravi, kao i za postupak mirenja neposrednim kontaktom sa stranama u sporu; 3) za donošenje odgovarajućeg akta (preporuka, rešenje) – u iznosu od 5.000 dinara, po jednom aktu.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 528,
+      "entities": [
+        {
+          "entity_id": "f6656ebb-f943-4d82-a820-20beae68bacc",
+          "entity_type": "MONEY",
+          "text": "2.000 dinara",
+          "start_char": 197,
+          "end_char": 209,
+          "confidence": 0.85
+        },
+        {
+          "entity_id": "0cab384c-3d5a-4d0a-a38b-68209285136f",
+          "entity_type": "MONEY",
+          "text": "4.000 dinara",
+          "start_char": 309,
+          "end_char": 321,
+          "confidence": 0.85
+        },
+        {
+          "entity_id": "5a9d0af3-af8e-41cf-8c7b-6bec33e666cd",
+          "entity_type": "MONEY",
+          "text": "5.000 dinara",
+          "start_char": 498,
+          "end_char": 510,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "1e1dec12-7182-4ebd-adaa-a6bd7c903ae9",
+          "condition_type": "modal",
+          "text": "odnosno arbitar ima pravo na nagradu za rad",
+          "trigger_word": "ima pravo",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "3869fe81-bcb4-4661-b05e-52d7a52cac84",
+      "text": "U slučaju kada je doneta odluka o združivanju predloga za pokretanje postupka mirnog rešavanja individualnog radnog spora i vođenju jedinstvenog postupka, nagrada arbitra iz stava 1.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 528,
+      "end_char": 711,
+      "entities": [
+        {
+          "entity_id": "ec4cd1d9-3820-4325-b3b6-708e0f5995b7",
+          "entity_type": "LEGAL_REF",
+          "text": "odluka o združivanju predloga za pokretanje postupka mirnog rešavanja individualnog radnog spora i vođenju jedinstvenog postupka",
+          "start_char": 25,
+          "end_char": 153,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "07644e00-bc0c-434a-b7da-f94d4a17db6b",
+          "condition_type": "condition",
+          "text": "kada je doneta odluka o združivanju predloga za pokretanje postupka mirnog rešavanja individualnog radnog spora i vođenju jedinstvenog postupka",
+          "trigger_word": "kada",
+          "confidence": 0.85
+        },
+        {
+          "condition_id": "82967c92-8a19-4d37-8676-b77a3351cc76",
+          "condition_type": "condition",
+          "text": "U slučaju kada je doneta odluka o združivanju predloga za pokretanje postupka mirnog rešavanja individualnog radnog spora i vođenju jedinstvenog postupka",
+          "trigger_word": "u slučaju kada",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "9c9bb869-0e60-4475-933a-7dd3f77a5f57",
+      "text": "1) i 2) ovog člana uvećava se za 30% za drugu i sv aku sledeću stranku.* Nagrada za jedan mesec, po svim osnovima iz st.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 716,
+      "end_char": 837,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "aaec5a06-4401-4fbb-9612-659a49f40076",
+      "text": "ovog člana, ne može da iznosi više od 30.000 dinara za arbitra, a za mir itelja – ne može da iznosi više od 50.000 dinara.*Redakcijski prečišćen tekst *Službeni glasnik RS, broj 83/2005",
+      "confidence": 1.0,
+      "sentence_index": 6,
+      "start_char": 845,
+      "end_char": 1030,
+      "entities": [
+        {
+          "entity_id": "4c263f0a-0f93-49a0-a210-969bf0d34f7e",
+          "entity_type": "MONEY",
+          "text": "30.000 dinara",
+          "start_char": 38,
+          "end_char": 51,
+          "confidence": 0.85
+        },
+        {
+          "entity_id": "2ed9af8a-119e-4249-85ad-872e38268780",
+          "entity_type": "MONEY",
+          "text": "50.000 dinara",
+          "start_char": 108,
+          "end_char": 121,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": [
+        {
+          "condition_id": "46706ab4-a314-44e3-a8b5-e8a263bd561e",
+          "condition_type": "modal",
+          "text": "ne može da iznosi više od 30",
+          "trigger_word": "ne može",
+          "confidence": 0.95
+        },
+        {
+          "condition_id": "c8b95a4b-5709-405f-aa25-20982269f2ba",
+          "condition_type": "modal",
+          "text": "a za mir itelja – ne može da iznosi više od 50",
+          "trigger_word": "ne može",
+          "confidence": 0.95
+        },
+        {
+          "condition_id": "5f14a531-8cde-42ff-bbd5-e53999eb4902",
+          "condition_type": "modal",
+          "text": "može da iznosi više od 30",
+          "trigger_word": "može",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "9ddf2ba8-337f-485f-9aba-ad5bacd508f4",
+          "condition_type": "modal",
+          "text": "a za mir itelja – ne može da iznosi više od 50",
+          "trigger_word": "može",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "29899a95-3e60-4460-90af-a61a54922492",
+          "condition_type": "modal",
+          "text": "ne može da iznosi više od 30",
+          "trigger_word": "ne može da",
+          "confidence": 0.95
+        },
+        {
+          "condition_id": "27a9f88d-0d84-4b16-86e7-44fe2c2fe318",
+          "condition_type": "modal",
+          "text": "a za mir itelja – ne može da iznosi više od 50",
+          "trigger_word": "ne može da",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "assertion_id": "8676c926-7b5f-4c97-8f25-1434321df7fe",
+      "text": "Obračun i isplatu nagrade miriteljima i arbitrima vrši Republička agencija za mirno rešavanje radnih sporova, prema raspoloživim podacima o obavljenom radu u proteklom mesecu.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 175,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "ab6e2e99-9713-4c57-8121-236c8ba62a09",
+      "text": "Miritelju, odnosno arbitru pripada naknada troškova koje je imao u postupku mirnog rešavanja radnih sporova, i to: 1) za putne troškove – u visini stvarnih izdataka za putovanje sredstvima javnog saobraćaja, odnosno u visin i 10% od propisane cene pogonskog goriva, po pređenom kilometru, za putovanje sopstvenim v ozilom;* 2) za noćenje – u visini stvarnih troškova noćenja u hotelu, osim za noćenje u hotelu koji je kategorizovan sa četiri i više zvezdica; 3) za dnevnicu – u visini od 5% od prosečne mesečne zarade po zaposlenom u privredi Republike Srbije, prema poslednjem objavljenom podatku republičkog organa nadležnog za poslove statistike; 4) za ostale troškove (rezervacije, prevoz prtljaga, gradski prevoz, službeni telefonski razgovori i sl.) – u visini stvarnih troškova.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 786,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "217f4baf-f7de-44e2-bc10-7010a8803ecc",
+          "condition_type": "exception",
+          "text": "* 2) za noćenje – u visini stvarnih troškova noćenja u hotelu, osim za noćenje u hotelu koji je kategorizovan sa četiri i više zvezdica",
+          "trigger_word": "osim",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "385e21d6-be85-4a11-b6b6-406fb999418b",
+      "text": "Obračun i isplatu naknade troškova miriteljima i arbitrima vrši Republička agencija za mirno rešavanje radnih sporova, po pravilu, na dan dostavljanja dokaza o nastalim troškovima, a najkasnije u roku od tri dana od dana dostavljanja dokaza.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 241,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "92a4ad0e-c3c9-486f-89e0-c3a1f9f614c6",
+          "condition_type": "temporal",
+          "text": "a najkasnije u roku od tri dana od dana dostavljanja dokaza",
+          "trigger_word": "u roku od",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "2c8c3376-76cf-4b6c-9c1c-22c0ca41420b",
+          "condition_type": "temporal",
+          "text": "a najkasnije u roku od tri dana od dana dostavljanja dokaza",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "61b5c7d0-d201-4d1b-a183-fc89942c4e56",
+      "text": "Ova uredba stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 100,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "f172e13d-4c46-4975-b8d1-498a62f67c56",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:15:41.808945Z"
+}

@@ -1,0 +1,139 @@
+{
+  "import_run_id": "8d47a9ff-87e3-44d2-a349-26b4a0df126a",
+  "document": {
+    "name": "radni_odnosi_0158_000158.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0158_000158.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:20:14.396023Z"
+  },
+  "full_text": "Na osnovu člana 2. tačka 2. Zakona o Vladi Republike Srbije („Službeni glasnik RS”, br.\n5/91 i 45/93), a u vezi sa članom 10. stav 2. Zakona o štrajku („Službeni list SRJ”, broj\n29/96),\nVlada Republike Srbije donosi\n \n \nUREDBU\no min imumu procesa rada u Javnom preduzeću „Radio-televizija Srbije”\n\"Službeni glasnik RS\", broj 4 od 23. januara 2003.\n \n \nČlan 1.\nMinimum procesa rada u Javnom preduzeću „Radio-televizija Srbije” obuhvata obavljanje\nposlova kojima se obezbeđuje izvršenje:\n1) planirane proizvodnje informativnog programa radija i televizije;\n2) unapred zakazane i planirane proizvodnje ostalih RTV programa;\n3) emitovanja radio i televizijskih programa po unapred utvrđenoj programskoj šemi;\n4) svih ranije ugovorenih obaveza Javnog preduzeća „Radio-televizija Srbije” prema\ntrećim licima.\n \nČlan 2.\nGeneralni direktor Javnog preduzeća „Radio-televizija Srbije” odrediće način\nobezbeđivanja minimuma procesa rada iz člana 1. ove uredbe, radna mesta i broj izvršilaca\nkoji su dužni da rade i druga pitanja, u skladu sa zakonom i opštim aktima Javnog preduzeća\n„Radio-televizije Srbije”.\n \nČlan 3.\nOva uredba stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n \n05 broj 130-326/2003\nU Beogradu, 23. januara 2003. godine\nVlada Republike Srbije\nPotpredsednik,\nDušan Mihajlović, s.r.",
+  "legal_units_count": 3,
+  "document_entities": [
+    {
+      "entity_id": "5f466260-2c87-4e1c-a9e4-daeb43f13d94",
+      "entity_type": "DATE",
+      "text": "23. januara 2003",
+      "start_char": 328,
+      "end_char": 344,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "230f0d0f-51b5-44c0-a3fe-d3778a65057e",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 2",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "2ca4b04b-4d52-4df5-9850-553431b3f2b4",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 10",
+      "start_char": 115,
+      "end_char": 124,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "4a2b5c63-b4a9-489a-84d4-67ba10739a76",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 348,
+      "end_char": 354,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "c6d7a8fe-3016-48a5-91c5-806c79af4ba4",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 800,
+      "end_char": 806,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "b3520292-3979-4f6b-893f-a8f9aa06231a",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 1",
+      "start_char": 924,
+      "end_char": 931,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "5ac51d0b-b822-440c-9552-b377f403452e",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1095,
+      "end_char": 1101,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "fa4eb379-6666-4d02-92ed-3919802361aa",
+      "text": "Minimum procesa rada u Javnom preduzeću „Radio-televizija Srbije” obuhvata obavljanje poslova kojima se obezbeđuje izvršenje: 1) planirane proizvodnje informativnog programa radija i televizije; 2) unapred zakazane i planirane proizvodnje ostalih RTV programa; 3) emitovanja radio i televizijskih programa po unapred utvrđenoj programskoj šemi; 4) svih ranije ugovorenih obaveza Javnog preduzeća „Radio-televizija Srbije” prema trećim licima.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 442,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "2bf010f0-f975-4226-9fb7-9f3742cfd380",
+      "text": "Generalni direktor Javnog preduzeća „Radio-televizija Srbije” odrediće način obezbeđivanja minimuma procesa rada iz člana 1.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 125,
+      "entities": [
+        {
+          "entity_id": "2b3481d5-9ca9-4889-aad6-dd17dcf8a97c",
+          "entity_type": "LEGAL_REF",
+          "text": "člana 1",
+          "start_char": 116,
+          "end_char": 123,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "35656052-af52-46df-9f5a-fc1bdc021cef",
+      "text": "ove uredbe, radna mesta i broj izvršilaca koji su dužni da rade i druga pitanja, u skladu sa zakonom i opštim aktima Javnog preduzeća „Radio-televizije Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 125,
+      "end_char": 285,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "538fdf0c-be43-4ca6-ab5c-d7494797a7cb",
+          "condition_type": "condition",
+          "text": "radna mesta i broj izvršilaca koji su dužni da rade i druga pitanja, u skladu sa zakonom i opštim aktima Javnog preduzeća „Radio-televizije Srbije”",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "ca6b495c-7abc-4b84-9a60-4cb824b17a7e",
+      "text": "Ova uredba stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 103,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "df853e39-33af-429f-bafd-125fe3e6f352",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:20:14.396023Z"
+}

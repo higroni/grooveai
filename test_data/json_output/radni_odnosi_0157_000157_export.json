@@ -1,0 +1,160 @@
+{
+  "import_run_id": "96604a92-4d95-49c9-b1df-e6bd14bb7be6",
+  "document": {
+    "name": "radni_odnosi_0157_000157.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0157_000157.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:20:13.803341Z"
+  },
+  "full_text": "Na osnovu člana 90. tačka 2) Ustava Republike Srbije i člana 10. stav 2. Zakona o\nštrajku („Službeni list SRJ”, broj 29/96),\nVlada Republike Srbije donosi\n \n \nUREDBU\no min imumu procesa rada fakulteta i univerziteta čiji je  osnivač Republika\nSrbija\n\"Službeni glasnik RS\", broj 65 od 27. juna 2003.\n \n \nČlan 1.\nMinimum procesa rada fakulteta i univerziteta čiji je osnivač Republika Srbija,\nobuhvata obavljanje poslova kojima se obezbeđuje:\n1) održavanje konsultativne nastave;\n2) održavanje ispita na osnovnim, specijalističkim, magistarskim i doktorskim\nstudijama;\n3) održavanje prijemnog ispita, odnosno ispita za proveru sklonosti i sposobnosti;\n4) obavljanje upisa studenata u odgovarajuću godinu studija;\n5) izdavanje javnih isprava.\n \nČlan 2.\nNačin obezbeđivanja minimuma procesa rada iz člana 1. ove uredbe, radna mesta i broj\nizvršilaca koji su dužni da rade, kao i druga pitanja, odrediće dekan, odnosno rektor, u\nskladu sa zakonom.\nAkt iz stava 1. ovog člana dekan, odnosno rektor dužan je da donese u roku od pet dana od dana\nstupanja na snagu ove uredbe.\n \nČlan 3.\nOva uredba stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n \n05 broj 130-3874/2003\nU Beogradu, 26. juna 2003. godine\nVlada Republike Srbije\nPotpredsednik,\nJožef Kasa, s.r.",
+  "legal_units_count": 3,
+  "document_entities": [
+    {
+      "entity_id": "1b89c0bc-ad87-4ecd-be6d-13bf214f937e",
+      "entity_type": "DATE",
+      "text": "27. juna 2003",
+      "start_char": 281,
+      "end_char": 294,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e60a4daf-6f50-41ab-aceb-6ecbfee8787f",
+      "entity_type": "DATE",
+      "text": "26. juna 2003",
+      "start_char": 1209,
+      "end_char": 1222,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "1eb46548-19f5-4fb8-8fd5-91143540ec87",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 90",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "db4e0d36-0c0a-4407-9659-77ab4f87cc86",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 10",
+      "start_char": 55,
+      "end_char": 63,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "c9a75103-9942-4818-a52a-db6cb3a6a396",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 298,
+      "end_char": 304,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "f911294b-77eb-4c3e-a482-2b84475e273b",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 736,
+      "end_char": 742,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "1f8258fb-46ca-476a-ae1e-4861e5e7794b",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 1",
+      "start_char": 789,
+      "end_char": 796,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "9d9852e9-bcaf-456c-8d16-5aa3a33763aa",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1063,
+      "end_char": 1069,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "aa9490f6-873d-4e59-8069-543ead3977b3",
+      "text": "Minimum procesa rada fakulteta i univerziteta čiji je osnivač Republika Srbija, obuhvata obavljanje poslova kojima se obezbeđuje: 1) održavanje konsultativne nastave; 2) održavanje ispita na osnovnim, specijalističkim, magistarskim i doktorskim studijama; 3) održavanje prijemnog ispita, odnosno ispita za proveru sklonosti i sposobnosti; 4) obavljanje upisa studenata u odgovarajuću godinu studija; 5) izdavanje javnih isprava.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 428,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "a7414a52-9957-48f6-b6c5-60d700a08f2b",
+      "text": "ove uredbe, radna mesta i broj izvršilaca koji su dužni da rade, kao i druga pitanja, odrediće dekan, odnosno rektor, u skladu sa zakonom.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 54,
+      "end_char": 193,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "d1df71f5-42ec-4cce-8cad-b95f77abdaaf",
+          "condition_type": "condition",
+          "text": "odnosno rektor, u skladu sa zakonom",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "31c09b22-42dd-434e-91f8-1621a48252d0",
+      "text": "ovog člana dekan, odnosno rektor dužan je da donese u roku od pet dana od dana stupanja na snagu ove uredbe.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 209,
+      "end_char": 317,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "a6a4dc0a-736d-4cbc-b38a-5c9e847f6912",
+          "condition_type": "temporal",
+          "text": "odnosno rektor dužan je da donese u roku od pet dana od dana stupanja na snagu ove uredbe",
+          "trigger_word": "u roku od",
+          "confidence": 0.9
+        },
+        {
+          "condition_id": "cde0a6ca-f9ca-4127-be05-4598e7bbdbdd",
+          "condition_type": "temporal",
+          "text": "odnosno rektor dužan je da donese u roku od pet dana od dana stupanja na snagu ove uredbe",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        },
+        {
+          "condition_id": "05c7a196-b858-4be8-9f21-e9c274f10533",
+          "condition_type": "modal",
+          "text": "odnosno rektor dužan je da donese u roku od pet dana od dana stupanja na snagu ove uredbe",
+          "trigger_word": "dužan je",
+          "confidence": 0.95
+        }
+      ]
+    },
+    {
+      "assertion_id": "f1c9661f-21cc-4e9b-9ded-3462fd98ae19",
+      "text": "Ova uredba stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 103,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "1e6d7edb-710b-468d-856b-91c45206d881",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:20:13.803341Z"
+}

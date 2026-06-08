@@ -1,0 +1,169 @@
+{
+  "import_run_id": "af53c812-f53b-4b31-bc89-4292444e9836",
+  "document": {
+    "name": "radni_odnosi_0227_000227.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0227_000227.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:27:51.051654Z"
+  },
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US i 113/17) i člana 90. stav 1. tačka 19) Statuta grada Požarevca\n(„Službeni glasnik grada Požarevca”, br. 17/16 – prečišćen tekst i 15/17), Gradsko veće\ngrada Požarevca koga zastupa Gradonačelnik grada Požarevca Bane Spasović, dipl. pravnik,\nu ime grada Požarevca kao osnivača i Gradski odbor Sindikata zaposlenih u komunalno-\nstambenoj delatnosti Srbije – za grad Požarevac, koga zastupa predsednik, Boban Martinović,\nkao reprezentativnog sindikata (u daljem tekstu: učesnici), zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj\ndelatnosti grada Požarevca\n\"Službeni glasnik RS\", broj 45 od 13. juna 2018.\nČlan 1.\nProdužava se rok važenja Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj\ndelatnosti grada Požarevca („Službeni glasnik RS”, broj 69/15), zaključenog 16. jula 2015.\ngodine između učesnika, do 16. jula 2021. godine.\nČlan 2.\nOvaj sporazum smatra se zaključenim kada ga potpišu predstavnici ugovornih strana, a stupa\nna snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.\nGradski odbor sindikata zaposlenih\nu komunalno stambenoj delatnosti Srbije –\nza grad Požarevac\nPredsednik\nBoban Martinović, s.r.\nGradonačelnik\ngrada Požarevca,\nBane Spasović, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "3284d772-6558-45fd-ab99-f0e39fcdd95f",
+      "entity_type": "DATE",
+      "text": "13. juna 2018",
+      "start_char": 763,
+      "end_char": 776,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "381e989e-8257-422f-9235-6131b188aba7",
+      "entity_type": "DATE",
+      "text": "16. jula 2015",
+      "start_char": 948,
+      "end_char": 961,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "d59265b5-a2d9-439e-9388-a42fbc6d9f6f",
+      "entity_type": "DATE",
+      "text": "16. jula 2021",
+      "start_char": 990,
+      "end_char": 1003,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "99bccc5f-a4ed-42b5-a589-c39d28ae48e7",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "08a8b4fb-134b-4026-88a7-51e023d91bfb",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 90",
+      "start_char": 129,
+      "end_char": 137,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "7956d763-4498-4b4c-9d21-5d5262218902",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 778,
+      "end_char": 784,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "2054f1f6-1244-4efb-947e-75d55758d122",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 1013,
+      "end_char": 1019,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e89056c4-bbeb-40aa-9fc5-a75126c1ac34",
+      "entity_type": "LOCATION",
+      "text": "Požarevac",
+      "start_char": 481,
+      "end_char": 490,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "b149724c-d334-4da0-a7e3-bb97c4620e09",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 165,
+      "end_char": 180,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "ecadc516-ae10-40df-badc-91052a65e9d2",
+      "entity_type": "LOCATION",
+      "text": "grad Požarevac",
+      "start_char": 476,
+      "end_char": 490,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "7d25749f-ca38-43f5-abe3-2c78878c497e",
+      "text": "Produžava se rok važenja Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj delatnosti grada Požarevca („Službeni glasnik RS”, broj 69/15), zaključenog 16.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 166,
+      "entities": [
+        {
+          "entity_id": "94cccf0d-0413-474d-8e0e-fbd89922975d",
+          "entity_type": "LOCATION",
+          "text": "grada Požarevca",
+          "start_char": 97,
+          "end_char": 112,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "03d44f3a-18e3-466b-87c9-08026ea34b0c",
+      "text": "Ovaj sporazum smatra se zaključenim kada ga potpišu predstavnici ugovornih strana, a stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 174,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "3c706436-1566-42bc-9c0d-c5d2775cedaa",
+          "condition_type": "condition",
+          "text": "kada ga potpišu predstavnici ugovornih strana",
+          "trigger_word": "kada",
+          "confidence": 0.85
+        },
+        {
+          "condition_id": "defcef35-8cf2-4035-ab6c-2297913baefa",
+          "condition_type": "temporal",
+          "text": "a stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "926d4412-b9b1-4fe3-9871-376ab8ad9cde",
+      "text": "Gradski odbor sindikata zaposlenih u komunalno stambenoj delatnosti Srbije – za grad Požarevac Predsednik Boban Martinović, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 174,
+      "end_char": 303,
+      "entities": [
+        {
+          "entity_id": "82815d05-fd29-4e0c-8cfa-e7d00573b448",
+          "entity_type": "LOCATION",
+          "text": "Požarevac",
+          "start_char": 85,
+          "end_char": 94,
+          "confidence": 0.85
+        },
+        {
+          "entity_id": "d4c9fdb3-2c70-4a94-b551-d9780699b8c2",
+          "entity_type": "LOCATION",
+          "text": "grad Požarevac",
+          "start_char": 80,
+          "end_char": 94,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:27:51.051654Z"
+}

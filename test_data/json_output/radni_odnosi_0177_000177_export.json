@@ -1,0 +1,72 @@
+{
+  "import_run_id": "ddb992b1-5b79-4b67-97f2-8e2660e08caa",
+  "document": {
+    "name": "radni_odnosi_0177_000177.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0177_000177.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:33.163986Z"
+  },
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje),\nReprezentativni sindikati u oblasti visokog obrazovanja na nivou Republike Srbije:\nSindikat obrazovanja Srbije i Sindikat visokog obrazovanja Srbije i Vlada, 14. decembra\n2023. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za visoko obrazovanje\n\"Službeni glasnik RS\", broj 111 od 14. decembra 2023.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za visoko obrazovanje („Službeni glasnik RS”, br.\n86/19, 93/20, 152/20 i 7/23) produžava se do 14. decembra 2026. godine.\nČlan 2.\nOvaj sporazum stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”.\nZa Vladu\nDržavni sekretar u Ministarstvu prosvete,\nZoran Kasalović, s.r.\nZa Sindikat obrazovanja Srbije ,\nmr Valentina Ilić, s.r.\nZa Sindikat visokog obrazovanja Srbije,\nprof. dr Maja Petrović, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "8e7a8373-d9fb-43f0-98d5-5f231014820c",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "bda1507e-68d4-4ce9-a550-d76e7c5b35f5",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 494,
+      "end_char": 500,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "f420355d-d6f6-41df-bcdd-45be41394409",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 661,
+      "end_char": 667,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "e9169d75-8f1c-44ea-bdd1-4c18d21254c3",
+      "text": "Važenje Posebnog kolektivnog ugovora za visoko obrazovanje („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 87,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "373fc3d0-33fd-4f64-ba15-5331f15c6378",
+      "text": "Ovaj sporazum stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 90,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "b5fd98be-26da-4c53-81f0-c2f7e5635083",
+      "text": "Za Vladu Državni sekretar u Ministarstvu prosvete, Zoran Kasalović, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 90,
+      "end_char": 163,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:33.163986Z"
+}

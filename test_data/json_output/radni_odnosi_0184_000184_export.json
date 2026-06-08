@@ -1,0 +1,104 @@
+{
+  "import_run_id": "a9dc5a93-daa6-4d3d-95c5-896ed0c3b310",
+  "document": {
+    "name": "radni_odnosi_0184_000184.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0184_000184.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:37.837656Z"
+  },
+  "full_text": "Na osnovu člana 4. stav 2. Zakona o državnim službenicima („Službeni glasnik RS”, br.\n79/05, 81/05 – ispravka, 83/05 – ispravka, 64/07, 67/07 – ispravka, 116/08, 104/09, 99/14,\n94/17, 95/18, 157/20 i 142/22), u vezi sa članom 263. stav 2. Zakona o radu („Službeni\nglasnik RS”, br. 24/05, 61/05, 54/09, 32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično\ntumačenje),\nVlada i reprezentativni sindikati Ministarstva unutrašnjih poslova – Nezavisni sindikat\npolicije i Policijski sindikat Srbije, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za policijske službenike\n\"Službeni glasnik RS\", broj 72 od 31. avgusta 2023.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za policijske službenike („Službeni glasnik RS”, br.\n62/19, 62/20 – Aneks I i 81/21 – Aneks II), produžava se do 31. avgusta 2024. godine.\nČlan 2.\nOvaj sporazum stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”.\nBroj 01-02-325/23-22\nU Beogradu, 31. avgusta 2023. godine\nZa Vladu\nMinistar unutrašnjih poslova,\nBratislav Gašić, s.r.\nZa Nezavisni sindikat policije\nNedžad Baltić, s.r.\nAleksandar Gospić, s.r.\nZa Policijski sindikat Srbije\nVeljko Mijailović, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "4c3c4ac5-51c0-49b0-8fd0-5b67ca924666",
+      "entity_type": "DATE",
+      "text": "31. avgusta 2023",
+      "start_char": 629,
+      "end_char": 645,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "4e01a3a0-d132-4d6c-87d2-4458a8ab8ab0",
+      "entity_type": "DATE",
+      "text": "31. avgusta 2024",
+      "start_char": 805,
+      "end_char": 821,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "01ece3a3-32d0-4580-9820-c0caf72653a2",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 4",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "086a7220-a340-4189-84c0-40f6b6392215",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 263",
+      "start_char": 219,
+      "end_char": 229,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "18ab0b77-cf5c-4a94-a629-e2f9f620bb20",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 647,
+      "end_char": 653,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "f654365c-1964-47da-9b58-afa364c9a32a",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 831,
+      "end_char": 837,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "5b7d8f41-b9bb-4630-a501-e5e5f4d5605c",
+      "text": "Važenje Posebnog kolektivnog ugovora za policijske službenike („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 90,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "bfce0246-3936-47f4-8efd-d0418d9c1f44",
+      "text": "62/19, 62/20 – Aneks I i 81/21 – Aneks II), produžava se do 31.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 90,
+      "end_char": 154,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "9d859ab1-8c46-4257-8c4b-b2c6b859a65f",
+          "condition_type": "temporal",
+          "text": "produžava se do 31",
+          "trigger_word": "do",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "assertion_id": "1215f79b-5b48-4363-b345-a109bd8444d3",
+      "text": "Ovaj sporazum stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 90,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:37.837656Z"
+}

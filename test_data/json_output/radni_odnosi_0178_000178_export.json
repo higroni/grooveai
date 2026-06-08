@@ -1,0 +1,86 @@
+{
+  "import_run_id": "890dde9a-ce4c-40c6-8615-cc2fffb30db1",
+  "document": {
+    "name": "radni_odnosi_0178_000178.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0178_000178.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:33.668052Z"
+  },
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje),\nReprezentativni sindikati u oblasti visokog obrazovanja: Sindikat obrazovanja Srbije i\nSindikat visokog obrazovanja Srbije i Vlada, 18. novembra 2022. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za visoko obrazovanje\n\"Službeni glasnik RS\", broj 7 od 31. januara 2023.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za visoko obrazovanje („Službeni glasnik RS”, br.\n86/19, 93/20 i 152/20) produžava se do 14. decembra 2023. godine.\nČlan 2.\nOvaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nBroj 112-07-50/2023-02\nU Beogradu 24. januara 2023. godine\nZa Sindikat obrazovanja Srbije,\nmr Valentina Ilić, s.r.\nZa Sindikat visokog obrazovanja Srbije,\ndr Dragana Latković, s.r.\nZa Vladu\nMinistar prosvete,\nBranko Ružić, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "ddba79bd-d067-4d65-8e4d-be88a5e1d393",
+      "entity_type": "DATE",
+      "text": "31. januara 2023",
+      "start_char": 447,
+      "end_char": 463,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "7363d204-b940-4595-94c3-b03cc6fbfc3c",
+      "entity_type": "DATE",
+      "text": "24. januara 2023",
+      "start_char": 771,
+      "end_char": 787,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "cace0b4a-23fd-4616-9190-11a4be3a4be9",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e7643e1a-2f5f-416b-b633-f6af489bf3dc",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 465,
+      "end_char": 471,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "93bb878e-2275-48ed-9eea-f7f512c73776",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 626,
+      "end_char": 632,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "08aaa4a0-d7fd-4237-bbfe-a10bebe8a33a",
+      "text": "Važenje Posebnog kolektivnog ugovora za visoko obrazovanje („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 87,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "d6f596b9-c9c6-4bc4-8aee-204a5fd6d95c",
+      "text": "Ovaj sporazum stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 103,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "f9bc9e33-66d6-48bc-b183-9bba7a36827d",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:33.668052Z"
+}

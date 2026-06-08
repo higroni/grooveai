@@ -1,0 +1,65 @@
+{
+  "import_run_id": "a8adafd2-249f-4d37-bde9-007f9b9fb915",
+  "document": {
+    "name": "radni_odnosi_0012_000012.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0012_000012.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:10:29.941824Z"
+  },
+  "full_text": "Na osnovu člana 112. st. 1. i 5. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – odluka US, 113/17 i 95/18 – autentično tumačenje) i člana 9. Zakona o\nSocijalno-ekonomskom savetu Republike Srbije („Službeni glasnik RS”, broj 125/04),\nSocijalno-ekonomski savet Republike Srbije na 124. redovnoj sednici, održanoj 15. jula\n2025. godine, donosi\nODLUKU\n\"Službeni glasnik RS\", broj 67 od 31. jula 2025.\nPočev od 1. oktobra 2025. godine visina minimalne cene rada iznosi 337,00 dinara po radnom\nčasu bez poreza i doprinosa.\nOva odluka se objavljuje u „Službenom glasniku Republike Srbije”.\nBroj 221/2025\nU Beogradu, 15. jula 2025. godine\nPredsedavajuća Saveta,\nMilica Đurđević Stamenkovski, s.r.",
+  "legal_units_count": 0,
+  "document_entities": [
+    {
+      "entity_id": "56cf0fea-b6c9-4130-985e-b254feefd4bb",
+      "entity_type": "DATE",
+      "text": "15. jula\n2025",
+      "start_char": 349,
+      "end_char": 362,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e986d7d1-90e5-4076-aca3-80964f572f04",
+      "entity_type": "DATE",
+      "text": "31. jula 2025",
+      "start_char": 420,
+      "end_char": 433,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "f2fb7461-42a9-4113-8acb-d3661f834f04",
+      "entity_type": "DATE",
+      "text": "15. jula 2025",
+      "start_char": 647,
+      "end_char": 660,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "f7ecbcc8-2559-4bb0-b2bf-fb8db49d1c15",
+      "entity_type": "MONEY",
+      "text": "337,00 dinara",
+      "start_char": 502,
+      "end_char": 515,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "4bfd3fca-930d-4065-9c1b-d4fb0fc9193b",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 112",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "c5542c0d-2d5b-4b9f-add1-ca1c1f7872dd",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 9",
+      "start_char": 170,
+      "end_char": 177,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [],
+  "export_timestamp": "2026-06-08T17:10:29.941824Z"
+}

@@ -1,0 +1,174 @@
+{
+  "import_run_id": "eed24cbe-81b1-4ed5-a733-8e1186c80f53",
+  "document": {
+    "name": "radni_odnosi_0160_000160.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0160_000160.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:20:15.494053Z"
+  },
+  "full_text": "Na osnovu člana 2. tačka 2. Zakona o Vladi Republike Srbije („Službeni glasnik RS”, br.\n5/91 i 45/93), a u vezi s članom 10. stav 2. Zakona o štrajku („Službeni list SRJ”, broj 29/96),\nVlada Republike Srbije donosi\n \n \nUREDBU\no min imumu procesa rada za vreme štrajka u Javnom preduzeću PTT saobraćaja\n„Srbija”\n\"Službeni glasnik RS\", broj 60 od 19. oktobra 2001.\n \n \nČlan 1.\nMinimum procesa rada za vreme štrajka u Javnom preduzeću PTT saobraćaja „Srbija”\nobuhvata poslove kojima se obezbeđuje pružanje usluga značajnih za ostvarivanje potreba\ngrađana, preduzeća i drugih subjekata, definisanih Opštim uslovima za vršenje poštanskih\nusluga, Nomenklaturom poštanskih usluga i posebnim ugovorima, u sledećem obimu:\n1) pošte određene za rad nedeljom i državnim praznicima rade od 8,00 do 18,00 časova sa\njednom trećinom šaltera od ukupnog broja šaltera predviđenih organizacijom rada pošte;\n2) pošte van reda i pošte u rangu od prvog do četvrtog reda, osim pošta navedenih u tački\n1), rade radnim danom i subotom sa korisnicima poštanskih usluga u vremenu od 10,00 do\n17,00 časova, a pošte od petog do osmog reda, koje imaju dostavu, rade sa korisnicima\npoštanskih usluga u vremenu od 9,00 do 12,00 časova, u danima predviđenim za rad pošte; 3)\ndostava u svim poštama vrši se svaki drugi radni dan (ponedeljak, sreda, petak), osim\nspecijalizovane dostave, koja se vrši svakodnevno;\n4) šalterske pošte od petog do osmog reda, rade u vremenu od 8,00 do 12,00 časova u\ndanima prdviđenim za rad pošte;\n5) poslovi u izmeničnoj pošti, poštanskim centrima i pretovarnim tačkama, obavljaju se\nsa jednom polovinom zaposlenih u radno vreme koje je utvrđeno u tim organizacionim\ndelovima;\n6) pošte na carinskim prelazima i carinskim ispostavama, pošte koje se nalaze u\nzgradama republičkih i saveznih organa (pošte zatvorenog tipa), moraju raditi po\npredviđenom radnom vremenu;\n7) transportna sredstva na prvom i drugom transportnom nivou saobraćaju svakog drugog\ndana;\n8) prevoz međunarodnih zaključaka obavlja se bez ograničenja.\n \nČlan 2.\nGeneralni direktor Javnog preduzeća PTT saobraćaja „Srbija” odrediće način\nobezbeđivanja minimuma procesa rada iz člana 1. ove uredbe, radna mesta i broj izvršilaca\nkoji su dužni da rade i druga pitanja u skladu sa zakonom i kolektivnim ugovorom.\n \nČlan 3.\nOva uredba stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku RS”.\n \n05 broj 130-13679/2001\nU Beogradu, 11. oktobra 2001. godine\nVlada Republike Srbije\nPotpredsednik,\nJožef Kasa, s.r.",
+  "legal_units_count": 3,
+  "document_entities": [
+    {
+      "entity_id": "cfebd8e6-56ec-47a8-87dc-6427f98e8dcb",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 2",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "177687d4-c2d5-4df0-9f9e-d3789c899e90",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 10",
+      "start_char": 114,
+      "end_char": 123,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "5d32a82a-20df-4a25-ab16-1d8cc50daaf9",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 363,
+      "end_char": 369,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "0ad1fdb3-8961-4da1-b801-f5e01aafa269",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 2015,
+      "end_char": 2021,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "5d76c93b-6a20-427c-806e-2b8c5aa21294",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 1",
+      "start_char": 2137,
+      "end_char": 2144,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "71284dc2-883b-41d0-b9a3-072df4eacad2",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 2271,
+      "end_char": 2277,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "b16409e5-caeb-4d4b-9859-a61fc26d2ef5",
+      "text": "Minimum procesa rada za vreme štrajka u Javnom preduzeću PTT saobraćaja „Srbija” obuhvata poslove kojima se obezbeđuje pružanje usluga značajnih za ostvarivanje potreba građana, preduzeća i drugih subjekata, definisanih Opštim uslovima za vršenje poštanskih usluga, Nomenklaturom poštanskih usluga i posebnim ugovorima, u sledećem obimu: 1) pošte određene za rad nedeljom i državnim praznicima rade od 8,00 do 18,00 časova sa jednom trećinom šaltera od ukupnog broja šaltera predviđenih organizacijom rada pošte; 2) pošte van reda i pošte u rangu od prvog do četvrtog reda, osim pošta navedenih u tački 1), rade radnim danom i subotom sa korisnicima poštanskih usluga u vremenu od 10,00 do 17,00 časova, a pošte od petog do osmog reda, koje imaju dostavu, rade sa korisnicima poštanskih usluga u vremenu od 9,00 do 12,00 časova, u danima predviđenim za rad pošte; 3) dostava u svim poštama vrši se svaki drugi radni dan (ponedeljak, sreda, petak), osim specijalizovane dostave, koja se vrši svakodnevno; 4) šalterske pošte od petog do osmog reda, rade u vremenu od 8,00 do 12,00 časova u danima prdviđenim za rad pošte; 5) poslovi u izmeničnoj pošti, poštanskim centrima i pretovarnim tačkama, obavljaju se sa jednom polovinom zaposlenih u radno vreme koje je utvrđeno u tim organizacionim delovima; 6) pošte na carinskim prelazima i carinskim ispostavama, pošte koje se nalaze u zgradama republičkih i saveznih organa (pošte zatvorenog tipa), moraju raditi po predviđenom radnom vremenu; 7) transportna sredstva na prvom i drugom transportnom nivou saobraćaju svakog drugog dana; 8) prevoz međunarodnih zaključaka obavlja se bez ograničenja.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 1642,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "23f3b4f2-3995-48ea-8af3-97bc4a371215",
+          "condition_type": "exception",
+          "text": "2) pošte van reda i pošte u rangu od prvog do četvrtog reda, osim pošta navedenih u tački 1)",
+          "trigger_word": "osim",
+          "confidence": 0.85
+        },
+        {
+          "condition_id": "dff119ca-d75b-45fd-888d-a6bff8e35182",
+          "condition_type": "exception",
+          "text": "sreda, petak), osim specijalizovane dostave",
+          "trigger_word": "osim",
+          "confidence": 0.85
+        },
+        {
+          "condition_id": "81fa1e47-2efc-415e-89fe-d1f59cf0823f",
+          "condition_type": "temporal",
+          "text": "1) pošte određene za rad nedeljom i državnim praznicima rade od 8,00 do 18,00 časova sa jednom trećinom šaltera od ukupnog broja šaltera predviđenih organizacijom rada pošte",
+          "trigger_word": "do",
+          "confidence": 0.75
+        },
+        {
+          "condition_id": "401b5568-4241-4e71-bb72-485a6b7dce04",
+          "condition_type": "temporal",
+          "text": "rade radnim danom i subotom sa korisnicima poštanskih usluga u vremenu od 10,00 do 17,00 časova",
+          "trigger_word": "do",
+          "confidence": 0.75
+        },
+        {
+          "condition_id": "184a915a-d97c-4316-835f-b99225243a5d",
+          "condition_type": "temporal",
+          "text": "rade sa korisnicima poštanskih usluga u vremenu od 9,00 do 12,00 časova",
+          "trigger_word": "do",
+          "confidence": 0.75
+        },
+        {
+          "condition_id": "953bb857-bdee-42f7-88f6-a8e757c1f1c5",
+          "condition_type": "temporal",
+          "text": "rade u vremenu od 8,00 do 12,00 časova u danima prdviđenim za rad pošte",
+          "trigger_word": "do",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "assertion_id": "d231cbc8-90a9-4f9f-9740-aed2a8cd767d",
+      "text": "Generalni direktor Javnog preduzeća PTT saobraćaja „Srbija” odrediće način obezbeđivanja minimuma procesa rada iz člana 1.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 123,
+      "entities": [
+        {
+          "entity_id": "499253cf-c596-449b-a4a3-5c08dd946a71",
+          "entity_type": "LEGAL_REF",
+          "text": "člana 1",
+          "start_char": 114,
+          "end_char": 121,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "528e4def-9bb0-42be-8dac-ea8650a40730",
+      "text": "ove uredbe, radna mesta i broj izvršilaca koji su dužni da rade i druga pitanja u skladu sa zakonom i kolektivnim ugovorom.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 123,
+      "end_char": 246,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "44802604-b484-4bcd-a7c2-307d6bd9083d",
+          "condition_type": "condition",
+          "text": "radna mesta i broj izvršilaca koji su dužni da rade i druga pitanja u skladu sa zakonom i kolektivnim ugovorom",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "ba6e5423-80a9-4ff5-aae4-c1e7f5281a94",
+      "text": "Ova uredba stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku RS”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 86,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "5f4e3b2d-c98d-4cdc-8d4f-75b04b9a97cf",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku RS”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:20:15.494053Z"
+}

@@ -98,6 +98,20 @@ async def recognize_entities(request: RecognitionRequest) -> RecognitionResponse
         raise HTTPException(status_code=500, detail=str(e))
 
 
+def cleanup_gpu_memory():
+    """Release GPU memory after batch processing to prevent memory leaks."""
+    try:
+        import torch
+        if torch.cuda.is_available():
+            torch.cuda.empty_cache()
+            torch.cuda.synchronize()
+            logger.debug("GPU memory cleaned up")
+    except ImportError:
+        pass
+    except Exception as e:
+        logger.warning(f"Error cleaning GPU memory: {e}")
+
+
 @router.post("/api/recognize/batch", response_model=BatchRecognitionResponse)
 async def recognize_entities_batch(request: BatchRecognitionRequest) -> BatchRecognitionResponse:
     """
@@ -108,6 +122,7 @@ async def recognize_entities_batch(request: BatchRecognitionRequest) -> BatchRec
     - Processing assertions in batches to optimize memory usage
     - Tracking detailed timing metrics for performance analysis
     - Handling errors gracefully per assertion
+    - Cleaning up GPU memory after processing to prevent leaks
     
     Args:
         request: BatchRecognitionRequest with list of assertions
@@ -288,6 +303,9 @@ async def recognize_entities_batch(request: BatchRecognitionRequest) -> BatchRec
     except Exception as e:
         logger.error(f"Error in batch entity recognition: {str(e)}", exc_info=True)
         raise HTTPException(status_code=500, detail=f"Batch entity recognition failed: {str(e)}")
+    finally:
+        # Always cleanup GPU memory after batch processing
+        cleanup_gpu_memory()
 
 
 @router.get("/api/jobs/{job_id}")

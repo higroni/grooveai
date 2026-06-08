@@ -1,0 +1,98 @@
+{
+  "import_run_id": "c6e01495-1387-47ec-b8b2-eb17a7c838d2",
+  "document": {
+    "name": "radni_odnosi_0175_000175.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0175_000175.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:31.116554Z"
+  },
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje),\nReprezentativni sindikati u oblasti zdravstva na nivou Republike Srbije: Sindikat\nzaposlenih u zdravstvu i socijalnoj zaštiti Srbije i Granski sindikat zdravstva i socijalne\nzaštite „Nezavisnost” i Vlada, 1. decembra 2022. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za zdravstvene ustanove čiji je\nosnivač Republika Srbija, autonomna pokrajina i jedinica lokalne samouprave\n\"Službeni glasnik RS\", broj 135 od 6. decembra 2022.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za zdravstvene ustanove čiji je osnivač Republika\nSrbija, autonomna pokrajina i jedinica lokalne samouprave („Službeni glasnik RS”, br. 96/19\ni 58/20) produžava se do 9. januara 2024. godine.\nČlan 2.\nOvaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nZa Vladu\nMinistar zdravlja,\nprof. dr Danica Grujičić, s.r.\nZa Sindikat zaposlenih u zdravstvu\ni socijalnoj zaštiti Srbije,\ndr Zoran Savić, s.r.\nZa Granski sindikat zdravstva\ni socijalne zaštite „Nezavisnost”,\nZoran Ilić, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "15ca0ecb-0122-4952-a400-acf9b6e27e0b",
+      "entity_type": "DATE",
+      "text": "9. januara 2024",
+      "start_char": 837,
+      "end_char": 852,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "68c99d1c-9203-4d28-9a63-37e182c9fa55",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "18b224a7-56a4-4753-b1a8-902529e42db0",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 625,
+      "end_char": 631,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "c18a07be-dfbf-42dd-93c5-063ea4288300",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 862,
+      "end_char": 868,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "90a4daec-98b8-4c69-b2c4-dcf1844147b7",
+      "text": "Važenje Posebnog kolektivnog ugovora za zdravstvene ustanove čiji je osnivač Republika Srbija, autonomna pokrajina i jedinica lokalne samouprave („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 173,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "76012f9c-3f5a-41c7-b0ff-36bd29c01902",
+      "text": "Ovaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 106,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "2f7391f4-3aad-41ea-85f0-6801f3f0b6c1",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "170f19fc-4894-41df-a2b3-b4e4e5f3a46c",
+      "text": "Za Sindikat zaposlenih u zdravstvu i socijalnoj zaštiti Srbije, dr Zoran Savić, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 165,
+      "end_char": 250,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "522d8773-8d84-4432-b504-32bf2f4ae983",
+      "text": "Za Granski sindikat zdravstva i socijalne zaštite „Nezavisnost”, Zoran Ilić, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 4,
+      "start_char": 250,
+      "end_char": 331,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:31.116554Z"
+}

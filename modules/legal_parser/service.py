@@ -60,7 +60,7 @@ class LegalParserService:
         """
         start_time = time.time()
         
-        self.logger.info(f"Parsing document: {filename}")
+        self.logger.debug(f"Parsing document: {filename}")
         
         # Extract document metadata
         title = self.patterns.extract_title(text)
@@ -87,7 +87,7 @@ class LegalParserService:
         )
         
         processing_time = (time.time() - start_time) * 1000
-        self.logger.info(
+        self.logger.debug(
             f"Parsed {statistics.total_units} units in {processing_time:.2f}ms"
         )
         

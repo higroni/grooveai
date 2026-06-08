@@ -1,0 +1,330 @@
+{
+  "import_run_id": "d1ac0810-2014-4adb-8541-6fda144f9222",
+  "document": {
+    "name": "radni_odnosi_0019_000019.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0019_000019.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:10:37.801497Z"
+  },
+  "full_text": "Na osnovu člana 93. stav 3. Zakona o bezbednosti i zdravlju na radu („Službeni glasnik RS”,\nbroj 35/23),\nMinistar za rad, zapošljavanje, boračka i socijalna pitanja donosi\nPRAVILNIK\no izgledu značke i odgovarajuće vrste odeće, obuće i opreme inspektora rada\n\"Službeni glasnik RS\", broj 76 od 13. septembra 2024.\nUvodna odredba\nČlan 1.\nOvim pravilnikom propisuje se izgled, značke, kao i odgovarajuća vrsta odeće, obuće i\nopreme koju koristi inspektor rada.\nIzgled značke\nČlan 2.\nZnačka je izrađena od metala u obliku stilizovanog elipsastog štita, zlatno žute boje,\nveličine 70 mm x 62 mm.\nNa spoljašnjem obodu štita, a u gornjoj polovini, je ugravirana i teget emajl bojom ispunjena\ntraka, širine 7 mm. Ova traka je sa leve i desne strane presečena, vodoravno postavljenim\nisečkom srpske trobojke koja je 2 mm šira od elipse u tom delu. Trobojka je ispunjena emajl\nbojama, crvenom, plavom i belom. Veličina polja za trobojku je 9 mm x 7 mm.\nNa sredini trake, nalazi se serifni ćirilični tekst „REPUBLIKA SRBIJA” zlatno žute boje.\nVisina slova je 5 mm.\nU donjoj polovini oznake, a ispod polja za trobojku, nalazi se ugravirana i teget emajl bojom\nispunjena traka, širine 7 mm i ćirilični tekst lučno postavljen, „INSPEKTORAT ZA RAD”,\nzlatno žute boje. Visina slova je 5 mm.\nU središnjem delu oznake na vodoravno šrafiranom polju, veličine 49 mm x 38 mm, nalazi\nse Mali grb Republike Srbije, sa pripadajućim emajl bojama. Veličina grba je 20 mm x 11\nmm.\nIspod grba u dva reda je centralno postavljen san serifni ćirilični tekst „INSPEKTOR\nRADA” ispunjen teget emajl bojom. Visina slova je 7 mm.\nIspod drugog reda teksta, u sredini centralnog dela, na poliranom odsečku ugraviran je\ntrocifreni broj ispunjen crnom emajl bojom. Visina brojeva je 6 mm.\nBroj koji se urezuje na značku identičan je jedinstvenom broju službene legitimacije\ninspektora rada i sastoji se od tri cifre, počev od broja 1, s tim što se ispred broja dodaje\npotreban broj nula.\nIzgled značke odštampan je uz ovaj pravilik na Obrascu značke inspektora rada i čini njegov\nsastavni deo.\nČlan 3.\nZnačka i službena legitimacija koja je izdata u skladu sa važećim propisima, čine celinu u\ntrodelnim, kožnim koricama na sklapanje. Kožne korice su izrađene od prirodne kože crne\nboje, formata 180 mm h 120 mm. U drugom unutrašnjem delu kožnih korica smešta se\nslužbena legitimacija u posebnu pregradu formata 90 mm h 120 mm sa providnim delom u\nsredini formata 75 mm h 95 mm. Značka se pričvršćuje na treću unutrašnju stranu korica\nformata 70 mm h 100 mm.\nOdeća i obuća\nČlan 4.\nOdgovarajuća vrsta odeće i obuće koju inspektor rada nosi prilikom vršenja inspekcijskog\nnadzora i drugih službenih dužnosti jeste:\n1) zaštitni šlem;\n2) fluorescentni, obeležavajući prsluk;\n3) zaštitne cipele sa zaštitnom kapom i neklizajućim đonom;\n4) druga lična zaštitna oprema utvrđena aktom o proceni rizika na radnom mestu inspektor\nrada.\nČlan 5.\nOdgovarajuća vrsta odeće inspektora rada iz člana 4. stav 1. tač. 1) i 2) ovog pravilnika\nizdaje se najmanje jednom u pet godina, a odgovarajuća vrsta odeće i obuće iz tačke 3) izdaje\nse najmanje jednom u dve godine, dok se druga lična zaštitna oprema iz tačke 4) izdaje u\nskladu sa rokovima koji su utvrđeni aktom o proceni rizika na radnom mestu inspektor rada.\nOprema\nČlan 6.\nOprema inspektora rada prilikom vršenja inspekcijskog nadzora i obavljanja drugih\nslužbenih dužnosti može da se sastoji od:\n1) putničkog automobila;\n2) personalnog računara;\n3) laptop računara;\n4) modema za internet;\n5) elektronskog kvalifikovanog sertifikata;\n6) tablet uređaja;\n7) uređaja za očitavanje podataka biometrijskih isprava;\n8) mobilnog telefona;\n9) digitalnog fotoaparata;\n10) štampača;\n11) skenera.\nČlan 7.\nOvaj pravilnik stupa na snagu osmog dana od dana objavljivanja u ,,Službenom glasniku\nRepublike Srbije”.\nBroj 110-00-00009/2024-01\nU Beogradu, 4. septembra 2024. godine\nMinistar,\nNemanja Starović, s.r.\n",
+  "legal_units_count": 7,
+  "document_entities": [
+    {
+      "entity_id": "64b3f259-914f-4be9-8764-887697fb35b3",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 93",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "251fdf3f-27ea-4316-a38e-6c159476f67d",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 327,
+      "end_char": 333,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "aa342a5d-1e4a-44c2-b6cc-68f9fb97dbc3",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 471,
+      "end_char": 477,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "ab9d4c11-b71c-4b06-bf6c-d3db290fce6d",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 2054,
+      "end_char": 2060,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "584efaab-4533-452d-8b4b-ae0422f43314",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 2532,
+      "end_char": 2538,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "86ba472f-9def-4003-bfb9-b11dac559316",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 2885,
+      "end_char": 2891,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "5d565ee9-ed57-4f99-a5aa-52c4be3b8b15",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 4",
+      "start_char": 2937,
+      "end_char": 2944,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "0993d382-e101-4619-a8f5-28cf0cb682d4",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 3264,
+      "end_char": 3270,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "b7941ad2-ff23-441c-9dcf-d3a03ea4795f",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 7",
+      "start_char": 3685,
+      "end_char": 3691,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "27bbea8e-d934-469a-8cf5-0be091308cb7",
+      "entity_type": "LEGAL_REF",
+      "text": "PRAVILNIK\no izgledu značke i odgovarajuće vrste odeće",
+      "start_char": 172,
+      "end_char": 225,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "ee8c81e2-7cc6-4a50-943c-732e22619106",
+      "text": "Ovim pravilnikom propisuje se izgled, značke, kao i odgovarajuća vrsta odeće, obuće i opreme koju koristi inspektor rada.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 122,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "bf72e33f-27ac-4125-b75a-9ac431a1e5fe",
+      "text": "Značka je izrađena od metala u obliku stilizovanog elipsastog štita, zlatno žute boje, veličine 70 mm x 62 mm.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 111,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "29480ddb-6bef-4b3c-a128-241da4fe2d32",
+      "text": "Na spoljašnjem obodu štita, a u gornjoj polovini, je ugravirana i teget emajl bojom ispunjena traka, širine 7 mm.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 111,
+      "end_char": 225,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "a8390ed4-d254-4bd3-893e-9b51180f8e14",
+      "text": "Ova traka je sa leve i desne strane presečena, vodoravno postavljenim isečkom srpske trobojke koja je 2 mm šira od elipse u tom delu.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 225,
+      "end_char": 359,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "b80329dc-7bc3-44a4-ab2f-9999fc5473d2",
+      "text": "Veličina polja za trobojku je 9 mm x 7 mm.",
+      "confidence": 0.5,
+      "sentence_index": 4,
+      "start_char": 420,
+      "end_char": 463,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "8de91416-824a-4dbb-9481-f320f8d93b90",
+      "text": "Na sredini trake, nalazi se serifni ćirilični tekst „REPUBLIKA SRBIJA” zlatno žute boje.",
+      "confidence": 0.5,
+      "sentence_index": 5,
+      "start_char": 463,
+      "end_char": 552,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "95244611-f4a5-47e3-9f6a-f3ab6643e9f2",
+      "text": "U donjoj polovini oznake, a ispod polja za trobojku, nalazi se ugravirana i teget emajl bojom ispunjena traka, širine 7 mm i ćirilični tekst lučno postavljen, „INSPEKTORAT ZA RAD”, zlatno žute boje.",
+      "confidence": 0.5,
+      "sentence_index": 7,
+      "start_char": 574,
+      "end_char": 773,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "bbd53561-a47c-43a1-af04-6afdc11ac160",
+      "text": "U središnjem delu oznake na vodoravno šrafiranom polju, veličine 49 mm x 38 mm, nalazi se Mali grb Republike Srbije, sa pripadajućim emajl bojama.",
+      "confidence": 0.5,
+      "sentence_index": 9,
+      "start_char": 795,
+      "end_char": 942,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "5b4f23bc-1dc3-46b3-9813-1f5866f6838f",
+      "text": "Ispod grba u dva reda je centralno postavljen san serifni ćirilični tekst „INSPEKTOR RADA” ispunjen teget emajl bojom.",
+      "confidence": 0.5,
+      "sentence_index": 11,
+      "start_char": 974,
+      "end_char": 1093,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "52722f48-2990-49e5-ac9c-c466fd574d0b",
+      "text": "Ispod drugog reda teksta, u sredini centralnog dela, na poliranom odsečku ugraviran je trocifreni broj ispunjen crnom emajl bojom.",
+      "confidence": 0.5,
+      "sentence_index": 13,
+      "start_char": 1115,
+      "end_char": 1246,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "da83372f-b7e4-44fc-847a-8bd2ddd22e92",
+      "text": "Broj koji se urezuje na značku identičan je jedinstvenom broju službene legitimacije inspektora rada i sastoji se od tri cifre, počev od broja 1, s tim što se ispred broja dodaje potreban broj nula.",
+      "confidence": 0.5,
+      "sentence_index": 15,
+      "start_char": 1270,
+      "end_char": 1469,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "8e86e87f-4a43-4481-9682-3ae262c45686",
+      "text": "Izgled značke odštampan je uz ovaj pravilik na Obrascu značke inspektora rada i čini njegov sastavni deo.",
+      "confidence": 0.5,
+      "sentence_index": 16,
+      "start_char": 1469,
+      "end_char": 1574,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "2fa98aa9-c145-4619-bb60-f107ecfac986",
+      "text": "Značka i službena legitimacija koja je izdata u skladu sa važećim propisima, čine celinu u trodelnim, kožnim koricama na sklapanje.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 132,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "cd319cdf-6a74-4167-9faa-191d143e829b",
+          "condition_type": "condition",
+          "text": "u skladu sa važećim propisima",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "859e7f4d-47fe-4af0-ba56-414fe159c2c5",
+      "text": "Kožne korice su izrađene od prirodne kože crne boje, formata 180 mm h 120 mm.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 132,
+      "end_char": 210,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "a36ed193-407e-4380-8d67-e1c83f08e012",
+      "text": "U drugom unutrašnjem delu kožnih korica smešta se službena legitimacija u posebnu pregradu formata 90 mm h 120 mm sa providnim delom u sredini formata 75 mm h 95 mm.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 210,
+      "end_char": 376,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "9b57f69f-7ae4-42d1-b0b8-d001c8242f5b",
+      "text": "Značka se pričvršćuje na treću unutrašnju stranu korica formata 70 mm h 100 mm.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 376,
+      "end_char": 456,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "e145b1e2-1410-405b-93d6-931f3541e38e",
+      "text": "Odgovarajuća vrsta odeće i obuće koju inspektor rada nosi prilikom vršenja inspekcijskog nadzora i drugih službenih dužnosti jeste: 1) zaštitni šlem; 2) fluorescentni, obeležavajući prsluk; 3) zaštitne cipele sa zaštitnom kapom i neklizajućim đonom; 4) druga lična zaštitna oprema utvrđena aktom o proceni rizika na radnom mestu inspektor rada.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 344,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "32a0d27c-bfcf-45c8-88f7-d4efa3783258",
+      "text": "1) i 2) ovog pravilnika izdaje se najmanje jednom u pet godina, a odgovarajuća vrsta odeće i obuće iz tačke 3) izdaje se najmanje jednom u dve godine, dok se druga lična zaštitna oprema iz tačke 4) izdaje u skladu sa rokovima koji su utvrđeni aktom o proceni rizika na radnom mestu inspektor rada.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 66,
+      "end_char": 364,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "57120ff3-dd5f-4aff-996b-a54cc1df95f1",
+          "condition_type": "condition",
+          "text": "dok se druga lična zaštitna oprema iz tačke 4) izdaje u skladu sa rokovima koji su utvrđeni aktom o proceni rizika na radnom mestu inspektor rada",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "b28633ac-a6cf-4226-ab60-4eaf082fc653",
+      "text": "Oprema inspektora rada prilikom vršenja inspekcijskog nadzora i obavljanja drugih službenih dužnosti može da se sastoji od: 1) putničkog automobila; 2) personalnog računara; 3) laptop računara; 4) modema za internet; 5) elektronskog kvalifikovanog sertifikata; 6) tablet uređaja; 7) uređaja za očitavanje podataka biometrijskih isprava; 8) mobilnog telefona; 9) digitalnog fotoaparata; 10) štampača; 11) skenera.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 412,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "c3309462-af32-4ea4-bbd3-f2157d8ca1ea",
+          "condition_type": "modal",
+          "text": "može da se sastoji od",
+          "trigger_word": "može",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "6e31611c-6a8e-46c8-b1c4-7e2f71745914",
+      "text": "Ovaj pravilnik stupa na snagu osmog dana od dana objavljivanja u ,,Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 105,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "eb3857ef-1176-4976-96cd-d4e4354191cf",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:10:37.801497Z"
+}

@@ -1,0 +1,143 @@
+{
+  "import_run_id": "d733962d-87ef-48d4-a73c-6767641bd7ee",
+  "document": {
+    "name": "radni_odnosi_0226_000226.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0226_000226.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:27:50.381659Z"
+  },
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US, 113/17 i 95/18 – autentično tumačenje), Zaključka Gradskog veća\ngrada Požarevca, broj 09-06-88/2021-3 od 15. juna 2021. godine, Zaključka Gradskog veća\ngrada Požarevca, broj 09-06-113/2021-8 od 30. jula 2021. godine i člana 82. stav 1. tačka 26)\nStatuta grada Požarevca („Službeni glasnik grada Požarevca”, br. 10/18, 12/18 – ispravka i\n10/19),\nGradsko veće grada Požarevca, koga zastupa gradonačelnik grada Požarevca Saša Pavlović,\ndipl. inž. elektrotehnike, u ime grada Požarevca kao osnivača, Sindikat zaposlenih u\nkomunalno-stambenoj delatnosti Srbije, koga zastupa po ovlašćenju Đurišić Branislav i\nGranski sindikat javnih saobraćajnih i komunalnih delatnosti „Nezavisnost”, koga zastupa po\novlašćenju Jugoslav Čarapić (u daljem tekstu: učesnici), zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj\ndelatnosti grada Požarevca\n\"Službeni glasnik RS\", broj 81 od 16. avgusta 2021.\nČlan 1.\nProdužava se rok važenja Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj\ndelatnosti grada Požarevca („Službeni glasnik RS”, broj 69/15), zaključenog 16. jula 2015.\ngodine između učesnika, do 16. jula 2024. godine.\nČlan 2.\nTekst ovog sporazuma objaviti u „Službenom glasniku Republike Srbije”.\nSindikat zaposlenih\nu komunalno-stambenoj delatnosti Srbije\nĐurišić Branislav, s.r.\nGranski sindikat javnih saobraćajnih\ni komunalnih delatnosti „Nezavisnost”\nJugoslav Čarapić, s.r.\nGrad Požarevac\nGradonačelnik grada Požarevca,\nSaša Pavlović, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "0e975818-a288-42f8-99ad-562731087f5f",
+      "entity_type": "DATE",
+      "text": "15. juna 2021",
+      "start_char": 223,
+      "end_char": 236,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "d270b355-1218-4f14-a075-bcb5260d745b",
+      "entity_type": "DATE",
+      "text": "30. jula 2021",
+      "start_char": 312,
+      "end_char": 325,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "8a1c7fbf-32fa-47eb-a607-03fc5a20d3db",
+      "entity_type": "DATE",
+      "text": "16. avgusta 2021",
+      "start_char": 1039,
+      "end_char": 1055,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "eb67c91e-aca6-4b7c-8258-fff348623dc2",
+      "entity_type": "DATE",
+      "text": "16. jula 2015",
+      "start_char": 1227,
+      "end_char": 1240,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "a4673e65-b1da-48b1-86c9-18f2d31c56fe",
+      "entity_type": "DATE",
+      "text": "16. jula 2024",
+      "start_char": 1269,
+      "end_char": 1282,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "08ceb7e7-0a0c-4ca0-a730-c028457e2161",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "aa96263f-e0f8-4b5f-956d-f4847fe6356c",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 82",
+      "start_char": 336,
+      "end_char": 344,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "0b106185-ce0c-4972-93c5-a8b7fab301ec",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 1057,
+      "end_char": 1063,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "211fc477-f452-439d-94f2-66947d3d4708",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 1292,
+      "end_char": 1298,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "d75a491e-e73e-4bed-82e4-0fc43767cc8e",
+      "entity_type": "LOCATION",
+      "text": "Požarevac",
+      "start_char": 1558,
+      "end_char": 1567,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "fd38450c-374e-467e-8997-a5e5d4bffbdf",
+      "entity_type": "LOCATION",
+      "text": "grada Požarevca",
+      "start_char": 182,
+      "end_char": 197,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "90fe6942-60b0-43be-b813-c75ee74c90b6",
+      "entity_type": "LOCATION",
+      "text": "Grad Požarevac",
+      "start_char": 1553,
+      "end_char": 1567,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "334aa175-750a-4ec3-ab02-0fc84e35f35f",
+      "text": "Produžava se rok važenja Posebnog kolektivnog ugovora za javna preduzeća u komunalnoj delatnosti grada Požarevca („Službeni glasnik RS”, broj 69/15), zaključenog 16.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 166,
+      "entities": [
+        {
+          "entity_id": "3e678cc8-61f0-41ad-bee8-f57418f864c4",
+          "entity_type": "LOCATION",
+          "text": "grada Požarevca",
+          "start_char": 97,
+          "end_char": 112,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "adba61ed-7aae-4725-b064-9999478d28ea",
+      "text": "Granski sindikat javnih saobraćajnih i komunalnih delatnosti „Nezavisnost” Jugoslav Čarapić, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 155,
+      "end_char": 253,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:27:50.381659Z"
+}

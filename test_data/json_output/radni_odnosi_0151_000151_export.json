@@ -1,0 +1,232 @@
+{
+  "import_run_id": "c2dbc087-acbc-43b3-bb5e-d31bca9a6921",
+  "document": {
+    "name": "radni_odnosi_0151_000151.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0151_000151.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:20:10.144778Z"
+  },
+  "full_text": "Na osnovu člana 64. stav 1. Poslovnika Narodne skupštine („Službeni glasnik\nRepublike Srbije“, broj 11/91),\nOdbor za administrativna i mandatno-imunitetna pitanja Narodne skupštine Republike\nSrbije, na sednici 13. februara 1992. godine, doneo je\n \n \nODLUKU\no načinu i postupku ostvarivanja prava na besplatan prevoz narodnih\nposlanika u Narodnoj skupštini Republike Srbije\n„Službeni glasnik RS“, broj 7 od 22. februara 1992.\n \n \nČlan 1.\nOvom odlukom određuje se način i postupak ostvarivanja prava na besplatan prevoz\nnarodnih poslanika u Narodnoj skupštini Republike Srbije u železničkom, drumskom, javnom\ngradskom i rečnom saobraćaju na teritoriji Republike Srbije utvrđenog Zakonom o primanjima\nnarodnih poslanika u Narodnoj skupštini Republike Srbije („Službeni glasnik Republike\nSrbije”, br. 7/91, 22/91 28/91 i 68/91, u daljem tekstu: narodni poslanici).\n \nČlan 2.\nBesplatan prevoz u železničkom, drumskom, rečnom i javnom gradskom saobraćaju\nnarodni poslanici koriste na osnovu legitimacije narodnog poslanika, koji daju na uvid\nslužbenom licu u sredstvu prevoza koja koriste.\nNa osnovu uvida u legitimaciju narodnog poslanika, službeno lice u sredstvu prevoza\nizdaje narodnom poslaniku putnu kartu za povlašćenu vožnju, osim za prevoz u javnom\ngradskom saobraćaju, u koju unose sledeće podatke: broj legitimacije, relaciju, datum\nputovanja, iznos cene prevoza, kao i druge podatke propisane na obrascu karte za povlašćenu\nvožnju.\n \nČlan 3.\nPreduzeća koja se bave železničkim, drumskim i rečnim saobraćajem, naknadu za\nobavljeni prevoz narodnih poslanika, u skladu sa ovom odlukom, ostvaruju podnošenjem\nzahteva Ministarstvu finansija, Resoru republičkog budžeta, jednom mesečno.\nUz zahtev iz stava 1. ovog člana dostavlja se i specifikacija sa izdatim kartama za\nbesplatan prevoz narodnih poslanika.\n \nČlan 4.\nIsplata karata iz člana 3. ove odluke vrši se na teret računa broj: 60802-630-219 –\nIzvršenje republičkog budžeta, pozicija 79 433 – Naknada za povlastice u putničkom\nsaobraćaju po republičkim propisima.\n \nČlan 5.\nUgovorom koji sa gradskim saobraćajnim preduzećem Beograda zaključuje ministar\nfinansija utvrđuje se iznos naknade za obavljeni prevoz narodnih poslanika u jednoj\nkalendarskoj godini.\nVisina naknade iz stava 1. ovog člana utvrđuje se na osnovu broja korisnika,\nprocenjenog broja putovanja i iznosa cene redovne mesečne pretplatne karte.\n \nČlan 6.\nOva odluka stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n  \nBroj 28/06-2/11-92\nOdbor za administrativna i ma ndatno-imunitetna pitanja\nNarodne skupštine Republike Srbije\nPredsednik Odbora,\nDušan Latinović, s. r.",
+  "legal_units_count": 6,
+  "document_entities": [
+    {
+      "entity_id": "205d7ccd-9198-42aa-bdec-c05a5ccd60b9",
+      "entity_type": "DATE",
+      "text": "13. februara 1992",
+      "start_char": 210,
+      "end_char": 227,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "bd4c0881-f875-4690-8e7b-df322b436119",
+      "entity_type": "DATE",
+      "text": "22. februara 1992",
+      "start_char": 404,
+      "end_char": 421,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "80b00f31-fd3d-4d06-ac47-d6a637278768",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 64",
+      "start_char": 10,
+      "end_char": 18,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "0b713040-b7f0-4e44-97ba-f6ea09a39b5a",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 425,
+      "end_char": 431,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "d7504578-14d5-4b85-9906-4735ab94c42f",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 858,
+      "end_char": 864,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "4b5fc190-e803-4bf7-b9a0-1d914be62027",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 1434,
+      "end_char": 1440,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "222e4722-5a46-4e43-9ffb-06f512b88236",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 4",
+      "start_char": 1803,
+      "end_char": 1809,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "2a3428a7-7e28-499d-be27-f202cfe80322",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 3",
+      "start_char": 1829,
+      "end_char": 1836,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "e1058d65-c951-481b-871e-1c781236e27c",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 5",
+      "start_char": 2016,
+      "end_char": 2022,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "4ed940d5-8faf-46c2-b689-05eb4d9615de",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 6",
+      "start_char": 2362,
+      "end_char": 2368,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "416c7ee2-d8e6-4941-9ad7-84a9da1da076",
+      "text": "Ovom odlukom određuje se način i postupak ostvarivanja prava na besplatan prevoz narodnih poslanika u Narodnoj skupštini Republike Srbije u železničkom, drumskom, javnom gradskom i rečnom saobraćaju na teritoriji Republike Srbije utvrđenog Zakonom o primanjima narodnih poslanika u Narodnoj skupštini Republike Srbije („Službeni glasnik Republike Srbije”, br.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 360,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "97a9a6f0-73a2-4fec-b336-0ec807dfa3fa",
+      "text": "7/91, 22/91 28/91 i 68/91, u daljem tekstu: narodni poslanici).",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 360,
+      "end_char": 423,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "bf04027b-e79e-4ae6-b53f-c7eaf38888b2",
+      "text": "Besplatan prevoz u železničkom, drumskom, rečnom i javnom gradskom saobraćaju narodni poslanici koriste na osnovu legitimacije narodnog poslanika, koji daju na uvid službenom licu u sredstvu prevoza koja koriste.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 213,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "1f9cad81-4ff4-44c4-acc9-b619cc5dfe8f",
+      "text": "Na osnovu uvida u legitimaciju narodnog poslanika, službeno lice u sredstvu prevoza izdaje narodnom poslaniku putnu kartu za povlašćenu vožnju, osim za prevoz u javnom gradskom saobraćaju, u koju unose sledeće podatke: broj legitimacije, relaciju, datum putovanja, iznos cene prevoza, kao i druge podatke propisane na obrascu karte za povlašćenu vožnju.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 213,
+      "end_char": 566,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "273c0cca-149e-4281-86b4-d491a6de131b",
+          "condition_type": "exception",
+          "text": "službeno lice u sredstvu prevoza izdaje narodnom poslaniku putnu kartu za povlašćenu vožnju, osim za prevoz u javnom gradskom saobraćaju",
+          "trigger_word": "osim",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "63e25299-6f2f-4c88-b04e-74cb695e776f",
+      "text": "Preduzeća koja se bave železničkim, drumskim i rečnim saobraćajem, naknadu za obavljeni prevoz narodnih poslanika, u skladu sa ovom odlukom, ostvaruju podnošenjem zahteva Ministarstvu finansija, Resoru republičkog budžeta, jednom mesečno.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 239,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "0fd68d80-fc4e-4c60-b09c-1ebd8e6aad68",
+          "condition_type": "condition",
+          "text": "naknadu za obavljeni prevoz narodnih poslanika, u skladu sa ovom odlukom",
+          "trigger_word": "u skladu sa",
+          "confidence": 0.9
+        }
+      ]
+    },
+    {
+      "assertion_id": "4f4cc4f4-5507-4f16-a44c-4884ac946e8f",
+      "text": "ovog člana dostavlja se i specifikacija sa izdatim kartama za besplatan prevoz narodnih poslanika.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 261,
+      "end_char": 359,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "fbba3819-29e8-4008-9316-608e2677f0e3",
+      "text": "ove odluke vrši se na teret računa broj: 60802-630-219 – Izvršenje republičkog budžeta, pozicija 79 433 – Naknada za povlastice u putničkom saobraćaju po republičkim propisima.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 27,
+      "end_char": 203,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "1b5adf61-829d-4dde-970a-b251ad0de82e",
+      "text": "Ugovorom koji sa gradskim saobraćajnim preduzećem Beograda zaključuje ministar finansija utvrđuje se iznos naknade za obavljeni prevoz narodnih poslanika u jednoj kalendarskoj godini.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 184,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "10fb5b0e-d4ae-43e5-a119-e9a237c081ff",
+      "text": "ovog člana utvrđuje se na osnovu broja korisnika, procenjenog broja putovanja i iznosa cene redovne mesečne pretplatne karte.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 2,
+      "start_char": 211,
+      "end_char": 336,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "99daa689-b247-4856-ab82-2dce3f8876af",
+      "text": "Ova odluka stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 103,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "7505a2f7-a1dd-407b-93f7-1795452851a9",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "b9f3ecdf-d2b6-453f-9f80-e9322e70fcb8",
+      "text": "Broj 28/06-2/11-92 Odbor za administrativna i ma ndatno-imunitetna pitanja Narodne skupštine Republike Srbije Predsednik Odbora, Dušan Latinović, s.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 103,
+      "end_char": 252,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:20:10.144778Z"
+}

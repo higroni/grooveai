@@ -1,0 +1,122 @@
+{
+  "import_run_id": "71bdd9e3-15ab-4e80-831e-df9541fd9faa",
+  "document": {
+    "name": "radni_odnosi_0182_000182.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0182_000182.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:36.875105Z"
+  },
+  "full_text": "Na osnovu člana 4. stav 2. Zakona o državnim službenicima („Službeni glasnik RS”, br.\n79/05, 81/05 – ispravka, 83/05 – ispravka, 64/07, 67/07 – ispravka, 116/08, 104/09, 99/14,\n94/17, 95/18, 157/20, 142/22, 13/25 – US i 19/25), u vezi sa članom 263. stav 2. Zakona o radu\n(„Službeni glasnik RS”, br. 24/05, 61/05, 54/09, 32/13, 75/14, 13/17 – US, 113/17 i 95/18 –\nautentično tumačenje),\nVlada i reprezentativni sindikati Ministarstva unutrašnjih poslova – Nezavisni sindikat\npolicije, Sindikat srpske policije i Policijski sindikat Srbije, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za policijske službenike\n\"Službeni glasnik RS\", broj 76 od 29. avgusta 2025.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za policijske službenike („Službeni glasnik RS”, br.\n62/19, 62/20 – Aneks I i 81/21 – Aneks II), produžava se do 31. decembra 2025. godine.\nČlan 2.\nOvaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nBroj 01-011-363/25-19\nU Beogradu, 20. avgusta 2025. godine\nZa Vladu\nPotpredsednik Vlade i ministar unutrašnjih poslova,\nIvica Dačić, s.r.\nZa Nezavisni sindikat policije,\nGoran Lazić, s.r.\nZa Sindikat srpske policije,\nLazar Ranitović, s.r.\nZa Policijski sindikat Srbije,\nVeljko Mijailović, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "606d4ba3-b70b-452a-9d18-16a148a27bf4",
+      "entity_type": "DATE",
+      "text": "29. avgusta 2025",
+      "start_char": 674,
+      "end_char": 690,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "1e51709e-0100-4315-86f9-6827c34767d3",
+      "entity_type": "DATE",
+      "text": "20. avgusta 2025",
+      "start_char": 1025,
+      "end_char": 1041,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "173405c3-aff1-438d-8e50-e89f956ea6e8",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 4",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "47515a1d-c840-4ee2-a300-5638283b42e4",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 263",
+      "start_char": 238,
+      "end_char": 248,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "1f2df1e6-827a-48be-b6d2-1bab4bbfa44e",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 692,
+      "end_char": 698,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "6c14b0de-bc8d-476b-a93e-eaea05c9b273",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 877,
+      "end_char": 883,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "1a40c087-0ea9-4aa5-98b7-85c952ca1b16",
+      "text": "Važenje Posebnog kolektivnog ugovora za policijske službenike („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 90,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "b8c48133-e2b9-43e3-89e2-4f9f50b2d569",
+      "text": "62/19, 62/20 – Aneks I i 81/21 – Aneks II), produžava se do 31.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 90,
+      "end_char": 154,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "cac67f13-cac1-480a-b8df-1921b73ac7a0",
+          "condition_type": "temporal",
+          "text": "produžava se do 31",
+          "trigger_word": "do",
+          "confidence": 0.75
+        }
+      ]
+    },
+    {
+      "assertion_id": "d62f4e00-b611-446a-bd27-7460c84b77ac",
+      "text": "Ovaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 106,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "91b24f0d-630e-4a34-bab9-25f715fcfd63",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "c30548ab-9d4d-4128-a330-f38af6bed1b0",
+      "text": "godine Za Vladu Potpredsednik Vlade i ministar unutrašnjih poslova, Ivica Dačić, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 158,
+      "end_char": 244,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:36.875105Z"
+}

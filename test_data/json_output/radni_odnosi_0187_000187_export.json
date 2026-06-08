@@ -1,0 +1,131 @@
+{
+  "import_run_id": "e10c86b6-c62d-43d4-b3cb-ac93b84bb3eb",
+  "document": {
+    "name": "radni_odnosi_0187_000187.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0187_000187.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:41.092754Z"
+  },
+  "full_text": "Na osnovu člana 6. stav 3. Zakona o zaposlenima u autonomnim pokrajinama i jedinicama\nlokalne samouprave („Službeni glasnik RS”, br. 21/16, 113/17, 95/18, 114/21 i 92/23), a u\nvezi sa članom 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 – US, 113/17, 95/18 – autentično tumačenje i 109/25 – dr. zakon),\nVlada, Stalna konferencija gradova i opština – Savez gradova i opština Srbije i\nreprezentativni sindikat – Sindikat uprave Srbije, 21. maja 2026. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za zaposlene u jedinicama lokalne\nsamouprave\n\"Službeni glasnik RS\", broj 48 od 22. maja 2026.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za zaposlene u jedinicama lokalne samouprave\n(„Službeni glasnik RS”, br. 38/19, 55/20, 51/22, 51/22 – dr. propis, 44/23, 44/23 – dr. propis\ni 48/26) produžava se do 31. maja 2027. godine.\nČlan 2.\nOvaj sporazum stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”.\nZa Sindikat uprave Srbije\nSlađan Bobić, s.r.\nZa Stalnu konferenciju gradova i opština\n– Savez gradova i opština Srbije\nNikola Tarbuk, s.r.\nZa Vladu\nministar državne uprave i lokalne samouprave\nSnežana Paunović, s.r.",
+  "legal_units_count": 2,
+  "document_entities": [
+    {
+      "entity_id": "2ff2bdbd-0a69-4f92-8eee-8be7fd4e26f5",
+      "entity_type": "DATE",
+      "text": "21. maja 2026",
+      "start_char": 484,
+      "end_char": 497,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "9bc35195-1c83-4ca8-a2c4-78a99cab4ecc",
+      "entity_type": "DATE",
+      "text": "22. maja 2026",
+      "start_char": 661,
+      "end_char": 674,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "15307752-d19d-4500-a39d-91c0b003b9d5",
+      "entity_type": "DATE",
+      "text": "31. maja 2027",
+      "start_char": 886,
+      "end_char": 899,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "4bfd915d-e796-45a7-8ad9-15b860d368cb",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 6",
+      "start_char": 10,
+      "end_char": 17,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "b831d14c-e7a9-44b8-8359-5b568899a4e4",
+      "entity_type": "LEGAL_REF",
+      "text": "članom 263",
+      "start_char": 184,
+      "end_char": 194,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "1d1ba823-8150-480c-8a10-67ccc29db81c",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 676,
+      "end_char": 682,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "8152064d-c7f6-4b1c-9434-aff55a7e71ce",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 909,
+      "end_char": 915,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "370f4895-6159-47a7-8076-8c98682acb01",
+      "entity_type": "LOCATION",
+      "text": "opština Srbije",
+      "start_char": 416,
+      "end_char": 430,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "ec9f9643-384e-46b4-994f-8f8ca50cc643",
+      "text": "Važenje Posebnog kolektivnog ugovora za zaposlene u jedinicama lokalne samouprave („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 110,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "8d89eab0-f6ad-49ee-90c1-67fa6e5264ad",
+      "text": "Ovaj sporazum stupa na snagu danom objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 90,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "34360014-e3c4-41e0-ab07-7bbdfe7bff00",
+      "text": "Za Stalnu konferenciju gradova i opština – Savez gradova i opština Srbije Nikola Tarbuk, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 135,
+      "end_char": 229,
+      "entities": [
+        {
+          "entity_id": "a72cdab2-ff8c-40ee-8ada-fb10a03bd5ff",
+          "entity_type": "LOCATION",
+          "text": "opština Srbije",
+          "start_char": 59,
+          "end_char": 73,
+          "confidence": 0.85
+        }
+      ],
+      "conditions": []
+    },
+    {
+      "assertion_id": "adb3e028-bbe9-48ab-a1f7-453a7f2b0a60",
+      "text": "Za Vladu ministar državne uprave i lokalne samouprave Snežana Paunović, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 229,
+      "end_char": 305,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:41.092754Z"
+}

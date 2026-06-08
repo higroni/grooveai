@@ -1,0 +1,150 @@
+{
+  "import_run_id": "ebe39560-2be2-44d2-bc8c-cb578d8b13cf",
+  "document": {
+    "name": "radni_odnosi_0195_000195.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0195_000195.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:23:49.075596Z"
+  },
+  "full_text": "Na osnovu člana 263. stav 2. Zakona o radu („Službeni glasnik RS”, br. 24/05, 61/05, 54/09,\n32/13, 75/14, 13/17 ‒ odluka US, 113/17 i 95/18 ‒ autentično tumačenje),\nReprezentativni sindikati: Sindikat zaposlenih u zdravstvu i socijalnoj zaštiti Srbije i\nSindikat zaposlenih u socijalnoj zaštiti Republike Srbije i Vlada Republike Srbije, 6.\naprila 2023. godine, zaključuju\nSPORAZUM\no produženju roka važenja Posebnog kolektivnog ugovora za socijalnu zaštitu u Republici\nSrbiji\n\"Službeni glasnik RS\", broj 28 od 12. aprila 2023.\nČlan 1.\nVaženje Posebnog kolektivnog ugovora za socijalnu zaštitu u Republici Srbiji („Službeni\nglasnik RS”, br. 29/19, 60/20 i 48/22 ‒ dr. propis), produžava se do 19. aprila 2024. godine.\nČlan 2.\nOvaj sporazum sačinjen je u 6 (šest) istovetnih primeraka, od kojih svaki od učesnika\nzadržava po 2 (dva) primerka i smatra se zaključenim kada ga potpišu ovlašćeni\npredstavnici učesnika.\nČlan 3.\nOvaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\nZa Vladu\nMinistar za rad, zapošljavanje,\nboračka i socijalna pitanja,\nNikola Selaković, s.r.\nZa Sindikat zaposlenih u zdravstvu\ni socijalnoj zaštiti Srbije,\ndr Zoran Savić, s.r.\nZa Sindikat zaposlenih u socijalnoj\nzaštiti Republike Srbije,\nMirjana Veljović, s.r.",
+  "legal_units_count": 3,
+  "document_entities": [
+    {
+      "entity_id": "465b5d13-bd36-473e-8594-8ec2c2ba7439",
+      "entity_type": "DATE",
+      "text": "6.\naprila 2023",
+      "start_char": 338,
+      "end_char": 352,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "acbe26a0-d96a-4414-b7b4-891314559c43",
+      "entity_type": "DATE",
+      "text": "12. aprila 2023",
+      "start_char": 511,
+      "end_char": 526,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "872a7b1e-8f0b-4846-8f09-2744ceed94b8",
+      "entity_type": "DATE",
+      "text": "19. aprila 2024",
+      "start_char": 693,
+      "end_char": 708,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "ea134f65-b10f-44c9-9cb2-ddf6cc5c4c9b",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 263",
+      "start_char": 10,
+      "end_char": 19,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "88b7a1ad-86f3-44a1-9153-9373691b0f6d",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 1",
+      "start_char": 528,
+      "end_char": 534,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "fa16dd12-c5fa-489f-97ee-a0af66163abf",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 2",
+      "start_char": 718,
+      "end_char": 724,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "cd5ce0ee-cc4c-4146-8fa8-caa397986516",
+      "entity_type": "LEGAL_REF",
+      "text": "Član 3",
+      "start_char": 914,
+      "end_char": 920,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [
+    {
+      "assertion_id": "5ff25ae1-797f-42d7-8dfe-ff53d75d3165",
+      "text": "Važenje Posebnog kolektivnog ugovora za socijalnu zaštitu u Republici Srbiji („Službeni glasnik RS”, br.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 105,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "2206a40d-bb30-4860-8c89-d8e4bcecebcb",
+      "text": "Ovaj sporazum sačinjen je u 6 (šest) istovetnih primeraka, od kojih svaki od učesnika zadržava po 2 (dva) primerka i smatra se zaključenim kada ga potpišu ovlašćeni predstavnici učesnika.",
+      "confidence": 0.7999999999999999,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 187,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "4f8464ea-42ad-4337-ba8d-c0a74527db13",
+          "condition_type": "condition",
+          "text": "od kojih svaki od učesnika zadržava po 2 (dva) primerka i smatra se zaključenim kada ga potpišu ovlašćeni predstavnici učesnika",
+          "trigger_word": "kada",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "93960be2-853c-4bea-a9e8-97c96a5aedbc",
+      "text": "Ovaj sporazum stupa na snagu narednog dana od dana objavljivanja u „Službenom glasniku Republike Srbije”.",
+      "confidence": 0.5,
+      "sentence_index": 0,
+      "start_char": 0,
+      "end_char": 106,
+      "entities": [],
+      "conditions": [
+        {
+          "condition_id": "36cc561e-f9a6-4a53-8a39-165fc0613d79",
+          "condition_type": "temporal",
+          "text": "od dana objavljivanja u „Službenom glasniku Republike Srbije”",
+          "trigger_word": "od momenta",
+          "confidence": 0.85
+        }
+      ]
+    },
+    {
+      "assertion_id": "3ac3d731-50b1-4231-8236-f45faf07ebce",
+      "text": "Za Vladu Ministar za rad, zapošljavanje, boračka i socijalna pitanja, Nikola Selaković, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 1,
+      "start_char": 106,
+      "end_char": 199,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "f5586df3-1c05-41f6-8325-b51fc61d85fd",
+      "text": "Za Sindikat zaposlenih u zdravstvu i socijalnoj zaštiti Srbije, dr Zoran Savić, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 2,
+      "start_char": 199,
+      "end_char": 284,
+      "entities": [],
+      "conditions": []
+    },
+    {
+      "assertion_id": "531be26b-2d6f-44ad-b40a-419182686dd6",
+      "text": "Za Sindikat zaposlenih u socijalnoj zaštiti Republike Srbije, Mirjana Veljović, s.r.",
+      "confidence": 0.5,
+      "sentence_index": 3,
+      "start_char": 284,
+      "end_char": 368,
+      "entities": [],
+      "conditions": []
+    }
+  ],
+  "export_timestamp": "2026-06-08T17:23:49.075596Z"
+}

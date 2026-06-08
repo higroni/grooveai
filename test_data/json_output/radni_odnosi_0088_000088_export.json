@@ -1,0 +1,97 @@
+{
+  "import_run_id": "2017419b-3b4d-4db9-b6f6-8b03b13d27b9",
+  "document": {
+    "name": "radni_odnosi_0088_000088.pdf",
+    "path": "test_data\\documents2\\radni_odnosi_0088_000088.pdf",
+    "title": null,
+    "document_type": "law",
+    "language_code": "sr",
+    "processed_at": "2026-06-08T17:16:00.398358Z"
+  },
+  "full_text": "Redakcijski prečišćen tekst\n \n \nNa osnovu člana 117. i člana 118. stav 1. Zakona o zaposlenima u autonomnim pokrajinama i\njedinicama lokalne samouprave („Službeni glasnik RS”, br. 21/16, 113/17, 113/17 – dr. zakon,\n95/18 i 114/21) i člana 43. stav 1. Zakona o Vladi („Službeni glasnik RS”, br. 55/05, 71/05 –\nispravka, 101/07, 65/08, 16/11, 68/12 – US, 72/12, 7/14 – US, 44/14 i 30/18 – dr. zakon),\nVlada donosi\nODLUKU\no osnivanju Saveta za stručno usavršavanje zaposlenih u jedinicama lokalne samouprave\n\"Službeni glasnik RS\", br. 120 od 10. decembra 2021, 134 od 2. decembra 2022, 6 od 27.\njanuara 2023, 68 od 9. avgusta 2024, 76 od 13. septembra 2024, 13 od 14. februara 2025, 66 od\n25. jula 2025.\n1. Osniva se Savet za stručno usavršavanje zaposlenih u jedinicama lokalne samouprave (u\ndaljem tekstu: Savet).\n2. U Savet se imenuju:\n– za predsednika:\nZoran Kasalović, državni sekretar u Ministarstvu državne uprave i lokalne samouprave;\n– za članove:\n1) dr Jasmina Benmansur, pomoćnik ministra državne uprave i lokalne samouprave,\n2) Radovan Arežina, vršilac dužnosti pomoćnika ministra državne uprave i lokalne\nsamouprave,\n3) Predrag Rajić, državni sekretar u Ministarstvu državne uprave i lokalne samouprave,\n4) Ivan Milivojević, zamenik generalnog sekretara za usluge članstvu Stalne konferencije\ngradova i opština,\n5) Nikola Tarbuk, zamenik generalnog sekretara za zastupanje Stalne konferencije gradova i\nopština,\n6) Mirjana Radanović, v.d. načelnika Gradske uprave grada Beograda,\n7) Marija Ušumović Davčik, načelnik Gradske uprave grada Subotica.\n*Službeni glasnik RS, broj 134/2022\n**Službeni glasnik RS, broj 66/2025\n3. Ova odluka stupa na snagu osmog dana od dana objavljivanja u „Službenom glasniku\nRepublike Srbije”.\n05 broj 02-11339/2021\nU Beogradu, 9. decembra 2021. godine\nVlada\nPredsednik,\nAna Brnabić, s.r.",
+  "legal_units_count": 0,
+  "document_entities": [
+    {
+      "entity_id": "3c8c7886-faf5-49ac-b042-303a6bd3e292",
+      "entity_type": "DATE",
+      "text": "27.\njanuara 2023",
+      "start_char": 586,
+      "end_char": 602,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "7c554879-3988-42ae-9713-0596dd9527ca",
+      "entity_type": "DATE",
+      "text": "9. avgusta 2024",
+      "start_char": 610,
+      "end_char": 625,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "ca60bdf7-53a9-461b-ac36-b118011b0ae4",
+      "entity_type": "DATE",
+      "text": "14. februara 2025",
+      "start_char": 659,
+      "end_char": 676,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "9a3ed58e-085e-4e5e-943d-aad376b3edb3",
+      "entity_type": "DATE",
+      "text": "25. jula 2025",
+      "start_char": 684,
+      "end_char": 697,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "740f2a85-1080-49df-9000-f0dc2a4b6909",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 117",
+      "start_char": 40,
+      "end_char": 49,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "402654f0-d72b-4efe-bfb0-35b020ba8cd2",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 118",
+      "start_char": 53,
+      "end_char": 62,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "d655f2c7-f5d7-48c8-b1ca-19444a67ff36",
+      "entity_type": "LEGAL_REF",
+      "text": "člana 43",
+      "start_char": 231,
+      "end_char": 239,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "8422a087-10da-4724-849c-2176e31995dc",
+      "entity_type": "LOCATION",
+      "text": "Subotica",
+      "start_char": 1545,
+      "end_char": 1553,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "919318a1-9ac8-49a7-9d60-e59fe65abfbd",
+      "entity_type": "LOCATION",
+      "text": "grada Beograda",
+      "start_char": 1472,
+      "end_char": 1486,
+      "confidence": 0.85
+    },
+    {
+      "entity_id": "41f7218e-f41d-464d-95d1-21be763aa8a8",
+      "entity_type": "LOCATION",
+      "text": "grada Subotica",
+      "start_char": 1539,
+      "end_char": 1553,
+      "confidence": 0.85
+    }
+  ],
+  "assertions": [],
+  "export_timestamp": "2026-06-08T17:16:00.398358Z"
+}
